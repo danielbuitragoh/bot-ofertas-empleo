@@ -1,0 +1,28 @@
+{
+  "hashesNotificados": [],
+  "ultimasOfertas": [],
+  "idsGuardadosEnGestor": [],
+  "filtros": {
+    "palabrasClave": [],
+    "senioridadExcluida": [
+      "senior",
+      "staff",
+      "principal",
+      "lead",
+      "director"
+    ],
+    "salarioMinimoUSD": null,
+    "pausado": false
+  },
+  "ultimoUpdateIdProcesado": 0,
+  "estadisticas": {
+    "porFuente": {
+      "remoteok": 0,
+      "remotive": 0,
+      "weworkremotely": 0,
+      "himalayas": 0
+    },
+    "duplicadosDescartados": 0,
+    "ultimaEjecucion": null
+  }
+}

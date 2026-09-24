@@ -1,0 +1,25 @@
+{
+  "name": "bot-ofertas-empleo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bot de Telegram que revisa cuatro bolsas de empleo remoto, normaliza sus formatos y avisa cuando aparece algo que encaja con tu perfil. Sin servidor: corre en GitHub Actions con cron.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "verificar": "tsc --noEmit && vitest run",
+    "test": "vitest run",
+    "ejecutar": "tsc -p . && node dist/index.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0",
+    "@types/node": "^22.7.0"
+  },
+  "license": "MIT"
+}

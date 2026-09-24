@@ -1,0 +1,68 @@
+name: Buscar ofertas
+
+# Cada 6 horas: 4 veces al día, no cada 5 minutos, porque Remotive (una de
+# las 4 fuentes) limita a 4 peticiones diarias y sus datos además llegan
+# con 24h de retraso deliberado — ir más rápido no mostraría nada nuevo y
+# nos arriesgaríamos a que Remotive bloquee las peticiones. Ver README.
+#
+# Ojo con la trampa de los 60 días: GitHub desactiva en silencio los
+# workflows programados de un repo público si el repo pasa 60 días sin
+# actividad. Si esto deja de avisar, lo primero es comprobar aquí:
+# github.com/danielbuitragoh/bot-ofertas-empleo/actions/workflows/bot.yml
+# (el botón para reactivarlo aparece ahí mismo) y hacer al menos un commit
+# o un "Run workflow" manual.
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {} # para poder disparar una corrida manual al probar /filtros, /pausar, etc.
+
+permissions:
+  contents: write # necesario para commitear estado/datos.json al final de cada corrida
+
+# Si se dispara una corrida manual justo cuando el cron ya está corriendo,
+# dos jobs escribiendo y empujando estado/datos.json a la vez es la forma
+# clásica de acabar con un push rechazado (o peor, una condición de carrera
+# real sobre el mismo archivo). Con esto, la segunda corrida espera en cola
+# a que la primera termine, en vez de correr en paralelo con ella.
+concurrency:
+  group: buscar-ofertas
+  cancel-in-progress: false
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Ejecutar el bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          API_POSTULACIONES_URL: ${{ secrets.API_POSTULACIONES_URL }}
+          API_POSTULACIONES_TOKEN: ${{ secrets.API_POSTULACIONES_TOKEN }}
+        run: node dist/index.js
+
+      - name: Commitear el estado si cambió
+        run: |
+          if [ -n "$(git status --porcelain estado/)" ]; then
+            git config user.name "bot-ofertas-empleo"
+            git config user.email "actions@users.noreply.github.com"
+            git add estado/datos.json
+            git commit -m "Actualiza estado: ofertas notificadas $(date -u +%Y-%m-%dT%H:%MZ)"
+            # Defensa adicional a la del "concurrency" de arriba: si de
+            # todos modos el remoto avanzó entre el checkout y este punto,
+            # se rebasa antes de empujar en vez de que el push falle seco.
+            git pull --rebase origin main
+            git push
+          else
+            echo "Sin cambios en el estado, no hay nada que commitear."
+          fi
