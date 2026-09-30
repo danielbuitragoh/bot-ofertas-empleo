@@ -43,7 +43,28 @@ jobs:
 
       - run: npm run build
 
+      # Sin los secrets de Telegram, src/index.ts lanza al arrancar y la
+      # corrida sale en rojo cada 6 horas, lo que no se distingue de un fallo
+      # real. Así, mientras falte configuración, la búsqueda se omite en verde
+      # con un aviso; el build de arriba sí sigue corriendo siempre, de modo
+      # que el rojo queda reservado para "algo se rompió". El `if` de los
+      # pasos no puede leer `secrets` directamente, por eso este paso
+      # intermedio los traduce a un output.
+      - name: Comprobar que hay configuracion de Telegram
+        id: config
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "configurado=no" >> "$GITHUB_OUTPUT"
+            echo "::warning::Faltan los secrets TELEGRAM_BOT_TOKEN y/o TELEGRAM_CHAT_ID: se omite la busqueda de ofertas."
+          else
+            echo "configurado=si" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Ejecutar el bot
+        if: steps.config.outputs.configurado == 'si'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -52,6 +73,7 @@ jobs:
         run: node dist/index.js
 
       - name: Commitear el estado si cambió
+        if: steps.config.outputs.configurado == 'si'
         run: |
           if [ -n "$(git status --porcelain estado/)" ]; then
             git config user.name "bot-ofertas-empleo"
