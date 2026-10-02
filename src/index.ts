@@ -12,8 +12,7 @@ import type { Estado, OfertaEmpleo } from './tipos.js';
 const MAXIMO_MENSAJES_POR_EJECUCION = 15; // margen de seguridad frente a los límites de Telegram, ver README
 
 async function main(): Promise<void> {
-  const token = requerirVariableEntorno('TELEGRAM_BOT_TOKEN');
-  const chatId = Number(requerirVariableEntorno('TELEGRAM_CHAT_ID'));
+  const { token, chatId } = leerConfiguracionTelegram();
   const urlApiPostulaciones = process.env.API_POSTULACIONES_URL; // opcional, ver src/estado.ts
   const tokenApiPostulaciones = process.env.API_POSTULACIONES_TOKEN;
 
@@ -182,12 +181,24 @@ function formatearOferta(oferta: OfertaEmpleo): string {
   return partes.join('\n');
 }
 
-function requerirVariableEntorno(nombre: string): string {
-  const valor = process.env[nombre];
-  if (!valor) {
-    throw new Error(`Falta la variable de entorno ${nombre} (configúrala como secret de GitHub Actions).`);
+// Se comprueban las dos a la vez y se listan todas las que falten: si no,
+// quien configura el bot arregla una, relanza, y solo entonces descubre la
+// segunda. Sale con process.exit(1) y un mensaje de una línea en vez de
+// lanzar, porque una configuración incompleta no es un fallo del código y
+// el stack trace solo taparía lo único que hay que leer.
+function leerConfiguracionTelegram(): { token: string; chatId: number } {
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  const chatId = process.env.TELEGRAM_CHAT_ID;
+  const faltan = [
+    !token && 'TELEGRAM_BOT_TOKEN',
+    !chatId && 'TELEGRAM_CHAT_ID',
+  ].filter((nombre): nombre is string => Boolean(nombre));
+
+  if (!token || !chatId) {
+    console.error(`Faltan variables de entorno: ${faltan.join(', ')} (configúralas como secrets de GitHub Actions, ver README).`);
+    process.exit(1);
   }
-  return valor;
+  return { token, chatId: Number(chatId) };
 }
 
 main().catch((error) => {
