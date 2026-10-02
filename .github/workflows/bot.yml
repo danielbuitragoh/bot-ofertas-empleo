@@ -43,7 +43,7 @@ jobs:
 
       - run: npm run build
 
-      # Sin los secrets de Telegram, src/index.ts lanza al arrancar y la
+      # Sin los secrets de Telegram, src/index.ts sale con error al arrancar y la
       # corrida sale en rojo cada 6 horas, lo que no se distingue de un fallo
       # real. Así, mientras falte configuración, la búsqueda se omite en verde
       # con un aviso; el build de arriba sí sigue corriendo siempre, de modo
@@ -59,6 +59,17 @@ jobs:
           if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
             echo "configurado=no" >> "$GITHUB_OUTPUT"
             echo "::warning::Faltan los secrets TELEGRAM_BOT_TOKEN y/o TELEGRAM_CHAT_ID: se omite la busqueda de ofertas."
+            {
+              echo "### Secrets de Telegram no configurados: se omite el envío"
+              echo ""
+              echo "Faltan estos secrets del repositorio:"
+              echo ""
+              if [ -z "$TELEGRAM_BOT_TOKEN" ]; then echo "- \`TELEGRAM_BOT_TOKEN\`"; fi
+              if [ -z "$TELEGRAM_CHAT_ID" ]; then echo "- \`TELEGRAM_CHAT_ID\`"; fi
+              echo ""
+              echo "El build sí se ha ejecutado. Para activar el bot, añade los secrets en"
+              echo "**Settings > Secrets and variables > Actions** (pasos en el README)."
+            } >> "$GITHUB_STEP_SUMMARY"
           else
             echo "configurado=si" >> "$GITHUB_OUTPUT"
           fi
