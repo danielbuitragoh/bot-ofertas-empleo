@@ -1085,17 +1085,17 @@
       "director"
     ],
     "salarioMinimoUSD": null,
-    "pausado": true
+    "pausado": false
   },
-  "ultimoUpdateIdProcesado": 148864688,
+  "ultimoUpdateIdProcesado": 148864690,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 495,
-      "remotive": 86,
-      "weworkremotely": 267,
-      "himalayas": 100
+      "remoteok": 594,
+      "remotive": 103,
+      "weworkremotely": 356,
+      "himalayas": 120
     },
-    "duplicadosDescartados": 706,
-    "ultimaEjecucion": "2026-10-05T11:55:09.019Z"
+    "duplicadosDescartados": 931,
+    "ultimaEjecucion": "2026-10-05T11:56:12.710Z"
   }
 }
