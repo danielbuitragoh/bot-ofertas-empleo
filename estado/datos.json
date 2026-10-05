@@ -241,9 +241,480 @@
     "io connect services::software developer engineer sr",
     "io connect services::mulesoft developer",
     "io connect services::senior integration engineer remote mexico",
-    "virtualite::wfh sales client onboarding specialist"
+    "virtualite::wfh sales client onboarding specialist",
+    "everpure::account executive enterprise acquisition uk",
+    "masters of digital::junior dozent in fur lohnbuchhaltung datev m w d",
+    "sargent lundy::senior power controls grid planning engineer",
+    "matrix global::data scientist",
+    "immense group::senior frontend developer",
+    "moneyhash::customer success lead remote mena",
+    "sargent lundy::renewable performance engineer",
+    "wolters kluwer::lead staff full stack engineer ai platform agents",
+    "chapters health system::medical staff scheduler",
+    "bright vision technologies::enterprise data architect",
+    "apex network::customer experience officer zambians only",
+    "alongside::ai native tech lead agentic systems",
+    "coalition::staff software engineer auth accounts",
+    "crowdgen by appen::thai language transcription expert",
+    "dot compliance::qms project manager",
+    "gfn::werkstudent in datenmanagement ki",
+    "voyager technologies inc::director of global trade compliance",
+    "ci t::job 32084 tech lead net angular brazil",
+    "twin health::manager client onboarding operations",
+    "agility partners::2024 talent executive",
+    "global payments::telemarketing executive"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "everpure-account-executive-enterprise-acquisition-uk",
+      "fuente": "weworkremotely",
+      "titulo": "Account Executive, Enterprise (Acquisition) UK",
+      "empresa": "Everpure",
+      "url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-acquisition-uk",
+      "publicadoEn": 1791099068000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "masters-of-digital/junior-dozent-in-fur-lohnbuchhaltung-datev-m-w-d",
+      "fuente": "himalayas",
+      "titulo": "(Junior) Dozent:in für Lohnbuchhaltung & DATEV (m/w/d)",
+      "empresa": "Masters of Digital",
+      "url": "https://himalayas.app/companies/masters-of-digital/jobs/junior-dozent-in-fur-lohnbuchhaltung-datev-m-w-d",
+      "publicadoEn": 1791204436000,
+      "salarioTexto": null,
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Dozent",
+        "Trainer",
+        "Lohnbuchhalter",
+        "Payroll-Specialist",
+        "Sachbearbeiter-Buchhaltung",
+        "Junior-Accountant",
+        "Buchhaltung-Und-Rechnungswesen",
+        "Dozent-für-Lohnbuchhaltung-und-DATEV"
+      ]
+    },
+    {
+      "idFuente": "matrix-global/data-scientist",
+      "fuente": "himalayas",
+      "titulo": "Data scientist",
+      "empresa": "Matrix Global",
+      "url": "https://himalayas.app/companies/matrix-global/jobs/data-scientist",
+      "publicadoEn": 1791204429000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Data-Scientist",
+        "Data-Science",
+        "Machine-Learning-Engineer",
+        "Data-Analyst",
+        "Data-Science-Expert",
+        "Data-Science-Specialist",
+        "Statistical-Data-Scientist",
+        "Data-Scientist-Analytics"
+      ]
+    },
+    {
+      "idFuente": "sargent-lundy/renewable-performance-engineer",
+      "fuente": "himalayas",
+      "titulo": "Renewable Performance Engineer",
+      "empresa": "Sargent & Lundy",
+      "url": "https://himalayas.app/companies/sargent-lundy/jobs/renewable-performance-engineer",
+      "publicadoEn": 1791204408000,
+      "salarioTexto": "USD 84,762 - 129,498",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Renewable-Performance-Engineer",
+        "Solar-Performance-Engineer",
+        "Energy-Consultant",
+        "Solar-Consultant",
+        "Performance-Engineer",
+        "PV-Performance-Engineering",
+        "Renewable-Energy-Engineering",
+        "Renewable-Energy-Engineer"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/enterprise-data-architect-8468830895",
+      "fuente": "himalayas",
+      "titulo": "Enterprise Data Architect",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/enterprise-data-architect-8468830895",
+      "publicadoEn": 1791204264000,
+      "salarioTexto": "USD 100,000 - 150,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Enterprise-Data-Architect",
+        "Data-Architect",
+        "Data-Platform-Architect",
+        "Data-Engineering-Manager",
+        "Data-Solutions-Architect",
+        "Enterprise-Data-Warehouse-Architect",
+        "Enterprise-Data-Architecture",
+        "Enterprise-Data-Strategist",
+        "Enterprise-Architect",
+        "IT-Data-Architect"
+      ]
+    },
+    {
+      "idFuente": "apex-network/customer-experience-officer-zambians-only",
+      "fuente": "himalayas",
+      "titulo": "Customer Experience Officer - Zambians Only",
+      "empresa": "Apex Network",
+      "url": "https://himalayas.app/companies/apex-network/jobs/customer-experience-officer-zambians-only",
+      "publicadoEn": 1791204228000,
+      "salarioTexto": null,
+      "ubicacion": "Zambia",
+      "etiquetas": [
+        "Customer-Experience-Officer",
+        "Customer-Experience-Specialist",
+        "Customer-Service",
+        "Client-Services-Associate",
+        "Customer-Support-Specialist",
+        "Customer-Experience-Executive",
+        "Customer-Experience-Role",
+        "Customer-Experience-Representative",
+        "Customer-Service-Officer",
+        "Customer-Experience-Agent",
+        "Entry-Level-Customer-Feedback-Officer"
+      ]
+    },
+    {
+      "idFuente": "crowdgen-by-appen/thai-language-transcription-expert",
+      "fuente": "himalayas",
+      "titulo": "Thai Language Transcription Expert",
+      "empresa": "CrowdGen by Appen",
+      "url": "https://himalayas.app/companies/crowdgen-by-appen/jobs/thai-language-transcription-expert",
+      "publicadoEn": 1791204120000,
+      "salarioTexto": "USD 30 - 30",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Transcriptionist",
+        "Transcription",
+        "AI-Trainer",
+        "Language-Specialist",
+        "Data-Annotator",
+        "Thai-Language-Specialist",
+        "Thai-Language-Services",
+        "Thai-Language-Data-Annotation-Specialist",
+        "Thai-Language-Transcriptionist"
+      ]
+    },
+    {
+      "idFuente": "dot-compliance/qms-project-manager",
+      "fuente": "himalayas",
+      "titulo": "QMS  Project Manager",
+      "empresa": "Dot Compliance",
+      "url": "https://himalayas.app/companies/dot-compliance/jobs/qms-project-manager",
+      "publicadoEn": 1791204107000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "QMS-Manager",
+        "Project-Manager",
+        "Implementation-Project-Manager",
+        "Professional-Services",
+        "Life-Science-Project-Manager",
+        "EQMS-Project-Manager"
+      ]
+    },
+    {
+      "idFuente": "gfn/werkstudent-in-datenmanagement-ki",
+      "fuente": "himalayas",
+      "titulo": "Werkstudent:in Datenmanagement & KI",
+      "empresa": "GFN",
+      "url": "https://himalayas.app/companies/gfn/jobs/werkstudent-in-datenmanagement-ki",
+      "publicadoEn": 1791204071000,
+      "salarioTexto": null,
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Working-Student",
+        "Working-Student-IT",
+        "Data-Management-Working-Student",
+        "AI-Working-Student",
+        "CRM-Specialist",
+        "Praktikant-Im-Datenmanagement",
+        "IT-Arbeitsstudent",
+        "Werkstudent-KI-Machine-Learning",
+        "Werkstudent-KI",
+        "Praktikant-Im-Bereich-Künstliche-Intelligenz",
+        "Data-Science"
+      ]
+    },
+    {
+      "idFuente": "twinhealth/manager-client-onboarding-operations",
+      "fuente": "himalayas",
+      "titulo": "Manager, Client Onboarding & Operations",
+      "empresa": "Twin Health",
+      "url": "https://himalayas.app/companies/twinhealth/jobs/manager-client-onboarding-operations",
+      "publicadoEn": 1791204048000,
+      "salarioTexto": "USD 145,000 - 160,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Success-Manager",
+        "Implementation-Manager",
+        "Client-Onboarding-Manager",
+        "Account-Manager",
+        "Program-Manager",
+        "Client-Operations-Manager",
+        "Client-Account-Operations-Manager",
+        "Onboarding-Operations-Manager",
+        "Customer-Onboarding-Manager"
+      ]
+    },
+    {
+      "idFuente": "global-payments/telemarketing-executive",
+      "fuente": "himalayas",
+      "titulo": "Telemarketing Executive",
+      "empresa": "Global Payments",
+      "url": "https://himalayas.app/companies/global-payments/jobs/telemarketing-executive",
+      "publicadoEn": 1791204033000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Telemarketing-Executive",
+        "Inside-Sales-Representative",
+        "Sales-Development-Representative",
+        "Tele-Sales-Executive",
+        "BDR",
+        "Telemarketing-Assistant",
+        "Telemarketing-Sales-Representative",
+        "Telesales-Agent",
+        "Telesales-Representative",
+        "Sales-Telecaller",
+        "Telesales-Operator",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "sargent-lundy/senior-power-controls-grid-planning-engineer-959020140",
+      "fuente": "himalayas",
+      "titulo": "Senior Power Controls & Grid Planning Engineer",
+      "empresa": "Sargent & Lundy",
+      "url": "https://himalayas.app/companies/sargent-lundy/jobs/senior-power-controls-grid-planning-engineer-959020140",
+      "publicadoEn": 1791204431000,
+      "salarioTexto": "USD 134,546 - 205,557",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Power-Systems-Engineer",
+        "Grid-Integration-Engineer",
+        "Electrical-Engineer",
+        "Controls-Engineer",
+        "Power-Generation-Engineer",
+        "Senior-Power-Systems-Engineer",
+        "Senior-Electrical-Planning-Engineer",
+        "Power-Systems-Controls-Engineer",
+        "Principal-Power-Systems-Engineer",
+        "Power-System-Engineer"
+      ]
+    },
+    {
+      "idFuente": "immense-group/senior-frontend-developer",
+      "fuente": "himalayas",
+      "titulo": "Senior Frontend Developer",
+      "empresa": "Immense Group",
+      "url": "https://himalayas.app/companies/immense-group/jobs/senior-frontend-developer",
+      "publicadoEn": 1791204429000,
+      "salarioTexto": null,
+      "ubicacion": "Malta",
+      "etiquetas": [
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "UI-Developer",
+        "JavaScript-Developer",
+        "Vue.Js-Developer",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development",
+        "Senior-Frontend-React-Developer",
+        "Senior-Frontend-Engineering",
+        "Front-End-Software-Engineer",
+        "Senior-Front-End-Developer-(Vue.Js)",
+        "Senior-Angular-Frontend-Developer",
+        "Senior-UI-Developer",
+        "Senior-Frontend-Engineer-(Angular)"
+      ]
+    },
+    {
+      "idFuente": "moneyhash/customer-success-lead-remote-mena",
+      "fuente": "himalayas",
+      "titulo": "Customer Success Lead [Remote | MENA]",
+      "empresa": "MoneyHash",
+      "url": "https://himalayas.app/companies/moneyhash/jobs/customer-success-lead-remote-mena",
+      "publicadoEn": 1791204409000,
+      "salarioTexto": null,
+      "ubicacion": "Egypt",
+      "etiquetas": [
+        "Customer-Success-Lead",
+        "Customer-Success-Manager",
+        "Account-Manager",
+        "Client-Success-Lead",
+        "Senior-Customer-Solutions-Lead",
+        "Customer-Success-Team-Lead",
+        "Senior-Customer-Success-Manager",
+        "Customer-Success"
+      ]
+    },
+    {
+      "idFuente": "wolters-kluwer/lead-staff-full-stack-engineer-ai-platform-agents",
+      "fuente": "himalayas",
+      "titulo": "Lead/Staff Full Stack Engineer, AI Platform & Agents",
+      "empresa": "Wolters Kluwer",
+      "url": "https://himalayas.app/companies/wolters-kluwer/jobs/lead-staff-full-stack-engineer-ai-platform-agents",
+      "publicadoEn": 1791204382000,
+      "salarioTexto": null,
+      "ubicacion": "Netherlands",
+      "etiquetas": [
+        "Full-Stack-Engineer",
+        "AI-Engineer",
+        "Platform-Engineer",
+        "Software-Engineer",
+        "Machine-Learning-Engineer",
+        "Senior-Full-Stack-AI-Engineer",
+        "Lead-AI-Platform-Engineer",
+        "Full-Stack-AI-Engineer",
+        "AI-Full-Stack-Engineer",
+        "AI-Agent-Platform-Engineer",
+        "Senior-Full-Stack-AI-Developer",
+        "Senior-AI-Platform-Engineer",
+        "Lead-Full-Stack-Platform-Engineer",
+        "Senior-AI-Agent-Engineer"
+      ]
+    },
+    {
+      "idFuente": "chapters-health-system/medical-staff-scheduler",
+      "fuente": "himalayas",
+      "titulo": "Medical Staff Scheduler",
+      "empresa": "Chapters Health System",
+      "url": "https://himalayas.app/companies/chapters-health-system/jobs/medical-staff-scheduler",
+      "publicadoEn": 1791204293000,
+      "salarioTexto": "USD 20.26 - 30.16",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Medical-Scheduler",
+        "Healthcare-Scheduler",
+        "Patient-Scheduler",
+        "Medical-Staff-Scheduling",
+        "Scheduling-Coordinator",
+        "Physician-Scheduler",
+        "Hospital-Scheduler",
+        "Medical-Scheduling-Coordinator",
+        "Medical-Scheduling-Specialist",
+        "Medical-Scheduling",
+        "Staff-Scheduling-Coordinator",
+        "Healthcare"
+      ]
+    },
+    {
+      "idFuente": "alongside/ai-native-tech-lead-agentic-systems",
+      "fuente": "himalayas",
+      "titulo": "AI-Native Tech Lead | Agentic Systems",
+      "empresa": "Alongside",
+      "url": "https://himalayas.app/companies/alongside/jobs/ai-native-tech-lead-agentic-systems",
+      "publicadoEn": 1791204166000,
+      "salarioTexto": "USD 20 - 25",
+      "ubicacion": "Vietnam",
+      "etiquetas": [
+        "Technical-Lead",
+        "AI-Engineer",
+        "Software-Engineer",
+        "AI-Architect",
+        "Machine-Learning-Engineer",
+        "Senior-Agentic-AI-Engineer",
+        "Agentic-AI-Solutions-Architect",
+        "AI-Agentic-Systems-Engineer",
+        "AI-Technical-Lead"
+      ]
+    },
+    {
+      "idFuente": "coalition/staff-software-engineer-auth-accounts",
+      "fuente": "himalayas",
+      "titulo": "Staff Software Engineer, Auth/Accounts",
+      "empresa": "Coalition",
+      "url": "https://himalayas.app/companies/coalition/jobs/staff-software-engineer-auth-accounts",
+      "publicadoEn": 1791204143000,
+      "salarioTexto": "USD 158,900 - 234,125",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Identity-Engineer",
+        "Security-Engineer",
+        "Staff-Backend-Identity-Engineer",
+        "Staff-Backend-Software-Engineer",
+        "Staff-Software-Engineer-Backend",
+        "Staff-Backend-Engineer"
+      ]
+    },
+    {
+      "idFuente": "voyager-technologies-inc/director-of-global-trade-compliance",
+      "fuente": "himalayas",
+      "titulo": "Director of Global Trade Compliance",
+      "empresa": "Voyager Technologies, Inc.",
+      "url": "https://himalayas.app/companies/voyager-technologies-inc/jobs/director-of-global-trade-compliance",
+      "publicadoEn": 1791204059000,
+      "salarioTexto": "USD 200,000 - 230,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Global-Trade-Compliance-Manager",
+        "Trade-Compliance-Officer",
+        "Trade-Compliance-Manager",
+        "International-Trade-Compliance",
+        "Export-Compliance-Manager",
+        "Senior-Trade-Compliance-Director",
+        "Customs-Compliance-Director"
+      ]
+    },
+    {
+      "idFuente": "ci-t/job-32084-tech-lead-net-angular-brazil",
+      "fuente": "himalayas",
+      "titulo": "[Job - 32084]Tech Lead (.NET / Angular), Brazil",
+      "empresa": "CI&T",
+      "url": "https://himalayas.app/companies/ci-t/jobs/job-32084-tech-lead-net-angular-brazil",
+      "publicadoEn": 1791204059000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Technical-Lead",
+        "Full-Stack-Developer",
+        "Software-Architect",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        ".NET-Tech-Lead",
+        "Lead-Full-Stack-Engineer-(.NET-C#-SQL)",
+        "Senior-Full-Stack-Engineer-(.NET-Angular)"
+      ]
+    },
+    {
+      "idFuente": "agility-partners/2024-talent-executive",
+      "fuente": "himalayas",
+      "titulo": "2024 Talent Executive",
+      "empresa": "Agility Partners",
+      "url": "https://himalayas.app/companies/agility-partners/jobs/2024-talent-executive",
+      "publicadoEn": 1791204044000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Technical-Recruiter",
+        "Recruiter",
+        "Talent-Acquisition-Specialist",
+        "Technical-Sourcer",
+        "Staffing-Recruiter",
+        "Talent-Leader",
+        "Talent-Development-Executive",
+        "Head-of-Talent",
+        "VP-Of-Talent",
+        "VP-Of-Talent-Management",
+        "Executive-Director-Of-Talent-Development",
+        "Talent-Acquisition-Executive",
+        "Director-Of-Talent-Management",
+        "VP-Talent-Management",
+        "Talent-Lead"
+      ]
+    },
     {
       "idFuente": "gitlab-com/finance-expression-of-interest-form",
       "fuente": "himalayas",
@@ -799,279 +1270,6 @@
       "etiquetas": [
         "Customer Support"
       ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/chime-financial-inc-sr-instructional-designer-learning-operations",
-      "fuente": "weworkremotely",
-      "titulo": "Sr. Instructional Designer, Learning Operations",
-      "empresa": "Chime Financial, Inc",
-      "url": "https://weworkremotely.com/remote-jobs/chime-financial-inc-sr-instructional-designer-learning-operations",
-      "publicadoEn": 1791185467000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/chime-financial-inc-global-workforce-planning-transformation",
-      "fuente": "weworkremotely",
-      "titulo": "Global Workforce Planning & Transformation",
-      "empresa": "Chime Financial, Inc",
-      "url": "https://weworkremotely.com/remote-jobs/chime-financial-inc-global-workforce-planning-transformation",
-      "publicadoEn": 1791185457000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/braze-account-executive-enterprise-financial-services",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive, Enterprise - Financial Services",
-      "empresa": "Braze",
-      "url": "https://weworkremotely.com/remote-jobs/braze-account-executive-enterprise-financial-services",
-      "publicadoEn": 1791185457000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/descript-account-executive",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive",
-      "empresa": "Descript",
-      "url": "https://weworkremotely.com/remote-jobs/descript-account-executive",
-      "publicadoEn": 1791099088000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/smartsheet-group-product-manager-corporate-systems",
-      "fuente": "weworkremotely",
-      "titulo": "Group Product Manager – Corporate Systems",
-      "empresa": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-group-product-manager-corporate-systems",
-      "publicadoEn": 1791099087000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/stripe-account-executive-dach-commercial-existing-business",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive, DACH, Commercial (Existing Business)",
-      "empresa": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-dach-commercial-existing-business",
-      "publicadoEn": 1791099073000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/town-web-senior-support-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Support Engineer",
-      "empresa": "Town Web",
-      "url": "https://weworkremotely.com/remote-jobs/town-web-senior-support-engineer",
-      "publicadoEn": 1791187456000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
-      "fuente": "weworkremotely",
-      "titulo": "Director, Global GTM Strategy & Operations",
-      "empresa": "Wrike",
-      "url": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
-      "publicadoEn": 1791185489000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/datadog-director-enterprise-sales-engineering-us-central",
-      "fuente": "weworkremotely",
-      "titulo": "Director, Enterprise Sales Engineering - US Central",
-      "empresa": "Datadog",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-director-enterprise-sales-engineering-us-central",
-      "publicadoEn": 1791185467000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/assemblyai-senior-research-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Research Engineer",
-      "empresa": "AssemblyAI",
-      "url": "https://weworkremotely.com/remote-jobs/assemblyai-senior-research-engineer",
-      "publicadoEn": 1791099088000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/assemblyai-senior-gtm-ai-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Senior GTM AI Engineer",
-      "empresa": "AssemblyAI",
-      "url": "https://weworkremotely.com/remote-jobs/assemblyai-senior-gtm-ai-engineer",
-      "publicadoEn": 1791099088000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/smartsheet-director-finance-systems-erp",
-      "fuente": "weworkremotely",
-      "titulo": "Director, Finance Systems & ERP",
-      "empresa": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-director-finance-systems-erp",
-      "publicadoEn": 1791099087000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/jfrog-strategic-solution-architect-presales-west",
-      "fuente": "weworkremotely",
-      "titulo": "Strategic Solution Architect, Presales (West)",
-      "empresa": "JFrog",
-      "url": "https://weworkremotely.com/remote-jobs/jfrog-strategic-solution-architect-presales-west",
-      "publicadoEn": 1791099071000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/jumio-identity-strategist-emea",
-      "fuente": "weworkremotely",
-      "titulo": "Identity Strategist, EMEA",
-      "empresa": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-identity-strategist-emea",
-      "publicadoEn": 1791099071000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive - Enterprise",
-      "empresa": "Zscaler",
-      "url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise",
-      "publicadoEn": 1791099068000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Abuse Research Engineer",
-      "empresa": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-      "publicadoEn": 1791099068000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/jumio-identity-strategist",
-      "fuente": "weworkremotely",
-      "titulo": "Identity Strategist",
-      "empresa": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-identity-strategist",
-      "publicadoEn": 1791099066000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/vercel-senior-manager-solutions-architect",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Manager, Solutions Architect",
-      "empresa": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-senior-manager-solutions-architect",
-      "publicadoEn": 1791012680000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/clover-health-commercial-partnerships-operations-director",
-      "fuente": "weworkremotely",
-      "titulo": "Commercial Partnerships & Operations Director",
-      "empresa": "Clover Health",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-commercial-partnerships-operations-director",
-      "publicadoEn": 1791012680000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/feedzai-join-our-internship-community",
-      "fuente": "weworkremotely",
-      "titulo": "Join our Internship Community",
-      "empresa": "Feedzai",
-      "url": "https://weworkremotely.com/remote-jobs/feedzai-join-our-internship-community",
-      "publicadoEn": 1791012680000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-      "fuente": "weworkremotely",
-      "titulo": "Security Engineer, Cloud",
-      "empresa": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-      "publicadoEn": 1791012680000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [],
@@ -1090,12 +1288,12 @@
   "ultimoUpdateIdProcesado": 148864696,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 792,
-      "remotive": 137,
-      "weworkremotely": 534,
-      "himalayas": 160
+      "remoteok": 891,
+      "remotive": 154,
+      "weworkremotely": 623,
+      "himalayas": 180
     },
-    "duplicadosDescartados": 1381,
-    "ultimaEjecucion": "2026-10-05T12:35:18.617Z"
+    "duplicadosDescartados": 1585,
+    "ultimaEjecucion": "2026-10-05T13:30:27.209Z"
   }
 }
