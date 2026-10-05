@@ -40,6 +40,25 @@ describe('parsearRSS (WeWorkRemotely)', () => {
     expect(ofertas[0].idFuente).toBe('https://weworkremotely.com/remote-jobs/1');
   });
 
+  it('no revienta con descripciones llenas de entidades HTML, como el feed real', () => {
+    // El feed real trae ~90 items con la descripción en HTML escapado:
+    // más de 27.000 entidades en total. fast-xml-parser corta a las 1.000
+    // expansiones por defecto, así que esto lanzaba en cada ejecución.
+    const descripcion = '&lt;p&gt;Remoto &amp;amp; flexible&lt;/p&gt;'.repeat(400);
+    const xml = `<?xml version="1.0"?><rss><channel>
+      <item>
+        <title>Smith &amp; Co: Frontend Developer</title>
+        <link>https://weworkremotely.com/remote-jobs/3</link>
+        <description>${descripcion}</description>
+      </item>
+    </channel></rss>`;
+
+    const ofertas = parsearRSS(xml);
+    expect(ofertas).toHaveLength(1);
+    expect(ofertas[0].empresa).toBe('Smith & Co');
+    expect(ofertas[0].titulo).toBe('Frontend Developer');
+  });
+
   it('devuelve un array vacío si no hay items', () => {
     const vacio = `<?xml version="1.0"?><rss><channel></channel></rss>`;
     expect(parsearRSS(vacio)).toEqual([]);
