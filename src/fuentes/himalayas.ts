@@ -42,6 +42,17 @@ export async function obtenerHimalayas(fetchImpl: typeof fetch = fetch): Promise
   return cuerpo.jobs.map(normalizar);
 }
 
+/**
+ * El guid es la URL completa de la oferta. Como id se usa "empresa/puesto"
+ * de su ruta: el id sale en cada aviso y se escribe a mano en /guardar, y
+ * la URL entera repetía el enlace y era incómoda de copiar. Si el guid no
+ * es una URL con esa forma, se usa tal cual.
+ */
+function idCorto(guid: string): string {
+  const coincidencia = /\/companies\/([^/]+)\/jobs\/([^/?#]+)/.exec(guid);
+  return coincidencia ? `${coincidencia[1]}/${coincidencia[2]}` : guid;
+}
+
 function normalizar(item: OfertaHimalayas): OfertaEmpleo {
   const moneda = item.salaryCurrency ?? 'USD';
   const salarioTexto =
@@ -50,7 +61,7 @@ function normalizar(item: OfertaHimalayas): OfertaEmpleo {
       : null;
 
   return {
-    idFuente: item.guid,
+    idFuente: idCorto(item.guid),
     fuente: 'himalayas',
     titulo: item.title,
     empresa: item.companyName,

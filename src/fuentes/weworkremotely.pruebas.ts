@@ -35,9 +35,10 @@ describe('parsearRSS (WeWorkRemotely)', () => {
     expect(ofertas[1].titulo).toBe('Sin dos puntos en este titulo');
   });
 
-  it('usa el link como idFuente, porque el feed no trae un id explícito', () => {
+  it('usa el final del link como idFuente, porque el feed no trae un id explícito', () => {
     const ofertas = parsearRSS(RSS_EJEMPLO);
-    expect(ofertas[0].idFuente).toBe('https://weworkremotely.com/remote-jobs/1');
+    expect(ofertas[0].idFuente).toBe('1');
+    expect(ofertas[0].url).toBe('https://weworkremotely.com/remote-jobs/1');
   });
 
   it('no revienta con descripciones llenas de entidades HTML, como el feed real', () => {
