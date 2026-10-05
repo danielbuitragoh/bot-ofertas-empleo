@@ -888,15 +888,15 @@
     "salarioMinimoUSD": null,
     "pausado": false
   },
-  "ultimoUpdateIdProcesado": 0,
+  "ultimoUpdateIdProcesado": 148864685,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 297,
-      "remotive": 52,
-      "weworkremotely": 89,
-      "himalayas": 60
+      "remoteok": 396,
+      "remotive": 69,
+      "weworkremotely": 178,
+      "himalayas": 80
     },
-    "duplicadosDescartados": 276,
-    "ultimaEjecucion": "2026-10-05T11:33:25.468Z"
+    "duplicadosDescartados": 501,
+    "ultimaEjecucion": "2026-10-05T11:51:21.635Z"
   }
 }
