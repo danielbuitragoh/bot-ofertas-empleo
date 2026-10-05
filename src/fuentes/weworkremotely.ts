@@ -74,8 +74,10 @@ function normalizar(item: ItemRSS): OfertaEmpleo | null {
       : [];
 
   return {
-    // El feed no trae un id explícito: se usa el link, que es estable y único por oferta.
-    idFuente: item.link,
+    // El feed no trae un id explícito: se usa el final del link, que es
+    // estable y único por oferta. No el link entero: el id sale en cada
+    // aviso y se escribe a mano en /guardar.
+    idFuente: item.link.split('/').filter(Boolean).pop() ?? item.link,
     fuente: 'weworkremotely',
     titulo,
     empresa,
