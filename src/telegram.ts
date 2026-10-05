@@ -122,19 +122,27 @@ export interface ComandoRecibido {
 }
 
 /** Extrae solo los mensajes que son comandos ("/algo ..."), descarta el resto. */
-export function extraerComandos(updates: UpdateTelegram[]): ComandoRecibido[] {
+/**
+ * Con `chatPermitido`, solo se aceptan comandos de ese chat: el bot es
+ * público y cualquiera que lo encuentre podría mandarle /pausar o cambiar
+ * los filtros. Sin él (los tests de parseo), se aceptan todos.
+ */
+export function extraerComandos(updates: UpdateTelegram[], chatPermitido?: number): ComandoRecibido[] {
   const comandos: ComandoRecibido[] = [];
 
   for (const update of updates) {
     const texto = update.message?.text;
     const chatId = update.message?.chat.id;
     if (!texto || chatId === undefined || !texto.startsWith('/')) continue;
+    if (chatPermitido !== undefined && chatId !== chatPermitido) continue;
 
     const [primeraPalabra, ...resto] = texto.trim().split(/\s+/);
     comandos.push({
       chatId,
       updateId: update.update_id,
-      comando: primeraPalabra.toLowerCase(),
+      // Telegram añade "@nombre_del_bot" al comando cuando se elige del
+      // menú de sugerencias ("/filtros@ofertas_dev_dan_bot").
+      comando: primeraPalabra.toLowerCase().split('@')[0],
       argumentos: resto.join(' '),
     });
   }
