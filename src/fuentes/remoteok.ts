@@ -44,6 +44,23 @@ export async function obtenerRemoteOK(fetchImpl: typeof fetch = fetch): Promise<
     .filter((oferta): oferta is OfertaEmpleo => oferta !== null);
 }
 
+/**
+ * Segunda trampa: algunos textos llegan con el UTF-8 decodificado dos
+ * veces, así que "Mecánico" aparece como "MecÃ¡nico". Además de verse mal,
+ * rompía la deduplicación contra la misma oferta publicada en otra fuente.
+ *
+ * Solo se repara cuando el texto tiene la firma de ese error (un byte de
+ * inicio de UTF-8 seguido de uno de continuación) y la reparación da un
+ * texto válido: "SÃO PAULO" es correcto y no se toca, y un carácter que
+ * RemoteOK corta por la mitad se deja como viene en vez de convertirlo en "�".
+ */
+function repararDobleCodificacion(texto: string): string {
+  if (!/[Â-ô][\u0080-¿]/.test(texto)) return texto;
+  if ([...texto].some((caracter) => caracter.charCodeAt(0) > 0xff)) return texto;
+  const reparado = Buffer.from(texto, 'latin1').toString('utf8');
+  return reparado.includes('�') ? texto : reparado;
+}
+
 function normalizar(item: OfertaRemoteOK & { id: string }): OfertaEmpleo | null {
   if (!item.position || !item.company || !item.url) return null;
 
@@ -57,12 +74,12 @@ function normalizar(item: OfertaRemoteOK & { id: string }): OfertaEmpleo | null 
   return {
     idFuente: item.id,
     fuente: 'remoteok',
-    titulo: item.position,
-    empresa: item.company,
+    titulo: repararDobleCodificacion(item.position),
+    empresa: repararDobleCodificacion(item.company),
     url: item.url,
     publicadoEn: Number.isNaN(publicadoEn) ? Date.now() : publicadoEn,
     salarioTexto,
-    ubicacion: item.location ?? null,
+    ubicacion: item.location ? repararDobleCodificacion(item.location) : null,
     etiquetas: item.tags ?? [],
   };
 }
