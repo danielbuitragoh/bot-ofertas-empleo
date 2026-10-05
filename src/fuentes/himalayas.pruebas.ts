@@ -27,6 +27,22 @@ describe('obtenerHimalayas', () => {
     expect(ofertas[0].publicadoEn).toBe(epochSegundos * 1000);
   });
 
+  it('acorta el guid con forma de URL a "empresa/puesto" para usarlo como id', async () => {
+    const cuerpo = {
+      jobs: [
+        {
+          guid: 'https://himalayas.app/companies/lsports/jobs/sales-manager',
+          title: 'Sales Manager',
+          companyName: 'LSports',
+          applicationLink: 'https://himalayas.app/companies/lsports/jobs/sales-manager',
+          pubDate: 1_790_000_000,
+        },
+      ],
+    };
+    const ofertas = await obtenerHimalayas(respuestaFalsa(cuerpo));
+    expect(ofertas[0].idFuente).toBe('lsports/sales-manager');
+  });
+
   it('forma el salario con la moneda cuando min y max existen', async () => {
     const cuerpo = {
       jobs: [
