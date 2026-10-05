@@ -70,7 +70,13 @@ async function main(): Promise<void> {
   // para varias semanas de las 4 fuentes juntas.
   estado.hashesNotificados = estado.hashesNotificados.slice(-5000);
 
-  estado.ultimasOfertas = nuevas.slice(0, 50);
+  // Se acumula sobre la lista anterior en vez de reemplazarla: una corrida
+  // sin novedades la dejaba vacía, y con ella /ultimas no mostraba nada y
+  // /guardar no encontraba el id de un aviso de hacía unas horas. Las
+  // notificadas van delante para que /guardar las encuentre aunque una
+  // corrida traiga más de 50 nuevas.
+  const restoNuevas = nuevas.filter((oferta) => !aNotificar.includes(oferta));
+  estado.ultimasOfertas = [...aNotificar, ...restoNuevas, ...estado.ultimasOfertas].slice(0, 50);
   estado.estadisticas.ultimaEjecucion = new Date().toISOString();
 
   await guardarEstado(estado);

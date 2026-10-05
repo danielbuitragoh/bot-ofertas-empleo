@@ -33,7 +33,17 @@ export async function obtenerWeWorkRemotely(fetchImpl: typeof fetch = fetch): Pr
 
 /** Separado del fetch para poder probarlo con XML de ejemplo, sin red (ver src/fuentes/weworkremotely.pruebas.ts). */
 export function parsearRSS(xml: string): OfertaEmpleo[] {
-  const parser = new XMLParser({ ignoreAttributes: false });
+  // La <description> de cada item es HTML escapado: el feed real suma más
+  // de 27.000 entidades (&lt;, &amp;...) y fast-xml-parser corta a las 1.000
+  // expansiones, así que el parseo lanzaba siempre. Solo se resuelven las
+  // entidades de los campos que se leen; el límite se mantiene para esos.
+  const parser = new XMLParser({
+    ignoreAttributes: false,
+    processEntities: {
+      allowedTags: ['title', 'link', 'pubDate', 'region', 'category'],
+      maxTotalExpansions: 1000,
+    },
+  });
   const doc = parser.parse(xml) as {
     rss?: { channel?: { item?: ItemRSS | ItemRSS[] } };
   };
