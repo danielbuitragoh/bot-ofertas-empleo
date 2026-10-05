@@ -221,9 +221,468 @@
     "forager::growth lead",
     "a team::senior independent software developer 90 170 hr",
     "dataannotation tech::ft pt remote ai prompt engineering evaluation will train",
-    "new law business model::marketing automation saas services line of business owner"
+    "new law business model::marketing automation saas services line of business owner",
+    "gitlab::finance expression of interest form",
+    "hone health::rn clinical navigator part time weekends",
+    "dnv::senior physical environment surveyor healthcare",
+    "pure storage::system engineer queensland",
+    "consilio llc::ediscovery project manager",
+    "eaglebank::process excellence subject matter expert",
+    "marketsource::sales associate",
+    "lifelancer::client services coordinator 1",
+    "gitlab::site reliability engineer expression of interest form",
+    "anthology::service delivery manager",
+    "contactlink solutions::spanish us based interpreter",
+    "kreato global::spanish interpreter",
+    "inetum::sap sales specialist",
+    "fresh consulting::senior pcb design engineer allegro altium",
+    "lifelancer::principal machine learning engineer",
+    "io connect services::sr cloud native developer remote mexico",
+    "io connect services::software developer engineer sr",
+    "io connect services::mulesoft developer",
+    "io connect services::senior integration engineer remote mexico",
+    "virtualite::wfh sales client onboarding specialist"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "gitlab-com/finance-expression-of-interest-form",
+      "fuente": "himalayas",
+      "titulo": "Finance Expression of Interest Form",
+      "empresa": "GitLab",
+      "url": "https://himalayas.app/companies/gitlab-com/jobs/finance-expression-of-interest-form",
+      "publicadoEn": 1791189849000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Finance",
+        "Expression-Of-Interest"
+      ]
+    },
+    {
+      "idFuente": "hone-health/rn-clinical-navigator-part-time-weekends",
+      "fuente": "himalayas",
+      "titulo": "RN Clinical Navigator - Part time/Weekends",
+      "empresa": "Hone Health",
+      "url": "https://himalayas.app/companies/hone-health/jobs/rn-clinical-navigator-part-time-weekends",
+      "publicadoEn": 1791189747000,
+      "salarioTexto": "USD 35 - 35",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Registered-Nurse",
+        "Clinical-Navigators",
+        "Care-Navigator",
+        "Telemedicine-Nurse",
+        "Patient-Advocate",
+        "Registered-Nurse-Navigator",
+        "RN-Care-Navigator",
+        "Clinical-Nurse-Navigator",
+        "Clinical-Care-Navigator",
+        "Nurse-Navigator"
+      ]
+    },
+    {
+      "idFuente": "pure-storage/system-engineer-queensland",
+      "fuente": "himalayas",
+      "titulo": "System Engineer, Queensland",
+      "empresa": "Pure Storage",
+      "url": "https://himalayas.app/companies/pure-storage/jobs/system-engineer-queensland",
+      "publicadoEn": 1791189621000,
+      "salarioTexto": null,
+      "ubicacion": "Australia",
+      "etiquetas": [
+        "Sales-Engineer",
+        "Pre-Sales-Engineer",
+        "Solutions-Engineer",
+        "Technical-Sales-Engineer",
+        "Systems-Engineer",
+        "Systems-Engineer-Jobs",
+        "IT-Systems-Engineer"
+      ]
+    },
+    {
+      "idFuente": "consilio-llc/ediscovery-project-manager-8788961984",
+      "fuente": "himalayas",
+      "titulo": "eDiscovery Project Manager",
+      "empresa": "Consilio LLC",
+      "url": "https://himalayas.app/companies/consilio-llc/jobs/ediscovery-project-manager-8788961984",
+      "publicadoEn": 1791189612000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "EDiscovery-Project-Manager",
+        "Legal-Project-Manager",
+        "Litigation-Support-Project-Manager",
+        "Research-Project-Manager",
+        "EDiscovery-Project-Management",
+        "eDiscovery-Case-Manager",
+        "EDiscovery-Manager"
+      ]
+    },
+    {
+      "idFuente": "eaglebank/process-excellence-subject-matter-expert",
+      "fuente": "himalayas",
+      "titulo": "Process Excellence Subject Matter Expert",
+      "empresa": "EagleBank",
+      "url": "https://himalayas.app/companies/eaglebank/jobs/process-excellence-subject-matter-expert",
+      "publicadoEn": 1791189567000,
+      "salarioTexto": "USD 114,071 - 192,797",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Program-Manager",
+        "Project-Manager",
+        "Process-Excellence-Manager",
+        "Business-Transformation-Manager",
+        "Operations-Manager",
+        "Process-Expert",
+        "process-excellence",
+        "Process-Improvement-Specialist",
+        "Operations-Excellence-Specialist",
+        "Business-Process-Improvement-Specialist",
+        "Process-Optimization-Specialist"
+      ]
+    },
+    {
+      "idFuente": "marketsource/sales-associate",
+      "fuente": "himalayas",
+      "titulo": "Sales Associate",
+      "empresa": "MarketSource",
+      "url": "https://himalayas.app/companies/marketsource/jobs/sales-associate",
+      "publicadoEn": 1791189552000,
+      "salarioTexto": "USD 15 - 15",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales-Associate",
+        "Healthcare-Sales-Representative",
+        "Provider-Client-Outreach-Specialist",
+        "Customer-Service",
+        "Call-Center-Representative",
+        "Retail-Sales-Associate",
+        "Retail-Associate",
+        "Part-Time-Sales-Associate",
+        "Sales-and-Service-Associate",
+        "Entry-Level-Sales-Associate",
+        "Customer-Service-and-Sales-Associate",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/client-services-coordinator-1",
+      "fuente": "himalayas",
+      "titulo": "Client Services Coordinator 1",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/client-services-coordinator-1",
+      "publicadoEn": 1791189549000,
+      "salarioTexto": "USD 37,400 - 93,600",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Client-Services-Coordinator",
+        "Client-Services-Specialist",
+        "Client-Support-Coordinator",
+        "Customer-Service-Coordinator",
+        "Client-Relations-Coordinator",
+        "Client-Care-Coordinator",
+        "Care-Coordinator-I-(Client-Care-Specialist)",
+        "Client-Solutions-Coordinator",
+        "Client-Coordinator",
+        "Client-Services-Associate",
+        "Client-Services-Administrator",
+        "Customer-Service"
+      ]
+    },
+    {
+      "idFuente": "gitlab-com/site-reliability-engineer-expression-of-interest-form",
+      "fuente": "himalayas",
+      "titulo": "Site Reliability Engineer Expression of Interest Form",
+      "empresa": "GitLab",
+      "url": "https://himalayas.app/companies/gitlab-com/jobs/site-reliability-engineer-expression-of-interest-form",
+      "publicadoEn": 1791189547000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Site-Reliability-Engineer",
+        "SRE-Engineer",
+        "DevOps-Engineer",
+        "Systems-Engineer",
+        "Infrastructure-Engineer",
+        "Site-Reliability-Operations-Engineer",
+        "Site-Reliability-Engineering-Jobs",
+        "Site-Reliability-Engineer-II",
+        "Site-Reliability-Engineering-(SRE)",
+        "DevOps-Site-Reliability-Engineer",
+        "Site-Reliability-Engineering"
+      ]
+    },
+    {
+      "idFuente": "contactlink-solutions/spanish-us-based-interpreter",
+      "fuente": "himalayas",
+      "titulo": "Spanish US BASED Interpreter",
+      "empresa": "ContactLink Solutions",
+      "url": "https://himalayas.app/companies/contactlink-solutions/jobs/spanish-us-based-interpreter",
+      "publicadoEn": 1791189447000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Spanish-Interpreter",
+        "Medical-Interpreter",
+        "Remote-Interpreter",
+        "Interpreters",
+        "Experienced-Spanish-Language-Interpreter",
+        "English-Spanish-Interpreter",
+        "Spanish-Interpreting",
+        "Remote-Spanish-Telephone-Interpreter",
+        "Remote-Spanish-Video-Interpreter",
+        "Spanish-Interpretation"
+      ]
+    },
+    {
+      "idFuente": "virtualite/wfh-sales-client-onboarding-specialist",
+      "fuente": "himalayas",
+      "titulo": "WFH - Sales & Client Onboarding Specialist",
+      "empresa": "Virtualite",
+      "url": "https://himalayas.app/companies/virtualite/jobs/wfh-sales-client-onboarding-specialist",
+      "publicadoEn": 1791189049000,
+      "salarioTexto": "USD 67,500 - 82,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Client-Sales-Specialist",
+        "Client-Success",
+        "Sales",
+        "Business-Process-Outsourcing",
+        "Client-Onboarding",
+        "Client-Onboarding-Specialist",
+        "Remote-Client-Success-Specialist",
+        "Client-Onboarding-And-Training-Specialist",
+        "Remote-Sales-Specialist",
+        "Customer-Onboarding-Specialist",
+        "Remote-Entry-Level-SaaS-Sales-Specialist",
+        "Remote-B2B-Sales-Specialist",
+        "Remote-Entry-Level-B2B-Sales-Specialist"
+      ]
+    },
+    {
+      "idFuente": "dnv/senior-physical-environment-surveyor-healthcare",
+      "fuente": "himalayas",
+      "titulo": "Senior Physical Environment Surveyor - Healthcare",
+      "empresa": "DNV",
+      "url": "https://himalayas.app/companies/dnv/jobs/senior-physical-environment-surveyor-healthcare",
+      "publicadoEn": 1791189628000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Healthcare-Surveyor",
+        "Physical-Environment-Surveyor",
+        "Compliance-Surveyor",
+        "Healthcare-Auditor",
+        "Quality-Assurance-Surveyor",
+        "Senior-Surveyor",
+        "Hospital-Surveyor",
+        "Building-Services-Condition-Surveyor"
+      ]
+    },
+    {
+      "idFuente": "anthology/service-delivery-manager",
+      "fuente": "himalayas",
+      "titulo": "Service Delivery Manager",
+      "empresa": "Anthology",
+      "url": "https://himalayas.app/companies/anthology/jobs/service-delivery-manager",
+      "publicadoEn": 1791189538000,
+      "salarioTexto": "USD 65,000 - 85,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Service-Delivery-Manager",
+        "Systems-Administrator",
+        "IT-Service-Manager",
+        "Customer-Success-Manager",
+        "Services-Delivery-Manager",
+        "IT-Service-Delivery-Manager",
+        "Service-Delivery-Lead",
+        "Professional-Services-Delivery-Manager",
+        "Delivery-Services-Manager",
+        "Service-Delivery-Management"
+      ]
+    },
+    {
+      "idFuente": "kreato-global/spanish-interpreter",
+      "fuente": "himalayas",
+      "titulo": "Spanish Interpreter",
+      "empresa": "Kreato Global",
+      "url": "https://himalayas.app/companies/kreato-global/jobs/spanish-interpreter",
+      "publicadoEn": 1791189327000,
+      "salarioTexto": null,
+      "ubicacion": "Chile",
+      "etiquetas": [
+        "Medical-Interpreter",
+        "Spanish-Interpreter",
+        "Interpreters",
+        "Bilingual-Interpreter",
+        "Spanish-Interpreting",
+        "English-Spanish-Interpreter",
+        "Experienced-Spanish-Language-Interpreter",
+        "Spanish-Interpretation",
+        "Senior-Spanish-Interpreter",
+        "Entry-Level-Spanish-Interpreter"
+      ]
+    },
+    {
+      "idFuente": "inetum/sap-sales-specialist",
+      "fuente": "himalayas",
+      "titulo": "SAP Sales Specialist",
+      "empresa": "Inetum",
+      "url": "https://himalayas.app/companies/inetum/jobs/sap-sales-specialist",
+      "publicadoEn": 1791189088000,
+      "salarioTexto": null,
+      "ubicacion": "Morocco",
+      "etiquetas": [
+        "SAP-Sales",
+        "Software-Sales",
+        "ERP-Sales",
+        "Technology-Sales",
+        "Enterprise-Software-Sales",
+        "Digital-Transformation-Sales",
+        "SAP-Specialist",
+        "SAP-Solutions-Sales",
+        "SAP-Specialist-Jobs",
+        "SAP-ERP-Specialist",
+        "SAP-Sales-and-Distribution-Lead",
+        "SAP-Sales-And-Distribution-Consultant",
+        "SAP-SD-Specialist",
+        "Sales-Specialist",
+        "IT"
+      ]
+    },
+    {
+      "idFuente": "fresh-consulting/senior-pcb-design-engineer-allegro-altium",
+      "fuente": "himalayas",
+      "titulo": "Senior PCB Design Engineer (Allegro & Altium)",
+      "empresa": "Fresh Consulting",
+      "url": "https://himalayas.app/companies/fresh-consulting/jobs/senior-pcb-design-engineer-allegro-altium",
+      "publicadoEn": 1791189069000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "PCB-Design-Engineering",
+        "Hardware-Engineering",
+        "Printed-Circuit-Board-Design",
+        "Hardware-Design",
+        "PCB-Design-Engineer",
+        "PCB-Engineer",
+        "Senior-Design-Engineer",
+        "Design-Engineer"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/principal-machine-learning-engineer",
+      "fuente": "himalayas",
+      "titulo": "Principal Machine Learning Engineer",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/principal-machine-learning-engineer",
+      "publicadoEn": 1791189066000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Principal-Machine-Learning-Engineer",
+        "Machine-Learning-Engineer",
+        "Senior-ML-Engineer",
+        "AI-Engineer",
+        "Principal-ML-Engineer",
+        "Principal-AI-ML-Engineer",
+        "Principal-Machine-Learning-Scientist",
+        "Principal-Machine-Learning-Architect",
+        "Principal-AI-Engineer",
+        "Principal-ML-Platform-Engineer",
+        "Lead-Machine-Learning-Engineer",
+        "Senior-Staff-Machine-Learning-Engineer"
+      ]
+    },
+    {
+      "idFuente": "io-connect-services/sr-cloud-native-developer-remote-mexico-4830784207",
+      "fuente": "himalayas",
+      "titulo": "Sr Cloud Native Developer (Remote, Mexico)",
+      "empresa": "IO Connect Services",
+      "url": "https://himalayas.app/companies/io-connect-services/jobs/sr-cloud-native-developer-remote-mexico-4830784207",
+      "publicadoEn": 1791189054000,
+      "salarioTexto": null,
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Cloud-Native-Developer",
+        "Backend-Engineer",
+        "AWS-Developer",
+        "Software-Developer",
+        "DevOps-Engineer",
+        "Cloud-Native-Software-Engineer",
+        "Senior-Cloud-Software-Engineer"
+      ]
+    },
+    {
+      "idFuente": "io-connect-services/software-developer-engineer-sr-9812943329",
+      "fuente": "himalayas",
+      "titulo": "Software Developer Engineer Sr.",
+      "empresa": "IO Connect Services",
+      "url": "https://himalayas.app/companies/io-connect-services/jobs/software-developer-engineer-sr-9812943329",
+      "publicadoEn": 1791189054000,
+      "salarioTexto": null,
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Backend-Development",
+        "Software-Engineer",
+        "Cloud-Computing",
+        "DevOps-Engineer",
+        "Solutions-Architect",
+        "Senior-Software-Developer",
+        "Software-Developer",
+        "Senior-Software-Development",
+        "Senior-Software-Engineer-Jobs",
+        "Developer"
+      ]
+    },
+    {
+      "idFuente": "io-connect-services/mulesoft-developer-2916315573",
+      "fuente": "himalayas",
+      "titulo": "MuleSoft Developer",
+      "empresa": "IO Connect Services",
+      "url": "https://himalayas.app/companies/io-connect-services/jobs/mulesoft-developer-2916315573",
+      "publicadoEn": 1791189050000,
+      "salarioTexto": null,
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "MuleSoft-Development",
+        "Software-Engineer",
+        "Integration-Engineering",
+        "Backend-Development",
+        "Java-Development",
+        "MuleSoft-Developer",
+        "MuleSoft-Integration-Developer",
+        "MuleSoft-Engineer",
+        "Senior-MuleSoft-Developer",
+        "MuleSoft-ESB-Developer",
+        "MuleSoft-Consultant",
+        "MuleSoft-Integration-Engineer",
+        "MuleSoft-Integration-Specialist"
+      ]
+    },
+    {
+      "idFuente": "io-connect-services/senior-integration-engineer-remote-mexico-7616652743",
+      "fuente": "himalayas",
+      "titulo": "Senior Integration Engineer (Remote, Mexico)",
+      "empresa": "IO Connect Services",
+      "url": "https://himalayas.app/companies/io-connect-services/jobs/senior-integration-engineer-remote-mexico-7616652743",
+      "publicadoEn": 1791189050000,
+      "salarioTexto": null,
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Senior-Integration-Engineer",
+        "Integration-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "MuleSoft-Developer",
+        "Senior-Integrations-Engineer",
+        "Senior-Integration-Software-Engineer",
+        "Senior-Integration-Engineering",
+        "Senior-Cloud-Integration-Engineer",
+        "Senior-Integration-and-API-Developer",
+        "Senior-Integration-Developer"
+      ]
+    },
     {
       "idFuente": "https://weworkremotely.com/remote-jobs/wrike-business-systems-security-analyst",
       "fuente": "weworkremotely",
@@ -613,266 +1072,6 @@
       "etiquetas": [
         "DevOps and Sysadmin"
       ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/feedzai-global-solutions-consultant-identity",
-      "fuente": "weworkremotely",
-      "titulo": "Global Solutions Consultant, Identity",
-      "empresa": "Feedzai",
-      "url": "https://weworkremotely.com/remote-jobs/feedzai-global-solutions-consultant-identity",
-      "publicadoEn": 1791012667000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/6sense-product-lead-predictive-platform",
-      "fuente": "weworkremotely",
-      "titulo": "Product Lead, Predictive Platform",
-      "empresa": "6sense",
-      "url": "https://weworkremotely.com/remote-jobs/6sense-product-lead-predictive-platform",
-      "publicadoEn": 1791012667000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-texas",
-      "fuente": "weworkremotely",
-      "titulo": "Community Engagement Manager, Data Centers (Texas)",
-      "empresa": "Anthropic",
-      "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-texas",
-      "publicadoEn": 1791012667000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/anthropic-capacity-deployment-lead-data-center-operations",
-      "fuente": "weworkremotely",
-      "titulo": "Capacity Deployment Lead - Data Center Operations",
-      "empresa": "Anthropic",
-      "url": "https://weworkremotely.com/remote-jobs/anthropic-capacity-deployment-lead-data-center-operations",
-      "publicadoEn": 1791012666000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/clover-health-chairman-programs-lead",
-      "fuente": "weworkremotely",
-      "titulo": "Chairman Programs Lead",
-      "empresa": "Clover Health",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-chairman-programs-lead",
-      "publicadoEn": 1791012666000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/webflow-it-support-specialist",
-      "fuente": "weworkremotely",
-      "titulo": "IT Support Specialist",
-      "empresa": "Webflow",
-      "url": "https://weworkremotely.com/remote-jobs/webflow-it-support-specialist",
-      "publicadoEn": 1791012666000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
-      "fuente": "weworkremotely",
-      "titulo": "Web Designer, eCRM",
-      "empresa": "Humane World for Animals",
-      "url": "https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
-      "publicadoEn": 1790962785000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Front-End Programming"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-administrative-scheduler",
-      "fuente": "weworkremotely",
-      "titulo": "PART-TIME Remote Administrative Scheduler",
-      "empresa": "Paragon Planners",
-      "url": "https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-administrative-scheduler",
-      "publicadoEn": 1790960150000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/pinterest-finance-manager-i-platform",
-      "fuente": "weworkremotely",
-      "titulo": "Finance Manager I, Platform",
-      "empresa": "Pinterest",
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-finance-manager-i-platform",
-      "publicadoEn": 1790926251000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/6sense-manager-customer-success-upmarket",
-      "fuente": "weworkremotely",
-      "titulo": "Manager, Customer Success - Upmarket",
-      "empresa": "6sense",
-      "url": "https://weworkremotely.com/remote-jobs/6sense-manager-customer-success-upmarket",
-      "publicadoEn": 1790926248000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/pinterest-engineering-manager-ii-media-rendering",
-      "fuente": "weworkremotely",
-      "titulo": "Engineering Manager II, Media Rendering",
-      "empresa": "Pinterest",
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-engineering-manager-ii-media-rendering",
-      "publicadoEn": 1790926248000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
-      "fuente": "weworkremotely",
-      "titulo": "Chief Actuary",
-      "empresa": "Clover Health",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
-      "publicadoEn": 1790904277000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/limitless-technology-japanese-speaking-customer-service-agent-for-netflix-japan",
-      "fuente": "weworkremotely",
-      "titulo": "Japanese Speaking Customer Service Agent - for Netflix Japan",
-      "empresa": "Limitless Technology",
-      "url": "https://weworkremotely.com/remote-jobs/limitless-technology-japanese-speaking-customer-service-agent-for-netflix-japan",
-      "publicadoEn": 1790843947000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
-      "fuente": "weworkremotely",
-      "titulo": "Commercial Data Scientist",
-      "empresa": "Doximity",
-      "url": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
-      "publicadoEn": 1790839856000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/vercel-product-manager-dashboard",
-      "fuente": "weworkremotely",
-      "titulo": "Product Manager, Dashboard",
-      "empresa": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-product-manager-dashboard",
-      "publicadoEn": 1790839856000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
-      "fuente": "weworkremotely",
-      "titulo": "Legal Ops",
-      "empresa": "Hex Technologies",
-      "url": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
-      "publicadoEn": 1790839856000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/vercel-design-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Design Engineer",
-      "empresa": "Vercel",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-design-engineer",
-      "publicadoEn": 1790839847000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/calm-com-senior-product-designer",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Product Designer",
-      "empresa": "Calm.com",
-      "url": "https://weworkremotely.com/remote-jobs/calm-com-senior-product-designer",
-      "publicadoEn": 1790839847000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/calm-com-growth-product-manager",
-      "fuente": "weworkremotely",
-      "titulo": "Growth Product Manager",
-      "empresa": "Calm.com",
-      "url": "https://weworkremotely.com/remote-jobs/calm-com-growth-product-manager",
-      "publicadoEn": 1790839844000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "https://weworkremotely.com/remote-jobs/seat-geek-senior-ux-designer",
-      "fuente": "weworkremotely",
-      "titulo": "Senior UX Designer",
-      "empresa": "Seat Geek",
-      "url": "https://weworkremotely.com/remote-jobs/seat-geek-senior-ux-designer",
-      "publicadoEn": 1790781223000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [],
@@ -888,15 +1087,15 @@
     "salarioMinimoUSD": null,
     "pausado": false
   },
-  "ultimoUpdateIdProcesado": 148864685,
+  "ultimoUpdateIdProcesado": 148864687,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 396,
-      "remotive": 69,
-      "weworkremotely": 178,
-      "himalayas": 80
+      "remoteok": 495,
+      "remotive": 86,
+      "weworkremotely": 267,
+      "himalayas": 100
     },
-    "duplicadosDescartados": 501,
-    "ultimaEjecucion": "2026-10-05T11:51:21.635Z"
+    "duplicadosDescartados": 706,
+    "ultimaEjecucion": "2026-10-05T11:53:08.362Z"
   }
 }
