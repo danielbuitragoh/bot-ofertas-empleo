@@ -121,4 +121,41 @@ describe('procesarComando', () => {
     );
     expect(resultado.respuesta).toMatch(/No conozco ese comando/);
   });
+
+  // Las respuestas se mandan con parse_mode HTML: un "<" sin escapar hace
+  // que Telegram rechace el mensaje con un 400. Pasó con "/guardar <id>"
+  // en la ayuda, al recibir "/stats/filtros/ultimas 3" pegado en un solo
+  // mensaje.
+  it('la ayuda de un comando desconocido no lleva etiquetas HTML sin escapar', async () => {
+    const resultado = await procesarComando(
+      { chatId: 1, updateId: 1, comando: '/stats/filtros/ultimas', argumentos: '3' },
+      estadoInicial(),
+      depsFalsas(),
+    );
+    expect(resultado.respuesta).not.toMatch(/<id>/);
+    expect(resultado.respuesta).toContain('/guardar &lt;id&gt;');
+  });
+
+  it('escapa lo que escribe el usuario cuando lo repite en la respuesta', async () => {
+    const filtros = await procesarComando(
+      { chatId: 1, updateId: 1, comando: '/filtros', argumentos: '<b>raro' },
+      estadoInicial(),
+      depsFalsas(),
+    );
+    expect(filtros.respuesta).toContain('&lt;b&gt;raro');
+
+    const palabras = await procesarComando(
+      { chatId: 1, updateId: 1, comando: '/filtros', argumentos: 'palabras C++ & <Rust>' },
+      estadoInicial(),
+      depsFalsas(),
+    );
+    expect(palabras.respuesta).toContain('C++ &amp; &lt;Rust&gt;');
+
+    const guardar = await procesarComando(
+      { chatId: 1, updateId: 1, comando: '/guardar', argumentos: '<x>' },
+      estadoInicial(),
+      depsFalsas(),
+    );
+    expect(guardar.respuesta).toContain('&lt;x&gt;');
+  });
 });

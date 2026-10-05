@@ -39,7 +39,7 @@ async function main(): Promise<void> {
   const { ofertas, fallos } = await obtenerTodasLasFuentes();
 
   for (const fallo of fallos) {
-    await telegram.enviarMensaje({ chatId, texto: `⚠️ Fuente caída: ${fallo}` });
+    await telegram.enviarMensaje({ chatId, texto: `⚠️ Fuente caída: ${escaparHTML(fallo)}` });
   }
 
   for (const oferta of ofertas) {
@@ -165,7 +165,15 @@ async function procesarComandosPendientes(
     if (resultado.estadoActualizado) {
       estado = resultado.estadoActualizado;
     }
-    await telegram.enviarMensaje({ chatId: comando.chatId, texto: resultado.respuesta });
+    // Si una respuesta no se puede enviar (Telegram la rechaza, un 5xx),
+    // se registra y se sigue. Antes esto tumbaba la corrida entera: el
+    // estado no se guardaba, el comando se volvía a leer en la siguiente
+    // y el bot quedaba en rojo en bucle por un solo mensaje.
+    try {
+      await telegram.enviarMensaje({ chatId: comando.chatId, texto: resultado.respuesta });
+    } catch (error) {
+      console.error(`No se pudo responder a ${comando.comando}, se continúa:`, error);
+    }
   }
 
   return estado;
