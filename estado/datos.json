@@ -1085,9 +1085,9 @@
       "director"
     ],
     "salarioMinimoUSD": null,
-    "pausado": false
+    "pausado": true
   },
-  "ultimoUpdateIdProcesado": 148864687,
+  "ultimoUpdateIdProcesado": 148864688,
   "estadisticas": {
     "porFuente": {
       "remoteok": 495,
@@ -1096,6 +1096,6 @@
       "himalayas": 100
     },
     "duplicadosDescartados": 706,
-    "ultimaEjecucion": "2026-10-05T11:53:08.362Z"
+    "ultimaEjecucion": "2026-10-05T11:55:09.019Z"
   }
 }
