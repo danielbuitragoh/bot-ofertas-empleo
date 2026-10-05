@@ -50,7 +50,7 @@ export async function procesarComando(
     default:
       return {
         respuesta:
-          'No conozco ese comando. Los que hay: /filtros, /pausar, /reanudar, /ultimas [n], /stats, /guardar <id>.',
+          'No conozco ese comando. Los que hay: /filtros, /pausar, /reanudar, /ultimas [n], /stats, /guardar &lt;id&gt;.',
       };
   }
 }
@@ -64,8 +64,8 @@ function manejarFiltros(argumentos: string, estado: Estado): ResultadoComando {
     const f = estado.filtros;
     return {
       respuesta: [
-        `Palabras clave: ${f.palabrasClave.length > 0 ? f.palabrasClave.join(', ') : '(ninguna, no filtra)'}`,
-        `Seniority excluida: ${f.senioridadExcluida.length > 0 ? f.senioridadExcluida.join(', ') : '(ninguna)'}`,
+        `Palabras clave: ${f.palabrasClave.length > 0 ? escaparHTML(f.palabrasClave.join(', ')) : '(ninguna, no filtra)'}`,
+        `Seniority excluida: ${f.senioridadExcluida.length > 0 ? escaparHTML(f.senioridadExcluida.join(', ')) : '(ninguna)'}`,
         `Salario mínimo: ${f.salarioMinimoUSD !== null ? `USD ${f.salarioMinimoUSD.toLocaleString('en-US')}` : '(sin mínimo)'}`,
         `Estado: ${f.pausado ? 'pausado' : 'activo'}`,
         '',
@@ -77,7 +77,7 @@ function manejarFiltros(argumentos: string, estado: Estado): ResultadoComando {
   if (sub === 'palabras') {
     const palabrasClave = resto.length > 0 ? resto.split(',').map((s) => s.trim()).filter(Boolean) : [];
     return {
-      respuesta: `Palabras clave actualizadas: ${palabrasClave.length > 0 ? palabrasClave.join(', ') : '(ninguna, no filtra)'}`,
+      respuesta: `Palabras clave actualizadas: ${palabrasClave.length > 0 ? escaparHTML(palabrasClave.join(', ')) : '(ninguna, no filtra)'}`,
       estadoActualizado: { ...estado, filtros: { ...estado.filtros, palabrasClave } },
     };
   }
@@ -85,7 +85,7 @@ function manejarFiltros(argumentos: string, estado: Estado): ResultadoComando {
   if (sub === 'senioridad') {
     const senioridadExcluida = resto.length > 0 ? resto.split(',').map((s) => s.trim()).filter(Boolean) : [];
     return {
-      respuesta: `Seniority excluida actualizada: ${senioridadExcluida.length > 0 ? senioridadExcluida.join(', ') : '(ninguna)'}`,
+      respuesta: `Seniority excluida actualizada: ${senioridadExcluida.length > 0 ? escaparHTML(senioridadExcluida.join(', ')) : '(ninguna)'}`,
       estadoActualizado: { ...estado, filtros: { ...estado.filtros, senioridadExcluida } },
     };
   }
@@ -107,7 +107,7 @@ function manejarFiltros(argumentos: string, estado: Estado): ResultadoComando {
     };
   }
 
-  return { respuesta: `No reconozco "/filtros ${sub}". Usa /filtros solo para ver las opciones.` };
+  return { respuesta: `No reconozco "/filtros ${escaparHTML(sub)}". Usa /filtros solo para ver las opciones.` };
 }
 
 function manejarUltimas(argumentos: string, estado: Estado): ResultadoComando {
@@ -145,7 +145,7 @@ async function manejarGuardar(
 ): Promise<ResultadoComando> {
   const idFuente = argumentos.trim();
   if (!idFuente) {
-    return { respuesta: 'Uso: /guardar <id> — el id sale en /ultimas.' };
+    return { respuesta: 'Uso: /guardar &lt;id&gt; — el id sale en /ultimas.' };
   }
 
   // Idempotencia: si por lo que sea Telegram reenvía el mismo update (el
@@ -157,18 +157,18 @@ async function manejarGuardar(
 
   const oferta = estado.ultimasOfertas.find((o) => o.idFuente === idFuente);
   if (!oferta) {
-    return { respuesta: `No encuentro ninguna oferta reciente con id "${idFuente}". Revisa /ultimas.` };
+    return { respuesta: `No encuentro ninguna oferta reciente con id "${escaparHTML(idFuente)}". Revisa /ultimas.` };
   }
 
   try {
     await deps.guardarEnGestor(oferta.idFuente, oferta.titulo, oferta.empresa, oferta.url);
     return {
-      respuesta: `Guardada: ${oferta.titulo} — ${oferta.empresa}. Ya aparece en el gestor de candidaturas.`,
+      respuesta: `Guardada: ${escaparHTML(oferta.titulo)} — ${escaparHTML(oferta.empresa)}. Ya aparece en el gestor de candidaturas.`,
       estadoActualizado: { ...estado, idsGuardadosEnGestor: [...estado.idsGuardadosEnGestor, idFuente].slice(-2000) },
     };
   } catch (error) {
     return {
-      respuesta: `No pude guardarla en el gestor (¿está caída la API?): ${(error as Error).message}. La oferta sigue disponible, intenta más tarde.`,
+      respuesta: `No pude guardarla en el gestor (¿está caída la API?): ${escaparHTML((error as Error).message)}. La oferta sigue disponible, intenta más tarde.`,
     };
   }
 }
