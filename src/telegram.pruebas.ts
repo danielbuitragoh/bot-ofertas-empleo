@@ -31,6 +31,26 @@ describe('extraerComandos', () => {
     const comandos = extraerComandos([{ update_id: 1, message: { chat: { id: 10 } } }]);
     expect(comandos).toHaveLength(0);
   });
+
+  it('quita el @nombre_del_bot que Telegram añade al elegir un comando del menú', () => {
+    const comandos = extraerComandos([
+      { update_id: 1, message: { chat: { id: 10 }, text: '/filtros@ofertas_dev_dan_bot' } },
+    ]);
+    expect(comandos[0].comando).toBe('/filtros');
+  });
+
+  it('con un chat permitido, ignora los comandos que lleguen de cualquier otro', () => {
+    // El bot es público: cualquiera que lo encuentre podría mandarle
+    // /pausar o cambiar los filtros si no se filtra por chat.
+    const comandos = extraerComandos(
+      [
+        { update_id: 1, message: { chat: { id: 10 }, text: '/stats' } },
+        { update_id: 2, message: { chat: { id: 99 }, text: '/pausar' } },
+      ],
+      10,
+    );
+    expect(comandos.map((c) => c.comando)).toEqual(['/stats']);
+  });
 });
 
 describe('escaparHTML', () => {

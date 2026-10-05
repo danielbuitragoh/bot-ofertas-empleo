@@ -128,7 +128,7 @@ async function procesarComandosPendientes(
     return estado;
   }
 
-  const comandos = extraerComandos(updates);
+  const comandos = extraerComandos(updates, chatId);
 
   if (updates.length > 0) {
     const maximoUpdateId = Math.max(...updates.map((u) => u.update_id));
