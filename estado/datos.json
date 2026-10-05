@@ -1090,12 +1090,12 @@
   "ultimoUpdateIdProcesado": 148864696,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 693,
-      "remotive": 120,
-      "weworkremotely": 445,
-      "himalayas": 140
+      "remoteok": 792,
+      "remotive": 137,
+      "weworkremotely": 534,
+      "himalayas": 160
     },
-    "duplicadosDescartados": 1156,
-    "ultimaEjecucion": "2026-10-05T12:10:53.920Z"
+    "duplicadosDescartados": 1381,
+    "ultimaEjecucion": "2026-10-05T12:35:18.617Z"
   }
 }
