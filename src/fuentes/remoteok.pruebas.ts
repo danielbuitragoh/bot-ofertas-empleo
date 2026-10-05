@@ -10,6 +10,40 @@ function respuestaFalsa(cuerpo: unknown): typeof fetch {
 }
 
 describe('obtenerRemoteOK', () => {
+  // Casos reales del API: algunos textos llegan con el UTF-8 decodificado
+  // dos veces ("Mecánico" -> "MecÃ¡nico"), lo que además rompía la
+  // deduplicación contra la misma oferta en otra fuente.
+  it('repara los acentos que RemoteOK manda con doble codificación', async () => {
+    const cuerpo = [
+      {
+        id: '1',
+        company: 'Workana',
+        position: 'MecÃ¡nico Automotriz DiagnÃ³stico',
+        url: 'https://remoteok.com/remote-jobs/1',
+      },
+      {
+        id: '2',
+        company: 'Tessera Labs',
+        position: 'Oracle Fusion Cloud Lead â\u0080\u0094 Logistics',
+        url: 'https://remoteok.com/remote-jobs/2',
+      },
+    ];
+    const ofertas = await obtenerRemoteOK(respuestaFalsa(cuerpo));
+    expect(ofertas[0].titulo).toBe('Mecánico Automotriz Diagnóstico');
+    expect(ofertas[1].titulo).toBe('Oracle Fusion Cloud Lead — Logistics');
+  });
+
+  it('no toca textos correctos aunque lleven "Ã", ni los que no se pueden reparar enteros', async () => {
+    const cuerpo = [
+      { id: '1', company: 'SÃO PAULO TECH', position: 'Dev', url: 'https://remoteok.com/remote-jobs/1' },
+      // Cortado a mitad de carácter por RemoteOK: repararlo dejaría un "�".
+      { id: '2', company: 'DoiT', position: 'SDR Attributeâ\u0084', url: 'https://remoteok.com/remote-jobs/2' },
+    ];
+    const ofertas = await obtenerRemoteOK(respuestaFalsa(cuerpo));
+    expect(ofertas[0].empresa).toBe('SÃO PAULO TECH');
+    expect(ofertas[1].titulo).toBe('SDR Attributeâ\u0084');
+  });
+
   it('salta el primer elemento cuando es el aviso legal (sin id)', async () => {
     const cuerpo = [
       { legal: 'Aviso legal de RemoteOK, no es una oferta' },

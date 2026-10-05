@@ -67,10 +67,20 @@ function manejarFiltros(argumentos: string, estado: Estado): ResultadoComando {
         `Palabras clave: ${f.palabrasClave.length > 0 ? escaparHTML(f.palabrasClave.join(', ')) : '(ninguna, no filtra)'}`,
         `Seniority excluida: ${f.senioridadExcluida.length > 0 ? escaparHTML(f.senioridadExcluida.join(', ')) : '(ninguna)'}`,
         `Salario mínimo: ${f.salarioMinimoUSD !== null ? `USD ${f.salarioMinimoUSD.toLocaleString('en-US')}` : '(sin mínimo)'}`,
+        `Ubicación: ${f.ubicaciones.length > 0 ? escaparHTML(f.ubicaciones.join(', ')) : '(cualquiera)'}`,
         `Estado: ${f.pausado ? 'pausado' : 'activo'}`,
         '',
-        'Para cambiar: /filtros palabras backend,node · /filtros senioridad senior,lead · /filtros salario 80000 · /filtros salario ninguno',
+        'Para cambiar: /filtros palabras backend,node · /filtros senioridad senior,lead · /filtros salario 80000 · /filtros salario ninguno · /filtros ubicacion spain,europe,worldwide · /filtros ubicacion ninguna',
       ].join('\n'),
+    };
+  }
+
+  if (sub === 'ubicacion' || sub === 'ubicación') {
+    const ubicaciones =
+      resto.trim().toLowerCase() === 'ninguna' ? [] : resto.split(',').map((s) => s.trim()).filter(Boolean);
+    return {
+      respuesta: `Ubicación actualizada: ${ubicaciones.length > 0 ? escaparHTML(ubicaciones.join(', ')) : '(cualquiera)'}. Las ofertas que no indican ubicación se siguen avisando.`,
+      estadoActualizado: { ...estado, filtros: { ...estado.filtros, ubicaciones } },
     };
   }
 

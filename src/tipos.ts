@@ -1,12 +1,12 @@
 /**
- * Esquema único al que se normalizan las cuatro fuentes. Cada fuente trae su
+ * Esquema único al que se normalizan las cinco fuentes. Cada fuente trae su
  * propio formato (ver src/fuentes/*.ts) — este es el único tipo que ve el
  * resto del programa (dedup, filtros, notificación).
  */
 export interface OfertaEmpleo {
   /** Identificador estable dentro de la fuente (no global: dos fuentes pueden repetir el id). */
   idFuente: string;
-  fuente: 'remoteok' | 'remotive' | 'weworkremotely' | 'himalayas';
+  fuente: 'remoteok' | 'remotive' | 'weworkremotely' | 'himalayas' | 'jobicy';
   titulo: string;
   empresa: string;
   /** URL de la oferta. Obligatoria: es lo único que se manda por Telegram para no reescribir texto de terceros. */
@@ -29,6 +29,8 @@ export interface Filtros {
   senioridadExcluida: string[];
   /** null = sin mínimo. Solo se aplica a ofertas cuyo salario se pudo parsear a número (ver salarioMinimoParseado). */
   salarioMinimoUSD: number | null;
+  /** Si la lista está vacía, no filtra por ubicación. Una oferta sin ubicación indicada nunca se descarta. */
+  ubicaciones: string[];
   pausado: boolean;
 }
 
@@ -36,6 +38,7 @@ export const FILTROS_POR_DEFECTO: Filtros = {
   palabrasClave: [],
   senioridadExcluida: ['senior', 'staff', 'principal', 'lead', 'director'],
   salarioMinimoUSD: null,
+  ubicaciones: [],
   pausado: false,
 };
 
@@ -72,7 +75,7 @@ export function estadoInicial(): Estado {
     filtros: { ...FILTROS_POR_DEFECTO },
     ultimoUpdateIdProcesado: 0,
     estadisticas: {
-      porFuente: { remoteok: 0, remotive: 0, weworkremotely: 0, himalayas: 0 },
+      porFuente: { remoteok: 0, remotive: 0, weworkremotely: 0, himalayas: 0, jobicy: 0 },
       duplicadosDescartados: 0,
       ultimaEjecucion: null,
     },

@@ -22,6 +22,22 @@ function ofertaDePrueba(): OfertaEmpleo {
 }
 
 describe('procesarComando', () => {
+  it('/filtros ubicacion guarda la lista y "ninguna" la vacía', async () => {
+    const conLista = await procesarComando(
+      { chatId: 1, updateId: 1, comando: '/filtros', argumentos: 'ubicacion Spain, Europe ,worldwide' },
+      estadoInicial(),
+      depsFalsas(),
+    );
+    expect(conLista.estadoActualizado?.filtros.ubicaciones).toEqual(['Spain', 'Europe', 'worldwide']);
+
+    const vaciada = await procesarComando(
+      { chatId: 1, updateId: 2, comando: '/filtros', argumentos: 'ubicacion ninguna' },
+      conLista.estadoActualizado!,
+      depsFalsas(),
+    );
+    expect(vaciada.estadoActualizado?.filtros.ubicaciones).toEqual([]);
+  });
+
   it('/pausar marca filtros.pausado = true', async () => {
     const estado = estadoInicial();
     const resultado = await procesarComando(

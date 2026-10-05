@@ -30,8 +30,20 @@ export async function cargarEstado(ruta: string = RUTA_ESTADO): Promise<Estado> 
     const contenido = await readFile(ruta, 'utf-8');
     const datos = JSON.parse(contenido) as Partial<Estado>;
     // Fusiona sobre el estado inicial para que añadir un campo nuevo al
-    // tipo Estado no rompa la carga de un datos.json más viejo.
-    return { ...estadoInicial(), ...datos };
+    // tipo Estado no rompa la carga de un datos.json más viejo. Los objetos
+    // anidados se fusionan también: si no, un `filtros` viejo sin
+    // `ubicaciones` pisaba entero al por defecto y el campo quedaba undefined.
+    const inicial = estadoInicial();
+    return {
+      ...inicial,
+      ...datos,
+      filtros: { ...inicial.filtros, ...datos.filtros },
+      estadisticas: {
+        ...inicial.estadisticas,
+        ...datos.estadisticas,
+        porFuente: { ...inicial.estadisticas.porFuente, ...datos.estadisticas?.porFuente },
+      },
+    };
   } catch (error) {
     if (esErrorArchivoInexistente(error)) {
       return estadoInicial();

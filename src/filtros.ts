@@ -24,19 +24,23 @@ export function salarioMinimoParseado(salarioTexto: string | null): number | nul
 }
 
 export function coincideConFiltros(oferta: OfertaEmpleo, filtros: Filtros): boolean {
-  const textoBusqueda = normalizarTexto(`${oferta.titulo} ${oferta.etiquetas.join(' ')}`);
+  const textoBusqueda = `${oferta.titulo} ${oferta.etiquetas.join(' ')}`;
 
   if (filtros.palabrasClave.length > 0) {
-    const algunaCoincide = filtros.palabrasClave.some((palabra) =>
-      textoBusqueda.includes(normalizarTexto(palabra)),
-    );
+    const algunaCoincide = filtros.palabrasClave.some((palabra) => contieneTermino(textoBusqueda, palabra));
     if (!algunaCoincide) return false;
   }
 
-  const excluidaPorSenioridad = filtros.senioridadExcluida.some((palabra) =>
-    textoBusqueda.includes(normalizarTexto(palabra)),
-  );
+  const excluidaPorSenioridad = filtros.senioridadExcluida.some((palabra) => contieneTermino(textoBusqueda, palabra));
   if (excluidaPorSenioridad) return false;
+
+  // Igual que con el salario: una oferta que no indica ubicación no se
+  // descarta, porque perderla por falta de dato sería peor que dejarla pasar.
+  if (filtros.ubicaciones.length > 0 && oferta.ubicacion) {
+    const ubicacion = oferta.ubicacion;
+    const enAlgunaUbicacion = filtros.ubicaciones.some((lugar) => contieneTermino(ubicacion, lugar));
+    if (!enAlgunaUbicacion) return false;
+  }
 
   if (filtros.salarioMinimoUSD !== null) {
     const salario = salarioMinimoParseado(oferta.salarioTexto);
@@ -47,6 +51,24 @@ export function coincideConFiltros(oferta: OfertaEmpleo, filtros: Filtros): bool
   return true;
 }
 
+/**
+ * ¿Aparece `termino` en `texto` como palabra (o frase) completa? Con una
+ * búsqueda de subcadena, "lead" descartaba "Leadership", "staff" descartaba
+ * "Staffing" y "java" encajaba con "JavaScript". Los bordes son cualquier
+ * cosa que no sea letra o número, así que "node" sí encaja con "node.js" y
+ * "c++" o "full stack" funcionan tal cual.
+ */
+function contieneTermino(texto: string, termino: string): boolean {
+  const buscado = normalizarTexto(termino).trim();
+  if (!buscado) return false;
+  const escapado = buscado.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return new RegExp(`(?:^|[^\\p{L}\\p{N}])${escapado}(?![\\p{L}\\p{N}])`, 'u').test(normalizarTexto(texto));
+}
+
+/** Minúsculas y sin acentos, para que "Desarrolládor" y "desarrollador" coincidan. */
 function normalizarTexto(texto: string): string {
-  return texto.toLowerCase();
+  return texto
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase();
 }
