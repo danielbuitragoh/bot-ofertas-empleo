@@ -2,6 +2,7 @@ import { obtenerRemoteOK } from './fuentes/remoteok.js';
 import { obtenerRemotive } from './fuentes/remotive.js';
 import { obtenerWeWorkRemotely } from './fuentes/weworkremotely.js';
 import { obtenerHimalayas } from './fuentes/himalayas.js';
+import { obtenerJobicy } from './fuentes/jobicy.js';
 import { calcularHash, deduplicar } from './dedup.js';
 import { coincideConFiltros } from './filtros.js';
 import { cargarEstado, guardarEstado } from './estado.js';
@@ -32,9 +33,9 @@ async function main(): Promise<void> {
     return;
   }
 
-  // 3) Traer las 4 fuentes. Si una falla, las otras tres siguen
+  // 3) Traer las 5 fuentes. Si una falla, las otras cuatro siguen
   //    funcionando — un proveedor caído no debe tumbar el aviso de los
-  //    otros tres. Se reporta el fallo por Telegram para que no pase
+  //    otros cuatro. Se reporta el fallo por Telegram para que no pase
   //    desapercibido silenciosamente durante semanas.
   const { ofertas, fallos } = await obtenerTodasLasFuentes();
 
@@ -67,7 +68,7 @@ async function main(): Promise<void> {
   //    como si fuesen nuevas.
   estado.hashesNotificados.push(...nuevas.map(calcularHash));
   // No crecer para siempre: se queda con los últimos 5000 hashes, de sobra
-  // para varias semanas de las 4 fuentes juntas.
+  // para varias semanas de las 5 fuentes juntas.
   estado.hashesNotificados = estado.hashesNotificados.slice(-5000);
 
   // Se acumula sobre la lista anterior en vez de reemplazarla: una corrida
@@ -92,9 +93,10 @@ async function obtenerTodasLasFuentes(): Promise<{ ofertas: OfertaEmpleo[]; fall
     obtenerRemotive(),
     obtenerWeWorkRemotely(),
     obtenerHimalayas(),
+    obtenerJobicy(),
   ]);
 
-  const nombres = ['RemoteOK', 'Remotive', 'WeWorkRemotely', 'Himalayas'];
+  const nombres = ['RemoteOK', 'Remotive', 'WeWorkRemotely', 'Himalayas', 'Jobicy'];
   const ofertas: OfertaEmpleo[] = [];
   const fallos: string[] = [];
 
