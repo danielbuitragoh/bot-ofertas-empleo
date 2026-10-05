@@ -65,4 +65,41 @@ describe('coincideConFiltros', () => {
     expect(coincideConFiltros(oferta({ salarioTexto: 'A convenir' }), filtros)).toBe(true);
     expect(coincideConFiltros(oferta({ salarioTexto: null }), filtros)).toBe(true);
   });
+
+  // Antes se buscaba la palabra como subcadena: "lead" descartaba
+  // "Leadership", "staff" descartaba "Staffing" y "java" encajaba con
+  // "JavaScript".
+  it('compara palabras completas, no trozos de otras palabras', () => {
+    const conSenioridad = { ...FILTROS_POR_DEFECTO };
+    expect(coincideConFiltros(oferta({ titulo: 'Leadership Program Developer' }), conSenioridad)).toBe(true);
+    expect(coincideConFiltros(oferta({ titulo: 'Staffing Coordinator' }), conSenioridad)).toBe(true);
+    expect(coincideConFiltros(oferta({ titulo: 'Tech Lead' }), conSenioridad)).toBe(false);
+
+    const java = { ...FILTROS_POR_DEFECTO, senioridadExcluida: [], palabrasClave: ['java'] };
+    expect(coincideConFiltros(oferta({ titulo: 'JavaScript Developer' }), java)).toBe(false);
+    expect(coincideConFiltros(oferta({ titulo: 'Java Developer' }), java)).toBe(true);
+  });
+
+  it('acepta frases, símbolos y acentos en las palabras clave', () => {
+    const filtros = {
+      ...FILTROS_POR_DEFECTO,
+      senioridadExcluida: [],
+      palabrasClave: ['full stack', 'c++', 'node', 'desarrollador'],
+    };
+    expect(coincideConFiltros(oferta({ titulo: 'Full Stack Engineer' }), filtros)).toBe(true);
+    expect(coincideConFiltros(oferta({ titulo: 'C++ Engineer' }), filtros)).toBe(true);
+    expect(coincideConFiltros(oferta({ titulo: 'Engineer', etiquetas: ['node.js'] }), filtros)).toBe(true);
+    expect(coincideConFiltros(oferta({ titulo: 'Desarrollador Web' }), filtros)).toBe(true);
+    expect(coincideConFiltros(oferta({ titulo: 'Sales Manager' }), filtros)).toBe(false);
+  });
+
+  it('filtra por ubicación, pero no descarta ofertas que no la indican', () => {
+    const filtros = { ...FILTROS_POR_DEFECTO, senioridadExcluida: [], ubicaciones: ['spain', 'europe', 'worldwide'] };
+    expect(coincideConFiltros(oferta({ ubicacion: 'Estonia, Spain' }), filtros)).toBe(true);
+    expect(coincideConFiltros(oferta({ ubicacion: 'Worldwide' }), filtros)).toBe(true);
+    expect(coincideConFiltros(oferta({ ubicacion: 'United States' }), filtros)).toBe(false);
+    // Igual que con el salario: sin dato no se descarta.
+    expect(coincideConFiltros(oferta({ ubicacion: null }), filtros)).toBe(true);
+    expect(coincideConFiltros(oferta({ ubicacion: '' }), filtros)).toBe(true);
+  });
 });
