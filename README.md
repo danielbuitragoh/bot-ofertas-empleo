@@ -7,7 +7,9 @@
 [![Verificar](https://github.com/danielbuitragoh/bot-ofertas-empleo/actions/workflows/ci.yml/badge.svg)](https://github.com/danielbuitragoh/bot-ofertas-empleo/actions/workflows/ci.yml)
 [![Buscar ofertas](https://github.com/danielbuitragoh/bot-ofertas-empleo/actions/workflows/bot.yml/badge.svg)](https://github.com/danielbuitragoh/bot-ofertas-empleo/actions/workflows/bot.yml)
 
-[Cliente de gestión que recibe lo que se guarda](https://github.com/danielbuitragoh/gestor-postulaciones)
+<img src="docs/capturas/aviso-oferta.png" alt="Aviso de una oferta nueva en Telegram: puesto, empresa, ubicación, salario, enlace e id para /guardar" width="420">
+
+[Cómo usarlo](#cómo-usarlo) · [Capturas](#capturas) · [Cliente de gestión que recibe lo que se guarda](https://github.com/danielbuitragoh/gestor-postulaciones)
 
 </div>
 
@@ -19,14 +21,45 @@ Un bot de Telegram que cada 6 horas revisa RemoteOK, Remotive, WeWorkRemotely e 
 
 El ejercicio real no es "llamar a una API y mandar un mensaje": es que las cuatro fuentes traen **cuatro formatos distintos** (salario numérico en una, texto libre en otra, fechas ISO en unas y epoch en segundos en otra, RSS en vez de JSON en la cuarta) y hay que normalizarlas todas a un único esquema antes de poder filtrar o deduplicar nada. Eso es el trabajo real de integración que hace un backend developer, y es justo lo que se documenta abajo.
 
+## Capturas
+
+Todas son del bot real corriendo en este repo, no de un mock.
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="docs/capturas/comando-ultimas.png" alt="Respuesta a /ultimas 3: tres ofertas numeradas con su id y su enlace"></td>
+<td width="50%" valign="top">
+  <img src="docs/capturas/comando-filtros.png" alt="Respuesta a /filtros: palabras clave, seniority excluida, salario mínimo y estado">
+  <br><br>
+  <img src="docs/capturas/comando-stats.png" alt="Respuesta a /stats: ofertas traídas por fuente y duplicados descartados">
+</td>
+</tr>
+<tr>
+<td><b><code>/ultimas 3</code>.</b> Las últimas ofertas vistas, cada una con un id corto para mandarla al gestor con <code>/guardar</code>. La lista se conserva entre corridas aunque una no traiga nada nuevo.</td>
+<td><b><code>/filtros</code> y <code>/stats</code>.</b> Qué está filtrando el bot y cómo cambiarlo, y cuánto ha traído cada una de las cuatro fuentes. Los duplicados descartados son ofertas que ya avisó o que aparecen en dos fuentes a la vez.</td>
+</tr>
+<tr>
+<td colspan="2"><img src="docs/capturas/pausar-reanudar.png" alt="El bot responde Pausado tras /pausar y Reanudado tras /reanudar" width="60%"></td>
+</tr>
+<tr>
+<td colspan="2"><b><code>/pausar</code> y <code>/reanudar</code>.</b> Silencian y reactivan los avisos sin tocar el workflow: con el bot en pausa, cada corrida sigue procesando comandos pero no busca ni manda ofertas.</td>
+</tr>
+<tr>
+<td colspan="2"><img src="docs/capturas/workflow-ejecucion.png" alt="Ejecución del workflow Buscar ofertas en GitHub Actions con todos los pasos en verde"></td>
+</tr>
+<tr>
+<td colspan="2"><b>Una corrida en GitHub Actions.</b> Compila, comprueba que estén los secrets de Telegram, ejecuta el bot (<code>225 vistas, 20 nuevas, 10 encajaban con el filtro, 10 notificadas</code>) y commitea el estado. No hay servidor: esto es todo el bot.</td>
+</tr>
+</table>
+
 ## Las cuatro fuentes y su trampa
 
 | Fuente | Endpoint | La trampa |
 |---|---|---|
 | [RemoteOK](https://remoteok.com) | `GET remoteok.com/api` | El primer elemento del array es un aviso legal, no una oferta — se detecta por la ausencia de `id`, no por posición fija |
 | [Remotive](https://remotive.com) | `GET remotive.com/api/remote-jobs` | Máximo 4 peticiones/día; más de 2/min bloquea. Los datos llegan con 24h de retraso deliberado |
-| [WeWorkRemotely](https://weworkremotely.com) | `GET weworkremotely.com/remote-jobs.rss` | Es RSS, no JSON. La empresa viene incrustada en el título, separada por `:` |
-| [Himalayas](https://himalayas.app) | `GET himalayas.app/jobs/api` | JSON paginado, salario numérico, fechas en **epoch en segundos** (no milisegundos) |
+| [WeWorkRemotely](https://weworkremotely.com) | `GET weworkremotely.com/remote-jobs.rss` | Es RSS, no JSON. La empresa viene incrustada en el título, separada por `:`. Y la descripción de cada oferta es HTML escapado: el feed real suma más de 27.000 entidades (`&lt;`, `&amp;`...), muy por encima del límite de 1.000 que `fast-xml-parser` impone por seguridad, así que solo se resuelven en los campos que se leen |
+| [Himalayas](https://himalayas.app) | `GET himalayas.app/jobs/api` | JSON paginado, salario numérico, fechas en **epoch en segundos** (no milisegundos). El `guid` es la URL entera; como id se usa `empresa/puesto` |
 
 Ver `src/fuentes/*.ts` — cada trampa está resuelta y comentada en el archivo de su propia fuente, no en un sitio aparte.
 
@@ -65,9 +98,24 @@ Esta sección existe porque prefiero adelantarme a la pregunta que dejarla para 
 | ¿Y si alguien dispara una corrida manual (`workflow_dispatch`) justo cuando el cron ya está corriendo? Dos jobs escribiendo `estado/datos.json` a la vez suena a desastre. | El workflow tiene un `concurrency.group` que pone en cola cualquier corrida que empiece mientras otra está en marcha, en vez de dejarlas correr en paralelo sobre el mismo archivo. Como defensa adicional, el paso de commit hace `git pull --rebase` antes de `git push`. | `.github/workflows/bot.yml` |
 | Si el filtro de salario mínimo no puede leer el número de una oferta (formato raro, o simplemente no trae salario), ¿la descarta? | No a propósito: descartar una oferta buena solo porque su texto de salario no encajó con el regex sería peor que no filtrar por salario en absoluto. Solo se descarta cuando el salario **sí** se pudo parsear y queda por debajo del mínimo. | `coincideConFiltros` en `src/filtros.ts` |
 | ¿Cómo se prueba todo esto sin depender de que las 4 APIs reales estén arriba en el momento exacto de correr `npm test`? | Cada fuente recibe su `fetch` por parámetro (inyección de dependencia); las pruebas pasan un `fetch` falso con respuestas fijas, así que corren en milisegundos y no dependen de la red ni del estado real de RemoteOK/Remotive/WeWorkRemotely/Himalayas ese día. | `src/fuentes/*.pruebas.ts` |
+| El bot es público en Telegram. ¿Qué impide que un desconocido le mande `/pausar` o te cambie los filtros? | Solo se aceptan comandos del chat configurado en `TELEGRAM_CHAT_ID`; los de cualquier otro chat se descartan sin responder (y su `update_id` igual avanza, para no releerlos). | `extraerComandos` en `src/telegram.ts`; probado en `src/telegram.pruebas.ts` |
+| Si escribes un comando mal, o con `<` o `&` dentro, ¿qué pasa? | Pasó de verdad: la ayuda de "comando desconocido" llevaba `/guardar <id>` sin escapar, Telegram la rechazaba con un 400 y esa excepción tumbaba la corrida entera. Como el estado no se guardaba, el mismo comando se releía en la siguiente y el bot quedaba en rojo en bucle por un solo mensaje. Ahora todo lo que el bot repite de lo que escribes se escapa, y si una respuesta aun así no se puede enviar, se registra y la corrida sigue. | `procesarComando` en `src/comandos.ts`; `procesarComandosPendientes` en `src/index.ts` |
+| Una fuente devuelve 200 pero su contenido no se puede leer. ¿Se nota? | Sí: el error de parseo se trata igual que una fuente caída y llega como aviso a Telegram. Así se detectó que WeWorkRemotely no aportaba ninguna oferta (ver su trampa en la tabla de fuentes). | `obtenerTodasLasFuentes` en `src/index.ts`; `src/fuentes/weworkremotely.pruebas.ts` |
 | ¿Qué pasa si las 4 fuentes fallan a la vez (por ejemplo, un corte de DNS en el runner)? | Se manda un aviso de Telegram por cada fuente caída — no un mensaje genérico de "algo falló", sino cuál de las cuatro y por qué — y la ejecución termina sin lanzar ninguna oferta nueva, en vez de fallar en seco sin que quede constancia. | `obtenerTodasLasFuentes` en `src/index.ts` |
 
-## Comandos
+## Cómo usarlo
+
+1. **Configúralo una vez**: crea el bot y añade los dos secrets de Telegram al repo (pasos en [Configuración en GitHub](#configuración-en-github-secrets-del-repo)).
+2. **Recibe avisos**: cada 6 horas el workflow revisa las cuatro fuentes y te escribe por Telegram un mensaje por oferta nueva que encaje con tus filtros, como máximo 15 por corrida. El resto queda en `/ultimas`.
+3. **Ajusta los filtros** escribiéndole al bot. Por ejemplo, `/filtros palabras backend,node,typescript` para que solo avise de esas ofertas.
+4. **Detenlo cuando quieras** con `/pausar`, y reactívalo con `/reanudar`. El workflow sigue corriendo, pero no te manda nada.
+
+Dos cosas a tener en cuenta:
+
+- **Un comando por mensaje.** El bot solo lee la primera palabra de cada mensaje como comando.
+- **La respuesta no es inmediata.** El bot lee tus comandos al empezar cada corrida, cada 6 horas. Para que conteste ya, abre la pestaña **Actions → Buscar ofertas → Run workflow**.
+
+### Comandos
 
 ```
 /filtros                            ver los filtros activos
@@ -130,7 +178,7 @@ The real exercise isn't calling an API and sending a message: it's that the four
 
 Key engineering decisions, documented above in Spanish and summarized here: polling every 6 hours (not GitHub's minimum of 5 minutes) because Remotive caps at 4 requests/day; cross-source deduplication by a normalized `company + title` hash, since each source has its own id space; state committed as JSON to the repo instead of relying on an external API, so the bot never depends on a second service just to know what it already notified; a from-scratch Telegram client instead of a bot library, since nothing here runs a persistent long-poll loop; and salary filtering that never discards an offer just because its salary format couldn't be parsed.
 
-The "Preguntas que le haría..." table above (in Spanish) walks through the hardening that came out of a second, adversarial pass on this project: HTML-escaping every field that lands in a Telegram message (a bare `&` in a job title used to break the whole send), throttling and retrying on Telegram's 429s, making `/guardar` idempotent against a reprocessed update, serializing overlapping workflow runs, and never letting a Telegram outage block the actual job-matching logic. Each row names the exact file and test that back it up.
+The "Preguntas que le haría..." table above (in Spanish) walks through the hardening that came out of a second, adversarial pass on this project: HTML-escaping every field that lands in a Telegram message (a bare `&` in a job title used to break the whole send), throttling and retrying on Telegram's 429s, making `/guardar` idempotent against a reprocessed update, serializing overlapping workflow runs, and never letting a Telegram outage block the actual job-matching logic. A third pass, once the bot was running for real, added accepting commands only from the owner's chat, never letting a failed command reply take down a run, and parsing a real RSS feed whose HTML-escaped descriptions blew past the XML parser's entity-expansion limit. Each row names the exact file and test that back it up. The [screenshots](#capturas) above are from the live bot.
 
 ## Licencia
 
