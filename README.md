@@ -110,6 +110,18 @@ TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=... node dist/index.js
 | `API_POSTULACIONES_URL` | no | Si se configura, habilita `/guardar`. Sin ella, el bot funciona igual y solo `/guardar` responde que no está disponible |
 | `API_POSTULACIONES_TOKEN` | no | Token de autenticación para esa API, si la requiere |
 
+#### Sin los secrets de Telegram, la búsqueda se omite (a propósito)
+
+Si falta `TELEGRAM_BOT_TOKEN` o `TELEGRAM_CHAT_ID`, el workflow no falla: instala dependencias y compila igual, pero se salta "Ejecutar el bot" y "Commitear el estado", termina en verde y deja un aviso y un resumen en la corrida diciendo qué secret falta. Así el rojo queda reservado para lo que de verdad se rompió (un build roto, o el bot fallando con los secrets ya puestos), y no para "todavía no está configurado".
+
+Para configurarlos:
+
+1. **Crear el bot.** Habla con [@BotFather](https://t.me/BotFather), manda `/newbot` y sigue los pasos. Al final te da el token: ese es `TELEGRAM_BOT_TOKEN`.
+2. **Obtener el chat id.** Abre el chat con tu bot nuevo y mándale cualquier mensaje. Después abre `https://api.telegram.org/bot<TOKEN>/getUpdates` en el navegador y busca `"chat":{"id":...}`: ese número es `TELEGRAM_CHAT_ID`.
+3. **Añadirlos al repo.** En GitHub, **Settings > Secrets and variables > Actions > New repository secret**, uno por cada valor, con esos nombres exactos.
+
+La siguiente corrida programada (o un "Run workflow" manual desde la pestaña Actions) ya ejecuta el bot de verdad.
+
 ## In English
 
 A Telegram bot that checks four unauthenticated remote-job sources every 6 hours, normalizes their four different formats into one schema, deduplicates across sources, and messages you when something matches your profile. It runs entirely inside a scheduled GitHub Actions workflow — no server, no database, zero cost.
