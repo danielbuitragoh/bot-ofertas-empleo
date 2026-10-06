@@ -410,9 +410,26 @@
     "quantum metric::solutions engineer spain german speaking",
     "labelbox::global specialized domain expert recruiter contractor",
     "relationalai::solution engineer",
-    "cresta::strategic sales director iberia"
+    "cresta::strategic sales director iberia",
+    "redmimicry::platform and integration engineer security telemetry"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "1137465",
+      "fuente": "remoteok",
+      "titulo": "Platform and Integration Engineer Security Telemetry",
+      "empresa": "RedMimicry",
+      "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+      "publicadoEn": 1791205202000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "golang",
+        "infosec",
+        "engineer",
+        "part time"
+      ]
+    },
     {
       "idFuente": "launchdarkly-backend-engineer-multiple-positions",
       "fuente": "weworkremotely",
@@ -1239,32 +1256,6 @@
         "Business-Development-Manager-Utilities",
         "Business-Development"
       ]
-    },
-    {
-      "idFuente": "alphahire/hris-and-payroll-systems-consultant",
-      "fuente": "himalayas",
-      "titulo": "HRIS and Payroll Systems Consultant",
-      "empresa": "AlphaHire",
-      "url": "https://himalayas.app/companies/alphahire/jobs/hris-and-payroll-systems-consultant",
-      "publicadoEn": 1791252456000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "HRIS-Consultant",
-        "Payroll-Specialist",
-        "HR-Consultant",
-        "Payroll-Consultant",
-        "ERP-Consultant",
-        "HRIS-Payroll-Consultant",
-        "Payroll-Systems-Consultant",
-        "HR-Systems-Consultant",
-        "HRIS-Consulting",
-        "HR-Payroll-Implementation-Consultant",
-        "HRIS-Technical-Consultant",
-        "HR-Payroll-Consultant",
-        "HR-Systems-Consulting",
-        "HRIS-Technology-Consulting"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [],
@@ -1299,16 +1290,16 @@
     ],
     "pausado": false
   },
-  "ultimoUpdateIdProcesado": 148864698,
+  "ultimoUpdateIdProcesado": 148864699,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 1188,
-      "remotive": 206,
-      "weworkremotely": 890,
-      "himalayas": 240,
-      "jobicy": 150
+      "remoteok": 1287,
+      "remotive": 224,
+      "weworkremotely": 979,
+      "himalayas": 260,
+      "jobicy": 200
     },
-    "duplicadosDescartados": 2263,
-    "ultimaEjecucion": "2026-10-06T12:41:36.232Z"
+    "duplicadosDescartados": 2538,
+    "ultimaEjecucion": "2026-10-06T13:14:56.429Z"
   }
 }
