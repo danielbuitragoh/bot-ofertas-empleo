@@ -363,9 +363,847 @@
     "propeller industries::practice lead growth",
     "aris search::technical project manager remote work from home msp it infrastructure",
     "ewor gmbh::ai research lab co founder cpto 100 remote m f d",
-    "digital forms::mobile developer react native"
+    "digital forms::mobile developer react native",
+    "codeforai::software engineer ai code trainer python web full stack",
+    "semaphore::senior product engineer",
+    "sezzle::aml compliance analyst",
+    "stripe::account executive existing business central eastern europe",
+    "dropbox::director of media strategy activation paid media",
+    "stripe::account executive enterprise grower",
+    "reddit::engineering manager notifications platform",
+    "dropbox::customer success manager japanese korean speaking remote",
+    "pagerduty::senior director field enablement",
+    "reddit::emea insights lead consumer and commercial strategy",
+    "pagerduty::principal solutions consultant",
+    "launchdarkly::engineering manager cloud engineering",
+    "webflow::senior infrastructure engineer",
+    "wrike::senior data scientist",
+    "launchdarkly::backend engineer multiple positions",
+    "wrike::group product manager klaxoon",
+    "webflow::senior developer educator",
+    "ace ventures::executive personal assistant to the founder remote uae or europe",
+    "trustage::sr procurement specialist remote usa",
+    "able ventures::od learning solutions associate",
+    "natera::director rare disease product marketing sales enablement",
+    "oversee::account executive emea",
+    "nachhilfeunterricht::remote fitness coaching flexibler nebenjob 15 30 std",
+    "vamo::digital sales manager warmepumpen m w d",
+    "findtutors::painting tutor flexible hours online in person 20 40 hr",
+    "danaher::flow cytometry field applications manager upper midwest northeast",
+    "continental group sector contitech::sales representative total conveyance canada engineering firms oems in na",
+    "rimkus::talent pipeline forensic global energy services",
+    "nachhilfeunterricht::physics tutor mechanical engineering specialist remote",
+    "mastarrec::u s client partner executive search risk compliance cybersecurity united s",
+    "ewor gmbh::renewable energy co founder head of sales 100 remote m f d",
+    "ewor gmbh::applied ai co founder head of product 100 remote m f d",
+    "centauri health solutions::senior hris analyst dayforce",
+    "findtutors::tutor in law online legal tutor flexible part time opportunity",
+    "alex staff agency::kernel developer kernelcare els team",
+    "unitek learning::adjunct assistant professor msn",
+    "guidewire software::technical product marketing principal ai ml",
+    "opinov8::senior data engineer",
+    "beyond finance::senior application security engineer",
+    "beyond finance::payment operations associate",
+    "carrot::lead product management",
+    "spire::sales manager weather climate emea apac",
+    "quantum metric::solutions engineer spain italian speaking",
+    "quantum metric::solutions engineer spain german speaking",
+    "labelbox::global specialized domain expert recruiter contractor",
+    "relationalai::solution engineer",
+    "cresta::strategic sales director iberia"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "launchdarkly-backend-engineer-multiple-positions",
+      "fuente": "weworkremotely",
+      "titulo": "Backend Engineer (Multiple Positions)",
+      "empresa": "LaunchDarkly",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
+      "publicadoEn": 1791271865000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "2091149",
+      "fuente": "remotive",
+      "titulo": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+      "empresa": "CodeForAI",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+      "publicadoEn": 1791177343000,
+      "salarioTexto": "$45-$120/Hour",
+      "ubicacion": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+      "etiquetas": [
+        "api",
+        "backend",
+        "C",
+        "C#",
+        "C++",
+        "fullstack",
+        "go",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "security",
+        "sql",
+        "AI/ML",
+        "rust",
+        "NoSQL",
+        "Typescript ",
+        "debugging",
+        "scripting"
+      ]
+    },
+    {
+      "idFuente": "semaphore-senior-product-engineer",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Product Engineer",
+      "empresa": "Semaphore",
+      "url": "https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
+      "publicadoEn": 1791276280000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "sezzle-aml-compliance-analyst",
+      "fuente": "weworkremotely",
+      "titulo": "AML Compliance Analyst",
+      "empresa": "Sezzle",
+      "url": "https://weworkremotely.com/remote-jobs/sezzle-aml-compliance-analyst",
+      "publicadoEn": 1791271886000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "stripe-account-executive-existing-business-central-eastern-europe",
+      "fuente": "weworkremotely",
+      "titulo": "Account Executive, Existing Business (Central Eastern Europe)",
+      "empresa": "Stripe",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-existing-business-central-eastern-europe",
+      "publicadoEn": 1791271886000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "dropbox-director-of-media-strategy-activation-paid-media",
+      "fuente": "weworkremotely",
+      "titulo": "Director of Media Strategy & Activation (Paid Media)",
+      "empresa": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-director-of-media-strategy-activation-paid-media",
+      "publicadoEn": 1791271886000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "stripe-account-executive-enterprise-grower-1",
+      "fuente": "weworkremotely",
+      "titulo": "Account Executive, Enterprise (Grower)",
+      "empresa": "Stripe",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-enterprise-grower-1",
+      "publicadoEn": 1791271876000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "reddit-engineering-manager-notifications-platform",
+      "fuente": "weworkremotely",
+      "titulo": "Engineering Manager, Notifications Platform",
+      "empresa": "Reddit",
+      "url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-notifications-platform",
+      "publicadoEn": 1791271876000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "dropbox-customer-success-manager-japanese-korean-speaking-remote",
+      "fuente": "weworkremotely",
+      "titulo": "Customer Success Manager — Japanese & Korean Speaking (Remote)",
+      "empresa": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-customer-success-manager-japanese-korean-speaking-remote",
+      "publicadoEn": 1791271876000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "pagerduty-senior-director-field-enablement",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Director, Field Enablement",
+      "empresa": "PagerDuty",
+      "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+      "publicadoEn": 1791271876000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "reddit-emea-insights-lead-consumer-and-commercial-strategy",
+      "fuente": "weworkremotely",
+      "titulo": "EMEA Insights Lead, Consumer and Commercial Strategy",
+      "empresa": "Reddit",
+      "url": "https://weworkremotely.com/remote-jobs/reddit-emea-insights-lead-consumer-and-commercial-strategy",
+      "publicadoEn": 1791271870000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "pagerduty-principal-solutions-consultant",
+      "fuente": "weworkremotely",
+      "titulo": "Principal Solutions Consultant",
+      "empresa": "PagerDuty",
+      "url": "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant",
+      "publicadoEn": 1791271869000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "DevOps and Sysadmin"
+      ]
+    },
+    {
+      "idFuente": "launchdarkly-engineering-manager-cloud-engineering",
+      "fuente": "weworkremotely",
+      "titulo": "Engineering Manager, Cloud Engineering",
+      "empresa": "LaunchDarkly",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-cloud-engineering",
+      "publicadoEn": 1791271869000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "DevOps and Sysadmin"
+      ]
+    },
+    {
+      "idFuente": "webflow-senior-infrastructure-engineer",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Infrastructure Engineer",
+      "empresa": "Webflow",
+      "url": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
+      "publicadoEn": 1791271865000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "wrike-senior-data-scientist",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Data Scientist",
+      "empresa": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-senior-data-scientist",
+      "publicadoEn": 1791271865000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "wrike-group-product-manager-klaxoon",
+      "fuente": "weworkremotely",
+      "titulo": "Group Product Manager [Klaxoon]",
+      "empresa": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-group-product-manager-klaxoon",
+      "publicadoEn": 1791271860000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "webflow-senior-developer-educator",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Developer Educator",
+      "empresa": "Webflow",
+      "url": "https://weworkremotely.com/remote-jobs/webflow-senior-developer-educator",
+      "publicadoEn": 1791271858000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Management and Finance"
+      ]
+    },
+    {
+      "idFuente": "ace-ventures-executive-personal-assistant-to-the-founder-remote-uae-or-europe",
+      "fuente": "weworkremotely",
+      "titulo": "Executive Personal Assistant to the Founder (Remote, UAE or Europe)",
+      "empresa": "Ace Ventures",
+      "url": "https://weworkremotely.com/remote-jobs/ace-ventures-executive-personal-assistant-to-the-founder-remote-uae-or-europe",
+      "publicadoEn": 1788699671000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "trustage/sr-procurement-specialist-remote-usa",
+      "fuente": "himalayas",
+      "titulo": "Sr. Procurement Specialist (Remote USA)",
+      "empresa": "TruStage",
+      "url": "https://himalayas.app/companies/trustage/jobs/sr-procurement-specialist-remote-usa",
+      "publicadoEn": 1791286755000,
+      "salarioTexto": "USD 83,100 - 124,700",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Procurement-Specialist",
+        "Sourcing-Specialist",
+        "Category-Manager",
+        "Contract-Specialist",
+        "Remote-Procurement-Specialist",
+        "Senior-Sourcing-Specialist",
+        "Senior-Procurement-Analyst",
+        "Supply-Chain-Procurement-Specialist",
+        "Principal-Procurement-Specialist",
+        "Procurement-Operations-Specialist"
+      ]
+    },
+    {
+      "idFuente": "able-ventures/od-learning-solutions-associate",
+      "fuente": "himalayas",
+      "titulo": "OD & Learning Solutions Associate",
+      "empresa": "Able Ventures ",
+      "url": "https://himalayas.app/companies/able-ventures/jobs/od-learning-solutions-associate",
+      "publicadoEn": 1791286295000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "L&D-Associate",
+        "Learning-and-Development-Associate",
+        "Professional-Development-Associate",
+        "Learning-and-Development-Analyst",
+        "L&D-Analyst",
+        "Associate-Training-Specialist"
+      ]
+    },
+    {
+      "idFuente": "natera/director-rare-disease-product-marketing-sales-enablement",
+      "fuente": "himalayas",
+      "titulo": "Director, Rare Disease Product Marketing & Sales Enablement",
+      "empresa": "Natera",
+      "url": "https://himalayas.app/companies/natera/jobs/director-rare-disease-product-marketing-sales-enablement",
+      "publicadoEn": 1791286118000,
+      "salarioTexto": "USD 186,600 - 233,300",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Product-Marketing-Director",
+        "Sales-Enablement-Director",
+        "Marketing-Director",
+        "Product-Marketing-Manager",
+        "Rare-Disease-Sales-Director",
+        "Rare-Disease-Marketing-Manager",
+        "Marketing",
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "oversee/account-executive-emea",
+      "fuente": "himalayas",
+      "titulo": "Account Executive - EMEA",
+      "empresa": "Oversee",
+      "url": "https://himalayas.app/companies/oversee/jobs/account-executive-emea",
+      "publicadoEn": 1791286102000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Account-Executive",
+        "Sales-Executive",
+        "B2B-Sales-Representative",
+        "Account-Executive-EMEA",
+        "Account-Executive-Europe",
+        "EMEA-Account-Director",
+        "Sales-Executive-EMEA",
+        "Global-Account-Executive",
+        "International-Account-Executive"
+      ]
+    },
+    {
+      "idFuente": "nachhilfeunterricht/remote-fitness-coaching-flexibler-nebenjob-15-30-std",
+      "fuente": "himalayas",
+      "titulo": "Remote Fitness Coaching | Flexibler Nebenjob | 15–30 €/Std",
+      "empresa": "Nachhilfeunterricht",
+      "url": "https://himalayas.app/companies/nachhilfeunterricht/jobs/remote-fitness-coaching-flexibler-nebenjob-15-30-std",
+      "publicadoEn": 1791286101000,
+      "salarioTexto": "USD 15 - 30",
+      "ubicacion": "Austria",
+      "etiquetas": [
+        "Online-Personal-Trainer",
+        "Personal-Trainer",
+        "Fitness-Coach",
+        "Health-Coach",
+        "Remote-Fitness-Coach",
+        "Remote-Fitness-Coaching",
+        "Remote-Junior-Fitness-Coach",
+        "Remote-Fitness-Trainer",
+        "Remote-Fitness-Instructor",
+        "Online-Fitness-Coach",
+        "Virtual-Fitness-Coaching",
+        "Remote-Fitness-Training",
+        "Virtual-Fitness-Coach",
+        "Remote-Personal-Training"
+      ]
+    },
+    {
+      "idFuente": "vamo-energy/digital-sales-manager-warmepumpen-m-w-d",
+      "fuente": "himalayas",
+      "titulo": "Digital Sales Manager Wärmepumpen (m/w/d)",
+      "empresa": "Vamo",
+      "url": "https://himalayas.app/companies/vamo-energy/jobs/digital-sales-manager-warmepumpen-m-w-d",
+      "publicadoEn": 1791286032000,
+      "salarioTexto": "USD 100,000 - 100,000",
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Digital-Sales-Manager",
+        "B2C-Vertrieb",
+        "Wärmepumpen-Vertrieb",
+        "Sales-Manager",
+        "Digital-Sales",
+        "Presales-Manager-Wärmepumpen",
+        "Sales-Manager-Heating-Technology",
+        "Technical-Sales-Manager-HVAC"
+      ]
+    },
+    {
+      "idFuente": "findtutors/painting-tutor-flexible-hours-online-in-person-20-40-hr",
+      "fuente": "himalayas",
+      "titulo": "Painting Tutor | Flexible Hours | Online & In-Person | £20–£40/hr",
+      "empresa": "FindTutors",
+      "url": "https://himalayas.app/companies/findtutors/jobs/painting-tutor-flexible-hours-online-in-person-20-40-hr",
+      "publicadoEn": 1791285664000,
+      "salarioTexto": "USD 20 - 40",
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Painting-Instructor",
+        "Art-Teacher",
+        "Private-Tutor",
+        "Creative-Instructor",
+        "Art-Tutoring",
+        "Online-Art-Instructor",
+        "Instructor-De-Pintura"
+      ]
+    },
+    {
+      "idFuente": "danaher/flow-cytometry-field-applications-manager-upper-midwest-northeast",
+      "fuente": "himalayas",
+      "titulo": "Flow Cytometry Field Applications Manager - Upper Midwest/Northeast",
+      "empresa": "Danaher",
+      "url": "https://himalayas.app/companies/danaher/jobs/flow-cytometry-field-applications-manager-upper-midwest-northeast",
+      "publicadoEn": 1791285402000,
+      "salarioTexto": "USD 120,000 - 150,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Field-Applications-Manager",
+        "Flow-Cytometry-Specialist",
+        "Applications-Scientist-Manager",
+        "Field-Applications-Scientist",
+        "Technical-Applications-Manager",
+        "Field-Application-Engineering-Manager",
+        "Field-Applications-Specialist",
+        "Field-Application-Scientist",
+        "Field-Application-Specialist"
+      ]
+    },
+    {
+      "idFuente": "continental-group-sector-contitech/sales-representative-total-conveyance-canada-engineering-firms-oems-in-na",
+      "fuente": "himalayas",
+      "titulo": "Sales Representative -Total Conveyance  - Canada & Engineering Firms/OEMs in NA",
+      "empresa": "Continental Group Sector ContiTech",
+      "url": "https://himalayas.app/companies/continental-group-sector-contitech/jobs/sales-representative-total-conveyance-canada-engineering-firms-oems-in-na",
+      "publicadoEn": 1791285265000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales",
+        "Business-Development-Representative",
+        "Account-Executive",
+        "Mining-Sales",
+        "Industrial-Sales-Representative",
+        "Industrial-Equipment-Sales-Representative"
+      ]
+    },
+    {
+      "idFuente": "rimkus/talent-pipeline-forensic-global-energy-services",
+      "fuente": "himalayas",
+      "titulo": "Talent Pipeline - Forensic Global Energy Services",
+      "empresa": "Rimkus",
+      "url": "https://himalayas.app/companies/rimkus/jobs/talent-pipeline-forensic-global-energy-services",
+      "publicadoEn": 1791285241000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Forensic-Engineer",
+        "Forensic-Consulting",
+        "Energy-Consultant",
+        "Technical-Consultant",
+        "Root-Cause-Analyst",
+        "Energy-Sector-Recruiting",
+        "Energy-Recruiting",
+        "Oil-And-Gas-Recruiting"
+      ]
+    },
+    {
+      "idFuente": "nachhilfeunterricht/physics-tutor-mechanical-engineering-specialist-remote",
+      "fuente": "himalayas",
+      "titulo": "Physics Tutor - Mechanical Engineering Specialist - Remote",
+      "empresa": "Nachhilfeunterricht",
+      "url": "https://himalayas.app/companies/nachhilfeunterricht/jobs/physics-tutor-mechanical-engineering-specialist-remote",
+      "publicadoEn": 1791285238000,
+      "salarioTexto": "USD 20 - 40",
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Physics-Tutor",
+        "Mechanical-Engineering-Tutor",
+        "Private-Tutor",
+        "Academic-Tutor",
+        "Online-Tutor",
+        "Mechanics-Tutor",
+        "Engineering-Tutor"
+      ]
+    },
+    {
+      "idFuente": "mastarrec/u-s-client-partner-executive-search-risk-compliance-cybersecurity-united-s",
+      "fuente": "himalayas",
+      "titulo": "U.S. Client Partner — Executive Search Risk, Compliance & Cybersecurity United S",
+      "empresa": "MastarRec",
+      "url": "https://himalayas.app/companies/mastarrec/jobs/u-s-client-partner-executive-search-risk-compliance-cybersecurity-united-s",
+      "publicadoEn": 1791285212000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Business-Development",
+        "Client-Partner",
+        "Executive-Search-Consultant",
+        "Professional-Services",
+        "Account-Manager",
+        "Strategic-Client-Partner"
+      ]
+    },
+    {
+      "idFuente": "ewor-gmbh/renewable-energy-co-founder-head-of-sales-100-remote-m-f-d-619260544",
+      "fuente": "himalayas",
+      "titulo": "Renewable Energy Co-Founder / Head of Sales (100 % remote) (m/f/d)",
+      "empresa": "EWOR GmbH",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/renewable-energy-co-founder-head-of-sales-100-remote-m-f-d-619260544",
+      "publicadoEn": 1791285161000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Entrepreneur",
+        "Co-Founder",
+        "Startup-Founder",
+        "Head-of-Sales",
+        "Business-Development",
+        "Renewable-Energy-Sales-Manager",
+        "Remote-Director-Of-Sales",
+        "Renewable-Energy-Sales",
+        "Remote-VP-Sales",
+        "Director-Of-Energy-Sales",
+        "Remote-Sales-Director"
+      ]
+    },
+    {
+      "idFuente": "ewor-gmbh/applied-ai-co-founder-head-of-product-100-remote-m-f-d-6706238825",
+      "fuente": "himalayas",
+      "titulo": "Applied AI Co-Founder / Head of Product (100 % remote) (m/f/d)",
+      "empresa": "EWOR GmbH",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-co-founder-head-of-product-100-remote-m-f-d-6706238825",
+      "publicadoEn": 1791285137000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Co-Founder",
+        "Head-of-Product",
+        "Product-Manager",
+        "Startup-Founder",
+        "Entrepreneur",
+        "Applied-AI-Co-Founder",
+        "Head-Of-AI-Product"
+      ]
+    },
+    {
+      "idFuente": "centauri-health-solutions/senior-hris-analyst-dayforce",
+      "fuente": "himalayas",
+      "titulo": "Senior HRIS Analyst (Dayforce)",
+      "empresa": "Centauri Health Solutions",
+      "url": "https://himalayas.app/companies/centauri-health-solutions/jobs/senior-hris-analyst-dayforce",
+      "publicadoEn": 1791284995000,
+      "salarioTexto": "USD 91,300 - 131,400",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "HRIS-Analyst",
+        "HRIS-Manager",
+        "Human-Resources-Information-Systems-Specialist",
+        "Ceridian-Dayforce-Analyst",
+        "HR-Systems-Analyst",
+        "Senior-HRIS-Analyst",
+        "Senior-HR-Technology-Analyst",
+        "Dayforce-Business-Systems-Analyst",
+        "Payroll-HRIS-Analyst",
+        "HRIS-Systems-Analyst"
+      ]
+    },
+    {
+      "idFuente": "findtutors/tutor-in-law-online-legal-tutor-flexible-part-time-opportunity",
+      "fuente": "himalayas",
+      "titulo": "Tutor in Law – Online Legal Tutor | Flexible Part-Time Opportunity",
+      "empresa": "FindTutors",
+      "url": "https://himalayas.app/companies/findtutors/jobs/tutor-in-law-online-legal-tutor-flexible-part-time-opportunity",
+      "publicadoEn": 1791284858000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Law-Tutor",
+        "Private-Tutor",
+        "Online-Tutor",
+        "A-Level-Law-Tutor",
+        "Freelance-Law-Tutor",
+        "Law-Tutoring",
+        "Part-Time-Tutor",
+        "Part-Time-Tutoring"
+      ]
+    },
+    {
+      "idFuente": "alex-staff-agency/kernel-developer-kernelcare-els-team",
+      "fuente": "himalayas",
+      "titulo": "Kernel Developer - KernelCare ELS Team",
+      "empresa": "Alex Staff Agency",
+      "url": "https://himalayas.app/companies/alex-staff-agency/jobs/kernel-developer-kernelcare-els-team",
+      "publicadoEn": 1791284799000,
+      "salarioTexto": null,
+      "ubicacion": "Argentina",
+      "etiquetas": [
+        "Kernel-Developer",
+        "Linux-Developer",
+        "Systems-Developer",
+        "Software-Developer",
+        "Kernel-Engineer",
+        "Kernel-Development",
+        "Kernel-Engineering",
+        "Linux-Kernel-Development",
+        "Linux-Kernel-Engineer",
+        "Linux-Kernel-Engineering"
+      ]
+    },
+    {
+      "idFuente": "unitek-learning/adjunct-assistant-professor-msn",
+      "fuente": "himalayas",
+      "titulo": "Adjunct Assistant Professor - MSN",
+      "empresa": "Unitek Learning",
+      "url": "https://himalayas.app/companies/unitek-learning/jobs/adjunct-assistant-professor-msn",
+      "publicadoEn": 1791284771000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Adjunct-Professor",
+        "Nursing-Instructor",
+        "Nurse-Educators",
+        "Adjunct-Faculty",
+        "Nursing-Faculty",
+        "Adjunct-Instructor",
+        "MSN-Faculty",
+        "Clinical-Nursing-Instructor",
+        "Nurse-Practitioner-Faculty"
+      ]
+    },
+    {
+      "idFuente": "guidewire-software/technical-product-marketing-principal-ai-ml-7074499509",
+      "fuente": "himalayas",
+      "titulo": "Technical Product Marketing- Principal (AI/ML)",
+      "empresa": "Guidewire Software",
+      "url": "https://himalayas.app/companies/guidewire-software/jobs/technical-product-marketing-principal-ai-ml-7074499509",
+      "publicadoEn": 1791284630000,
+      "salarioTexto": "USD 276,000 - 276,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Technical-Product-Marketing-Manager",
+        "Product-Marketer",
+        "AI-Product-Marketing",
+        "Insurance-Technology-Marketing",
+        "Product-Marketing-Specialist",
+        "Senior-Technical-Product-Marketing-Manager",
+        "Senior-AI-Product-Marketing-Manager",
+        "Senior-Product-Marketing-Manager-AI-Platform",
+        "Senior-Technical-Marketing-Manager"
+      ]
+    },
+    {
+      "idFuente": "opinov8/senior-data-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Data Engineer",
+      "empresa": "Opinov8",
+      "url": "https://himalayas.app/companies/opinov8/jobs/senior-data-engineer",
+      "publicadoEn": 1791284624000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Data-Engineer",
+        "Machine-Learning-Engineer",
+        "Python-Developer",
+        "Senior-Data-Engineering",
+        "Senior-Lead-Data-Engineering",
+        "Senior-Data-Engineer-Jobs",
+        "Senior-Data-Engineer-Positions",
+        "Data-Platform-Engineer"
+      ]
+    },
+    {
+      "idFuente": "154682",
+      "fuente": "jobicy",
+      "titulo": "Senior Application Security Engineer",
+      "empresa": "Beyond Finance",
+      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
+      "publicadoEn": 1791266935000,
+      "salarioTexto": "USD 140,000 - 165,000",
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Cybersecurity",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "154679",
+      "fuente": "jobicy",
+      "titulo": "Payment Operations Associate",
+      "empresa": "Beyond Finance",
+      "url": "https://jobicy.com/jobs/154679-payment-operations-associate",
+      "publicadoEn": 1791266933000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Finance & Accounting",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "154674",
+      "fuente": "jobicy",
+      "titulo": "Lead Product Management",
+      "empresa": "Carrot",
+      "url": "https://jobicy.com/jobs/154674-lead-product-management",
+      "publicadoEn": 1791266933000,
+      "salarioTexto": "USD 168,000 - 198,000",
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Product & Operations",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "152611",
+      "fuente": "jobicy",
+      "titulo": "Sales Manager - Weather & Climate (EMEA & APAC)",
+      "empresa": "Spire",
+      "url": "https://jobicy.com/jobs/152611-sales-manager-weather-climate-emea-apac-2",
+      "publicadoEn": 1791262516000,
+      "salarioTexto": null,
+      "ubicacion": "Europe",
+      "etiquetas": [
+        "Sales",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "152575",
+      "fuente": "jobicy",
+      "titulo": "Solutions Engineer - Spain (Italian Speaking)",
+      "empresa": "Quantum Metric",
+      "url": "https://jobicy.com/jobs/152575-solutions-engineer-spain-italian-speaking",
+      "publicadoEn": 1791262228000,
+      "salarioTexto": "EUR 60,000 - 80,000",
+      "ubicacion": "Spain",
+      "etiquetas": [
+        "Sales",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "152571",
+      "fuente": "jobicy",
+      "titulo": "Solutions Engineer - Spain (German Speaking)",
+      "empresa": "Quantum Metric",
+      "url": "https://jobicy.com/jobs/152571-solutions-engineer-spain-german-speaking",
+      "publicadoEn": 1791262224000,
+      "salarioTexto": "EUR 60,000 - 80,000",
+      "ubicacion": "Spain",
+      "etiquetas": [
+        "Sales",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "152587",
+      "fuente": "jobicy",
+      "titulo": "Global Specialized Domain Expert Recruiter (Contractor)",
+      "empresa": "Labelbox",
+      "url": "https://jobicy.com/jobs/152587-global-specialized-domain-expert-recruiter-contractor",
+      "publicadoEn": 1791262218000,
+      "salarioTexto": null,
+      "ubicacion": "LATAM, Europe, USA",
+      "etiquetas": [
+        "HR & Recruiting",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "152574",
+      "fuente": "jobicy",
+      "titulo": "Solution Engineer",
+      "empresa": "RelationalAI",
+      "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
+      "publicadoEn": 1791262212000,
+      "salarioTexto": "USD 170,000 - 200,000",
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Software Engineering",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "150243",
+      "fuente": "jobicy",
+      "titulo": "Strategic Sales Director, Iberia",
+      "empresa": "Cresta",
+      "url": "https://jobicy.com/jobs/150243-strategic-sales-director-iberia",
+      "publicadoEn": 1791261912000,
+      "salarioTexto": null,
+      "ubicacion": "Spain",
+      "etiquetas": [
+        "Sales",
+        "Director"
+      ]
+    },
     {
       "idFuente": "epam-systems-senior-dynamics-crm-developer-voc",
       "fuente": "weworkremotely",
@@ -427,904 +1265,6 @@
         "HR-Systems-Consulting",
         "HRIS-Technology-Consulting"
       ]
-    },
-    {
-      "idFuente": "national-university/part-time-faculty-inspired-teaching-and-learning",
-      "fuente": "himalayas",
-      "titulo": "Part-time Faculty, Inspired Teaching and Learning",
-      "empresa": "National University",
-      "url": "https://himalayas.app/companies/national-university/jobs/part-time-faculty-inspired-teaching-and-learning",
-      "publicadoEn": 1791250733000,
-      "salarioTexto": "USD 26.63 - 28.89",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Adjunct-Faculty",
-        "Part-Time-Faculty",
-        "Teaching-Faculty",
-        "Educator",
-        "Education-Instructor",
-        "Part-Time-Educator",
-        "Part-Time-Professor",
-        "Part-Time-University-Instructor",
-        "Part-Time-Teaching",
-        "Part-Time-Instructor",
-        "Part-Time-Instruction",
-        "Education"
-      ]
-    },
-    {
-      "idFuente": "workster-jobs/talent-acquisition-lead-poland-bpo",
-      "fuente": "himalayas",
-      "titulo": "Talent Acquisition Lead Poland (BPO)",
-      "empresa": "Workster Jobs",
-      "url": "https://himalayas.app/companies/workster-jobs/jobs/talent-acquisition-lead-poland-bpo",
-      "publicadoEn": 1791250728000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Talent-Acquisition-Lead",
-        "Recruitment-Manager",
-        "BPO-Recruiter",
-        "Head-of-Human-Resources",
-        "Staffing-Manager",
-        "Talent-Acquisition-Team-Lead",
-        "HR-Recruitment-Lead"
-      ]
-    },
-    {
-      "idFuente": "latino-legends/construction-assistant",
-      "fuente": "himalayas",
-      "titulo": "Construction Assistant",
-      "empresa": "Latino Legends",
-      "url": "https://himalayas.app/companies/latino-legends/jobs/construction-assistant",
-      "publicadoEn": 1791250723000,
-      "salarioTexto": "USD 1,500 - 1,750",
-      "ubicacion": "Guatemala, Mexico, Panama",
-      "etiquetas": [
-        "Construction-Assistant",
-        "Administrative-Assistant",
-        "Project-Coordinator",
-        "Operations-Assistant",
-        "Real-Estate-Administrative-Assistant",
-        "Entry-Level-Construction-Assistant",
-        "Construction-Trainee"
-      ]
-    },
-    {
-      "idFuente": "thriveworks/remote-limited-master-s-social-worker-fee-for-service",
-      "fuente": "himalayas",
-      "titulo": "Remote Limited Master's Social Worker - Fee For Service",
-      "empresa": "Thriveworks",
-      "url": "https://himalayas.app/companies/thriveworks/jobs/remote-limited-master-s-social-worker-fee-for-service",
-      "publicadoEn": 1791250718000,
-      "salarioTexto": "USD 62,200 - 62,200",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Limited-Master's-Social-Worker",
-        "Social-Worker",
-        "Clinical-Social-Worker",
-        "Mental-Health-Counselor",
-        "Telehealth-Counselor",
-        "Licensed-Master-Social-Worker-(LMSW)",
-        "Licensed-Master-Social-Worker",
-        "Remote-Social-Worker",
-        "Remote-Social-Work",
-        "Healthcare"
-      ]
-    },
-    {
-      "idFuente": "ms-smith-barney-llc/fixed-income-division-associate-commodities-document-negotiator",
-      "fuente": "himalayas",
-      "titulo": "Fixed Income Division – Associate, Commodities Document Negotiator",
-      "empresa": "MS Smith Barney, LLC",
-      "url": "https://himalayas.app/companies/ms-smith-barney-llc/jobs/fixed-income-division-associate-commodities-document-negotiator",
-      "publicadoEn": 1791250717000,
-      "salarioTexto": "USD 100,000 - 150,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Document-Negotiator",
-        "Commodities-Negotiator",
-        "Contract-Negotiator",
-        "Financial-Services-Associate",
-        "Legal-Negotiations-Specialist",
-        "Contracts-Associate"
-      ]
-    },
-    {
-      "idFuente": "aura/social-media-specialist-content-creator-part-time-contract-us-based-only",
-      "fuente": "himalayas",
-      "titulo": "Social Media Specialist & Content Creator (PART-TIME, CONTRACT, US-BASED ONLY)",
-      "empresa": "Aura",
-      "url": "https://himalayas.app/companies/aura/jobs/social-media-specialist-content-creator-part-time-contract-us-based-only",
-      "publicadoEn": 1791250709000,
-      "salarioTexto": "USD 28 - 32",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Social-Media-Specialist",
-        "Content-Creator",
-        "Social-Media-Manager",
-        "Digital-Content-Creator",
-        "Video-Content-Creator",
-        "Social-Media-Content-Specialist",
-        "Content-and-Social-Media-Specialist",
-        "Social-Content-Coordinator",
-        "Social-and-Community-Content-Specialist",
-        "Part-Time-Content-Specialist",
-        "Social-Media-Content-Writer",
-        "Social-Media",
-        "Marketing"
-      ]
-    },
-    {
-      "idFuente": "getmagic/ai-product-operations-specialist-freelance-remote",
-      "fuente": "himalayas",
-      "titulo": "AI Product Operations Specialist - Freelance, Remote",
-      "empresa": "Magic",
-      "url": "https://himalayas.app/companies/getmagic/jobs/ai-product-operations-specialist-freelance-remote",
-      "publicadoEn": 1791250709000,
-      "salarioTexto": "USD 7 - 7",
-      "ubicacion": "",
-      "etiquetas": [
-        "AI-Operations-Specialist",
-        "Product-Operations-Specialist",
-        "QA-Tester",
-        "Technical-Support-Specialist",
-        "AI-Product-Operations"
-      ]
-    },
-    {
-      "idFuente": "seattle-credit-union/contact-center-associate-4792243397",
-      "fuente": "himalayas",
-      "titulo": "Contact Center Associate",
-      "empresa": "Seattle Credit Union",
-      "url": "https://himalayas.app/companies/seattle-credit-union/jobs/contact-center-associate-4792243397",
-      "publicadoEn": 1791250708000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Contact-Center-Associate",
-        "Call-Center-Representative",
-        "Customer-Service",
-        "Member-Service-Representative",
-        "Banking-Representative",
-        "Contact-Centre-Associate",
-        "Call-Center-Service-Associate",
-        "Inbound-Call-Center-Associate",
-        "Customer-Care-Associate",
-        "Customer-Service-Associate"
-      ]
-    },
-    {
-      "idFuente": "job-duck/v105c-legal-assistant-client-case-coordinator",
-      "fuente": "himalayas",
-      "titulo": "V105C - Legal Assistant - Client Case Coordinator",
-      "empresa": "Job Duck",
-      "url": "https://himalayas.app/companies/job-duck/jobs/v105c-legal-assistant-client-case-coordinator",
-      "publicadoEn": 1791250707000,
-      "salarioTexto": "USD 1,150 - 1,220",
-      "ubicacion": "",
-      "etiquetas": [
-        "Legal-Assistant",
-        "Case-Coordinator",
-        "Paralegal",
-        "Legal-Administrative-Assistant",
-        "Client-Services-Coordinator",
-        "Legal-Case-Coordinator",
-        "Legal-Case-Manager",
-        "Legal-Intake-Coordinator",
-        "Legal"
-      ]
-    },
-    {
-      "idFuente": "clera/freelance-product-designer-fractional",
-      "fuente": "himalayas",
-      "titulo": "Freelance Product Designer (Fractional)",
-      "empresa": "Clera",
-      "url": "https://himalayas.app/companies/clera/jobs/freelance-product-designer-fractional",
-      "publicadoEn": 1791250690000,
-      "salarioTexto": "USD 100,000 - 120,000",
-      "ubicacion": "",
-      "etiquetas": [
-        "Product-Designer",
-        "Remote-Product-Designer",
-        "Freelance-UX-Designer",
-        "Freelance-UX-UI-Designer",
-        "Freelance-Designer",
-        "Remote-Digital-Product-Designer",
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "cribl/solutions-engineering-manager-department-of-war-intelligence-community-dow-i",
-      "fuente": "himalayas",
-      "titulo": "Solutions Engineering Manager, Department of War & Intelligence Community (DoW/I",
-      "empresa": "Cribl",
-      "url": "https://himalayas.app/companies/cribl/jobs/solutions-engineering-manager-department-of-war-intelligence-community-dow-i",
-      "publicadoEn": 1791250683000,
-      "salarioTexto": "USD 168,000 - 200,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Solutions-Engineering-Manager",
-        "Solutions-Engineer",
-        "Sales-Engineering-Manager",
-        "Presales-Manager",
-        "Technical-Pre-Sales-Manager",
-        "Defense-and-Government-Solutions-Engineer",
-        "Government-Solutions-Engineer",
-        "Strategic-Solutions-Engineer",
-        "Engineering-Manager"
-      ]
-    },
-    {
-      "idFuente": "mayflower/content-writer",
-      "fuente": "himalayas",
-      "titulo": "Content Writer",
-      "empresa": "Mayflower",
-      "url": "https://himalayas.app/companies/mayflower/jobs/content-writer",
-      "publicadoEn": 1791250675000,
-      "salarioTexto": null,
-      "ubicacion": "",
-      "etiquetas": [
-        "Content-Writer",
-        "Technical-Writer",
-        "Knowledge-Management-Specialist",
-        "Documentation-Writer",
-        "Copywriter",
-        "Content-Writing",
-        "Marketing-Content-Writer",
-        "Website-Content-Writer",
-        "SEO-Content-Writer",
-        "Freelance-Content-Writer",
-        "Digital-Content-Writer",
-        "Brand-Content-Writer",
-        "Content-Author"
-      ]
-    },
-    {
-      "idFuente": "transperfect/scheduler",
-      "fuente": "himalayas",
-      "titulo": "Scheduler",
-      "empresa": "TransPerfect",
-      "url": "https://himalayas.app/companies/transperfect/jobs/scheduler",
-      "publicadoEn": 1791250671000,
-      "salarioTexto": null,
-      "ubicacion": "Colombia",
-      "etiquetas": [
-        "Scheduling-Coordinator",
-        "Administrative-Coordinator",
-        "Scheduling-Specialist",
-        "Office-Administrator",
-        "Scheduling-Assistant",
-        "Schedulers",
-        "Scheduler-Planner",
-        "Scheduling",
-        "Schedule-Coordinator",
-        "Project-Scheduler"
-      ]
-    },
-    {
-      "idFuente": "equality-now/consultoria-para-el-desarrollo-de-una-metodologia-de-formacion-de-formadores-sob-9557228682",
-      "fuente": "himalayas",
-      "titulo": "CONSULTORÍA PARA EL DESARROLLO DE UNA METODOLOGÍA DE FORMACIÓN DE FORMADORES SOB",
-      "empresa": "Equality Now",
-      "url": "https://himalayas.app/companies/equality-now/jobs/consultoria-para-el-desarrollo-de-una-metodologia-de-formacion-de-formadores-sob-9557228682",
-      "publicadoEn": 1791250669000,
-      "salarioTexto": null,
-      "ubicacion": "",
-      "etiquetas": [
-        "Capacity-Building-Specialist",
-        "Training-Consultant",
-        "Program-Development-Specialist",
-        "Gender-Justice-Specialist",
-        "Technical-Advisor",
-        "Especialista-En-Formación-Profesional",
-        "Especialista-En-Capacitación-Y-Desarrollo",
-        "Formación-Y-Capacitación",
-        "Formación-Docente",
-        "Consultor-De-Treinamento",
-        "Instructor-De-Formación"
-      ]
-    },
-    {
-      "idFuente": "propeller-industries/practice-lead-growth",
-      "fuente": "himalayas",
-      "titulo": "Practice Lead, Growth",
-      "empresa": "Propeller Industries",
-      "url": "https://himalayas.app/companies/propeller-industries/jobs/practice-lead-growth",
-      "publicadoEn": 1791250660000,
-      "salarioTexto": "USD 300,000 - 350,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "CFO",
-        "Practice-Leader",
-        "VP-Finance",
-        "Director-of-Finance",
-        "Financial-Services-Leadership",
-        "Practice-Growth-Director",
-        "Practice-Lead",
-        "Growth-Lead",
-        "Consulting-Practice-Lead",
-        "Practice-Sales-Lead",
-        "Professional-Services-Practice-Lead",
-        "Growth",
-        "Sales"
-      ]
-    },
-    {
-      "idFuente": "aris-search/technical-project-manager-remote-work-from-home-msp-it-infrastructure",
-      "fuente": "himalayas",
-      "titulo": "Technical Project Manager (Remote, Work From Home) - MSP / IT Infrastructure",
-      "empresa": "Aris Search",
-      "url": "https://himalayas.app/companies/aris-search/jobs/technical-project-manager-remote-work-from-home-msp-it-infrastructure",
-      "publicadoEn": 1791250656000,
-      "salarioTexto": "USD 90,000 - 95,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Technical-Project-Manager",
-        "IT-Project-Manager",
-        "Project-Manager",
-        "Infrastructure-Project-Manager",
-        "MSP-Project-Manager",
-        "IT-Infrastructure-Project-Manager",
-        "IT-Services-Project-Manager",
-        "IT-Operations-Project-Manager",
-        "Technology-Services-Project-Manager",
-        "Network-Infrastructure-Project-Manager"
-      ]
-    },
-    {
-      "idFuente": "ewor-gmbh/ai-research-lab-co-founder-cpto-100-remote-m-f-d",
-      "fuente": "himalayas",
-      "titulo": "AI Research Lab Co-Founder / CPTO (100 % remote) (m/f/d)",
-      "empresa": "EWOR GmbH",
-      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-co-founder-cpto-100-remote-m-f-d",
-      "publicadoEn": 1791250653000,
-      "salarioTexto": null,
-      "ubicacion": "United Kingdom",
-      "etiquetas": [
-        "Co-Founder",
-        "Chief-Technology-Officer",
-        "CTO",
-        "Startup-Founder",
-        "Technology-Executive",
-        "AI-Research-Lead"
-      ]
-    },
-    {
-      "idFuente": "digitalforms/mobile-developer-react-native",
-      "fuente": "himalayas",
-      "titulo": "Mobile Developer (React Native)",
-      "empresa": "Digital Forms",
-      "url": "https://himalayas.app/companies/digitalforms/jobs/mobile-developer-react-native",
-      "publicadoEn": 1791250640000,
-      "salarioTexto": "USD 110 - 160",
-      "ubicacion": "",
-      "etiquetas": [
-        "Mobile-Application-Developer",
-        "React-Native-Developer",
-        "iOS-Developer",
-        "Android-Developer",
-        "Mobile-Engineer",
-        "Senior-React-Native-Mobile-Developer",
-        "React-Native-Engineer",
-        "Mobile-Software-Engineer-(IOS-Android)",
-        "Senior-Mobile-Application-Developer-(IOS-Android)"
-      ]
-    },
-    {
-      "idFuente": "150131",
-      "fuente": "jobicy",
-      "titulo": "Software Engineer in Network Infrastructure",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
-      "publicadoEn": 1791175748000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, Netherlands",
-      "etiquetas": [
-        "Software Engineering",
-        "Midweight"
-      ]
-    },
-    {
-      "idFuente": "150130",
-      "fuente": "jobicy",
-      "titulo": "Site Reliability Engineer in Network Infrastructure",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/150130-site-reliability-engineer-in-network-infrastructure",
-      "publicadoEn": 1791175747000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, Netherlands",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Midweight"
-      ]
-    },
-    {
-      "idFuente": "154501",
-      "fuente": "jobicy",
-      "titulo": "Platform Engineer",
-      "empresa": "Catawiki",
-      "url": "https://jobicy.com/jobs/154501-platform-engineer-2",
-      "publicadoEn": 1791092157000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "152431",
-      "fuente": "jobicy",
-      "titulo": "Software Engineer",
-      "empresa": "Dune",
-      "url": "https://jobicy.com/jobs/152431-software-engineer-9",
-      "publicadoEn": 1791088225000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, USA",
-      "etiquetas": [
-        "Software Engineering",
-        "Entry-Level, Junior"
-      ]
-    },
-    {
-      "idFuente": "154473",
-      "fuente": "jobicy",
-      "titulo": "Analyst II, Full Stack",
-      "empresa": "Affirm",
-      "url": "https://jobicy.com/jobs/154473-analyst-ii-full-stack",
-      "publicadoEn": 1791055467000,
-      "salarioTexto": "EUR 63,000 - 99,000",
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "150052",
-      "fuente": "jobicy",
-      "titulo": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
-      "empresa": "Softgic",
-      "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
-      "publicadoEn": 1790998226000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Software Engineering",
-        "Midweight"
-      ]
-    },
-    {
-      "idFuente": "149988",
-      "fuente": "jobicy",
-      "titulo": "Software Engineer - Data Infrastructure - Kafka",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
-      "publicadoEn": 1790995417000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "Software Engineering",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "1137463",
-      "fuente": "remoteok",
-      "titulo": "Federal Business Development Director",
-      "empresa": "Fortanix",
-      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
-      "publicadoEn": 1791129603000,
-      "salarioTexto": null,
-      "ubicacion": null,
-      "etiquetas": [
-        "exec",
-        "infosec",
-        "teaching",
-        "consulting",
-        "technical",
-        "customer support",
-        "marketing",
-        "speech",
-        "cloud",
-        "bus dev",
-        "sales",
-        "medical"
-      ]
-    },
-    {
-      "idFuente": "1137429",
-      "fuente": "remoteok",
-      "titulo": "Mecánico Automotriz Diagnóstico y Presupuestos",
-      "empresa": "Workana",
-      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429",
-      "publicadoEn": 1790208007000,
-      "salarioTexto": null,
-      "ubicacion": null,
-      "etiquetas": []
-    },
-    {
-      "idFuente": "1137415",
-      "fuente": "remoteok",
-      "titulo": "Freelance grabación de tareas cotidianas para proyecto de IA",
-      "empresa": "Mindrift - Data annotation",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
-      "publicadoEn": 1790035213000,
-      "salarioTexto": null,
-      "ubicacion": null,
-      "etiquetas": [
-        "data annotation",
-        "c"
-      ]
-    },
-    {
-      "idFuente": "1137155",
-      "fuente": "remoteok",
-      "titulo": "Oracle Fusion Cloud Lead — Logistics & Supply Chain Management",
-      "empresa": "Tessera Labs",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-      "publicadoEn": 1787788817000,
-      "salarioTexto": "$30 - $36",
-      "ubicacion": null,
-      "etiquetas": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ]
-    },
-    {
-      "idFuente": "sparix-global-msd-365-customer-relationship-management-crm-lead-1",
-      "fuente": "weworkremotely",
-      "titulo": "MSD 365 Customer Relationship Management (CRM) Lead",
-      "empresa": "Sparix Global.",
-      "url": "https://weworkremotely.com/remote-jobs/sparix-global-msd-365-customer-relationship-management-crm-lead-1",
-      "publicadoEn": 1791226667000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "evopoint-solutions-dynamics-365-ce-crm-f-o",
-      "fuente": "weworkremotely",
-      "titulo": "Dynamics 365 CE/CRM & F&O",
-      "empresa": "EvoPoint Solutions",
-      "url": "https://weworkremotely.com/remote-jobs/evopoint-solutions-dynamics-365-ce-crm-f-o",
-      "publicadoEn": 1791226666000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "prospex-crm-technical-recruiter",
-      "fuente": "weworkremotely",
-      "titulo": "Technical Recruiter",
-      "empresa": "Prospex CRM",
-      "url": "https://weworkremotely.com/remote-jobs/prospex-crm-technical-recruiter",
-      "publicadoEn": 1791226666000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "veeva-systems-it-lead-consultant-service-delivery-lead-cloud-crm-remote",
-      "fuente": "weworkremotely",
-      "titulo": "IT Lead Consultant / Service Delivery Lead  - Cloud CRM (Remote)",
-      "empresa": "Veeva Systems",
-      "url": "https://weworkremotely.com/remote-jobs/veeva-systems-it-lead-consultant-service-delivery-lead-cloud-crm-remote",
-      "publicadoEn": 1791226666000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "netvendor-document-processor-manager",
-      "fuente": "weworkremotely",
-      "titulo": "Document Processor Manager",
-      "empresa": "NetVendor",
-      "url": "https://weworkremotely.com/remote-jobs/netvendor-document-processor-manager",
-      "publicadoEn": 1791226634000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "lawnstarter-software-engineering-manager-7",
-      "fuente": "weworkremotely",
-      "titulo": "Software Engineering Manager",
-      "empresa": "LawnStarter",
-      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-7",
-      "publicadoEn": 1791216557000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "owensminor/procurement-analyst-iii-hr-it-general-labor-benefits",
-      "fuente": "himalayas",
-      "titulo": "Procurement Analyst III – HR, IT, General Labor & Benefits",
-      "empresa": "Owens & Minor",
-      "url": "https://himalayas.app/companies/owensminor/jobs/procurement-analyst-iii-hr-it-general-labor-benefits",
-      "publicadoEn": 1791240384000,
-      "salarioTexto": "USD 87,000 - 107,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Procurement-Analyst",
-        "Indirect-Procurement-Specialist",
-        "Strategic-Sourcing-Analyst",
-        "Supply-Chain-Analyst",
-        "Category-Analyst",
-        "Senior-Procurement-Analyst",
-        "Sourcing-And-Procurement-Analyst",
-        "Procurement-Operations-Analyst",
-        "Senior-Purchasing-Analyst"
-      ]
-    },
-    {
-      "idFuente": "alliance-health/care-manager-i-waiver-full-time-remote-north-carolina-based",
-      "fuente": "himalayas",
-      "titulo": "Care Manager I-Waiver (Full-time Remote, North Carolina Based)",
-      "empresa": "Alliance Health",
-      "url": "https://himalayas.app/companies/alliance-health/jobs/care-manager-i-waiver-full-time-remote-north-carolina-based",
-      "publicadoEn": 1791239413000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Care-Management",
-        "Care-Coordination",
-        "Waiver-Care-Manager",
-        "Medicaid-Care-Management",
-        "Care-Coordinator-I-(Client-Care-Specialist)",
-        "Remote-Care-Manager",
-        "Remote-Care-Coordinator",
-        "Remote-Clinical-Care-Coordinator",
-        "RN-Care-Manager"
-      ]
-    },
-    {
-      "idFuente": "asaas/senior-tax-compliance-analyst",
-      "fuente": "himalayas",
-      "titulo": "Sênior Tax Compliance Analyst",
-      "empresa": "Asaas",
-      "url": "https://himalayas.app/companies/asaas/jobs/senior-tax-compliance-analyst",
-      "publicadoEn": 1791239410000,
-      "salarioTexto": null,
-      "ubicacion": "Brazil",
-      "etiquetas": [
-        "Tax-Compliance",
-        "Tax-Analysis",
-        "Tax-Accounting",
-        "Tax-Advisory",
-        "Tax-Management",
-        "Tax-Compliance-Analyst",
-        "Tax-Senior-Analyst",
-        "Senior-Tax-Analyst",
-        "Tax-Compliance-Specialist",
-        "Senior-Tax-Compliance-Roles"
-      ]
-    },
-    {
-      "idFuente": "bemobi/consultor-a-comercial-junior-agenda-edu-4542953142",
-      "fuente": "himalayas",
-      "titulo": "Consultor(a) Comercial Júnior | Agenda Edu",
-      "empresa": "Bemobi",
-      "url": "https://himalayas.app/companies/bemobi/jobs/consultor-a-comercial-junior-agenda-edu-4542953142",
-      "publicadoEn": 1791239406000,
-      "salarioTexto": null,
-      "ubicacion": "Brazil",
-      "etiquetas": [
-        "Vendas-B2B",
-        "Consultoria-Comercial",
-        "Vendas-Educacional",
-        "Inside-Sales",
-        "Commercial-Sales",
-        "Asesor-De-Ventas-Educativas-Junior",
-        "Consultor-Comercial",
-        "Analista-Comercial-Junior",
-        "Consultor-De-Vendas",
-        "Consultor-De-Ventas"
-      ]
-    },
-    {
-      "idFuente": "teladoc-health/staff-physician-primary-care-telemedicine-4745628540",
-      "fuente": "himalayas",
-      "titulo": "Staff Physician, Primary Care Telemedicine",
-      "empresa": "Teladoc Health",
-      "url": "https://himalayas.app/companies/teladoc-health/jobs/staff-physician-primary-care-telemedicine-4745628540",
-      "publicadoEn": 1791239405000,
-      "salarioTexto": "USD 245,300 - 245,300",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Telemedicine-Physician",
-        "Virtual-Care-Physician",
-        "Primary-Care-Physician",
-        "Telehealth-Provider",
-        "Remote-Healthcare-Provider",
-        "Telemedicine-Primary-Care-Physician",
-        "Telehealth-Primary-Care-Physician",
-        "Telemedicine-Family-Medicine-Physician",
-        "Telehealth-Physician",
-        "Remote-Primary-Care-Physician",
-        "Primary-Care-Telemedicine",
-        "Telehealth-Internal-Medicine-Provider",
-        "Telemedicine-Clinician"
-      ]
-    },
-    {
-      "idFuente": "seja-globalweb/administrador-de-dados",
-      "fuente": "himalayas",
-      "titulo": "ADMINISTRADOR DE DADOS",
-      "empresa": "Seja Globalweb",
-      "url": "https://himalayas.app/companies/seja-globalweb/jobs/administrador-de-dados",
-      "publicadoEn": 1791239405000,
-      "salarioTexto": null,
-      "ubicacion": "Brazil",
-      "etiquetas": [
-        "Data-Administrator",
-        "Data-Management",
-        "Database-Administration",
-        "Modelagem-De-Dados",
-        "Arquitetura-De-Dados",
-        "Administrador-De-Banco-De-Dados",
-        "Administration-De-Données",
-        "Administrateur-De-Bases-De-Données"
-      ]
-    },
-    {
-      "idFuente": "manulife/bilingual-disability-case-analyst-case-manager-5995322396",
-      "fuente": "himalayas",
-      "titulo": "Bilingual Disability Case Analyst/Case Manager",
-      "empresa": "Manulife",
-      "url": "https://himalayas.app/companies/manulife/jobs/bilingual-disability-case-analyst-case-manager-5995322396",
-      "publicadoEn": 1791239398000,
-      "salarioTexto": "USD 52,650 - 87,750",
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "Disability-Case-Management",
-        "Case-Management",
-        "Claims-Analysis",
-        "Healthcare-Case-Management",
-        "Benefits-Administration",
-        "Disability-Claims",
-        "Return-To-Work-Coordination",
-        "Bilingual-Caseworker",
-        "Disability-Case-Manager",
-        "Bilingual-Case-Management",
-        "Case-Management-Analyst",
-        "Bilingual-Claims-Specialist",
-        "Case-Manager"
-      ]
-    },
-    {
-      "idFuente": "giro-tech/assistente-financeiro-pleno-produtos-de-credito",
-      "fuente": "himalayas",
-      "titulo": "Assistente Financeiro Pleno [Produtos de Crédito]",
-      "empresa": "GIRO.TECH",
-      "url": "https://himalayas.app/companies/giro-tech/jobs/assistente-financeiro-pleno-produtos-de-credito",
-      "publicadoEn": 1791239397000,
-      "salarioTexto": null,
-      "ubicacion": "Brazil",
-      "etiquetas": [
-        "Finance-Assistant",
-        "Credit-Products",
-        "Financial-Reconciliations",
-        "Fintech",
-        "Operações-Financeiras",
-        "Assistente-De-Crédito",
-        "Asistente-Financiero",
-        "Ejecutivo-De-Crédito",
-        "Serviços-Financeiros"
-      ]
-    },
-    {
-      "idFuente": "teladoc-health/legal-counsel-canada",
-      "fuente": "himalayas",
-      "titulo": "Legal Counsel, Canada",
-      "empresa": "Teladoc Health",
-      "url": "https://himalayas.app/companies/teladoc-health/jobs/legal-counsel-canada",
-      "publicadoEn": 1791239396000,
-      "salarioTexto": "USD 135,000 - 155,000",
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "Legal-Counsel",
-        "Healthcare-Law",
-        "Privacy-Law",
-        "Corporate-Counsel",
-        "Commercial-Law",
-        "Associate-Legal-Counsel",
-        "Senior-Legal-Counsel"
-      ]
-    },
-    {
-      "idFuente": "manulife/bilingual-collection-officer-5357470356",
-      "fuente": "himalayas",
-      "titulo": "Bilingual Collection Officer",
-      "empresa": "Manulife",
-      "url": "https://himalayas.app/companies/manulife/jobs/bilingual-collection-officer-5357470356",
-      "publicadoEn": 1791239395000,
-      "salarioTexto": "USD 48,450 - 80,750",
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "Collections-Officer",
-        "Banking-Collections",
-        "Debt-Collection",
-        "Consumer-Collections",
-        "Bilingual-Collections",
-        "Bilingual-Collections-Specialist",
-        "Bilingual-Accounts-Receivable-Collector",
-        "Collection-Officer",
-        "Collections-Representative",
-        "Collections-Agent",
-        "Collections-Associate",
-        "Collections-Specialist"
-      ]
-    },
-    {
-      "idFuente": "epic-io/customer-success-manager-retention-specialist",
-      "fuente": "himalayas",
-      "titulo": "Customer Success Manager / Retention Specialist",
-      "empresa": "EPIC iO",
-      "url": "https://himalayas.app/companies/epic-io/jobs/customer-success-manager-retention-specialist",
-      "publicadoEn": 1791239395000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Customer-Success-Manager",
-        "Retention-Specialist",
-        "Account-Management",
-        "Client-Success",
-        "Customer-Success",
-        "Customer-Retention-Specialist",
-        "Customer-Retention-Manager",
-        "Customer-Success-Renewals-Manager",
-        "Customer-Success-Account-Manager"
-      ]
-    },
-    {
-      "idFuente": "manulife/senior-underwriting-consultant-4117273153",
-      "fuente": "himalayas",
-      "titulo": "Senior Underwriting Consultant",
-      "empresa": "Manulife",
-      "url": "https://himalayas.app/companies/manulife/jobs/senior-underwriting-consultant-4117273153",
-      "publicadoEn": 1791239391000,
-      "salarioTexto": "USD 92,475 - 160,290",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Underwriting",
-        "Insurance-Underwriting",
-        "Risk-Assessment",
-        "life-insurance",
-        "Senior-Underwriting",
-        "Senior-Underwriting-Consultant",
-        "Senior-Underwriting-Specialist",
-        "Senior-Underwriting-Manager",
-        "Senior-Underwriter",
-        "Insurance-Underwriting-Consultant",
-        "Senior-Underwriting-Officer",
-        "Senior-Underwriting-Management"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [],
@@ -1362,13 +1302,13 @@
   "ultimoUpdateIdProcesado": 148864698,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 1089,
-      "remotive": 188,
-      "weworkremotely": 801,
-      "himalayas": 220,
-      "jobicy": 100
+      "remoteok": 1188,
+      "remotive": 206,
+      "weworkremotely": 890,
+      "himalayas": 240,
+      "jobicy": 150
     },
-    "duplicadosDescartados": 2034,
-    "ultimaEjecucion": "2026-10-06T04:41:17.617Z"
+    "duplicadosDescartados": 2263,
+    "ultimaEjecucion": "2026-10-06T12:41:36.232Z"
   }
 }
