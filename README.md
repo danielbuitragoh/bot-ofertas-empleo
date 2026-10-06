@@ -133,7 +133,7 @@ Dos cosas a tener en cuenta:
 /guardar <id>                       manda esa oferta al gestor de candidaturas — el id aparece en cada aviso y en /ultimas
 ```
 
-`/guardar` es el comando que cierra el círculo entre los dos proyectos: una oferta que este bot encontró entra al [gestor de candidaturas](https://github.com/danielbuitragoh/gestor-postulaciones) con un solo mensaje de Telegram, sin copiar y pegar nada a mano.
+`/guardar` es el comando que cierra el círculo entre los dos proyectos: una oferta que este bot encontró entra al [gestor de candidaturas](https://github.com/danielbuitragoh/gestor-postulaciones) con un solo mensaje de Telegram, sin copiar y pegar nada a mano. Guardar es una decisión tuya, oferta por oferta: el bot no manda nada al gestor por su cuenta, porque llenaría el tablero con todo lo que avisa.
 
 ## Stack
 
@@ -159,8 +159,9 @@ TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=... node dist/index.js
 |---|---|---|
 | `TELEGRAM_BOT_TOKEN` | sí | El token que da [@BotFather](https://t.me/BotFather) al crear el bot |
 | `TELEGRAM_CHAT_ID` | sí | El chat (normalmente tu chat privado con el bot) al que se manda cada aviso |
-| `API_POSTULACIONES_URL` | no | Si se configura, habilita `/guardar`. Sin ella, el bot funciona igual y solo `/guardar` responde que no está disponible |
-| `API_POSTULACIONES_TOKEN` | no | Token de autenticación para esa API, si la requiere |
+| `API_POSTULACIONES_URL` | no | URL de [api-postulaciones](https://github.com/danielbuitragoh/api-postulaciones). Con las dos de abajo, habilita `/guardar`; sin ellas, el bot funciona igual y solo `/guardar` responde que no está disponible |
+| `API_POSTULACIONES_EMAIL` | no | Email de tu cuenta en esa API |
+| `API_POSTULACIONES_CONTRASENA` | no | Contraseña de esa cuenta. El bot inicia sesión cada vez que guarda: la API emite tokens que caducan a los 15 minutos, así que un token fijo dejaba de servir enseguida |
 
 #### Sin los secrets de Telegram, la búsqueda se omite (a propósito)
 

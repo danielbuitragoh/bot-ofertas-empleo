@@ -80,7 +80,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           API_POSTULACIONES_URL: ${{ secrets.API_POSTULACIONES_URL }}
-          API_POSTULACIONES_TOKEN: ${{ secrets.API_POSTULACIONES_TOKEN }}
+          API_POSTULACIONES_EMAIL: ${{ secrets.API_POSTULACIONES_EMAIL }}
+          API_POSTULACIONES_CONTRASENA: ${{ secrets.API_POSTULACIONES_CONTRASENA }}
         run: node dist/index.js
 
       - name: Commitear el estado si cambió
