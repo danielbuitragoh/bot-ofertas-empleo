@@ -13,6 +13,15 @@ describe('leerCredencialesGestor', () => {
     expect(leerCredencialesGestor({ API_POSTULACIONES_URL: 'https://x', API_POSTULACIONES_EMAIL: 'a@b' })).toBeNull();
   });
 
+  it('ignora el espacio o salto de línea que se cuela al pegar un secret', () => {
+    const leidas = leerCredencialesGestor({
+      API_POSTULACIONES_URL: 'https://api.ejemplo.test\n',
+      API_POSTULACIONES_EMAIL: ' dan@ejemplo.test \n',
+      API_POSTULACIONES_CONTRASENA: 'con espacio \r\n',
+    });
+    expect(leidas).toEqual({ url: 'https://api.ejemplo.test', email: 'dan@ejemplo.test', contrasena: 'con espacio ' });
+  });
+
   it('quita la barra final de la URL', () => {
     const leidas = leerCredencialesGestor({
       API_POSTULACIONES_URL: 'https://api.ejemplo.test/',
