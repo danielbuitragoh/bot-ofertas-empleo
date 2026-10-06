@@ -47,6 +47,9 @@ export async function guardarEnGestor(
       puesto: oferta.titulo,
       fuente: `bot-ofertas-empleo · ${oferta.fuente}`,
       modalidad: 'remoto',
+      // Guardar una oferta no es haberla enviado: entra en "Por enviar" y
+      // no cuenta en el embudo hasta que se mueve a "Enviadas".
+      estado_inicial: 'guardada',
       // url_oferta y ubicacion van a sus campos y no a las notas: así el
       // tablero enseña el enlace a la oferta y se puede filtrar por lugar.
       url_oferta: oferta.url,

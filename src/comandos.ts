@@ -173,7 +173,7 @@ async function manejarGuardar(
   try {
     await deps.guardarEnGestor(oferta);
     return {
-      respuesta: `Guardada: ${escaparHTML(oferta.titulo)} — ${escaparHTML(oferta.empresa)}. Ya aparece en el gestor de candidaturas.`,
+      respuesta: `Guardada: ${escaparHTML(oferta.titulo)} — ${escaparHTML(oferta.empresa)}. Está en "Por enviar" en el gestor de candidaturas.`,
       estadoActualizado: { ...estado, idsGuardadosEnGestor: [...estado.idsGuardadosEnGestor, idFuente].slice(-2000) },
     };
   } catch (error) {
