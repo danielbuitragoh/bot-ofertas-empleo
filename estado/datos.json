@@ -1249,7 +1249,9 @@
       ]
     }
   ],
-  "idsGuardadosEnGestor": [],
+  "idsGuardadosEnGestor": [
+    "launchdarkly-backend-engineer-multiple-positions"
+  ],
   "filtros": {
     "palabrasClave": [
       "developer",
@@ -1281,16 +1283,16 @@
     ],
     "pausado": false
   },
-  "ultimoUpdateIdProcesado": 148864701,
+  "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 1485,
-      "remotive": 260,
-      "weworkremotely": 1157,
-      "himalayas": 300,
-      "jobicy": 300
+      "remoteok": 1584,
+      "remotive": 278,
+      "weworkremotely": 1246,
+      "himalayas": 320,
+      "jobicy": 350
     },
-    "duplicadosDescartados": 3089,
-    "ultimaEjecucion": "2026-10-06T13:27:11.731Z"
+    "duplicadosDescartados": 3365,
+    "ultimaEjecucion": "2026-10-06T13:48:12.526Z"
   }
 }
