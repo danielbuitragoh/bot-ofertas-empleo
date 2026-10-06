@@ -1,5 +1,5 @@
 import { escaparHTML, type ComandoRecibido } from './telegram.js';
-import type { Estado } from './tipos.js';
+import type { Estado, OfertaEmpleo } from './tipos.js';
 
 export interface ResultadoComando {
   respuesta: string;
@@ -14,7 +14,7 @@ export interface DependenciasComandos {
    * seguir funcionando (avisando de ofertas) aunque este servicio esté
    * caído — solo /guardar deja de funcionar, nada más.
    */
-  guardarEnGestor: (idFuente: string, tituloOferta: string, empresa: string, url: string) => Promise<void>;
+  guardarEnGestor: (oferta: OfertaEmpleo) => Promise<void>;
 }
 
 export async function procesarComando(
@@ -171,7 +171,7 @@ async function manejarGuardar(
   }
 
   try {
-    await deps.guardarEnGestor(oferta.idFuente, oferta.titulo, oferta.empresa, oferta.url);
+    await deps.guardarEnGestor(oferta);
     return {
       respuesta: `Guardada: ${escaparHTML(oferta.titulo)} — ${escaparHTML(oferta.empresa)}. Ya aparece en el gestor de candidaturas.`,
       estadoActualizado: { ...estado, idsGuardadosEnGestor: [...estado.idsGuardadosEnGestor, idFuente].slice(-2000) },
