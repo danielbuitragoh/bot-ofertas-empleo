@@ -178,7 +178,7 @@ async function manejarGuardar(
     };
   } catch (error) {
     return {
-      respuesta: `No pude guardarla en el gestor (¿está caída la API?): ${escaparHTML((error as Error).message)}. La oferta sigue disponible, intenta más tarde.`,
+      respuesta: `No pude guardarla en el gestor: ${escaparHTML((error as Error).message)}. La oferta sigue en /ultimas para intentarlo de nuevo.`,
     };
   }
 }

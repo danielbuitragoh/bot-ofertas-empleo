@@ -23,9 +23,14 @@ export interface OfertaParaGestor {
 
 /** Lee las credenciales del entorno. Devuelve null si falta alguna: /guardar responde entonces que no está disponible. */
 export function leerCredencialesGestor(entorno: NodeJS.ProcessEnv = process.env): CredencialesGestor | null {
-  const url = entorno.API_POSTULACIONES_URL?.replace(/\/+$/, '');
-  const email = entorno.API_POSTULACIONES_EMAIL;
-  const contrasena = entorno.API_POSTULACIONES_CONTRASENA;
+  // Al pegar un valor en el formulario de secrets de GitHub es fácil que se
+  // cuele un espacio o un salto de línea al final: no se ve, y la API
+  // rechaza el inicio de sesión. Al email y la URL se les quitan los
+  // espacios de los extremos; a la contraseña, solo los saltos de línea
+  // finales, porque un espacio sí puede formar parte de una contraseña.
+  const url = entorno.API_POSTULACIONES_URL?.trim().replace(/\/+$/, '');
+  const email = entorno.API_POSTULACIONES_EMAIL?.trim();
+  const contrasena = entorno.API_POSTULACIONES_CONTRASENA?.replace(/[\r\n]+$/, '');
   if (!url || !email || !contrasena) return null;
   return { url, email, contrasena };
 }
