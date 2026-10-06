@@ -60,6 +60,7 @@ describe('guardarEnGestor', () => {
       empresa: { nombre: 'Acme' },
       puesto: 'Backend Developer',
       modalidad: 'remoto',
+      estado_inicial: 'guardada',
       url_oferta: 'https://ejemplo.test/oferta',
       ubicacion: 'Spain',
       fuente: 'bot-ofertas-empleo · jobicy',
