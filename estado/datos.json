@@ -411,9 +411,23 @@
     "labelbox::global specialized domain expert recruiter contractor",
     "relationalai::solution engineer",
     "cresta::strategic sales director iberia",
-    "redmimicry::platform and integration engineer security telemetry"
+    "redmimicry::platform and integration engineer security telemetry",
+    "lemon io::senior angular full stack developer"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "lemon-io-senior-angular-full-stack-developer",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Angular Full-stack Developer",
+      "empresa": "Lemon.io",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+      "publicadoEn": 1791293157000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
     {
       "idFuente": "1137465",
       "fuente": "remoteok",
@@ -1233,29 +1247,6 @@
       "etiquetas": [
         "Customer Support"
       ]
-    },
-    {
-      "idFuente": "ul-solutions/business-development-manager-renewables-advisory-services-m-f-d",
-      "fuente": "himalayas",
-      "titulo": "Business Development Manager, Renewables Advisory Services (m/f/d)",
-      "empresa": "UL Solutions",
-      "url": "https://himalayas.app/companies/ul-solutions/jobs/business-development-manager-renewables-advisory-services-m-f-d",
-      "publicadoEn": 1791253630000,
-      "salarioTexto": null,
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Business-Development-Manager",
-        "Sales-Manager",
-        "Renewable-Energy-Sales",
-        "Energy-Advisory",
-        "EMEA-Business-Development",
-        "Energy-Business-Development-Manager",
-        "Renewable-Energy-Development-Manager",
-        "Renewable-Energy-Business-Development",
-        "Business-Development-Advisor",
-        "Business-Development-Manager-Utilities",
-        "Business-Development"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [],
@@ -1290,16 +1281,16 @@
     ],
     "pausado": false
   },
-  "ultimoUpdateIdProcesado": 148864700,
+  "ultimoUpdateIdProcesado": 148864701,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 1386,
-      "remotive": 242,
-      "weworkremotely": 1068,
-      "himalayas": 280,
-      "jobicy": 250
+      "remoteok": 1485,
+      "remotive": 260,
+      "weworkremotely": 1157,
+      "himalayas": 300,
+      "jobicy": 300
     },
-    "duplicadosDescartados": 2814,
-    "ultimaEjecucion": "2026-10-06T13:17:48.248Z"
+    "duplicadosDescartados": 3089,
+    "ultimaEjecucion": "2026-10-06T13:27:11.731Z"
   }
 }
