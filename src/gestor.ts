@@ -1,3 +1,5 @@
+import type { OfertaEmpleo } from './tipos.js';
+
 /**
  * Cliente mínimo de api-postulaciones, solo para /guardar.
  *
@@ -14,12 +16,7 @@ export interface CredencialesGestor {
   contrasena: string;
 }
 
-export interface OfertaParaGestor {
-  idFuente: string;
-  titulo: string;
-  empresa: string;
-  url: string;
-}
+export type OfertaParaGestor = Pick<OfertaEmpleo, 'idFuente' | 'fuente' | 'titulo' | 'empresa' | 'url' | 'ubicacion'>;
 
 /** Lee las credenciales del entorno. Devuelve null si falta alguna: /guardar responde entonces que no está disponible. */
 export function leerCredencialesGestor(entorno: NodeJS.ProcessEnv = process.env): CredencialesGestor | null {
@@ -48,9 +45,13 @@ export async function guardarEnGestor(
     body: JSON.stringify({
       empresa: { nombre: oferta.empresa },
       puesto: oferta.titulo,
-      fuente: 'bot-ofertas-empleo',
+      fuente: `bot-ofertas-empleo · ${oferta.fuente}`,
       modalidad: 'remoto',
-      notas: `Encontrada por el bot (id fuente: ${oferta.idFuente}). URL: ${oferta.url}`,
+      // url_oferta y ubicacion van a sus campos y no a las notas: así el
+      // tablero enseña el enlace a la oferta y se puede filtrar por lugar.
+      url_oferta: oferta.url,
+      ...(oferta.ubicacion ? { ubicacion: oferta.ubicacion.slice(0, 160) } : {}),
+      notas: `Encontrada por el bot en ${oferta.fuente} (id ${oferta.idFuente}).`,
     }),
   });
   if (!respuesta.ok) {

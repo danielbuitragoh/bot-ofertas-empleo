@@ -137,11 +137,11 @@ async function procesarComandosPendientes(
   }
 
   const deps: DependenciasComandos = {
-    guardarEnGestor: async (idFuente, tituloOferta, empresa, url) => {
+    guardarEnGestor: async (oferta) => {
       if (!credencialesGestor) {
         throw new Error('el gestor no está configurado (faltan los secrets API_POSTULACIONES_*)');
       }
-      await guardarEnGestor(credencialesGestor, { idFuente, titulo: tituloOferta, empresa, url });
+      await guardarEnGestor(credencialesGestor, oferta);
     },
   };
 

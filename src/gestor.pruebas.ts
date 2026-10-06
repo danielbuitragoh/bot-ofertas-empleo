@@ -2,7 +2,14 @@ import { describe, expect, it, vi } from 'vitest';
 import { guardarEnGestor, leerCredencialesGestor } from './gestor.js';
 
 const credenciales = { url: 'https://api.ejemplo.test', email: 'dan@ejemplo.test', contrasena: 'secreta' };
-const oferta = { idFuente: 'abc', titulo: 'Backend Developer', empresa: 'Acme', url: 'https://ejemplo.test/oferta' };
+const oferta = {
+  idFuente: 'abc',
+  fuente: 'jobicy' as const,
+  titulo: 'Backend Developer',
+  empresa: 'Acme',
+  url: 'https://ejemplo.test/oferta',
+  ubicacion: 'Spain',
+};
 
 function respuesta(status: number, cuerpo: unknown = {}): Response {
   return { ok: status >= 200 && status < 300, status, json: async () => cuerpo } as unknown as Response;
@@ -53,6 +60,9 @@ describe('guardarEnGestor', () => {
       empresa: { nombre: 'Acme' },
       puesto: 'Backend Developer',
       modalidad: 'remoto',
+      url_oferta: 'https://ejemplo.test/oferta',
+      ubicacion: 'Spain',
+      fuente: 'bot-ofertas-empleo · jobicy',
     });
   });
 

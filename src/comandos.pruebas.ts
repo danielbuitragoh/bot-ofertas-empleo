@@ -99,7 +99,7 @@ describe('procesarComando', () => {
       estado,
       deps,
     );
-    expect(deps.guardarEnGestor).toHaveBeenCalledWith('abc', 'Backend Developer', 'Acme', 'https://ejemplo.test');
+    expect(deps.guardarEnGestor).toHaveBeenCalledWith(oferta);
     expect(resultado.respuesta).toMatch(/Guardada/);
   });
 
