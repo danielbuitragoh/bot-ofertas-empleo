@@ -8,20 +8,20 @@ import { coincideConFiltros } from './filtros.js';
 import { cargarEstado, guardarEstado } from './estado.js';
 import { ClienteTelegram, escaparHTML, extraerComandos } from './telegram.js';
 import { procesarComando, type DependenciasComandos } from './comandos.js';
+import { guardarEnGestor, leerCredencialesGestor, type CredencialesGestor } from './gestor.js';
 import type { Estado, OfertaEmpleo } from './tipos.js';
 
 const MAXIMO_MENSAJES_POR_EJECUCION = 15; // margen de seguridad frente a los límites de Telegram, ver README
 
 async function main(): Promise<void> {
   const { token, chatId } = leerConfiguracionTelegram();
-  const urlApiPostulaciones = process.env.API_POSTULACIONES_URL; // opcional, ver src/estado.ts
-  const tokenApiPostulaciones = process.env.API_POSTULACIONES_TOKEN;
+  const credencialesGestor = leerCredencialesGestor(); // opcional: sin ellas, /guardar responde que no está disponible
 
   const telegram = new ClienteTelegram(token);
   let estado = await cargarEstado();
 
   // 1) Procesar los comandos que hayan llegado desde la última ejecución.
-  estado = await procesarComandosPendientes(estado, telegram, chatId, urlApiPostulaciones, tokenApiPostulaciones);
+  estado = await procesarComandosPendientes(estado, telegram, chatId, credencialesGestor);
 
   // 2) Si está pausado, no se buscan ni notifican ofertas nuevas — pero
   //    los comandos de arriba (por ejemplo /reanudar) sí se procesan
@@ -115,8 +115,7 @@ async function procesarComandosPendientes(
   estado: Estado,
   telegram: ClienteTelegram,
   chatId: number,
-  urlApiPostulaciones: string | undefined,
-  tokenApiPostulaciones: string | undefined,
+  credencialesGestor: CredencialesGestor | null,
 ): Promise<Estado> {
   // Si Telegram falla al pedir los updates (un timeout, un 5xx puntual),
   // que no procese comandos esta vez no debe impedir que el bot siga
@@ -139,26 +138,10 @@ async function procesarComandosPendientes(
 
   const deps: DependenciasComandos = {
     guardarEnGestor: async (idFuente, tituloOferta, empresa, url) => {
-      if (!urlApiPostulaciones) {
-        throw new Error('API_POSTULACIONES_URL no está configurada');
+      if (!credencialesGestor) {
+        throw new Error('el gestor no está configurado (faltan los secrets API_POSTULACIONES_*)');
       }
-      const respuesta = await fetch(`${urlApiPostulaciones}/postulaciones`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          ...(tokenApiPostulaciones ? { Authorization: `Bearer ${tokenApiPostulaciones}` } : {}),
-        },
-        body: JSON.stringify({
-          empresa: { nombre: empresa },
-          puesto: tituloOferta,
-          fuente: 'bot-ofertas-empleo',
-          modalidad: 'remoto',
-          notas: `Encontrada por el bot (id fuente: ${idFuente}). URL: ${url}`,
-        }),
-      });
-      if (!respuesta.ok) {
-        throw new Error(`api-postulaciones respondió ${respuesta.status}`);
-      }
+      await guardarEnGestor(credencialesGestor, { idFuente, titulo: tituloOferta, empresa, url });
     },
   };
 
