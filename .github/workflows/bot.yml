@@ -13,7 +13,7 @@ name: Buscar ofertas
 # o un "Run workflow" manual.
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '17 */6 * * *' # minuto 17 y no 0: GitHub retrasa y a veces se salta los crons en punto, que es cuando más carga tiene
   workflow_dispatch: {} # para poder disparar una corrida manual al probar /filtros, /pausar, etc.
 
 permissions:
