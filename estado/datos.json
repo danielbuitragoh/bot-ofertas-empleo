@@ -526,9 +526,439 @@
     "hire overseas::senior bookkeeper bbs849",
     "harris global business services inc::software engineer full stack cloud",
     "piedmont healthcare::um clinical denials asst prn",
-    "duckduckgo::senior product designer design systems"
+    "duckduckgo::senior product designer design systems",
+    "rkd group::director digital experience",
+    "nuvei::svp global head of brand and communications",
+    "accenture::solution architect digital ai products",
+    "oceans::business operations specialist",
+    "stanford university::live support clinical research operations specialist ii react remote opportu",
+    "healthedge::philippines ag usrn associate iii bpm",
+    "findtutors::computer science specialist tutor remote flexible schedule 20 40 hr uk",
+    "community sports partners::general manager marketing and ecommerce growth",
+    "exavalu::senior java developer",
+    "servicenow::sr enterprise account exec armis veza",
+    "toloka ai::chinese studies student job bilingual chinese english voice ai trainer",
+    "alkira inc::account executive ii forward deployed",
+    "bright vision technologies::cloud native architect",
+    "madiff::tech lead french speaking remote",
+    "simply tv::data editor tv sports talent pool mexico",
+    "american public university system::student support representative",
+    "unlimit::senior talent acquisition manager",
+    "fundraise up::vice president smb mm sales",
+    "parsons corporation::director hr central",
+    "amcor::account manager ii healthcare"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "rkd-group/director-digital-experience",
+      "fuente": "himalayas",
+      "titulo": "Director, Digital Experience",
+      "empresa": "RKD Group",
+      "url": "https://himalayas.app/companies/rkd-group/jobs/director-digital-experience",
+      "publicadoEn": 1791431085000,
+      "salarioTexto": "USD 110,000 - 130,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Digital-Marketing-Director",
+        "Team-Management",
+        "Director-Of-Digital",
+        "Digital-Strategy-Director",
+        "Marketing-Director",
+        "Digital-Experience-Design-Director",
+        "Director-Of-Experience-Design",
+        "Website-Experience-Director",
+        "User-Experience-Director"
+      ]
+    },
+    {
+      "idFuente": "nuvei/svp-global-head-of-brand-and-communications",
+      "fuente": "himalayas",
+      "titulo": "SVP, Global Head of Brand and Communications",
+      "empresa": "Nuvei",
+      "url": "https://himalayas.app/companies/nuvei/jobs/svp-global-head-of-brand-and-communications",
+      "publicadoEn": 1791431084000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Chief-Communications-Officer",
+        "Head-of-Communications",
+        "VP-Of-Communications",
+        "Communications-Director",
+        "Brand-and-Communications-Director",
+        "Vice-President-of-Brand-and-Communications",
+        "Vice-President-Of-Global-Communications",
+        "VP-Corporate-Communications",
+        "Head-Of-Brand"
+      ]
+    },
+    {
+      "idFuente": "accenture/solution-architect-digital-ai-products",
+      "fuente": "himalayas",
+      "titulo": "Solution Architect- Digital & AI Products",
+      "empresa": "Accenture",
+      "url": "https://himalayas.app/companies/accenture/jobs/solution-architect-digital-ai-products",
+      "publicadoEn": 1791431082000,
+      "salarioTexto": "USD 130,915 - 196,055",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Solutions-Architect",
+        "Enterprise-Architect",
+        "Technical-Architect",
+        "Product-Solution-Architect",
+        "Digital-Solution-Architect",
+        "Digital-Solutions-Architect",
+        "AI-Solutions-Architect",
+        "AI-Solution-Architect",
+        "Data-and-AI-Solution-Architect",
+        "AI-ML-Solutions-Architect",
+        "Technical-Solution-Architect"
+      ]
+    },
+    {
+      "idFuente": "oceans/business-operations-specialist",
+      "fuente": "himalayas",
+      "titulo": "Business Operations Specialist",
+      "empresa": "Oceans",
+      "url": "https://himalayas.app/companies/oceans/jobs/business-operations-specialist",
+      "publicadoEn": 1791431081000,
+      "salarioTexto": null,
+      "ubicacion": "Sri Lanka",
+      "etiquetas": [
+        "Business-Operations-Manager",
+        "Operations-Coordinator",
+        "Operations-Specialist",
+        "Administrative-Specialist",
+        "Executive-Assistant",
+        "Senior-Business-Operations-Specialist",
+        "Business-Operations-Expert",
+        "Operations-Management-Specialist",
+        "Business-Operations-Coordinator",
+        "Business-Operations-Analyst",
+        "Business-Operations-Administrator",
+        "Corporate-Operations-Specialist",
+        "Business-Operations",
+        "Operations"
+      ]
+    },
+    {
+      "idFuente": "stanford-university/live-support-clinical-research-operations-specialist-ii-react-remote-opportu",
+      "fuente": "himalayas",
+      "titulo": "Live Support, Clinical Research Operations Specialist II (REACT) (Remote Opportu",
+      "empresa": "Stanford University",
+      "url": "https://himalayas.app/companies/stanford-university/jobs/live-support-clinical-research-operations-specialist-ii-react-remote-opportu",
+      "publicadoEn": 1791431081000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Clinical-Trial-Operations-Specialist",
+        "Clinical-Trial-Manager",
+        "Clinical-Research-Coordinator",
+        "Research-Operations",
+        "Clinical-Research-Associate",
+        "Remote-Clinical-Research-Specialist",
+        "Clinical-Trial-Support-Specialist",
+        "Clinical-Operations-Specialist"
+      ]
+    },
+    {
+      "idFuente": "healthedge/philippines-ag-usrn-associate-iii-bpm",
+      "fuente": "himalayas",
+      "titulo": "Philippines- AG USRN- Associate III BPM",
+      "empresa": "HealthEdge",
+      "url": "https://himalayas.app/companies/healthedge/jobs/philippines-ag-usrn-associate-iii-bpm",
+      "publicadoEn": 1791431075000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "Registered-Nurse",
+        "Utilization-Management-Nurse",
+        "Grievance-And-Appeals-Specialist",
+        "Medical-Review-Nurse",
+        "Healthcare-Quality-RN",
+        "Healthcare-Operations",
+        "Nursing"
+      ]
+    },
+    {
+      "idFuente": "findtutors/computer-science-specialist-tutor-remote-flexible-schedule-20-40-hr-uk",
+      "fuente": "himalayas",
+      "titulo": "Computer Science Specialist Tutor | Remote & Flexible Schedule | £20–£40/hr UK",
+      "empresa": "FindTutors",
+      "url": "https://himalayas.app/companies/findtutors/jobs/computer-science-specialist-tutor-remote-flexible-schedule-20-40-hr-uk",
+      "publicadoEn": 1791431070000,
+      "salarioTexto": "USD 20 - 40",
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Computer-Science-Tutor",
+        "Tutor",
+        "Private-Tutor",
+        "Coding-Tutor",
+        "Programming-Tutor",
+        "Computer-Science-Tutoring",
+        "Online-Computer-Science-Instructor",
+        "Freelance-Programming-Tutor",
+        "Software-Development-Tutor",
+        "Online-IT-Tutor"
+      ]
+    },
+    {
+      "idFuente": "community-sports-partners/general-manager-marketing-and-ecommerce-growth-7496589692",
+      "fuente": "himalayas",
+      "titulo": "General Manager - Marketing and Ecommerce Growth",
+      "empresa": "Community Sports Partners",
+      "url": "https://himalayas.app/companies/community-sports-partners/jobs/general-manager-marketing-and-ecommerce-growth-7496589692",
+      "publicadoEn": 1791431067000,
+      "salarioTexto": null,
+      "ubicacion": "Argentina",
+      "etiquetas": [
+        "General-Manager",
+        "ECommerce-Manager",
+        "Growth-Marketing-Manager",
+        "Digital-Marketing-Manager",
+        "Marketing-Manager",
+        "Ecommerce-General-Manager",
+        "eCommerce-Marketing-Director",
+        "Director-Of-Growth-Marketing",
+        "Growth-Marketing-Director"
+      ]
+    },
+    {
+      "idFuente": "exavalu/senior-java-developer",
+      "fuente": "himalayas",
+      "titulo": "Senior Java Developer",
+      "empresa": "Exavalu",
+      "url": "https://himalayas.app/companies/exavalu/jobs/senior-java-developer",
+      "publicadoEn": 1791431067000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Java-Developer",
+        "Java-Backend-Developer",
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Senior-Java-Engineer",
+        "Senior-Java-Software-Engineer",
+        "Senior-Java-Developer-(Spring-Boot)",
+        "Senior-Java-Backend-Developer"
+      ]
+    },
+    {
+      "idFuente": "servicenow/sr-enterprise-account-exec-armis-veza",
+      "fuente": "himalayas",
+      "titulo": "Sr Enterprise Account Exec ( Armis / Veza )",
+      "empresa": "ServiceNow",
+      "url": "https://himalayas.app/companies/servicenow/jobs/sr-enterprise-account-exec-armis-veza",
+      "publicadoEn": 1791431067000,
+      "salarioTexto": null,
+      "ubicacion": "Sweden",
+      "etiquetas": [
+        "Enterprise-Account-Executive",
+        "Senior-Account-Executive",
+        "SaaS-Sales",
+        "Account-Executive",
+        "Sales-Executive",
+        "Senior-Enterprise-Account-Executive",
+        "Enterprise-Sales-Account-Executive",
+        "Large-Enterprise-Account-Executive"
+      ]
+    },
+    {
+      "idFuente": "toloka-ai/chinese-studies-student-job-bilingual-chinese-english-voice-ai-trainer-973529026",
+      "fuente": "himalayas",
+      "titulo": "Chinese Studies Student Job - Bilingual Chinese-English Voice - AI trainer",
+      "empresa": "Toloka AI",
+      "url": "https://himalayas.app/companies/toloka-ai/jobs/chinese-studies-student-job-bilingual-chinese-english-voice-ai-trainer-973529026",
+      "publicadoEn": 1791431065000,
+      "salarioTexto": "USD 30 - 30",
+      "ubicacion": "Cambodia",
+      "etiquetas": [
+        "Voice-Annotation",
+        "AI-Trainer",
+        "Data-Annotator",
+        "Audio-Data-Annotator",
+        "Linguistic-Annotator",
+        "Entry-Level-AI-Tutor-(Chinese)",
+        "Bilingual-AI-Trainer",
+        "AI-Voice-Technology-Intern",
+        "Chinese-Language-AI-Tutoring"
+      ]
+    },
+    {
+      "idFuente": "alkira-inc/account-executive-ii-forward-deployed",
+      "fuente": "himalayas",
+      "titulo": "Account Executive II - Forward Deployed",
+      "empresa": "Alkira, Inc.",
+      "url": "https://himalayas.app/companies/alkira-inc/jobs/account-executive-ii-forward-deployed",
+      "publicadoEn": 1791431064000,
+      "salarioTexto": "USD 109,649 - 160,812",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Account-Executive",
+        "Sales-Executive",
+        "Enterprise-Sales",
+        "Business-Development-Manager",
+        "Account-Manager",
+        "Enterprise-Account-Executive"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/cloud-native-architect",
+      "fuente": "himalayas",
+      "titulo": "Cloud-Native Architect",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-native-architect",
+      "publicadoEn": 1791431056000,
+      "salarioTexto": "USD 130,000 - 180,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Cloud-Architect",
+        "Solutions-Architect",
+        "Software-Architect",
+        "Cloud-Engineer",
+        "Platform-Engineer",
+        "Cloud-Native-Architect",
+        "Cloud-Native-Architecture",
+        "DevOps-Cloud-Architect"
+      ]
+    },
+    {
+      "idFuente": "madiff/tech-lead-french-speaking-remote",
+      "fuente": "himalayas",
+      "titulo": "Tech Lead (French Speaking) - Remote",
+      "empresa": "Madiff",
+      "url": "https://himalayas.app/companies/madiff/jobs/tech-lead-french-speaking-remote",
+      "publicadoEn": 1791431055000,
+      "salarioTexto": null,
+      "ubicacion": "Portugal",
+      "etiquetas": [
+        "Technical-Lead",
+        "Software-Team-Lead",
+        "Engineering-Manager",
+        "Lead-Software-Developer",
+        "Remote-Team-Lead"
+      ]
+    },
+    {
+      "idFuente": "simply-tv/data-editor-tv-sports-talent-pool-mexico",
+      "fuente": "himalayas",
+      "titulo": "Data Editor (TV & Sports) - Talent Pool - Mexico",
+      "empresa": "Simply TV",
+      "url": "https://himalayas.app/companies/simply-tv/jobs/data-editor-tv-sports-talent-pool-mexico",
+      "publicadoEn": 1791431054000,
+      "salarioTexto": "USD 1,000 - 1,000",
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Data-Editor",
+        "Content-Editor",
+        "Metadata-Editor",
+        "Editorial-Specialist",
+        "Media-Coordinator",
+        "TV-Media-Data-Specialist",
+        "Sports-Data-Editor",
+        "Sports-Metadata-Specialist"
+      ]
+    },
+    {
+      "idFuente": "american-public-university-system/student-support-representative",
+      "fuente": "himalayas",
+      "titulo": "Student Support Representative",
+      "empresa": "American Public University System",
+      "url": "https://himalayas.app/companies/american-public-university-system/jobs/student-support-representative",
+      "publicadoEn": 1791431053000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Student-Services-Representative",
+        "Customer-Service",
+        "Call-Center-Representative",
+        "Student-Operations",
+        "Student-Care-Representative",
+        "Student-Support-Coordinator",
+        "Student-Support-Specialist",
+        "Student-Support-Assistant",
+        "Support-Representative",
+        "Student-Support-Services-Coordinator"
+      ]
+    },
+    {
+      "idFuente": "unlimit/senior-talent-acquisition-manager",
+      "fuente": "himalayas",
+      "titulo": "Senior Talent Acquisition Manager",
+      "empresa": "Unlimit",
+      "url": "https://himalayas.app/companies/unlimit/jobs/senior-talent-acquisition-manager",
+      "publicadoEn": 1791431052000,
+      "salarioTexto": null,
+      "ubicacion": "Armenia, Estonia, Georgia, Latvia, Moldova, Poland, Portugal, Spain",
+      "etiquetas": [
+        "Talent-Acquisition-Manager",
+        "Senior-Recruiter",
+        "Executive-Search-Consultant",
+        "Technical-Recruiter",
+        "HR-Recruiter",
+        "Senior-Talent-Acquisition-Manager",
+        "Senior-Manager-Talent-Acquisition",
+        "Senior-Recruiting-Manager",
+        "Senior-Recruitment-Manager",
+        "Executive-Talent-Acquisition-Manager"
+      ]
+    },
+    {
+      "idFuente": "fundraise-up/vice-president-smb-mm-sales",
+      "fuente": "himalayas",
+      "titulo": "Vice President, SMB & MM Sales",
+      "empresa": "Fundraise Up",
+      "url": "https://himalayas.app/companies/fundraise-up/jobs/vice-president-smb-mm-sales",
+      "publicadoEn": 1791431049000,
+      "salarioTexto": "USD 440,000 - 460,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "VP-Of-Sales",
+        "SMB-Sales",
+        "Mid-Market-Sales",
+        "Sales-Leadership",
+        "Revenue-Operations",
+        "Sales-Vice-President",
+        "Vice-President-Sales",
+        "Vice-President-Of-Sales",
+        "Sales-VP"
+      ]
+    },
+    {
+      "idFuente": "parsons-corporation/director-hr-central",
+      "fuente": "himalayas",
+      "titulo": "Director, HR Central",
+      "empresa": "Parsons Corporation",
+      "url": "https://himalayas.app/companies/parsons-corporation/jobs/director-hr-central",
+      "publicadoEn": 1791431048000,
+      "salarioTexto": "USD 134,100 - 241,400",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "HR-Director",
+        "Human-Resources-Director",
+        "HR-Manager",
+        "HR-Services-Director",
+        "People-Operations-Director",
+        "Director-Of-HR",
+        "Director-Of-Human-Resources"
+      ]
+    },
+    {
+      "idFuente": "amcor/account-manager-ii-healthcare",
+      "fuente": "himalayas",
+      "titulo": "Account Manager II - Healthcare",
+      "empresa": "Amcor",
+      "url": "https://himalayas.app/companies/amcor/jobs/account-manager-ii-healthcare",
+      "publicadoEn": 1791431047000,
+      "salarioTexto": "USD 98,000 - 134,750",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Account-Manager",
+        "Sales-Account-Manager",
+        "Healthcare-Account-Manager",
+        "Territory-Sales-Manager",
+        "B2B-Sales-Manager"
+      ]
+    },
     {
       "idFuente": "prologa/bewerberpool",
       "fuente": "himalayas",
@@ -1092,342 +1522,6 @@
       "etiquetas": [
         "Product"
       ]
-    },
-    {
-      "idFuente": "mixmax-billing-support-analyst-philippines",
-      "fuente": "weworkremotely",
-      "titulo": "Billing Support Analyst - Philippines",
-      "empresa": "Mixmax",
-      "url": "https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines",
-      "publicadoEn": 1791358260000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "current-lead-qa-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Lead QA Engineer",
-      "empresa": "Current",
-      "url": "https://weworkremotely.com/remote-jobs/current-lead-qa-engineer",
-      "publicadoEn": 1791358260000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "expel-principal-solutions-architect",
-      "fuente": "weworkremotely",
-      "titulo": "Principal Solutions Architect",
-      "empresa": "Expel",
-      "url": "https://weworkremotely.com/remote-jobs/expel-principal-solutions-architect",
-      "publicadoEn": 1791358259000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "galileo-creative-hospitality",
-      "fuente": "weworkremotely",
-      "titulo": "Creative Hospitality",
-      "empresa": "Galileo",
-      "url": "https://weworkremotely.com/remote-jobs/galileo-creative-hospitality",
-      "publicadoEn": 1791358259000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "gitlab-associate-renewals-manager",
-      "fuente": "weworkremotely",
-      "titulo": "Associate Renewals Manager",
-      "empresa": "GitLab",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-associate-renewals-manager",
-      "publicadoEn": 1791358253000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "gitlab-account-executive-france",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive - France",
-      "empresa": "GitLab",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-account-executive-france",
-      "publicadoEn": 1791358253000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "abnormal-director-mid-market-customer-success",
-      "fuente": "weworkremotely",
-      "titulo": "Director, Mid Market Customer Success",
-      "empresa": "Abnormal",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-director-mid-market-customer-success",
-      "publicadoEn": 1791358253000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "abnormal-designer-creative-services",
-      "fuente": "weworkremotely",
-      "titulo": "Designer, Creative Services",
-      "empresa": "Abnormal",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-designer-creative-services",
-      "publicadoEn": 1791358242000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "beyondtrust-account-executive-ii-riyadh-saudi-national",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive II - Riyadh (Saudi National)",
-      "empresa": "BeyondTrust",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-account-executive-ii-riyadh-saudi-national",
-      "publicadoEn": 1791358242000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "e-l-f-beauty/directory-technical-regulatory-ingredient-science",
-      "fuente": "himalayas",
-      "titulo": "Directory, Technical Regulatory & Ingredient Science",
-      "empresa": "e.l.f. Beauty",
-      "url": "https://himalayas.app/companies/e-l-f-beauty/jobs/directory-technical-regulatory-ingredient-science",
-      "publicadoEn": 1791373402000,
-      "salarioTexto": "USD 155,000 - 185,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Regulatory-Affairs-Director",
-        "Ingredient-Scientist",
-        "Regulatory-Manager",
-        "Compliance-Director",
-        "Regulatory-Science-Director",
-        "Cosmetics-Regulatory-Affairs",
-        "Regulatory-Scientist",
-        "Chemical-Regulatory-Affairs"
-      ]
-    },
-    {
-      "idFuente": "genus-plc/global-prp-program-manager-remote-usa",
-      "fuente": "himalayas",
-      "titulo": "Global PRP Program Manager (Remote - USA)",
-      "empresa": "Genus PLC",
-      "url": "https://himalayas.app/companies/genus-plc/jobs/global-prp-program-manager-remote-usa",
-      "publicadoEn": 1791373345000,
-      "salarioTexto": "USD 126,500 - 153,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Program-Manager",
-        "Project-Manager",
-        "Operations-Manager",
-        "Product-Launch-Manager",
-        "Global-Program-Manager",
-        "Global-Health-Program-Manager"
-      ]
-    },
-    {
-      "idFuente": "rws-group/speech-ai-evaluation-specialist-vietnamese-thailand",
-      "fuente": "himalayas",
-      "titulo": "Speech AI Evaluation Specialist - Vietnamese (Thailand)",
-      "empresa": "RWS Group",
-      "url": "https://himalayas.app/companies/rws-group/jobs/speech-ai-evaluation-specialist-vietnamese-thailand",
-      "publicadoEn": 1791373331000,
-      "salarioTexto": "USD 18 - 18",
-      "ubicacion": "Thailand",
-      "etiquetas": [
-        "AI-Evaluation-Specialist",
-        "Speech-AI-Evaluation",
-        "Language-Evaluation",
-        "Data-Annotator",
-        "Content-Quality-Assurance",
-        "Voice-AI-QA-Specialist",
-        "Speech-AI-Evaluator",
-        "Multilingual-AI-Testing-Specialist",
-        "Voice-AI-Specialist"
-      ]
-    },
-    {
-      "idFuente": "the-natural-adventure/adventure-operations-specialist-bulgaria",
-      "fuente": "himalayas",
-      "titulo": "Adventure Operations Specialist (Bulgaria)",
-      "empresa": "The Natural Adventure",
-      "url": "https://himalayas.app/companies/the-natural-adventure/jobs/adventure-operations-specialist-bulgaria",
-      "publicadoEn": 1791373255000,
-      "salarioTexto": null,
-      "ubicacion": "Bulgaria",
-      "etiquetas": [
-        "Operations-Specialist",
-        "Travel-Operations",
-        "Adventure-Travel",
-        "Customer-Service",
-        "Travel-Coordinator",
-        "Outdoor-Activities-Coordinator",
-        "Outdoor-Activity-Coordinator",
-        "Operations"
-      ]
-    },
-    {
-      "idFuente": "coinbase/staff-software-engineer-platform-identity-idv",
-      "fuente": "himalayas",
-      "titulo": "Staff Software Engineer (Platform - Identity IDV)",
-      "empresa": "Coinbase",
-      "url": "https://himalayas.app/companies/coinbase/jobs/staff-software-engineer-platform-identity-idv",
-      "publicadoEn": 1791373236000,
-      "salarioTexto": "USD 218,025 - 256,500",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Software-Engineer",
-        "Backend-Engineer",
-        "Staff-Engineer",
-        "Identity-Engineer",
-        "Platform-Engineer",
-        "Staff-Identity-Engineer",
-        "Identity-Platform-Engineer",
-        "Staff-Backend-Identity-Engineer",
-        "Staff-Identity-And-Access-Management-Engineer",
-        "Staff-Platform-Engineer",
-        "Identity-Infrastructure-Engineer"
-      ]
-    },
-    {
-      "idFuente": "kinship-ventures/investment-analyst-worldwide",
-      "fuente": "himalayas",
-      "titulo": "Investment Analyst (worldwide)",
-      "empresa": "Kinship Ventures",
-      "url": "https://himalayas.app/companies/kinship-ventures/jobs/investment-analyst-worldwide",
-      "publicadoEn": 1791373198000,
-      "salarioTexto": "USD 4,000 - 5,000",
-      "ubicacion": "Colombia",
-      "etiquetas": [
-        "Investment-Analyst",
-        "Venture-Capital-Analyst",
-        "Financial-Analyst",
-        "Investment-Analyst-Jobs",
-        "Investment-Research-Analyst",
-        "Investment-Analysis-Jobs",
-        "Global-Markets-Analyst",
-        "Investment-Research-Specialist",
-        "Global-Market-Analyst"
-      ]
-    },
-    {
-      "idFuente": "integra-partners/compliance-analyst",
-      "fuente": "himalayas",
-      "titulo": "Compliance Analyst",
-      "empresa": "Integra Partners",
-      "url": "https://himalayas.app/companies/integra-partners/jobs/compliance-analyst",
-      "publicadoEn": 1791373187000,
-      "salarioTexto": "USD 85,000 - 85,001",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Compliance-Analyst",
-        "Healthcare-Compliance-Analyst",
-        "Compliance-Specialist",
-        "Fraud-Analyst",
-        "Compliance-Investigator",
-        "Compliance-Analyst-Jobs",
-        "Compliance-and-Regulatory-Analyst",
-        "Regulatory-Compliance-Analyst",
-        "Compliance-Risk-Analyst",
-        "Risk-Compliance-Analyst"
-      ]
-    },
-    {
-      "idFuente": "finanzen-net-gmbh/analyst-beschwerdemanagement-m-w-d",
-      "fuente": "himalayas",
-      "titulo": "Analyst – Beschwerdemanagement (m/w/d)",
-      "empresa": "finanzen.net GmbH",
-      "url": "https://himalayas.app/companies/finanzen-net-gmbh/jobs/analyst-beschwerdemanagement-m-w-d",
-      "publicadoEn": 1791373124000,
-      "salarioTexto": null,
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Customer-Service",
-        "Complaint-Handler",
-        "Compliance-Analyst",
-        "Operations-Analyst",
-        "Financial-Services-Specialist",
-        "Complaints-Analyst"
-      ]
-    },
-    {
-      "idFuente": "tenna/regional-account-executive-richmond-va",
-      "fuente": "himalayas",
-      "titulo": "Regional Account Executive - Richmond, VA",
-      "empresa": "Tenna",
-      "url": "https://himalayas.app/companies/tenna/jobs/regional-account-executive-richmond-va",
-      "publicadoEn": 1791373097000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Regional-Account-Executive",
-        "Account-Executive",
-        "Enterprise-Sales-Representative",
-        "Saas-Account-Executive",
-        "Sales-Executive",
-        "Regional-Accounts-Sales",
-        "Sales"
-      ]
-    },
-    {
-      "idFuente": "12twenty/enterprise-account-executive",
-      "fuente": "himalayas",
-      "titulo": "Enterprise Account Executive",
-      "empresa": "12twenty",
-      "url": "https://himalayas.app/companies/12twenty/jobs/enterprise-account-executive",
-      "publicadoEn": 1791373091000,
-      "salarioTexto": "USD 180,000 - 180,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Account-Executive",
-        "Mid-Market-Account-Executive",
-        "SaaS-Sales-Representative",
-        "Enterprise-Account-Executive",
-        "Sales",
-        "Enterprise-Sales-Account-Executive"
-      ]
-    },
-    {
-      "idFuente": "micro1/saas-contracts-counsel",
-      "fuente": "himalayas",
-      "titulo": "SaaS Contracts Counsel",
-      "empresa": "micro1",
-      "url": "https://himalayas.app/companies/micro1/jobs/saas-contracts-counsel",
-      "publicadoEn": 1791373085000,
-      "salarioTexto": "USD 80 - 110",
-      "ubicacion": "",
-      "etiquetas": [
-        "SaaS-Contracts-Attorney",
-        "SaaS-Legal-Counsel",
-        "SaaS-Contracts",
-        "SaaS-Contract-Negotiations",
-        "Contracts-Counsel",
-        "Contract-Lawyer",
-        "SaaS-Agreements"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -1467,13 +1561,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 1980,
-      "remotive": 348,
-      "weworkremotely": 1602,
-      "himalayas": 400,
-      "jobicy": 550
+      "remoteok": 2079,
+      "remotive": 365,
+      "weworkremotely": 1691,
+      "himalayas": 420,
+      "jobicy": 600
     },
-    "duplicadosDescartados": 4353,
-    "ultimaEjecucion": "2026-10-07T22:38:02.299Z"
+    "duplicadosDescartados": 4608,
+    "ultimaEjecucion": "2026-10-08T04:19:45.502Z"
   }
 }
