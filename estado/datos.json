@@ -1250,9 +1250,529 @@
     "playson::senior software engineer game engine",
     "ruby labs::data engineer marketing systems",
     "canonical::senior marketing automation manager",
-    "catawiki::expert dutch and belgian comics"
+    "catawiki::expert dutch and belgian comics",
+    "utopia::payment operations specialist",
+    "medify::engineering manager",
+    "mashreq::business development officer mgn pak dbc pl fulfillment retail banking group p",
+    "intetics::1176 data entry part time",
+    "blavity inc::senior account director blavity media group",
+    "agilon health::actuarial manager medicare value based care",
+    "health advocate solutions inc::eap care manager 2",
+    "hellokindred::ibm z dev ops automation engineer",
+    "acosta group::distribution sales team",
+    "osaic inc::senior estate planning strategist",
+    "trac recruiting::travel business development manager nebraska iowa remote",
+    "devoted health::transitions of care medical assistant member outreach",
+    "one world global services::somali swahili interpreter",
+    "heritage holdings::portfolio manager",
+    "squad::intern frontend engineer",
+    "global healthcare exchange ghx::customer support analyst ii",
+    "mozilla::senior software engineer firefox security",
+    "ifood::android software engineer senior afirmativa para pessoas negras",
+    "clean air task force::manager talent and performance",
+    "henry schein::technical sales support",
+    "neo group::graphic designer promo",
+    "ampro adlink technology inc::technical sales engineer",
+    "supabase::site reliability engineer",
+    "supabase::platform engineer managed postgres",
+    "supabase::ai platform engineer",
+    "veeam software::sales engineer data ai security"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "155391",
+      "fuente": "jobicy",
+      "titulo": "Site Reliability Engineer",
+      "empresa": "Supabase",
+      "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
+      "publicadoEn": 1792071235000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "DevOps & Infrastructure",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "1137514",
+      "fuente": "remoteok",
+      "titulo": "Payment Operations Specialist",
+      "empresa": "Utopia",
+      "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
+      "publicadoEn": 1791993605000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "design",
+        "customer support",
+        "marketing",
+        "accounting",
+        "finance",
+        "ops",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "medify-engineering-manager",
+      "fuente": "weworkremotely",
+      "titulo": "Engineering Manager",
+      "empresa": "Medify",
+      "url": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
+      "publicadoEn": 1792072747000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "mashreq/business-development-officer-mgn-pak-dbc-pl-fulfillment-retail-banking-group-p",
+      "fuente": "himalayas",
+      "titulo": "Business Development Officer.MGN Pak - DBC PL Fulfillment.Retail Banking Group-P",
+      "empresa": "Mashreq",
+      "url": "https://himalayas.app/companies/mashreq/jobs/business-development-officer-mgn-pak-dbc-pl-fulfillment-retail-banking-group-p",
+      "publicadoEn": 1792077473000,
+      "salarioTexto": null,
+      "ubicacion": "Pakistan",
+      "etiquetas": [
+        "Business-Development-Officer",
+        "Sales-Officer",
+        "Business-Development-Representative",
+        "Sales-Executive",
+        "Business-Development",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "intetics/1176-data-entry-part-time",
+      "fuente": "himalayas",
+      "titulo": "1176 | Data Entry (без досвіду) Part-time",
+      "empresa": "Intetics",
+      "url": "https://himalayas.app/companies/intetics/jobs/1176-data-entry-part-time",
+      "publicadoEn": 1792077423000,
+      "salarioTexto": null,
+      "ubicacion": "Ukraine",
+      "etiquetas": [
+        "Data-Entry-Specialist",
+        "Data-Entry-Clerk",
+        "Administrative-Assistant",
+        "Office-Administrator",
+        "Part-Time-Data-Entry",
+        "Data-Entry-Jobs",
+        "Data-Entry-Associate",
+        "Data-Entry-Agent",
+        "Entry-Level-Data-Entry",
+        "Data-Entry-Assistant",
+        "Data-Entry"
+      ]
+    },
+    {
+      "idFuente": "blavity-inc/senior-account-director-blavity-media-group",
+      "fuente": "himalayas",
+      "titulo": "Senior Account Director, Blavity Media Group",
+      "empresa": "Blavity Inc.",
+      "url": "https://himalayas.app/companies/blavity-inc/jobs/senior-account-director-blavity-media-group",
+      "publicadoEn": 1792077422000,
+      "salarioTexto": "USD 145,000 - 160,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Account-Director",
+        "Sales-Director",
+        "Media-Sales-Director",
+        "Advertising-Sales-Director",
+        "Senior-Account-Executive",
+        "Senior-Account-Director",
+        "Group-Account-Director"
+      ]
+    },
+    {
+      "idFuente": "agilon-health/actuarial-manager-medicare-value-based-care",
+      "fuente": "himalayas",
+      "titulo": "Actuarial Manager, Medicare Value-Based Care",
+      "empresa": "agilon health",
+      "url": "https://himalayas.app/companies/agilon-health/jobs/actuarial-manager-medicare-value-based-care",
+      "publicadoEn": 1792077422000,
+      "salarioTexto": "USD 129,700 - 162,100",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Actuarial-Manager",
+        "Actuary",
+        "Medicare-Actuary",
+        "Health-Actuary",
+        "Value-Based-Care-Actuary",
+        "Senior-Actuarial-Manager",
+        "Actuary-Manager",
+        "Actuarial-Services-Manager"
+      ]
+    },
+    {
+      "idFuente": "health-advocate-solutions-inc/eap-care-manager-2-7403028388",
+      "fuente": "himalayas",
+      "titulo": "EAP Care Manager 2",
+      "empresa": "Health Advocate Solutions, Inc.",
+      "url": "https://himalayas.app/companies/health-advocate-solutions-inc/jobs/eap-care-manager-2-7403028388",
+      "publicadoEn": 1792077422000,
+      "salarioTexto": "USD 28 - 35",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "EAP-Care-Manager",
+        "Care-Manager",
+        "Behavioral-Health-Case-Manager",
+        "Mental-Health-Case-Manager",
+        "Clinical-Care-Manager"
+      ]
+    },
+    {
+      "idFuente": "hellokindred/ibm-z-dev-ops-automation-engineer",
+      "fuente": "himalayas",
+      "titulo": "IBM Z Dev/Ops / Automation Engineer",
+      "empresa": "HelloKindred",
+      "url": "https://himalayas.app/companies/hellokindred/jobs/ibm-z-dev-ops-automation-engineer",
+      "publicadoEn": 1792077374000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "DevOps-Engineer",
+        "Automation-Engineer",
+        "Platform-Engineer",
+        "Site-Reliability-Engineer",
+        "Infrastructure-Engineer",
+        "IBM-Z-OS-Engineer",
+        "DevOps-Automation-Engineer",
+        "IBM-Z-Mainframe-Specialist",
+        "IT-Automation-Engineer",
+        "Infrastructure-Automation-Engineer"
+      ]
+    },
+    {
+      "idFuente": "acosta-group/distribution-sales-team-6897777487",
+      "fuente": "himalayas",
+      "titulo": "Distribution Sales Team",
+      "empresa": "Acosta Group",
+      "url": "https://himalayas.app/companies/acosta-group/jobs/distribution-sales-team-6897777487",
+      "publicadoEn": 1792077350000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales",
+        "Account-Executive",
+        "Territory-Sales-Representative",
+        "Distribution-Sales-Representative",
+        "Business-Development-Representative",
+        "Distribution-Sales",
+        "Distributor-Sales",
+        "Sales-Team",
+        "Sales-and-Distribution",
+        "Sales-Distribution"
+      ]
+    },
+    {
+      "idFuente": "osaic-inc/senior-estate-planning-strategist",
+      "fuente": "himalayas",
+      "titulo": "Senior Estate Planning Strategist",
+      "empresa": "Osaic, Inc.",
+      "url": "https://himalayas.app/companies/osaic-inc/jobs/senior-estate-planning-strategist",
+      "publicadoEn": 1792077305000,
+      "salarioTexto": "USD 130,000 - 150,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Estate-Planning-Attorney",
+        "Wealth-Manager",
+        "Financial-Planning",
+        "Trusts-And-Estates-Attorney",
+        "Estate-Planning-Consultant",
+        "Estate-Planning-Specialist",
+        "Estate-Planner",
+        "Senior-Financial-Planning-Specialist",
+        "Senior-Financial-Planner"
+      ]
+    },
+    {
+      "idFuente": "trac-recruiting/travel-business-development-manager-nebraska-iowa-remote",
+      "fuente": "himalayas",
+      "titulo": "Travel Business Development Manager (Nebraska/Iowa-REMOTE)﻿",
+      "empresa": "TRAC Recruiting",
+      "url": "https://himalayas.app/companies/trac-recruiting/jobs/travel-business-development-manager-nebraska-iowa-remote",
+      "publicadoEn": 1792077259000,
+      "salarioTexto": "USD 65,000 - 75,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Business-Development-Manager",
+        "Sales-Manager",
+        "Outside-Sales-Representative",
+        "Territory-Sales-Manager",
+        "Remote-Business-Development-Manager",
+        "Business-Development",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "devoted-health/transitions-of-care-medical-assistant-member-outreach",
+      "fuente": "himalayas",
+      "titulo": "Transitions of Care Medical Assistant - Member Outreach",
+      "empresa": "Devoted Health",
+      "url": "https://himalayas.app/companies/devoted-health/jobs/transitions-of-care-medical-assistant-member-outreach",
+      "publicadoEn": 1792077259000,
+      "salarioTexto": "USD 23 - 27",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Medical-Assistant",
+        "Care-Coordinator",
+        "Patient-Navigator",
+        "Care-Manager",
+        "Member-Outreach-Specialist",
+        "Member-Outreach",
+        "Transitions-Of-Care"
+      ]
+    },
+    {
+      "idFuente": "one-world-global-services/somali-swahili-interpreter",
+      "fuente": "himalayas",
+      "titulo": "Somali/Swahili :Interpreter",
+      "empresa": "One World Global Services",
+      "url": "https://himalayas.app/companies/one-world-global-services/jobs/somali-swahili-interpreter",
+      "publicadoEn": 1792077236000,
+      "salarioTexto": "USD 800 - 1,400",
+      "ubicacion": "India",
+      "etiquetas": [
+        "Interpreters",
+        "Medical-Interpreter",
+        "Somali-Interpreter",
+        "Swahili-Interpreter",
+        "Somali-Language-Interpreter",
+        "African-Language-Interpreter"
+      ]
+    },
+    {
+      "idFuente": "heritage-holdings/portfolio-manager",
+      "fuente": "himalayas",
+      "titulo": "Portfolio Manager",
+      "empresa": "Heritage Holdings",
+      "url": "https://himalayas.app/companies/heritage-holdings/jobs/portfolio-manager",
+      "publicadoEn": 1792077155000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Portfolio-Manager",
+        "Senior-Portfolio-Manager",
+        "Wealth-Manager",
+        "Investment-Manager",
+        "Portfolio-Management",
+        "Portfolio-Strategy-Manager",
+        "Portfolio-Finance-Manager",
+        "Portfolio-Management-Specialist",
+        "Equity-Portfolio-Manager"
+      ]
+    },
+    {
+      "idFuente": "gosquad/intern-frontend-engineer",
+      "fuente": "himalayas",
+      "titulo": "Intern Frontend Engineer",
+      "empresa": "Squad",
+      "url": "https://himalayas.app/companies/gosquad/jobs/intern-frontend-engineer",
+      "publicadoEn": 1792077142000,
+      "salarioTexto": null,
+      "ubicacion": "Ukraine",
+      "etiquetas": [
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "Web-Developer",
+        "UI-Engineer",
+        "Software-Engineer",
+        "Frontend-Engineering-Intern",
+        "Intern-Frontend-Developer",
+        "Frontend-Developer-Intern",
+        "Frontend-Development-Intern",
+        "Frontend-Intern",
+        "Frontend-Development-Internship",
+        "JavaScript-Development-Intern"
+      ]
+    },
+    {
+      "idFuente": "global-healthcare-exchange-ghx/customer-support-analyst-ii",
+      "fuente": "himalayas",
+      "titulo": "Customer Support Analyst II",
+      "empresa": "Global Healthcare Exchange (GHX)",
+      "url": "https://himalayas.app/companies/global-healthcare-exchange-ghx/jobs/customer-support-analyst-ii",
+      "publicadoEn": 1792077129000,
+      "salarioTexto": "USD 21.63 - 26.92",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Support-Analyst",
+        "Technical-Support-Specialist",
+        "Service-Desk-Analyst",
+        "Customer-Service",
+        "Support-Analyst",
+        "Client-Support-Analyst",
+        "Customer-Service-Analyst",
+        "Technical-Support-Analyst",
+        "B2B-Support-Analyst",
+        "Customer-Care-Analyst"
+      ]
+    },
+    {
+      "idFuente": "mozilla/senior-software-engineer-firefox-security-8211280418",
+      "fuente": "himalayas",
+      "titulo": "Senior Software Engineer, Firefox Security",
+      "empresa": "Mozilla",
+      "url": "https://himalayas.app/companies/mozilla/jobs/senior-software-engineer-firefox-security-8211280418",
+      "publicadoEn": 1792077110000,
+      "salarioTexto": "USD 68,000 - 91,000",
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Software-Engineer",
+        "Security-Engineer",
+        "Browser-Security-Engineer",
+        "Systems-Engineer",
+        "Firefox-Engineer",
+        "Security-Software-Engineer",
+        "Firefox-Browser-Engineering",
+        "Software-Security-Engineer"
+      ]
+    },
+    {
+      "idFuente": "ifood/android-software-engineer-senior-afirmativa-para-pessoas-negras",
+      "fuente": "himalayas",
+      "titulo": "Android Software Engineer Sênior (Afirmativa para Pessoas Negras)",
+      "empresa": "iFood",
+      "url": "https://himalayas.app/companies/ifood/jobs/android-software-engineer-senior-afirmativa-para-pessoas-negras",
+      "publicadoEn": 1792077079000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Android-Engineer",
+        "Mobile-Engineer",
+        "Software-Engineer",
+        "Android-Developer",
+        "Kotlin-Developer",
+        "Senior-Android-Engineer",
+        "Android-Software-Engineer",
+        "Senior-Mobile-Engineer-(Android)",
+        "Mobile-Android-Engineer"
+      ]
+    },
+    {
+      "idFuente": "clean-air-task-force/manager-talent-and-performance",
+      "fuente": "himalayas",
+      "titulo": "Manager, Talent and Performance",
+      "empresa": "CLEAN AIR TASK FORCE",
+      "url": "https://himalayas.app/companies/clean-air-task-force/jobs/manager-talent-and-performance",
+      "publicadoEn": 1792077052000,
+      "salarioTexto": "USD 98,091 - 122,614",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Talent-Manager",
+        "HR-Manager",
+        "People-Operations-Manager",
+        "Performance-Manager",
+        "Talent-Management-Manager",
+        "Talent-Development-Manager"
+      ]
+    },
+    {
+      "idFuente": "henry-schein/technical-sales-support",
+      "fuente": "himalayas",
+      "titulo": "Technical Sales Support",
+      "empresa": "Henry Schein",
+      "url": "https://himalayas.app/companies/henry-schein/jobs/technical-sales-support",
+      "publicadoEn": 1792077024000,
+      "salarioTexto": null,
+      "ubicacion": "Thailand",
+      "etiquetas": [
+        "Technical-Sales-Support",
+        "Sales-Support-Specialist",
+        "Field-Service-Technician",
+        "SALES-SUPPORT-TECHNICAL-SUPPORT",
+        "Technical-Sales-Support-Specialist",
+        "Sales-Engineering-Support",
+        "Sales-Support"
+      ]
+    },
+    {
+      "idFuente": "neogroup-eu/graphic-designer-promo-320512834",
+      "fuente": "himalayas",
+      "titulo": "Graphic Designer (Promo)",
+      "empresa": "NEO GROUP",
+      "url": "https://himalayas.app/companies/neogroup-eu/jobs/graphic-designer-promo-320512834",
+      "publicadoEn": 1792077016000,
+      "salarioTexto": null,
+      "ubicacion": "Serbia",
+      "etiquetas": [
+        "Graphic-Designer",
+        "Visual-Designer",
+        "Promotional-Design",
+        "Marketing-Designer",
+        "Creative-Designer",
+        "Campaign-Graphic-Designer",
+        "Promotional-Products-Designer",
+        "Marketing-Visual-Designer",
+        "Design"
+      ]
+    },
+    {
+      "idFuente": "ampro-adlink-technology-inc/technical-sales-engineer",
+      "fuente": "himalayas",
+      "titulo": "Technical Sales Engineer",
+      "empresa": "Ampro ADLINK Technology, Inc.",
+      "url": "https://himalayas.app/companies/ampro-adlink-technology-inc/jobs/technical-sales-engineer",
+      "publicadoEn": 1792076988000,
+      "salarioTexto": "USD 150,000 - 180,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales-Engineer",
+        "Technical-Sales-Engineer",
+        "Solutions-Engineer",
+        "Pre-Sales-Engineer",
+        "Solutions-Consultant",
+        "Technical-Sales-Engineering",
+        "Technical-Sales-Consultant",
+        "Technical-Sales-Specialist",
+        "Product-Sales-Engineer",
+        "Technical-Sales"
+      ]
+    },
+    {
+      "idFuente": "155389",
+      "fuente": "jobicy",
+      "titulo": "Platform Engineer, Managed Postgres",
+      "empresa": "Supabase",
+      "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
+      "publicadoEn": 1792071232000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "DevOps & Infrastructure",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "155385",
+      "fuente": "jobicy",
+      "titulo": "AI Platform Engineer",
+      "empresa": "Supabase",
+      "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+      "publicadoEn": 1792071231000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Software Engineering",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "155368",
+      "fuente": "jobicy",
+      "titulo": "Sales Engineer - Data & AI Security",
+      "empresa": "Veeam Software",
+      "url": "https://jobicy.com/jobs/155368-sales-engineer-data-ai-security",
+      "publicadoEn": 1792069304000,
+      "salarioTexto": null,
+      "ubicacion": "Spain",
+      "etiquetas": [
+        "Sales",
+        "Senior"
+      ]
+    },
     {
       "idFuente": "upgrade-ai-experience-engineer-conversational-ai",
       "fuente": "weworkremotely",
@@ -1616,479 +2136,6 @@
         "Healthcare-Accounts-Receivable-Specialist",
         "Medical-Collections-Representative"
       ]
-    },
-    {
-      "idFuente": "muse-group/ai-engineering-architect",
-      "fuente": "himalayas",
-      "titulo": "AI Engineering Architect",
-      "empresa": "Muse Group",
-      "url": "https://himalayas.app/companies/muse-group/jobs/ai-engineering-architect",
-      "publicadoEn": 1792062567000,
-      "salarioTexto": null,
-      "ubicacion": "Cyprus",
-      "etiquetas": [
-        "AI-Engineer",
-        "AI-Architect",
-        "Machine-Learning-Engineer",
-        "Platform-Engineer",
-        "Developer-Experience-Engineer",
-        "AI-Architecture-Engineering",
-        "AI-Technical-Architect",
-        "AI-Infrastructure-Architect",
-        "AI-ML-Architect",
-        "AI-Engineering",
-        "Principal-AI-Architect"
-      ]
-    },
-    {
-      "idFuente": "m9-solutions/css-support-operations-analyst",
-      "fuente": "himalayas",
-      "titulo": "CSS Support Operations Analyst",
-      "empresa": "M9 Solutions",
-      "url": "https://himalayas.app/companies/m9-solutions/jobs/css-support-operations-analyst",
-      "publicadoEn": 1792062504000,
-      "salarioTexto": "USD 100,000 - 115,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Support-Analyst",
-        "Operations-Analyst",
-        "Customer-Support-Analyst",
-        "Operational-Support-Analyst",
-        "CS-Operational-Support",
-        "Support-Operations-Specialist",
-        "Operations-Support-Specialist"
-      ]
-    },
-    {
-      "idFuente": "logically/financial-planning-analysis-director",
-      "fuente": "himalayas",
-      "titulo": "Financial Planning & Analysis Director",
-      "empresa": "Logically",
-      "url": "https://himalayas.app/companies/logically/jobs/financial-planning-analysis-director",
-      "publicadoEn": 1792062445000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Director-of-Finance",
-        "FP&A-Director",
-        "Financial-Planning-Manager",
-        "Finance-Manager",
-        "Finance-Business-Partner",
-        "Financial-Planning-And-Analysis-Director",
-        "Director-Of-Financial-Planning-and-Analysis",
-        "Financial-Analytics-Director",
-        "Director-Of-FP&A",
-        "Director-FP&A"
-      ]
-    },
-    {
-      "idFuente": "receptive/nurse-practitioner-adhd-diagnosis-and-treatment-maine",
-      "fuente": "himalayas",
-      "titulo": "Nurse Practitioner - ADHD Diagnosis and Treatment (Maine)",
-      "empresa": "Receptive",
-      "url": "https://himalayas.app/companies/receptive/jobs/nurse-practitioner-adhd-diagnosis-and-treatment-maine",
-      "publicadoEn": 1792062424000,
-      "salarioTexto": "USD 120 - 120",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Nurse-Practitioner",
-        "Psychiatric-Nurse-Practitioner",
-        "Telehealth-Nurse-Practitioner",
-        "Mental-Health-Nurse-Practitioner",
-        "Advanced-Practice-Registered-Nurse",
-        "ADHD-Practitioner",
-        "ADHD-Prescriber",
-        "ADHD-Assessor-and-Prescriber",
-        "ADHD-Specialist-Clinician",
-        "ADHD-Treatment-Specialist",
-        "ADHD-Specialist",
-        "Healthcare"
-      ]
-    },
-    {
-      "idFuente": "mize/customer-support-specialist-emea-1264118249",
-      "fuente": "himalayas",
-      "titulo": "Customer Support Specialist - EMEA",
-      "empresa": "Mize",
-      "url": "https://himalayas.app/companies/mize/jobs/customer-support-specialist-emea-1264118249",
-      "publicadoEn": 1792062379000,
-      "salarioTexto": null,
-      "ubicacion": "Romania",
-      "etiquetas": [
-        "Customer-Support-Specialist",
-        "Technical-Support-Specialist",
-        "Support-Specialist",
-        "Help-Desk-Specialist",
-        "Customer-Success-Specialist",
-        "EMEA-Customer-Support",
-        "Remote-Customer-Support-Specialist",
-        "Customer-Support",
-        "Customer-Service"
-      ]
-    },
-    {
-      "idFuente": "general-dynamics-information-technology/itil-automation-orchestration-engineer",
-      "fuente": "himalayas",
-      "titulo": "ITIL Automation / Orchestration Engineer",
-      "empresa": "General Dynamics Information Technology",
-      "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/itil-automation-orchestration-engineer",
-      "publicadoEn": 1792062346000,
-      "salarioTexto": "USD 144,500 - 195,500",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "ITIL-Automation-Engineer",
-        "ITSM-Engineer",
-        "DevOps-Engineer",
-        "ServiceNow-Developer",
-        "Orchestration-Engineer",
-        "IT-Automation-Engineer",
-        "DevOps-Automation-Engineer",
-        "Infrastructure-Automation-Engineer",
-        "ITIL-Automation",
-        "IT-Automation-Engineering",
-        "Workflow-Orchestration-Engineer",
-        "Enterprise-Automation-Engineer"
-      ]
-    },
-    {
-      "idFuente": "significance/data-scientist-navy",
-      "fuente": "himalayas",
-      "titulo": "Data Scientist - Navy",
-      "empresa": "Significance",
-      "url": "https://himalayas.app/companies/significance/jobs/data-scientist-navy",
-      "publicadoEn": 1792062346000,
-      "salarioTexto": "USD 115,000 - 125,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Data-Scientist",
-        "Data-Analyst",
-        "Data-Engineer",
-        "Database-Administrator",
-        "DoD-Data-Science",
-        "Federal-Data-Scientist",
-        "Data-Science"
-      ]
-    },
-    {
-      "idFuente": "bright-vision-technologies/oracle-pl-sql-developer-1945673801",
-      "fuente": "himalayas",
-      "titulo": "Oracle PL/SQL Developer",
-      "empresa": "Bright Vision Technologies",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/oracle-pl-sql-developer-1945673801",
-      "publicadoEn": 1792062315000,
-      "salarioTexto": "USD 120,000 - 180,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Oracle-PL-SQL-Developer",
-        "PL-SQL-Developer",
-        "Database-Developer",
-        "Oracle-Developer",
-        "SQL-Developer",
-        "Oracle-PL-SQL-Development",
-        "PL-SQL-Development",
-        "Oracle-Database-Developer",
-        "PL-SQL-and-API-Developer",
-        "PL-SQL-Programming"
-      ]
-    },
-    {
-      "idFuente": "florida-cancer-specialists-research-institute/patient-financial-navigator-support",
-      "fuente": "himalayas",
-      "titulo": "Patient Financial Navigator Support",
-      "empresa": "Florida Cancer Specialists & Research Institute",
-      "url": "https://himalayas.app/companies/florida-cancer-specialists-research-institute/jobs/patient-financial-navigator-support",
-      "publicadoEn": 1792062294000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Financial-Navigator",
-        "Healthcare-Financial-Counseling",
-        "Medical-Billing-Specialist",
-        "Revenue-Cycle-Specialist",
-        "Accounts-Receivable-Specialist",
-        "Patient-Financial-Navigator",
-        "Patient-Financial-Advocate",
-        "Patient-Financial-Advocacy",
-        "Patient-Financial-Counselor",
-        "Patient-Financial-Services",
-        "Patient-Billing-Support"
-      ]
-    },
-    {
-      "idFuente": "auraframes/sales-specialist-upsell",
-      "fuente": "himalayas",
-      "titulo": "Sales Specialist - Upsell",
-      "empresa": "Aura",
-      "url": "https://himalayas.app/companies/auraframes/jobs/sales-specialist-upsell",
-      "publicadoEn": 1792062228000,
-      "salarioTexto": "USD 18 - 18",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Inside-Sales",
-        "Sales-Specialist",
-        "Account-Executive",
-        "Upselling-Specialist",
-        "B2C-Sales",
-        "Upselling",
-        "Upsell-And-Cross-Sell-Sales",
-        "Upselling-Cross-selling",
-        "Upsell-Cross-Sell",
-        "Upgrade-Sales",
-        "Sales"
-      ]
-    },
-    {
-      "idFuente": "rethinkfirst/social-media-specialist",
-      "fuente": "himalayas",
-      "titulo": "Social Media Specialist",
-      "empresa": "RethinkFirst",
-      "url": "https://himalayas.app/companies/rethinkfirst/jobs/social-media-specialist",
-      "publicadoEn": 1792062210000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Social-Media-Specialist",
-        "Social-Media-Manager",
-        "Marketing-Specialist",
-        "Content-Specialist",
-        "Digital-Marketing-Specialist",
-        "Social-Media-Marketing-Specialist",
-        "Social-Media-Content-Specialist",
-        "SMM-Specialist",
-        "Social-Media-Engagement-Specialist",
-        "Content-and-Social-Media-Specialist",
-        "Social-Media"
-      ]
-    },
-    {
-      "idFuente": "cisco/lead-technical-writer-isovalent",
-      "fuente": "himalayas",
-      "titulo": "Lead Technical Writer - Isovalent",
-      "empresa": "Cisco",
-      "url": "https://himalayas.app/companies/cisco/jobs/lead-technical-writer-isovalent",
-      "publicadoEn": 1792062204000,
-      "salarioTexto": "USD 188,300 - 238,200",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Technical-Writer",
-        "Lead-Technical-Writer",
-        "Senior-Technical-Writer",
-        "Documentation-Specialist",
-        "Technical-Documentation-Lead",
-        "Technical-Writing-Lead"
-      ]
-    },
-    {
-      "idFuente": "extend-app/senior-analyst-client-insights-8294319598",
-      "fuente": "himalayas",
-      "titulo": "Senior Analyst, Client Insights",
-      "empresa": "Extend",
-      "url": "https://himalayas.app/companies/extend-app/jobs/senior-analyst-client-insights-8294319598",
-      "publicadoEn": 1792061951000,
-      "salarioTexto": "USD 124,000 - 145,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Senior-Analyst",
-        "Business-Analyst",
-        "Analytics-Consultant",
-        "Revenue-Analyst",
-        "Technical-Account-Manager",
-        "Senior-Customer-Insights-Analyst",
-        "Senior-Client-Intelligence-Manager",
-        "Senior-Enterprise-Insights-Analyst",
-        "Senior-Insights-Consultant",
-        "Customer-Insights-Analyst",
-        "Client-Analyst",
-        "Senior-Research-Analyst"
-      ]
-    },
-    {
-      "idFuente": "euna-solutions/account-executive-payments",
-      "fuente": "himalayas",
-      "titulo": "Account Executive - Payments",
-      "empresa": "Euna Solutions",
-      "url": "https://himalayas.app/companies/euna-solutions/jobs/account-executive-payments",
-      "publicadoEn": 1792061819000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Account-Executive",
-        "Sales-Executive",
-        "Government-Sales",
-        "Business-Development",
-        "SLED-Sales",
-        "Sales:-Account-Executives",
-        "Payment-Sales-Executive",
-        "Sales"
-      ]
-    },
-    {
-      "idFuente": "153256",
-      "fuente": "jobicy",
-      "titulo": "Senior Affiliate Manager (Full Remote - Spain)",
-      "empresa": "EverAI",
-      "url": "https://jobicy.com/jobs/153256-senior-affiliate-manager-full-remote-spain",
-      "publicadoEn": 1792036204000,
-      "salarioTexto": "EUR 50,000 - 65,000",
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "153265",
-      "fuente": "jobicy",
-      "titulo": "Account Executive, EMEA",
-      "empresa": "Socket",
-      "url": "https://jobicy.com/jobs/153265-account-executive-emea-3",
-      "publicadoEn": 1792035906000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "153227",
-      "fuente": "jobicy",
-      "titulo": "Senior Backend Engineer (Boosters)",
-      "empresa": "Playson",
-      "url": "https://jobicy.com/jobs/153227-senior-backend-engineer-boosters",
-      "publicadoEn": 1792035609000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "153247",
-      "fuente": "jobicy",
-      "titulo": "Marketing Event Manager - EMEA",
-      "empresa": "Dandy",
-      "url": "https://jobicy.com/jobs/153247-marketing-event-manager-emea",
-      "publicadoEn": 1792032623000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "153242",
-      "fuente": "jobicy",
-      "titulo": "Principal ML Platform Engineer",
-      "empresa": "Synthesia",
-      "url": "https://jobicy.com/jobs/153242-principal-ml-platform-engineer",
-      "publicadoEn": 1792032620000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "153232",
-      "fuente": "jobicy",
-      "titulo": "Senior Integration Engineer",
-      "empresa": "Playson",
-      "url": "https://jobicy.com/jobs/153232-senior-integration-engineer",
-      "publicadoEn": 1792032615000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Technical Support",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "153231",
-      "fuente": "jobicy",
-      "titulo": "Senior Legal Counsel",
-      "empresa": "Playson",
-      "url": "https://jobicy.com/jobs/153231-senior-legal-counsel-3",
-      "publicadoEn": 1792032614000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Legal & Compliance",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "153230",
-      "fuente": "jobicy",
-      "titulo": "Marketing Designer",
-      "empresa": "Playson",
-      "url": "https://jobicy.com/jobs/153230-marketing-designer",
-      "publicadoEn": 1792032613000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Creative & Design",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "153229",
-      "fuente": "jobicy",
-      "titulo": "Senior Game Mathematician",
-      "empresa": "Playson",
-      "url": "https://jobicy.com/jobs/153229-senior-game-mathematician",
-      "publicadoEn": 1792032612000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "150590",
-      "fuente": "jobicy",
-      "titulo": "Senior System Engineer (Virtual Private Cloud Team)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/150590-senior-system-engineer-virtual-private-cloud-team",
-      "publicadoEn": 1792032608000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, Netherlands",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "150588",
-      "fuente": "jobicy",
-      "titulo": "Head of Engineering",
-      "empresa": "saas.group",
-      "url": "https://jobicy.com/jobs/150588-head-of-engineering",
-      "publicadoEn": 1792032606000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "146030",
-      "fuente": "jobicy",
-      "titulo": "Cost Accounting Manager",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/146030-cost-accounting-manager",
-      "publicadoEn": 1792032330000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA, UK",
-      "etiquetas": [
-        "Finance & Accounting",
-        "Midweight"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -2128,13 +2175,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 4158,
-      "remotive": 714,
-      "weworkremotely": 3554,
-      "himalayas": 840,
-      "jobicy": 1650
+      "remoteok": 4257,
+      "remotive": 728,
+      "weworkremotely": 3641,
+      "himalayas": 860,
+      "jobicy": 1700
     },
-    "duplicadosDescartados": 9665,
-    "ultimaEjecucion": "2026-10-15T11:27:01.219Z"
+    "duplicadosDescartados": 9909,
+    "ultimaEjecucion": "2026-10-15T16:59:40.497Z"
   }
 }
