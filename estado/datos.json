@@ -1484,9 +1484,490 @@
     "canonical::legal counsel regulatory compliance product and privacy",
     "canonical::channel partner sales executive uki",
     "cresta::enterprise account executive emea",
-    "siteminder::senior sales executive"
+    "siteminder::senior sales executive",
+    "atomic construction llc::marketing appt setting",
+    "freebalance::r d global manager",
+    "tjm labs::technical product manager global remote",
+    "bright vision technologies::sap abap programmer",
+    "bright vision technologies::oracle erp solution architect",
+    "welocalize::ukrainian generative ai analyst",
+    "acumatica::talent development manager learning leadership development",
+    "heritagesg::assistant manager marketing communication",
+    "tripleten::capacitacion de consultor de ventas educativas",
+    "ccs fundraising::account based marketing manager",
+    "westjet group::global account manager",
+    "cleargov::sales development representative",
+    "imagine pediatrics::vice president business development",
+    "scharfsinn recruiting::facebook werbeanzeigen betreuung m w d 100 homeoffice teilzeit 25 30 h",
+    "aereach strategic partners::customer success associate",
+    "patriot software::qa analyst ii",
+    "cyera::regional sales director canada",
+    "aerial canvas::business development representative",
+    "axonius::enterprise account executive florida",
+    "grant thornton bahrain::gt talent hub",
+    "tutor com::tutor talent community",
+    "monzo::data director eu",
+    "appen::client partner"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "atomic-construction-llc-marketing-appt-setting",
+      "fuente": "weworkremotely",
+      "titulo": "Marketing/Appt Setting",
+      "empresa": "Atomic Construction, LLC",
+      "url": "https://weworkremotely.com/remote-jobs/atomic-construction-llc-marketing-appt-setting",
+      "publicadoEn": 1792242679000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "freebalance/r-d-global-manager",
+      "fuente": "himalayas",
+      "titulo": "R&D Global Manager",
+      "empresa": "FreeBalance",
+      "url": "https://himalayas.app/companies/freebalance/jobs/r-d-global-manager",
+      "publicadoEn": 1792249654000,
+      "salarioTexto": null,
+      "ubicacion": "Poland",
+      "etiquetas": [
+        "R&D-Manager",
+        "Development-Manager",
+        "Engineering-Manager",
+        "Software-Development-Manager",
+        "Java-Engineering-Manager",
+        "Research-And-Development-Manager",
+        "R&D-Director",
+        "R&D-Strategy-Manager",
+        "R&D-Lead",
+        "Research-And-Development-Director"
+      ]
+    },
+    {
+      "idFuente": "tjm-labs/technical-product-manager-global-remote",
+      "fuente": "himalayas",
+      "titulo": "Technical Product Manager - Global, Remote",
+      "empresa": "TJM Labs",
+      "url": "https://himalayas.app/companies/tjm-labs/jobs/technical-product-manager-global-remote",
+      "publicadoEn": 1792249631000,
+      "salarioTexto": null,
+      "ubicacion": "Egypt",
+      "etiquetas": [
+        "Technical-Product-Manager",
+        "Product-Manager",
+        "Technical-Program-Manager",
+        "AI-Product-Manager",
+        "Software-Product-Manager",
+        "Remote-Technical-Product-Manager"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/sap-abap-programmer-9135717819",
+      "fuente": "himalayas",
+      "titulo": "SAP ABAP Programmer",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/sap-abap-programmer-9135717819",
+      "publicadoEn": 1792249618000,
+      "salarioTexto": "USD 100,000 - 150,000",
+      "ubicacion": "Jordan",
+      "etiquetas": [
+        "SAP-ABAP-Developer",
+        "Sap-Developer",
+        "ABAP-Programmer",
+        "SAP-Technical-Consultant",
+        "ERP-Developer",
+        "SAP-ABAP-Programmer",
+        "SAP-ABAP-Engineer",
+        "Abap-Developer",
+        "ABAP-Engineer",
+        "SAP-ABAP-Programming",
+        "ABAP-Specialist"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/oracle-erp-solution-architect-6809375298",
+      "fuente": "himalayas",
+      "titulo": "Oracle ERP Solution Architect",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/oracle-erp-solution-architect-6809375298",
+      "publicadoEn": 1792249588000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Oracle-ERP-Cloud-Solution-Architect",
+        "ERP-Architect",
+        "Oracle-Consultant",
+        "Solutions-Architect",
+        "Oracle-Fusion-Consultant",
+        "ERP-Solution-Architect",
+        "Oracle-ERP-Technical-Architect",
+        "Oracle-Solutions-Architect",
+        "Oracle-ERP-Finance-Architect",
+        "Cloud-ERP-Solution-Architect",
+        "Oracle-EBS-Solution-Architect"
+      ]
+    },
+    {
+      "idFuente": "welocalize/ukrainian-generative-ai-analyst",
+      "fuente": "himalayas",
+      "titulo": "Ukrainian Generative AI Analyst",
+      "empresa": "Welocalize",
+      "url": "https://himalayas.app/companies/welocalize/jobs/ukrainian-generative-ai-analyst",
+      "publicadoEn": 1792249588000,
+      "salarioTexto": null,
+      "ubicacion": "Poland",
+      "etiquetas": [
+        "AI-Data-Analyst",
+        "AI-Annotator",
+        "Data-Quality-Analyst",
+        "Language-Analyst",
+        "Content-Reviewer",
+        "Generative-AI-Analyst",
+        "AI-Analyst",
+        "Generative-AI-Specialist",
+        "Generative-AI-Evaluator"
+      ]
+    },
+    {
+      "idFuente": "acumatica/talent-development-manager-learning-leadership-development",
+      "fuente": "himalayas",
+      "titulo": "Talent Development Manager (Learning& Leadership Development)",
+      "empresa": "Acumatica",
+      "url": "https://himalayas.app/companies/acumatica/jobs/talent-development-manager-learning-leadership-development",
+      "publicadoEn": 1792249553000,
+      "salarioTexto": "USD 120,000 - 135,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Talent-Development-Manager",
+        "Learning-And-Development-Manager",
+        "Leadership-Development-Manager",
+        "Organizational-Development-Manager",
+        "HR-Manager",
+        "Learning-Development-Manager",
+        "Training-And-Development-Manager"
+      ]
+    },
+    {
+      "idFuente": "heritagesg/assistant-manager-marketing-communication",
+      "fuente": "himalayas",
+      "titulo": "Assistant Manager (Marketing & Communication)",
+      "empresa": "HeritageSG",
+      "url": "https://himalayas.app/companies/heritagesg/jobs/assistant-manager-marketing-communication",
+      "publicadoEn": 1792249481000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Marketing-Communications-Manager",
+        "Communications-Manager",
+        "Marketing-Manager",
+        "Brand-Manager",
+        "Digital-Marketing-Manager",
+        "Assistant-Marketing-Manager",
+        "Marketing-Associate-Manager",
+        "Marketing-Assistant"
+      ]
+    },
+    {
+      "idFuente": "tripleten/capacitacion-de-consultor-de-ventas-educativas",
+      "fuente": "himalayas",
+      "titulo": "Capacitación de Consultor de Ventas Educativas",
+      "empresa": "TripleTen",
+      "url": "https://himalayas.app/companies/tripleten/jobs/capacitacion-de-consultor-de-ventas-educativas",
+      "publicadoEn": 1792249446000,
+      "salarioTexto": "USD 1,200 - 3,500",
+      "ubicacion": "Colombia",
+      "etiquetas": [
+        "Sales-Consultant",
+        "Sales-Advisor",
+        "Account-Executive",
+        "Educational-Sales",
+        "Business-Development",
+        "Entrenamiento-De-Ventas"
+      ]
+    },
+    {
+      "idFuente": "ccs-fundraising/account-based-marketing-manager",
+      "fuente": "himalayas",
+      "titulo": "Account-Based Marketing Manager",
+      "empresa": "CCS Fundraising",
+      "url": "https://himalayas.app/companies/ccs-fundraising/jobs/account-based-marketing-manager",
+      "publicadoEn": 1792249433000,
+      "salarioTexto": "USD 95,000 - 115,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Account-Based-Marketing-Manager",
+        "Marketing-Manager",
+        "B2B-Marketing-Manager",
+        "Demand-Generation-Manager",
+        "Growth-Marketing-Manager",
+        "ABM-Marketing-Manager"
+      ]
+    },
+    {
+      "idFuente": "westjet-group/global-account-manager",
+      "fuente": "himalayas",
+      "titulo": "Global Account Manager",
+      "empresa": "WestJet Group",
+      "url": "https://himalayas.app/companies/westjet-group/jobs/global-account-manager",
+      "publicadoEn": 1792249420000,
+      "salarioTexto": "USD 90,960 - 136,440",
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Account-Manager",
+        "Global-Account-Manager",
+        "Sales-Account-Manager",
+        "Key-Account-Manager",
+        "Business-Development-Manager",
+        "Global-Account-Management",
+        "International-Account-Manager",
+        "Global-Sales-and-Account-Management",
+        "Global-Accounts-Management"
+      ]
+    },
+    {
+      "idFuente": "cleargov/sales-development-representative",
+      "fuente": "himalayas",
+      "titulo": "Sales Development Representative",
+      "empresa": "ClearGov",
+      "url": "https://himalayas.app/companies/cleargov/jobs/sales-development-representative",
+      "publicadoEn": 1792249420000,
+      "salarioTexto": "USD 60,000 - 60,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales-Development-Representative",
+        "SDR",
+        "Business-Development-Representative",
+        "Lead-Generation-Specialist",
+        "Sales-Prospecting",
+        "Sales-Business-Development-Representative",
+        "Sales-Development-Associate",
+        "Sales-Development-Specialist",
+        "Entry-Level-Sales-Development-Representative",
+        "B2B-Sales-Development-Representative",
+        "Sales-Development",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "imagine-pediatrics/vice-president-business-development",
+      "fuente": "himalayas",
+      "titulo": "Vice President, Business Development",
+      "empresa": "Imagine Pediatrics",
+      "url": "https://himalayas.app/companies/imagine-pediatrics/jobs/vice-president-business-development",
+      "publicadoEn": 1792249357000,
+      "salarioTexto": "USD 210,000 - 250,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Business-Development-Executive",
+        "VP-Business-Development",
+        "Healthcare-Business-Development",
+        "Sales-Executive",
+        "Growth",
+        "Vice-President-Business-Development",
+        "Vice-President-Of-Business-Development",
+        "VP-Of-Business-Development",
+        "Business-Development-VP",
+        "SVP-Business-Development"
+      ]
+    },
+    {
+      "idFuente": "scharfsinn-recruiting/facebook-werbeanzeigen-betreuung-m-w-d-100-homeoffice-teilzeit-25-30-h",
+      "fuente": "himalayas",
+      "titulo": "Facebook-Werbeanzeigen-Betreuung (m/w/d) - 100% Homeoffice, Teilzeit 25-30 h",
+      "empresa": "Scharfsinn Recruiting",
+      "url": "https://himalayas.app/companies/scharfsinn-recruiting/jobs/facebook-werbeanzeigen-betreuung-m-w-d-100-homeoffice-teilzeit-25-30-h",
+      "publicadoEn": 1792249348000,
+      "salarioTexto": "USD 1,287.13 - 1,544.56",
+      "ubicacion": "Austria",
+      "etiquetas": [
+        "Social-Media-Manager",
+        "Online-Marketing-Manager",
+        "Facebook-Ads-Manager",
+        "Digital-Marketing-Specialist",
+        "Meta-Ads-Specialist",
+        "Facebook-Ads-Specialist"
+      ]
+    },
+    {
+      "idFuente": "aereach-strategic-partners/customer-success-associate",
+      "fuente": "himalayas",
+      "titulo": "Customer Success Associate",
+      "empresa": "Aereach Strategic Partners",
+      "url": "https://himalayas.app/companies/aereach-strategic-partners/jobs/customer-success-associate",
+      "publicadoEn": 1792249318000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Success-Associate",
+        "Sales-Development-Representative",
+        "Inside-Sales",
+        "Customer-Success-Manager",
+        "B2B-Sales",
+        "Associate-Customer-Success-Specialist",
+        "Client-Success-Associate",
+        "Customer-Success-Representative",
+        "Customer-Success-Coordinator",
+        "Customer-Success"
+      ]
+    },
+    {
+      "idFuente": "patriot-software/qa-analyst-ii",
+      "fuente": "himalayas",
+      "titulo": "QA Analyst II",
+      "empresa": "Patriot Software",
+      "url": "https://himalayas.app/companies/patriot-software/jobs/qa-analyst-ii",
+      "publicadoEn": 1792249285000,
+      "salarioTexto": "USD 65,000 - 78,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "QA-Analyst",
+        "Software-QA-Analyst",
+        "Testing-Analyst",
+        "QA-Engineer",
+        "QA-Test-Analyst",
+        "Quality-Testing-Analyst"
+      ]
+    },
+    {
+      "idFuente": "cyera-com/regional-sales-director-canada",
+      "fuente": "himalayas",
+      "titulo": "Regional Sales Director - Canada",
+      "empresa": "Cyera",
+      "url": "https://himalayas.app/companies/cyera-com/jobs/regional-sales-director-canada",
+      "publicadoEn": 1792249285000,
+      "salarioTexto": null,
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Regional-Sales-Director",
+        "Sales-Leadership",
+        "Enterprise-Sales",
+        "B2B-Sales",
+        "Sales-Management",
+        "Regional-Director-Of-Sales",
+        "Regional-Director-Sales",
+        "North-America-Sales-Director",
+        "Sales-Director"
+      ]
+    },
+    {
+      "idFuente": "aerial-canvas/business-development-representative",
+      "fuente": "himalayas",
+      "titulo": "Business Development Representative",
+      "empresa": "Aerial Canvas",
+      "url": "https://himalayas.app/companies/aerial-canvas/jobs/business-development-representative",
+      "publicadoEn": 1792249255000,
+      "salarioTexto": null,
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Business-Development-Representative",
+        "Sales-Development-Representative",
+        "Sales",
+        "Account-Manager",
+        "BDR",
+        "Sales-Business-Development-Representative",
+        "Business-Development-Professional",
+        "Partner-Business-Development-Representative",
+        "Business-Developer",
+        "Remote-Business-Development-Representative",
+        "B2B-Sales-Development-Representative",
+        "Business-Development-Specialist",
+        "English-Speaking-Business-Development-Representative",
+        "Business-Development"
+      ]
+    },
+    {
+      "idFuente": "axonius/enterprise-account-executive-florida",
+      "fuente": "himalayas",
+      "titulo": "Enterprise Account Executive, Florida",
+      "empresa": "Axonius",
+      "url": "https://himalayas.app/companies/axonius/jobs/enterprise-account-executive-florida",
+      "publicadoEn": 1792249255000,
+      "salarioTexto": "USD 290,000 - 305,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Enterprise-Account-Executive",
+        "Account-Executive",
+        "B2B-Sales-Executive",
+        "Sales-Executive",
+        "Enterprise-Sales-Representative",
+        "Enterprise-Sales-Account-Executive",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "grant-thornton-bahrain/gt-talent-hub",
+      "fuente": "himalayas",
+      "titulo": "GT Talent Hub",
+      "empresa": "Grant Thornton Bahrain",
+      "url": "https://himalayas.app/companies/grant-thornton-bahrain/jobs/gt-talent-hub",
+      "publicadoEn": 1792249255000,
+      "salarioTexto": null,
+      "ubicacion": "Bahrain",
+      "etiquetas": [
+        "Auditor",
+        "Tax-Advisor",
+        "Risk-Advisory",
+        "Technology-Advisory",
+        "Legal-Services",
+        "Growth-Advisory",
+        "AI-Talent-Hub",
+        "GTM-Talent-Acquisition",
+        "GTM-Recruiting",
+        "Talent-Community",
+        "GTM-Hiring",
+        "Talent-Bank",
+        "GTM-Recruiter"
+      ]
+    },
+    {
+      "idFuente": "tutor-com/tutor-talent-community",
+      "fuente": "himalayas",
+      "titulo": "Tutor Talent Community",
+      "empresa": "Tutor.com",
+      "url": "https://himalayas.app/companies/tutor-com/jobs/tutor-talent-community",
+      "publicadoEn": 1792249212000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Tutor",
+        "Online-Tutor",
+        "Academic-Tutor",
+        "Private-Tutor",
+        "Tutors-Teachers",
+        "Teaching-Tutoring",
+        "Tutoring-Jobs"
+      ]
+    },
+    {
+      "idFuente": "155581",
+      "fuente": "jobicy",
+      "titulo": "Data Director, EU",
+      "empresa": "Monzo",
+      "url": "https://jobicy.com/jobs/155581-data-director-eu",
+      "publicadoEn": 1792225987000,
+      "salarioTexto": null,
+      "ubicacion": "Spain, UK",
+      "etiquetas": [
+        "Data Science & Analytics",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "155578",
+      "fuente": "jobicy",
+      "titulo": "Client Partner",
+      "empresa": "Appen",
+      "url": "https://jobicy.com/jobs/155578-client-partner-2",
+      "publicadoEn": 1792225984000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil, Spain",
+      "etiquetas": [
+        "Project & Program Management",
+        "Senior"
+      ]
+    },
     {
       "idFuente": "153452",
       "fuente": "jobicy",
@@ -1920,411 +2401,6 @@
         "Broker-(Commercial)",
         "Sales"
       ]
-    },
-    {
-      "idFuente": "davies-north-america/telephonic-nurse-case-manager",
-      "fuente": "himalayas",
-      "titulo": "Telephonic Nurse Case Manager",
-      "empresa": "Davies North America",
-      "url": "https://himalayas.app/companies/davies-north-america/jobs/telephonic-nurse-case-manager",
-      "publicadoEn": 1792232939000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Nurse-Case-Manager",
-        "Telephonic-Nurse-Case-Manager",
-        "Workers'-Compensation-Case-Manager",
-        "Healthcare-Case-Management",
-        "Registered-Nurse",
-        "Telephonic-Case-Manager",
-        "Tele-RN-Case-Manager",
-        "Telephonic-Care-Manager",
-        "Remote-Nurse-Case-Manager",
-        "Telephonic-Nursing",
-        "Case-Manager"
-      ]
-    },
-    {
-      "idFuente": "synergy-america-inc/php-software-developer",
-      "fuente": "himalayas",
-      "titulo": "PHP Software Developer",
-      "empresa": "Synergy America, Inc",
-      "url": "https://himalayas.app/companies/synergy-america-inc/jobs/php-software-developer",
-      "publicadoEn": 1792232930000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "PHP-Developer",
-        "Software-Developer",
-        "Backend-Engineer",
-        "Web-Developer",
-        "Senior-PHP-Developer",
-        "PHP-Software-Engineer",
-        "PHP-Development",
-        "PHP-Engineer",
-        "PHP-Symfony-Developer",
-        "PHP-Full-Stack-Developer",
-        "Lead-PHP-Developer",
-        "Native-PHP-Developer",
-        "Developer"
-      ]
-    },
-    {
-      "idFuente": "mercor/ai-systems-user-fully-remote-upto-30-hr",
-      "fuente": "himalayas",
-      "titulo": "AI Systems User - Fully Remote | Upto $30/hr",
-      "empresa": "mercor",
-      "url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr",
-      "publicadoEn": 1792232926000,
-      "salarioTexto": "USD 30 - 30",
-      "ubicacion": "Japan",
-      "etiquetas": [
-        "AI-Tester",
-        "AI-Evaluator",
-        "AI-interface-testing",
-        "Product-Tester",
-        "UX-Researcher",
-        "Remote-AI-Work",
-        "Remote-AI-Specialist",
-        "AI-Systems-Specialist"
-      ]
-    },
-    {
-      "idFuente": "synergy-america-inc/aruba-certified-mobility-expert-3746268548",
-      "fuente": "himalayas",
-      "titulo": "Aruba Certified Mobility Expert",
-      "empresa": "Synergy America, Inc",
-      "url": "https://himalayas.app/companies/synergy-america-inc/jobs/aruba-certified-mobility-expert-3746268548",
-      "publicadoEn": 1792232916000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Network-Engineer",
-        "Wireless-Engineer",
-        "Mobility-Engineer",
-        "Network-Administrator",
-        "Infrastructure-Engineer",
-        "Mobility-Specialist",
-        "Wireless-Mobility-Engineering"
-      ]
-    },
-    {
-      "idFuente": "launchdarkly/infrastructure-engineer",
-      "fuente": "himalayas",
-      "titulo": "Infrastructure Engineer",
-      "empresa": "LaunchDarkly",
-      "url": "https://himalayas.app/companies/launchdarkly/jobs/infrastructure-engineer",
-      "publicadoEn": 1792232908000,
-      "salarioTexto": "USD 163,000 - 224,070",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Infrastructure-Engineer",
-        "Site-Reliability-Engineer",
-        "DevOps-Engineer",
-        "Cloud-Engineer",
-        "IT-Infrastructure-Engineer",
-        "Network-Infrastructure-Engineer",
-        "Systems-Infrastructure-Engineer",
-        "Principal-Infrastructure-Engineer",
-        "Infrastructure-Cloud-Engineer",
-        "Network-And-Infrastructure-Engineer"
-      ]
-    },
-    {
-      "idFuente": "kingstone-insurance-company/senior-support-specialist",
-      "fuente": "himalayas",
-      "titulo": "Senior Support Specialist",
-      "empresa": "Kingstone Insurance Company",
-      "url": "https://himalayas.app/companies/kingstone-insurance-company/jobs/senior-support-specialist",
-      "publicadoEn": 1792232901000,
-      "salarioTexto": "USD 80,000 - 95,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "IT-Support-Specialist",
-        "Senior-IT-Support",
-        "Technical-Support",
-        "IT-Service-Delivery",
-        "Service-Desk",
-        "Senior-Support-Specialist",
-        "Senior-Client-Support-Specialist",
-        "Senior-Customer-Support-Specialist"
-      ]
-    },
-    {
-      "idFuente": "valnet-tech-sites/makeuseof-tech-writer",
-      "fuente": "himalayas",
-      "titulo": "MakeUseOf - Tech Writer",
-      "empresa": "Valnet Tech Sites",
-      "url": "https://himalayas.app/companies/valnet-tech-sites/jobs/makeuseof-tech-writer",
-      "publicadoEn": 1792232893000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Technical-Writer",
-        "Content-Writer",
-        "Freelance-Writer",
-        "Features-Writer",
-        "Technology-Writer",
-        "Tech-News-Writer",
-        "Tech-Journalist",
-        "DIY-Technology-Writer",
-        "Technology-Journalist",
-        "Consumer-Technology-Writer",
-        "Tech-Blogger",
-        "Content-Creator"
-      ]
-    },
-    {
-      "idFuente": "cyera-com/program-manager-identity-security-customer-success",
-      "fuente": "himalayas",
-      "titulo": "Program Manager, Identity Security - Customer Success",
-      "empresa": "Cyera",
-      "url": "https://himalayas.app/companies/cyera-com/jobs/program-manager-identity-security-customer-success",
-      "publicadoEn": 1792232879000,
-      "salarioTexto": "USD 100,000 - 130,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Program-Manager",
-        "Customer-Success-Manager",
-        "Enablement-Manager",
-        "Learning-And-Development-Manager",
-        "Onboarding-Manager",
-        "Senior-Customer-Success-Program-Manager",
-        "Security-Program-Manager",
-        "Senior-Security-Program-Manager",
-        "IAM-Program-Manager",
-        "Security-Technical-Program-Manager",
-        "Customer-Success"
-      ]
-    },
-    {
-      "idFuente": "mercor/fraud-engineer-ai-specialist",
-      "fuente": "himalayas",
-      "titulo": "Fraud Engineer - AI Specialist",
-      "empresa": "mercor",
-      "url": "https://himalayas.app/companies/mercor/jobs/fraud-engineer-ai-specialist",
-      "publicadoEn": 1792232867000,
-      "salarioTexto": "USD 80 - 80",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Fraud-Engineering",
-        "Risk-Engineer",
-        "Trust-and-Safety-Engineer",
-        "AI-Specialist",
-        "Fraud-Detection-Engineer",
-        "Anti-Fraud-Engineer",
-        "Fraud-Analytics-Specialist",
-        "Fraud-Specialist"
-      ]
-    },
-    {
-      "idFuente": "valnet-tech-sites/makeuseof-home-diy-tech-writer",
-      "fuente": "himalayas",
-      "titulo": "MakeUseOf - Home & DIY Tech Writer",
-      "empresa": "Valnet Tech Sites",
-      "url": "https://himalayas.app/companies/valnet-tech-sites/jobs/makeuseof-home-diy-tech-writer",
-      "publicadoEn": 1792232866000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Technical-Writer",
-        "Content-Writing",
-        "Home-Technology-Writer",
-        "DIY-and-Craft-Content-Creator",
-        "DIY-Technology-Writer",
-        "Consumer-Technology-Writer",
-        "Content-Creator"
-      ]
-    },
-    {
-      "idFuente": "market-my-market/senior-director-client-experience",
-      "fuente": "himalayas",
-      "titulo": "Senior Director, Client Experience",
-      "empresa": "Market My Market",
-      "url": "https://himalayas.app/companies/market-my-market/jobs/senior-director-client-experience",
-      "publicadoEn": 1792232866000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Client-Experience-Director",
-        "Client-Success-Director",
-        "Customer-Success-Director",
-        "Account-Management-Director",
-        "Professional-Services-Director",
-        "Director-of-Client-Experience",
-        "Senior-Director-Client-Services",
-        "Director-Client-Experience",
-        "Senior-Director-Client-Partnership",
-        "Senior-Director-Client-Relations"
-      ]
-    },
-    {
-      "idFuente": "155565",
-      "fuente": "jobicy",
-      "titulo": "Lead Developer / Architect Web3",
-      "empresa": "GoFasti",
-      "url": "https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3",
-      "publicadoEn": 1792220152000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155559",
-      "fuente": "jobicy",
-      "titulo": "Sales Development Representative",
-      "empresa": "GoFasti",
-      "url": "https://jobicy.com/jobs/155559-1011-sales-development-representative",
-      "publicadoEn": 1792220152000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155560",
-      "fuente": "jobicy",
-      "titulo": "International Audio/Video Remote Lao/Loatian Interpreter",
-      "empresa": "Language Services Associates",
-      "url": "https://jobicy.com/jobs/155560-international-audio-video-remote-lao-loatian-interpreter",
-      "publicadoEn": 1792220151000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Education & E-learning",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "155566",
-      "fuente": "jobicy",
-      "titulo": "International Audio/Video Remote Soninke Interpreter",
-      "empresa": "Language Services Associates",
-      "url": "https://jobicy.com/jobs/155566-international-audio-video-remote-soninke-interpreter",
-      "publicadoEn": 1792220150000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Customer Support & Success",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "155563",
-      "fuente": "jobicy",
-      "titulo": "International Audio/Video Remote Malay Interpreter",
-      "empresa": "Language Services Associates",
-      "url": "https://jobicy.com/jobs/155563-international-audio-video-remote-malay-interpreter",
-      "publicadoEn": 1792220150000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Customer Support & Success",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "153450",
-      "fuente": "jobicy",
-      "titulo": "English to Spanish (LatAm) for Life Sciences Linguist",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/153450-english-to-spanish-latam-for-life-sciences-linguist",
-      "publicadoEn": 1792210514000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Content & Editorial",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "153453",
-      "fuente": "jobicy",
-      "titulo": "Product Lead - Infrastructure",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/153453-product-lead-infrastructure",
-      "publicadoEn": 1792210509000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Product & Operations",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "153447",
-      "fuente": "jobicy",
-      "titulo": "Mantle Squad - Global",
-      "empresa": "Windranger Labs",
-      "url": "https://jobicy.com/jobs/153447-mantle-squad-global",
-      "publicadoEn": 1792210505000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "153404",
-      "fuente": "jobicy",
-      "titulo": "Senior Software Engineer (Home Energy)",
-      "empresa": "Enode",
-      "url": "https://jobicy.com/jobs/153404-senior-software-engineer-home-energy-2",
-      "publicadoEn": 1792210231000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "153445",
-      "fuente": "jobicy",
-      "titulo": "Circinus - Audio Contributor English Southern American (US)",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/153445-circinus-audio-contributor-english-southern-american-us",
-      "publicadoEn": 1792209915000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "146038",
-      "fuente": "jobicy",
-      "titulo": "Technical & Reporting Accountant",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/146038-technical-reporting-accountant",
-      "publicadoEn": 1792205900000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA, UK",
-      "etiquetas": [
-        "Finance & Accounting",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "146041",
-      "fuente": "jobicy",
-      "titulo": "Affiliate Business Development Manager - MENA",
-      "empresa": "OKX",
-      "url": "https://jobicy.com/jobs/146041-affiliate-business-development-manager-mena",
-      "publicadoEn": 1792205899000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "Business Development",
-        "Midweight"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -2364,13 +2440,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 4851,
-      "remotive": 815,
-      "weworkremotely": 4163,
-      "himalayas": 980,
-      "jobicy": 2000
+      "remoteok": 4950,
+      "remotive": 828,
+      "weworkremotely": 4250,
+      "himalayas": 1000,
+      "jobicy": 2050
     },
-    "duplicadosDescartados": 11324,
-    "ultimaEjecucion": "2026-10-17T10:42:08.864Z"
+    "duplicadosDescartados": 11570,
+    "ultimaEjecucion": "2026-10-17T15:32:55.833Z"
   }
 }
