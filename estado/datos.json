@@ -1779,9 +1779,443 @@
     "canonical::accountant",
     "gitlab::business development representative spanish speaking",
     "gitlab::business development representative italian speaking",
-    "okx::director strategic institutional partnerships special projects lead"
+    "okx::director strategic institutional partnerships special projects lead",
+    "reframe space inc::full cycle sales success manager",
+    "ling::lithuanian content creator part time",
+    "signwow::future opening director of communication access",
+    "lifelancer::iam federation services okta engineer",
+    "enthuziastic::elixir language phoenix engineer remote job",
+    "aldridge pite::bankruptcy attorney",
+    "rareminds::food safety and quality management trainer",
+    "gamelight::senior business development manager mobile apps",
+    "isuzu motors south africa::project engineer",
+    "lifelancer::in home physician per diem terre haute",
+    "huzzle::account manager",
+    "fyul::engineering manager remote within emea",
+    "thehivecareers::chief financial officer cfo",
+    "alcor::senior software engineer full stack",
+    "dotmatics::ruby on rails developer labarchives",
+    "keyvalue software systems::customer support executive tamil nadu",
+    "lifelancer::in home nurse practitioner or physician assistant full time leon",
+    "lifelancer::in home health physician part time grafton county nh",
+    "lifelancer::in home nurse practitioner or physician assistant per diem cedar falls",
+    "enthuziastic::biology teacher remote job",
+    "lifelancer::in home physician per diem cincinnati oh"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "reframe-space-inc-full-cycle-sales-success-manager",
+      "fuente": "weworkremotely",
+      "titulo": "Full-Cycle Sales & Success Manager",
+      "empresa": "Reframe Space Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/reframe-space-inc-full-cycle-sales-success-manager",
+      "publicadoEn": 1792454175000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "ling/lithuanian-content-creator-part-time",
+      "fuente": "himalayas",
+      "titulo": "Lithuanian Content Creator [Part-Time]",
+      "empresa": "Ling",
+      "url": "https://himalayas.app/companies/ling/jobs/lithuanian-content-creator-part-time?utm_source=api",
+      "publicadoEn": 1792471652000,
+      "salarioTexto": "USD 10 - 25",
+      "ubicacion": "Lithuania",
+      "etiquetas": [
+        "Content-Creator",
+        "Social-Media-Creator",
+        "Video-Content-Creator",
+        "Short-Form-Video-Creator",
+        "Part-Time-Content-Specialist",
+        "Part-Time-Creator"
+      ]
+    },
+    {
+      "idFuente": "signwow/future-opening-director-of-communication-access",
+      "fuente": "himalayas",
+      "titulo": "FUTURE OPENING - Director of Communication Access",
+      "empresa": "SignWow",
+      "url": "https://himalayas.app/companies/signwow/jobs/future-opening-director-of-communication-access?utm_source=api",
+      "publicadoEn": 1792471650000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Director-of-Communication-Access",
+        "Director-of-Interpreter-Services",
+        "Director-of-Accessibility-Services",
+        "Director-of-Interpreter-Operations",
+        "Communication-Access-Manager",
+        "Director-Of-Communications",
+        "Communications-Director"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/iam-federation-services-okta-engineer-7364889612",
+      "fuente": "himalayas",
+      "titulo": "IAM Federation Services (Okta) Engineer",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/iam-federation-services-okta-engineer-7364889612?utm_source=api",
+      "publicadoEn": 1792471479000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "IAM-Engineer",
+        "Identity-And-Access-Management-Engineer",
+        "Federation-Engineer",
+        "Okta-Engineer",
+        "Security-Engineer",
+        "SSO-and-Federation-Engineer",
+        "IAM-Security-Engineer",
+        "IAM-Platform-Engineer",
+        "IAM-Solutions-Engineer",
+        "Identity-Management-Engineer"
+      ]
+    },
+    {
+      "idFuente": "enthuziastic/elixir-language-phoenix-engineer-remote-job",
+      "fuente": "himalayas",
+      "titulo": "Elixir Language / Phoenix Engineer - Remote Job",
+      "empresa": "EnthuZiastic",
+      "url": "https://himalayas.app/companies/enthuziastic/jobs/elixir-language-phoenix-engineer-remote-job?utm_source=api",
+      "publicadoEn": 1792471418000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Elixir-Developer",
+        "Phoenix-Developer",
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Functional-Programming-Developer",
+        "Elixir-Software-Engineer",
+        "Elixir-Engineer",
+        "Mid-Level-Full-Stack-Developer-(Elixir-React)"
+      ]
+    },
+    {
+      "idFuente": "aldridge-pite/bankruptcy-attorney",
+      "fuente": "himalayas",
+      "titulo": "Bankruptcy Attorney",
+      "empresa": "Aldridge Pite",
+      "url": "https://himalayas.app/companies/aldridge-pite/jobs/bankruptcy-attorney?utm_source=api",
+      "publicadoEn": 1792471416000,
+      "salarioTexto": null,
+      "ubicacion": "Azerbaijan, United States",
+      "etiquetas": [
+        "Bankruptcy-Attorney",
+        "Associate-Attorney",
+        "Attorney",
+        "Legal-Counsel",
+        "Bankruptcy-Law",
+        "Bankruptcy",
+        "Legal"
+      ]
+    },
+    {
+      "idFuente": "rareminds/food-safety-and-quality-management-trainer",
+      "fuente": "himalayas",
+      "titulo": "Food Safety and Quality Management Trainer",
+      "empresa": "Rareminds",
+      "url": "https://himalayas.app/companies/rareminds/jobs/food-safety-and-quality-management-trainer?utm_source=api",
+      "publicadoEn": 1792471258000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Food-Safety-Instructor",
+        "Quality-Trainer",
+        "Compliance-Trainer",
+        "Training",
+        "Quality-Assurance",
+        "Food-Service-Trainer",
+        "Quality-Assurance-Trainer",
+        "Instructor-De-Seguridad-Alimentaria"
+      ]
+    },
+    {
+      "idFuente": "gamelight/senior-business-development-manager-mobile-apps",
+      "fuente": "himalayas",
+      "titulo": "Senior Business Development Manager - Mobile Apps",
+      "empresa": "Gamelight",
+      "url": "https://himalayas.app/companies/gamelight/jobs/senior-business-development-manager-mobile-apps?utm_source=api",
+      "publicadoEn": 1792471151000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Business-Development-Manager",
+        "Business-Development-Executive",
+        "Partnerships-Manager",
+        "Account-Manager",
+        "Mobile-App-Business-Development",
+        "Senior-Business-Developer",
+        "Senior-Business-Development",
+        "Senior-Business-Development-Lead"
+      ]
+    },
+    {
+      "idFuente": "isuzu-motors-south-africa/project-engineer-7715680277",
+      "fuente": "himalayas",
+      "titulo": "Project Engineer",
+      "empresa": "Isuzu Motors South Africa",
+      "url": "https://himalayas.app/companies/isuzu-motors-south-africa/jobs/project-engineer-7715680277?utm_source=api",
+      "publicadoEn": 1792471117000,
+      "salarioTexto": null,
+      "ubicacion": "South Africa",
+      "etiquetas": [
+        "Technical-Support-Engineer",
+        "IT-Support-Engineer",
+        "Technical-Support-Specialist",
+        "IT-Specialist",
+        "Customer-Support-Engineer",
+        "Project-Engineer",
+        "Construction-Project-Engineer",
+        "Project-Engineering",
+        "Technical-Project-Engineer"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/in-home-physician-per-diem-terre-haute-3492497901",
+      "fuente": "himalayas",
+      "titulo": "In-Home Physician Per Diem - Terre Haute",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-physician-per-diem-terre-haute-3492497901?utm_source=api",
+      "publicadoEn": 1792471085000,
+      "salarioTexto": "USD 105 - 105",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Physician",
+        "Per-Diem-Physician",
+        "Home-Based-Care-Physician",
+        "Home-Based-Primary-Care-Physician",
+        "In-Home-Healthcare-Provider"
+      ]
+    },
+    {
+      "idFuente": "huzzle/account-manager-3516644846",
+      "fuente": "himalayas",
+      "titulo": "Account Manager",
+      "empresa": "Huzzle",
+      "url": "https://himalayas.app/companies/huzzle/jobs/account-manager-3516644846?utm_source=api",
+      "publicadoEn": 1792471084000,
+      "salarioTexto": null,
+      "ubicacion": "Pakistan",
+      "etiquetas": [
+        "Account-Manager",
+        "Customer-Success-Manager",
+        "Account-Executive",
+        "B2B-Sales",
+        "Customer-Account-Manager",
+        "Client-Account-Manager",
+        "Sales-Account-Manager"
+      ]
+    },
+    {
+      "idFuente": "fyul/engineering-manager-remote-within-emea",
+      "fuente": "himalayas",
+      "titulo": "Engineering Manager (remote within EMEA)",
+      "empresa": "FYUL",
+      "url": "https://himalayas.app/companies/fyul/jobs/engineering-manager-remote-within-emea?utm_source=api",
+      "publicadoEn": 1792471033000,
+      "salarioTexto": null,
+      "ubicacion": "Estonia, Poland, Portugal, Spain",
+      "etiquetas": [
+        "Engineering-Manager",
+        "Engineering-Lead",
+        "Technical-Manager",
+        "Software-Engineering-Manager",
+        "Director-of-Engineering",
+        "Remote-Engineering-Manager",
+        "Global-Engineering-Manager"
+      ]
+    },
+    {
+      "idFuente": "thehivecareers/chief-financial-officer-cfo-4797079231",
+      "fuente": "himalayas",
+      "titulo": "Chief Financial Officer (CFO)",
+      "empresa": "TheHiveCareers",
+      "url": "https://himalayas.app/companies/thehivecareers/jobs/chief-financial-officer-cfo-4797079231?utm_source=api",
+      "publicadoEn": 1792471002000,
+      "salarioTexto": null,
+      "ubicacion": "Suriname",
+      "etiquetas": [
+        "Chief-Financial-Officer",
+        "Group-CFO",
+        "Director-of-Finance",
+        "Financial-Executive",
+        "Chief-Financial-Officer-(CFO)",
+        "CFO-(Chief-Financial-Officer)",
+        "CFO",
+        "CFO-Executive"
+      ]
+    },
+    {
+      "idFuente": "alcor/senior-software-engineer-full-stack",
+      "fuente": "himalayas",
+      "titulo": "Senior Software Engineer (Full-Stack)",
+      "empresa": "Alcor",
+      "url": "https://himalayas.app/companies/alcor/jobs/senior-software-engineer-full-stack?utm_source=api",
+      "publicadoEn": 1792470985000,
+      "salarioTexto": null,
+      "ubicacion": "Poland",
+      "etiquetas": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(JavaScript-Python)",
+        "Senior-Fullstack-+-DevOps-Engineer",
+        "Senior-Full-Stack-Engineer-(Java-+-Cloud)"
+      ]
+    },
+    {
+      "idFuente": "dotmatics/ruby-on-rails-developer-labarchives",
+      "fuente": "himalayas",
+      "titulo": "Ruby on Rails Developer | LabArchives",
+      "empresa": "Dotmatics",
+      "url": "https://himalayas.app/companies/dotmatics/jobs/ruby-on-rails-developer-labarchives?utm_source=api",
+      "publicadoEn": 1792470975000,
+      "salarioTexto": "USD 82,000 - 140,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Full-Stack-Developer",
+        "Software-Developer",
+        "Ruby-On-Rails-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Rails-Developer",
+        "Ruby-Developer",
+        "Ruby-On-Rails-Engineer",
+        "Ruby-Rails-Development",
+        "Ruby-on-Rails-Development",
+        "Rails-Development",
+        "Ruby-on-Rails",
+        "Senior-Ruby-On-Rails-Developer"
+      ]
+    },
+    {
+      "idFuente": "keyvalue-software-systems/customer-support-executive-tamil-nadu",
+      "fuente": "himalayas",
+      "titulo": "Customer Support Executive | Tamil Nadu",
+      "empresa": "KeyValue Software Systems",
+      "url": "https://himalayas.app/companies/keyvalue-software-systems/jobs/customer-support-executive-tamil-nadu?utm_source=api",
+      "publicadoEn": 1792470882000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Support-Executive",
+        "Customer-Support-Specialist",
+        "Customer-Relationship-Executive",
+        "Customer-Service",
+        "Technical-Support-Specialist",
+        "Customer-Care-Executive",
+        "Telecaller-Customer-Support-Executive",
+        "Customer-Service-Executive",
+        "Customer-Service-Associate",
+        "Customer-Support-Representative",
+        "Customer-Support-Agent",
+        "Customer-Executive",
+        "Customer-Support"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/in-home-nurse-practitioner-or-physician-assistant-full-time-leon-3469542588",
+      "fuente": "himalayas",
+      "titulo": "In-Home Nurse Practitioner or Physician Assistant  Full Time - Leon",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-nurse-practitioner-or-physician-assistant-full-time-leon-3469542588?utm_source=api",
+      "publicadoEn": 1792470856000,
+      "salarioTexto": "USD 78,331 - 168,714",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Nurse-Practitioner",
+        "Physician-Assistant",
+        "Home-Health-Nurse-Practitioner"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/in-home-health-physician-part-time-grafton-county-nh-9555600535",
+      "fuente": "himalayas",
+      "titulo": "In-Home Health - Physician (Part Time) - Grafton County, NH",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-health-physician-part-time-grafton-county-nh-9555600535?utm_source=api",
+      "publicadoEn": 1792470795000,
+      "salarioTexto": "USD 105 - 105",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Physician",
+        "Home-Health-MD",
+        "Home-Based-Primary-Care-Physician",
+        "Part-Time-Physician",
+        "Home-Based-Care-Physician"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/in-home-nurse-practitioner-or-physician-assistant-per-diem-cedar-falls",
+      "fuente": "himalayas",
+      "titulo": "In-Home Nurse Practitioner or Physician Assistant  Per Diem - Cedar Falls",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-nurse-practitioner-or-physician-assistant-per-diem-cedar-falls?utm_source=api",
+      "publicadoEn": 1792470795000,
+      "salarioTexto": "USD 37.66 - 81.11",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Nurse-Practitioner",
+        "Physician-Assistant",
+        "Per-Diem-Clinician",
+        "In-Home-Health-Clinician",
+        "Healthcare-Clinician",
+        "Per-Diem-Nurse-Practitioner",
+        "Home-Health-Nurse-Practitioner",
+        "PRN-Per-Diem-Healthcare",
+        "Physician-NP-PA"
+      ]
+    },
+    {
+      "idFuente": "enthuziastic/biology-teacher-remote-job",
+      "fuente": "himalayas",
+      "titulo": "Biology Teacher - Remote Job",
+      "empresa": "EnthuZiastic",
+      "url": "https://himalayas.app/companies/enthuziastic/jobs/biology-teacher-remote-job?utm_source=api",
+      "publicadoEn": 1792470767000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Biology-Teacher",
+        "Science-Teacher",
+        "Secondary-Teacher",
+        "Online-Teacher",
+        "Remote-Teacher",
+        "Remote-High-School-Science-Teacher",
+        "Remote-Science-Teacher",
+        "Online-Biology-Instructor",
+        "Online-Science-Teacher",
+        "Remote-Science-Instructor",
+        "Biology-Instructor",
+        "Education"
+      ]
+    },
+    {
+      "idFuente": "lifelancer/in-home-physician-per-diem-cincinnati-oh-8162151516",
+      "fuente": "himalayas",
+      "titulo": "In-Home Physician Per Diem - Cincinnati, OH",
+      "empresa": "Lifelancer",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/in-home-physician-per-diem-cincinnati-oh-8162151516?utm_source=api",
+      "publicadoEn": 1792470695000,
+      "salarioTexto": "USD 105 - 105",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Physician",
+        "Per-Diem-Physician",
+        "Home-Based-Care-Physician",
+        "Home-Based-Primary-Care-Physician",
+        "Home-Health-MD"
+      ]
+    },
     {
       "idFuente": "new-law-business-model-solutions-engineer-customer-success",
       "fuente": "weworkremotely",
@@ -2299,323 +2733,6 @@
         "Primary-Care-Provider",
         "Home-Health-Nurse-Practitioner"
       ]
-    },
-    {
-      "idFuente": "taxtalente-de/steuerfachkraft-m-w-d-in-stuttgart-mindestens-52-000-100-remote-moglich",
-      "fuente": "himalayas",
-      "titulo": "Steuerfachkraft (m/w/d) in Stuttgart mindestens 52.000€ - 100% Remote möglich",
-      "empresa": "Taxtalente.de",
-      "url": "https://himalayas.app/companies/taxtalente-de/jobs/steuerfachkraft-m-w-d-in-stuttgart-mindestens-52-000-100-remote-moglich?utm_source=api",
-      "publicadoEn": 1792447214000,
-      "salarioTexto": "USD 52,000 - 85,000",
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Steuerfachkraft",
-        "Steuerfachangestellter",
-        "Steuerfachwirt",
-        "Bilanzbuchhalter",
-        "Remote-German-Tax-Clerk"
-      ]
-    },
-    {
-      "idFuente": "m365connect/senior-ai-full-stack-engineer-devops-technical-leadership-1775497100",
-      "fuente": "himalayas",
-      "titulo": "Senior AI & Full-Stack Engineer - DevOps & Technical Leadership",
-      "empresa": "M365Connect",
-      "url": "https://himalayas.app/companies/m365connect/jobs/senior-ai-full-stack-engineer-devops-technical-leadership-1775497100?utm_source=api",
-      "publicadoEn": 1792447203000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Full-Stack-Engineer",
-        "Software-Engineer",
-        "AI-Engineer",
-        "DevOps-Engineer",
-        "Technical-Lead",
-        "Senior-Full-Stack-AI-Engineer",
-        "Senior-Full-Stack-AI-Developer",
-        "Senior-Fullstack-+-DevOps-Engineer",
-        "Senior-Lead-AI-Engineer",
-        "Senior-DevOps-Engineer-AI-ML",
-        "Senior-AI-Technical-Lead",
-        "AI-Full-Stack-Engineer",
-        "Full-Stack-AI-Engineer",
-        "Senior-AI-Engineer",
-        "Lead-AI-Engineer"
-      ]
-    },
-    {
-      "idFuente": "lifelancer/national-field-trainer-psychiatry-8203920458",
-      "fuente": "himalayas",
-      "titulo": "National Field Trainer - Psychiatry",
-      "empresa": "Lifelancer",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/national-field-trainer-psychiatry-8203920458?utm_source=api",
-      "publicadoEn": 1792447192000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Field-Trainer",
-        "Sales-Trainer",
-        "Training-Manager",
-        "Pharmaceutical-Training-Specialist",
-        "Field-Training-Specialist"
-      ]
-    },
-    {
-      "idFuente": "goairship/technical-artist",
-      "fuente": "himalayas",
-      "titulo": "Technical Artist",
-      "empresa": "Airship",
-      "url": "https://himalayas.app/companies/goairship/jobs/technical-artist?utm_source=api",
-      "publicadoEn": 1792447189000,
-      "salarioTexto": null,
-      "ubicacion": "United Kingdom",
-      "etiquetas": [
-        "Technical-Artist",
-        "Technical-Art",
-        "3D-Technical-Artist",
-        "Technical-Artist-(Game-Industry)",
-        "Character-Technical-Artist",
-        "VFX-Technical-Artist",
-        "Game-Development-Technical-Artist",
-        "Technical-Animator"
-      ]
-    },
-    {
-      "idFuente": "155933",
-      "fuente": "jobicy",
-      "titulo": "Growth Marketing Manager",
-      "empresa": "Eight Sleep",
-      "url": "https://jobicy.com/jobs/155933-growth-marketing-manager-4",
-      "publicadoEn": 1792430071000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155935",
-      "fuente": "jobicy",
-      "titulo": "Account Management Lead - Western Europe",
-      "empresa": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/155935-account-management-lead-western-europe",
-      "publicadoEn": 1792430066000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Customer Support & Success",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "155929",
-      "fuente": "jobicy",
-      "titulo": "Kazakh Localization QA Tester / Proofreader",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/155929-kazakh-localization-qa-tester-proofreader",
-      "publicadoEn": 1792429796000,
-      "salarioTexto": null,
-      "ubicacion": "France, Germany, Greece, Ireland, Romania, Spain, UK",
-      "etiquetas": [
-        "QA & Testing",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "155914",
-      "fuente": "jobicy",
-      "titulo": "Enterprise Sales Executive, AI Solutions",
-      "empresa": "Toptal",
-      "url": "https://jobicy.com/jobs/155914-enterprise-sales-executive-ai-solutions",
-      "publicadoEn": 1792429098000,
-      "salarioTexto": null,
-      "ubicacion": "LATAM, Canada, Europe",
-      "etiquetas": [
-        "Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "155918",
-      "fuente": "jobicy",
-      "titulo": "Instructional Designer, TRM Academy (Compliance)",
-      "empresa": "TRM Labs",
-      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
-      "publicadoEn": 1792429096000,
-      "salarioTexto": "USD 155,000 - 175,000",
-      "ubicacion": "EMEA, LATAM, Canada, USA",
-      "etiquetas": [
-        "Education & E-learning",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "155912",
-      "fuente": "jobicy",
-      "titulo": "Sales Enablement Manager, Onchain Compliance",
-      "empresa": "TRM Labs",
-      "url": "https://jobicy.com/jobs/155912-sales-enablement-manager-onchain-compliance",
-      "publicadoEn": 1792429095000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA, Brazil, USA",
-      "etiquetas": [
-        "Education & E-learning",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "155919",
-      "fuente": "jobicy",
-      "titulo": "Marketing Analyst, New Business and M&A",
-      "empresa": "Toptal",
-      "url": "https://jobicy.com/jobs/155919-marketing-analyst-new-business-and-ma",
-      "publicadoEn": 1792429094000,
-      "salarioTexto": null,
-      "ubicacion": "LATAM, Europe",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155916",
-      "fuente": "jobicy",
-      "titulo": "Manager, SMB Sales",
-      "empresa": "Toptal",
-      "url": "https://jobicy.com/jobs/155916-manager-smb-sales",
-      "publicadoEn": 1792429093000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA, LATAM, Canada",
-      "etiquetas": [
-        "Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155899",
-      "fuente": "jobicy",
-      "titulo": "New Business Account Executive (German speaker)",
-      "empresa": "Twilio",
-      "url": "https://jobicy.com/jobs/155899-new-business-account-executive-german-speaker",
-      "publicadoEn": 1792428775000,
-      "salarioTexto": null,
-      "ubicacion": "Ireland, Spain, UK",
-      "etiquetas": [
-        "Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "155897",
-      "fuente": "jobicy",
-      "titulo": "Machine Learning Engineer",
-      "empresa": "Twilio",
-      "url": "https://jobicy.com/jobs/155897-machine-learning-engineer-7",
-      "publicadoEn": 1792428774000,
-      "salarioTexto": null,
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155893",
-      "fuente": "jobicy",
-      "titulo": "Demo Architect, EMEA",
-      "empresa": "GitLab",
-      "url": "https://jobicy.com/jobs/155893-demo-architect-emea",
-      "publicadoEn": 1792428770000,
-      "salarioTexto": null,
-      "ubicacion": "Germany, Ireland, Spain, UK",
-      "etiquetas": [
-        "Software Engineering",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "155841",
-      "fuente": "jobicy",
-      "titulo": "Accountant",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/155841-accountant-5",
-      "publicadoEn": 1792417225000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "Finance & Accounting",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "155813",
-      "fuente": "jobicy",
-      "titulo": "Business Development Representative, Spanish Speaking",
-      "empresa": "GitLab",
-      "url": "https://jobicy.com/jobs/155813-business-development-representative-spanish-speaking",
-      "publicadoEn": 1792410475000,
-      "salarioTexto": null,
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Business Development",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "155811",
-      "fuente": "jobicy",
-      "titulo": "Business Development Representative, Italian Speaking",
-      "empresa": "GitLab",
-      "url": "https://jobicy.com/jobs/155811-business-development-representative-italian-speaking",
-      "publicadoEn": 1792410475000,
-      "salarioTexto": null,
-      "ubicacion": "France, Ireland, Netherlands, Spain, UK",
-      "etiquetas": [
-        "Business Development",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "155792",
-      "fuente": "jobicy",
-      "titulo": "Director, Strategic Institutional Partnerships - Special Projects Lead",
-      "empresa": "OKX",
-      "url": "https://jobicy.com/jobs/155792-director-strategic-institutional-partnerships-special-projects-lead",
-      "publicadoEn": 1792409379000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "Business Development",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "expel-systems-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Systems Engineer",
-      "empresa": "Expel",
-      "url": "https://weworkremotely.com/remote-jobs/expel-systems-engineer",
-      "publicadoEn": 1792395085000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "current-freelance-marketo-email-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Freelance Marketo Email Engineer",
-      "empresa": "Current",
-      "url": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
-      "publicadoEn": 1792395085000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Front-End Programming"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -2655,13 +2772,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 5742,
-      "remotive": 926,
-      "weworkremotely": 4958,
-      "himalayas": 1160,
-      "jobicy": 2450
+      "remoteok": 5841,
+      "remotive": 938,
+      "weworkremotely": 5049,
+      "himalayas": 1180,
+      "jobicy": 2500
     },
-    "duplicadosDescartados": 13456,
-    "ultimaEjecucion": "2026-10-19T22:20:26.880Z"
+    "duplicadosDescartados": 13707,
+    "ultimaEjecucion": "2026-10-20T04:48:23.048Z"
   }
 }
