@@ -1887,9 +1887,509 @@
     "nebius::forward deployed engineer physical ai infrastructure",
     "nebius::head of employee relations",
     "nebius::3pl operations manager",
-    "nebius::group product manager platform experience"
+    "nebius::group product manager platform experience",
+    "toptal::senior analytics engineer bi lead channel insights ix360",
+    "toptal::salesforce developer for org ownership and ongoing platform development",
+    "workiva::principal experience designer visual design design systems",
+    "prowritersites::freelance writer",
+    "scalejet::demand planning and inventory optimization manager",
+    "jobs on a ship::asst production manager stage",
+    "m2talents::it barater",
+    "m2talents::backend developer jakarta ee quarkus",
+    "nvidia::senior systems software engineer accelerated spark applications",
+    "peraton::complaints referrals team lead medicare",
+    "nvidia::senior research scientist ai security",
+    "agencyhires::klaviyo specialist",
+    "microsourcing::senior it auditor",
+    "astra group::tech leader backend java",
+    "tectu::data engineer freelancer",
+    "waterfield technologies::client success manager",
+    "dbos::virtual operations assistant",
+    "savageone::full stack solution architect role",
+    "blockhires::vp of sales",
+    "aurrera health group::triage registered nurse rn patient access and care team pact",
+    "abbott::senior therapy development specialist",
+    "abbott::territory manager cardiomems indianapolis",
+    "makerz::nyc freelance social media manager",
+    "revenuecat::senior software engineer agents",
+    "revenuecat::head of sales",
+    "revenuecat::head of customer growth"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
+      "empresa": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
+      "publicadoEn": 1792519855000,
+      "salarioTexto": null,
+      "ubicacion": "North America Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
+      "fuente": "weworkremotely",
+      "titulo": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
+      "empresa": "Toptal",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
+      "publicadoEn": 1792518853000,
+      "salarioTexto": null,
+      "ubicacion": "North America Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "workiva-principal-experience-designer-visual-design-design-systems",
+      "fuente": "weworkremotely",
+      "titulo": "Principal Experience Designer - Visual Design & Design Systems",
+      "empresa": "Workiva",
+      "url": "https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems",
+      "publicadoEn": 1792515748000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Design"
+      ]
+    },
+    {
+      "idFuente": "prowritersites-freelance-writer",
+      "fuente": "weworkremotely",
+      "titulo": "Freelance Writer",
+      "empresa": "ProWriterSites",
+      "url": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
+      "publicadoEn": 1732910712000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "scalejet/demand-planning-and-inventory-optimization-manager-2942208418",
+      "fuente": "himalayas",
+      "titulo": "Demand Planning and Inventory Optimization Manager",
+      "empresa": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/demand-planning-and-inventory-optimization-manager-2942208418?utm_source=api",
+      "publicadoEn": 1792529063000,
+      "salarioTexto": null,
+      "ubicacion": "Serbia",
+      "etiquetas": [
+        "Demand-Planning-Manager",
+        "Inventory-Manager",
+        "Supply-Chain-Manager",
+        "eCommerce-Operations-Manager",
+        "Operations-Manager",
+        "Demand-And-Supply-Planning-Manager",
+        "Supply-Chain-Planning-Manager",
+        "Supply-Planning-Manager",
+        "Inventory-Optimization"
+      ]
+    },
+    {
+      "idFuente": "jobs-on-a-ship/asst-production-manager-stage",
+      "fuente": "himalayas",
+      "titulo": "Asst. Production Manager - Stage",
+      "empresa": "Jobs on a Ship",
+      "url": "https://himalayas.app/companies/jobs-on-a-ship/jobs/asst-production-manager-stage?utm_source=api",
+      "publicadoEn": 1792528968000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Assistant-Production-Manager",
+        "Stage-Management",
+        "Live-Event-Production",
+        "Stage-Automation",
+        "Production-Management",
+        "Production-Coordination",
+        "Stage-Operations",
+        "Production-Manager"
+      ]
+    },
+    {
+      "idFuente": "m2talents/it-barater",
+      "fuente": "himalayas",
+      "titulo": "IT Barater",
+      "empresa": "m2TALENTS",
+      "url": "https://himalayas.app/companies/m2talents/jobs/it-barater?utm_source=api",
+      "publicadoEn": 1792528863000,
+      "salarioTexto": null,
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "IT-Project-Manager",
+        "IT-Consultant",
+        "Implementation-Consultant",
+        "IT-Support-Specialist",
+        "Clinical-IT-Specialist",
+        "IT"
+      ]
+    },
+    {
+      "idFuente": "m2talents/backend-developer-jakarta-ee-quarkus",
+      "fuente": "himalayas",
+      "titulo": "Backend Developer  (Jakarta EE / Quarkus)",
+      "empresa": "m2TALENTS",
+      "url": "https://himalayas.app/companies/m2talents/jobs/backend-developer-jakarta-ee-quarkus?utm_source=api",
+      "publicadoEn": 1792528843000,
+      "salarioTexto": null,
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Backend-Engineer",
+        "Java-Developer",
+        "Software-Engineer",
+        "Java-Backend-Developer",
+        "Backend-Java-Developer",
+        "Java-Backend-Engineer",
+        "Developer"
+      ]
+    },
+    {
+      "idFuente": "nvidia/senior-systems-software-engineer-accelerated-spark-applications",
+      "fuente": "himalayas",
+      "titulo": "Senior Systems Software Engineer - Accelerated Spark Applications",
+      "empresa": "NVIDIA",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-systems-software-engineer-accelerated-spark-applications?utm_source=api",
+      "publicadoEn": 1792528773000,
+      "salarioTexto": "USD 184,000 - 287,500",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Senior-Systems-Software-Engineer",
+        "Systems-Software-Engineer",
+        "Software-Engineer",
+        "Platform-Engineer",
+        "Distributed-Systems-Engineer",
+        "Senior-Systems-Performance-Engineer",
+        "Apache-Spark-Developer",
+        "Spark-Engineer"
+      ]
+    },
+    {
+      "idFuente": "peraton/complaints-referrals-team-lead-medicare",
+      "fuente": "himalayas",
+      "titulo": "Complaints/Referrals Team Lead - Medicare",
+      "empresa": "Peraton",
+      "url": "https://himalayas.app/companies/peraton/jobs/complaints-referrals-team-lead-medicare?utm_source=api",
+      "publicadoEn": 1792528748000,
+      "salarioTexto": "USD 66,000 - 106,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Team-Lead-Investigations",
+        "Fraud-Investigator",
+        "Healthcare-Fraud-Investigator",
+        "Financial-Crime-Investigators-Manager",
+        "Referral-Specialist",
+        "Complaints-Team-Leader",
+        "Medicare-Appeals-Supervisor",
+        "Healthcare-Complaints-Manager",
+        "Medicare-Services-Supervisor"
+      ]
+    },
+    {
+      "idFuente": "nvidia/senior-research-scientist-ai-security",
+      "fuente": "himalayas",
+      "titulo": "Senior Research Scientist - AI Security",
+      "empresa": "NVIDIA",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-research-scientist-ai-security?utm_source=api",
+      "publicadoEn": 1792528731000,
+      "salarioTexto": "USD 192,000 - 356,500",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Senior-Research-Scientist",
+        "AI-Security-Researcher",
+        "Cybersecurity-Researcher",
+        "Machine-Learning-Researcher",
+        "Senior-AI-Scientist",
+        "Senior-Security-Researcher",
+        "AI-Research-Scientist",
+        "Senior-AI-ML-Scientist",
+        "Research-Scientist"
+      ]
+    },
+    {
+      "idFuente": "agencyhires/client-success-manager-klaviyo-manager",
+      "fuente": "himalayas",
+      "titulo": "Klaviyo Specialist",
+      "empresa": "Agencyhires",
+      "url": "https://himalayas.app/companies/agencyhires/jobs/client-success-manager-klaviyo-manager?utm_source=api",
+      "publicadoEn": 1792528712000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Customer-Success-Manager",
+        "Customer-Success-Account-Manager",
+        "Senior-Client-Success-Manager",
+        "Growth-Customer-Success-Manager",
+        "Client-Success-Lead",
+        "Customer-Success-Operations-Manager",
+        "Client-Success-Director",
+        "Sr.-Manager-Of-Customer-Success"
+      ]
+    },
+    {
+      "idFuente": "microsourcing/senior-it-auditor",
+      "fuente": "himalayas",
+      "titulo": "Senior IT Auditor",
+      "empresa": "MicroSourcing",
+      "url": "https://himalayas.app/companies/microsourcing/jobs/senior-it-auditor?utm_source=api",
+      "publicadoEn": 1792528707000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "It-Auditor",
+        "Internal-Auditor",
+        "Audit-Consultant",
+        "Senior-Information-Systems-Auditor"
+      ]
+    },
+    {
+      "idFuente": "astra-group/tech-leader-backend-java",
+      "fuente": "himalayas",
+      "titulo": "Tech Leader Backend Java",
+      "empresa": "Astra Group",
+      "url": "https://himalayas.app/companies/astra-group/jobs/tech-leader-backend-java?utm_source=api",
+      "publicadoEn": 1792528586000,
+      "salarioTexto": null,
+      "ubicacion": "Peru",
+      "etiquetas": [
+        "Technology-Leader",
+        "Java-Developer",
+        "Backend-Engineer",
+        "Software-Development-Manager",
+        "Software-Architect",
+        "Tech-Lead-Backend",
+        "Java-Tech-Lead",
+        "Lead-Backend-Engineering",
+        "Java-Technical-Lead",
+        "Backend-Engineering-Lead",
+        "Lead-Backend-Development"
+      ]
+    },
+    {
+      "idFuente": "tectu/data-engineer-freelancer",
+      "fuente": "himalayas",
+      "titulo": "Data Engineer (Freelancer)",
+      "empresa": "Tectu",
+      "url": "https://himalayas.app/companies/tectu/jobs/data-engineer-freelancer?utm_source=api",
+      "publicadoEn": 1792528541000,
+      "salarioTexto": null,
+      "ubicacion": "Israel",
+      "etiquetas": [
+        "Data-Engineer",
+        "Data-Engineering-Consultant",
+        "Analytics-Engineer",
+        "Big-Data-Engineer",
+        "Freelance-Data-Engineer",
+        "Freelance-Data-Engineering",
+        "Contract-Data-Engineer"
+      ]
+    },
+    {
+      "idFuente": "waterfield-technologies/client-success-manager",
+      "fuente": "himalayas",
+      "titulo": "Client Success Manager",
+      "empresa": "Waterfield-Technologies",
+      "url": "https://himalayas.app/companies/waterfield-technologies/jobs/client-success-manager?utm_source=api",
+      "publicadoEn": 1792528452000,
+      "salarioTexto": "USD 85,000 - 95,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Success-Manager",
+        "Account-Manager",
+        "Customer-Success-Account-Manager",
+        "Client-Success-Relationship-Manager",
+        "Client-Success-Specialist",
+        "Client-Success-Partner",
+        "Client-Success-Consultant",
+        "Client-Success-Lead"
+      ]
+    },
+    {
+      "idFuente": "dbos/virtual-operations-assistant",
+      "fuente": "himalayas",
+      "titulo": "Virtual Operations Assistant",
+      "empresa": "DBOS",
+      "url": "https://himalayas.app/companies/dbos/jobs/virtual-operations-assistant?utm_source=api",
+      "publicadoEn": 1792528431000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Virtual-Assistant",
+        "Executive-Assistant",
+        "Operations-Coordinator",
+        "Administrative-Coordinator",
+        "Dispatch-Coordinator",
+        "Virtual-Office-Assistant",
+        "Virtual-Team-Assistant",
+        "Virtual-Operations",
+        "Virtual-Administrative-Assistant"
+      ]
+    },
+    {
+      "idFuente": "savageone/full-stack-solution-architect-role",
+      "fuente": "himalayas",
+      "titulo": "Full Stack Solution Architect role",
+      "empresa": "SavageOne",
+      "url": "https://himalayas.app/companies/savageone/jobs/full-stack-solution-architect-role?utm_source=api",
+      "publicadoEn": 1792528411000,
+      "salarioTexto": "USD 40,000 - 50,000",
+      "ubicacion": "South Africa",
+      "etiquetas": [
+        "Full-Stack-Architect",
+        "Solutions-Architect",
+        "Software-Architect",
+        "Cloud-Architect"
+      ]
+    },
+    {
+      "idFuente": "blockhires/vp-of-sales",
+      "fuente": "himalayas",
+      "titulo": "VP of Sales",
+      "empresa": "BlockHires",
+      "url": "https://himalayas.app/companies/blockhires/jobs/vp-of-sales?utm_source=api",
+      "publicadoEn": 1792528250000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales-Vice-President",
+        "VP-Of-Sales",
+        "Sales-Director",
+        "Enterprise-Sales-Director",
+        "VP-Sales",
+        "Sales-VP",
+        "Vice-President-Of-Sales",
+        "Vice-President-Sales",
+        "VP-Of-Sales-and-Marketing"
+      ]
+    },
+    {
+      "idFuente": "aurrera-health-group/triage-registered-nurse-rn-patient-access-and-care-team-pact",
+      "fuente": "himalayas",
+      "titulo": "Triage Registered Nurse (RN) - Patient Access and Care Team (PACT)",
+      "empresa": "Aurrera Health Group",
+      "url": "https://himalayas.app/companies/aurrera-health-group/jobs/triage-registered-nurse-rn-patient-access-and-care-team-pact?utm_source=api",
+      "publicadoEn": 1792528058000,
+      "salarioTexto": "USD 35.5 - 53.25",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Triage-Registered-Nurse",
+        "Telephonic-Nursing",
+        "Patient-Access",
+        "Acute-Care-Nursing",
+        "Registered-Nurse",
+        "RN-Triage-Nurse",
+        "Patient-Triage-Nurse",
+        "RN-Nurse-Triage",
+        "Registered-Nurse-Triage",
+        "Clinical-Triage-RN",
+        "Triage-RN",
+        "Clinical-Triage-Nurse",
+        "Centralized-Triage-RN",
+        "Triage-Nurse"
+      ]
+    },
+    {
+      "idFuente": "abbott/senior-therapy-development-specialist",
+      "fuente": "himalayas",
+      "titulo": "Senior Therapy Development Specialist",
+      "empresa": "Abbott",
+      "url": "https://himalayas.app/companies/abbott/jobs/senior-therapy-development-specialist?utm_source=api",
+      "publicadoEn": 1792528053000,
+      "salarioTexto": "USD 86,700 - 173,300",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Clinical-Sales-Specialist",
+        "Clinical-Research-Specialist",
+        "Field-Clinical-Specialist",
+        "Medical-Device-Specialist",
+        "Therapeutic-Development-Specialist",
+        "Therapy-Specialist"
+      ]
+    },
+    {
+      "idFuente": "abbott/territory-manager-cardiomems-indianapolis",
+      "fuente": "himalayas",
+      "titulo": "Territory Manager CardioMEMS - Indianapolis",
+      "empresa": "Abbott",
+      "url": "https://himalayas.app/companies/abbott/jobs/territory-manager-cardiomems-indianapolis?utm_source=api",
+      "publicadoEn": 1792528041000,
+      "salarioTexto": "USD 43,900 - 109,200",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Territory-Manager",
+        "Medical-Device-Sales",
+        "Cardiology-Sales",
+        "Heart-Failure-Sales",
+        "Healthcare-Sales",
+        "Cardiac-Specialty-Account-Manager",
+        "Healthcare-Territory-Manager",
+        "Cardiovascular-Medical-Device-Sales-Specialist",
+        "CardioMEMS-Specialist",
+        "Territory-Sales-Manager",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "makerz/nyc_freelance-social-media-manager-6363245638",
+      "fuente": "himalayas",
+      "titulo": "NYC_FREELANCE SOCIAL MEDIA MANAGER",
+      "empresa": "MAKERZ",
+      "url": "https://himalayas.app/companies/makerz/jobs/nyc_freelance-social-media-manager-6363245638?utm_source=api",
+      "publicadoEn": 1792527995000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Social-Media-Manager",
+        "Digital-Marketing-Manager",
+        "Social-Media-Marketing-Manager",
+        "Content-Marketing-Manager",
+        "Freelance-Social-Media-Manager"
+      ]
+    },
+    {
+      "idFuente": "156026",
+      "fuente": "jobicy",
+      "titulo": "Senior Software Engineer, Agents",
+      "empresa": "RevenueCat",
+      "url": "https://jobicy.com/jobs/156026-senior-software-engineer-agents-2",
+      "publicadoEn": 1792510028000,
+      "salarioTexto": "USD 230,000",
+      "ubicacion": "EMEA, LATAM, Canada, USA",
+      "etiquetas": [
+        "Software Engineering",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "156020",
+      "fuente": "jobicy",
+      "titulo": "Head of Sales",
+      "empresa": "RevenueCat",
+      "url": "https://jobicy.com/jobs/156020-head-of-sales-2",
+      "publicadoEn": 1792510028000,
+      "salarioTexto": "USD 363,000",
+      "ubicacion": "EMEA, LATAM, Canada, USA",
+      "etiquetas": [
+        "Sales",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "156023",
+      "fuente": "jobicy",
+      "titulo": "Head of Customer Growth",
+      "empresa": "RevenueCat",
+      "url": "https://jobicy.com/jobs/156023-head-of-customer-growth",
+      "publicadoEn": 1792510026000,
+      "salarioTexto": "USD 259,000",
+      "ubicacion": "EMEA, LATAM, Canada, USA",
+      "etiquetas": [
+        "Customer Support & Success",
+        "Director"
+      ]
+    },
     {
       "idFuente": "codest-ltd-company-no-12590542-vat-number-gb363431020/android-developer",
       "fuente": "himalayas",
@@ -2360,379 +2860,6 @@
         "Accountant",
         "Accounting-Advisory-Manager"
       ]
-    },
-    {
-      "idFuente": "icertis/architect-cloud-site-reliability-sre",
-      "fuente": "himalayas",
-      "titulo": "Architect, Cloud Site Reliability (SRE)",
-      "empresa": "Icertis",
-      "url": "https://himalayas.app/companies/icertis/jobs/architect-cloud-site-reliability-sre?utm_source=api",
-      "publicadoEn": 1792508720000,
-      "salarioTexto": null,
-      "ubicacion": "India",
-      "etiquetas": [
-        "Site-Reliability-Engineer",
-        "Cloud-Architect",
-        "SRE-Engineer",
-        "Operations-Architect",
-        "Infrastructure-Architect",
-        "Senior-Site-Reliability-Engineering-Architect",
-        "Cloud-Resiliency-Architect",
-        "SRE-Architect",
-        "Cloud-Infrastructure-Architect",
-        "Senior-Software-Architect-Reliability-Engineering",
-        "Senior-Cloud-Architect",
-        "Senior-Cloud-Software-Architect",
-        "Cloud-Reliability-Engineer",
-        "Cloud-Systems-Architect"
-      ]
-    },
-    {
-      "idFuente": "level-up-outsourcing/copywriter-general-va",
-      "fuente": "himalayas",
-      "titulo": "Copywriter/General VA",
-      "empresa": "Level Up Outsourcing",
-      "url": "https://himalayas.app/companies/level-up-outsourcing/jobs/copywriter-general-va?utm_source=api",
-      "publicadoEn": 1792508587000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Copywriter",
-        "Virtual-Assistant",
-        "Content-Marketing-Specialist",
-        "Brand-Copywriter",
-        "Social-Media-Manager",
-        "Remote-Copywriter",
-        "Freelance-Copywriter",
-        "Creative-Copywriter",
-        "Part-Time-Copywriter",
-        "Marketing-Copywriter",
-        "Content-Creator",
-        "Marketing"
-      ]
-    },
-    {
-      "idFuente": "155964",
-      "fuente": "jobicy",
-      "titulo": "ML Infrastructure Engineer",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/155964-ml-infrastructure-engineer",
-      "publicadoEn": 1792490501000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, USA",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155959",
-      "fuente": "jobicy",
-      "titulo": "Engineering Manager, Compose",
-      "empresa": "Mural",
-      "url": "https://jobicy.com/jobs/155959-engineering-manager-compose",
-      "publicadoEn": 1792490501000,
-      "salarioTexto": "USD 176,645 - 252,350",
-      "ubicacion": "Spain, UK, USA",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155956",
-      "fuente": "jobicy",
-      "titulo": "Manager, ML Solutions Architecture - Token Factory",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/155956-manager-ml-solutions-architecture-token-factory",
-      "publicadoEn": 1792490372000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Product & Operations",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155955",
-      "fuente": "jobicy",
-      "titulo": "Learning Experience Designer, Nebius Academy",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/155955-learning-experience-designer-nebius-academy",
-      "publicadoEn": 1792490372000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Education & E-learning",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "155954",
-      "fuente": "jobicy",
-      "titulo": "Head of Employee Relations",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/155954-head-of-employee-relations",
-      "publicadoEn": 1792490371000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "HR & Recruiting",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155948",
-      "fuente": "jobicy",
-      "titulo": "3PL Operations Manager",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/155948-3pl-operations-manager",
-      "publicadoEn": 1792490371000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Product & Operations",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "155953",
-      "fuente": "jobicy",
-      "titulo": "Group Product Manager - Platform Experience",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/155953-group-product-manager-platform-experience",
-      "publicadoEn": 1792490370000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Product & Operations",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "vertex-marketing-group-distribution-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Distribution Engineer",
-      "empresa": "Vertex Marketing Group",
-      "url": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
-      "publicadoEn": 1792495957000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Back-End Programming"
-      ]
-    },
-    {
-      "idFuente": "datadog-manager-ii-developer-advocacy",
-      "fuente": "weworkremotely",
-      "titulo": "Manager II, Developer Advocacy",
-      "empresa": "Datadog",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-manager-ii-developer-advocacy",
-      "publicadoEn": 1792481479000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "roblox-developer-engagement-team-contract",
-      "fuente": "weworkremotely",
-      "titulo": "Developer Engagement Team  (Contract)",
-      "empresa": "Roblox",
-      "url": "https://weworkremotely.com/remote-jobs/roblox-developer-engagement-team-contract",
-      "publicadoEn": 1792481460000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "reddit-analytics-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Analytics Engineer",
-      "empresa": "Reddit",
-      "url": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
-      "publicadoEn": 1792481457000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "153674",
-      "fuente": "jobicy",
-      "titulo": "Application Integration Developer",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/153674-application-integration-developer",
-      "publicadoEn": 1792469384000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "151014",
-      "fuente": "jobicy",
-      "titulo": "Associate Linux Support Engineer",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/151014-associate-linux-support-engineer",
-      "publicadoEn": 1792466716000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Technical Support",
-        "Midweight"
-      ]
-    },
-    {
-      "idFuente": "151013",
-      "fuente": "jobicy",
-      "titulo": "Distributed Systems Testing Software Engineer, Python / Go",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-      "publicadoEn": 1792466113000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "QA & Testing",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "150975",
-      "fuente": "jobicy",
-      "titulo": "Backend Software Engineer",
-      "empresa": "Northflank",
-      "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
-      "publicadoEn": 1792466107000,
-      "salarioTexto": "GBP 75,000 - 104,000",
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Midweight"
-      ]
-    },
-    {
-      "idFuente": "roblox-director-of-public-policy-uae-middle-east",
-      "fuente": "weworkremotely",
-      "titulo": "Director of Public Policy, UAE/Middle East",
-      "empresa": "Roblox",
-      "url": "https://weworkremotely.com/remote-jobs/roblox-director-of-public-policy-uae-middle-east",
-      "publicadoEn": 1792481479000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "celonis-client-value-partner-cvp-utilities-energy-industry",
-      "fuente": "weworkremotely",
-      "titulo": "Client Value Partner (CVP) - Utilities & Energy Industry",
-      "empresa": "Celonis",
-      "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
-      "publicadoEn": 1792481464000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "carrot-director-information-security",
-      "fuente": "weworkremotely",
-      "titulo": "Director, Information Security",
-      "empresa": "Carrot",
-      "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security",
-      "publicadoEn": 1792481464000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "collibra-senior-customer-engineer-collibra-public-sector",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Customer Engineer - Collibra Public Sector",
-      "empresa": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-customer-engineer-collibra-public-sector",
-      "publicadoEn": 1792481460000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Product"
-      ]
-    },
-    {
-      "idFuente": "celonis-client-value-partner-cvp-oil-gas-industry",
-      "fuente": "weworkremotely",
-      "titulo": "Client Value Partner (CVP) - Oil & Gas Industry",
-      "empresa": "Celonis",
-      "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
-      "publicadoEn": 1792481460000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "carrot-business-intelligence-analyst",
-      "fuente": "weworkremotely",
-      "titulo": "Business Intelligence Analyst",
-      "empresa": "Carrot",
-      "url": "https://weworkremotely.com/remote-jobs/carrot-business-intelligence-analyst",
-      "publicadoEn": 1792481458000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "lucid-software-na-enterprise-expansion-account-executive-strategic-future-opportunities",
-      "fuente": "weworkremotely",
-      "titulo": "NA Enterprise Expansion Account Executive, Strategic - Future Opportunities",
-      "empresa": "Lucid Software",
-      "url": "https://weworkremotely.com/remote-jobs/lucid-software-na-enterprise-expansion-account-executive-strategic-future-opportunities",
-      "publicadoEn": 1792481457000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "fastly-threat-detection-analyst-japanese-speaking-desirable",
-      "fuente": "weworkremotely",
-      "titulo": "Threat Detection Analyst (Japanese Speaking desirable)",
-      "empresa": "Fastly",
-      "url": "https://weworkremotely.com/remote-jobs/fastly-threat-detection-analyst-japanese-speaking-desirable",
-      "publicadoEn": 1792481457000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "samsara-account-executive-commercial",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive, Commercial",
-      "empresa": "Samsara",
-      "url": "https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial",
-      "publicadoEn": 1792481457000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -2772,13 +2899,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 6039,
-      "remotive": 958,
-      "weworkremotely": 5233,
-      "himalayas": 1220,
-      "jobicy": 2600
+      "remoteok": 6138,
+      "remotive": 968,
+      "weworkremotely": 5325,
+      "himalayas": 1240,
+      "jobicy": 2650
     },
-    "duplicadosDescartados": 14162,
-    "ultimaEjecucion": "2026-10-20T17:01:41.121Z"
+    "duplicadosDescartados": 14407,
+    "ultimaEjecucion": "2026-10-20T21:36:12.197Z"
   }
 }
