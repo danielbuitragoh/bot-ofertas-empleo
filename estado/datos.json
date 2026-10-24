@@ -2321,882 +2321,115 @@
     "bluestone pim::solution engineer",
     "plurilock security inc::procurement manager cybersecurity",
     "improvado::revops engineer",
-    "brickbrands::french bilingual content processing specialist customer service content modera"
+    "brickbrands::french bilingual content processing specialist customer service content modera",
+    "aprio::accounting and implementation manager",
+    "imerit technology::ai trainer video annotation",
+    "carrot::medical expert fertility contractor",
+    "cribl::director product management security",
+    "anthropic::community engagement manager data centers indiana kentucky",
+    "anthropic::anthropic stem fellow",
+    "jumio::customer success manager emea",
+    "gusto inc::senior product design manager payroll",
+    "stockx::category manager trading cards",
+    "beyondtrust::federal account manager combatant commands",
+    "stockx::category manager sneakers",
+    "gusto inc::payment operations analyst",
+    "cribl::customer success engineer sydney",
+    "beyondtrust::associate data engineer",
+    "oportun::sr data analytics engineer r14153",
+    "oportun::senior software engineer r14285",
+    "optimindhealth::licensed mental health professional lpc lmft lcsw lmhc belgrade mt",
+    "sortitt::investment banking analyst",
+    "mercury business services::java software engineer backend",
+    "cna insurance::underwriting technician large casualty",
+    "md staffing services inc::locum psychiatric nurse practitioner",
+    "lynker corporation::education and outreach specialist",
+    "optimindhealth::licensed mental health professional lpc lmft lcsw san antonio tx",
+    "avantpage::text to speech quality assurance reviewers remote u s",
+    "ncd::senior recruiter",
+    "mead hunt inc::cmoa construction manager",
+    "bright vision technologies::cloud strategy architect",
+    "remote craft::remote craft cold caller",
+    "micro1::military legal advisor",
+    "sensibly sprouted::registered dietitian",
+    "neptune retail solutions::senior director strategy and insights",
+    "optimindhealth::licensed mental health professional lpc lmft lcsw cuyahoga falls oh",
+    "amlb::onboarding cloud accountant remote canada",
+    "infinite electronics inc::business development regional sales manager",
+    "nexgen technologies::director of strategic channel partnerships",
+    "nvidia::senior assembly process engineer",
+    "revenuecat::senior product designer",
+    "canonical::cloud field engineer",
+    "canonical::graduate sales development representative",
+    "canonical::engineering manager managed services",
+    "canonical::rust engineering lead linux and open source",
+    "canonical::solution architecture manager",
+    "canonical::senior site reliability engineer",
+    "canonical::ubuntu security engineer",
+    "canonical::engineering manager solutions engineering",
+    "canonical::microservices engineer",
+    "canonical::containerization virtualisation engineer",
+    "canonical::engineering manager ubuntu security",
+    "canonical::lead linux kernel engineer ubuntu",
+    "canonical::python and kubernetes software engineer data workflows ai ml analytics",
+    "canonical::embedded linux field engineer for devices iot",
+    "canonical::engineering manager",
+    "canonical::embedded desktop linux systems engineer optimisation",
+    "canonical::cloud engineering manager",
+    "canonical::engineering manager security standards and hardening",
+    "canonical::software engineering director",
+    "canonical::engineering manager data platform",
+    "canonical::security risk management specialist",
+    "canonical::linux platform integration ubuntu systems senior engineer",
+    "canonical::engineering manager ubuntu linux kernel",
+    "canonical::cloud solutions architect alliances",
+    "smartling::business development representative",
+    "canonical::sustaining operations engineer",
+    "canonical::software engineer solutions engineering",
+    "playson::ui artist for games",
+    "canonical::python engineer",
+    "canonical::technical manager automotive and industrial",
+    "canonical::ubuntu engineering lead",
+    "canonical::alliances field engineer",
+    "canonical::community engineer multiple roles and seniority levels",
+    "canonical::openstack engineering manager",
+    "canonical::threat intelligence lead",
+    "canonical::staff security operations engineer",
+    "canonical::senior partner sales manager global system integrator gsi",
+    "canonical::software engineer sustaining engineering",
+    "canonical::enterprise account executive",
+    "canonical::partner sales director global system integrator gsi",
+    "canonical::engineering manager apparmor",
+    "canonical::web frontend engineer js css react flutter",
+    "canonical::ubuntu linux kernel engineer silicon enablement",
+    "canonical::senior staff principal engineer",
+    "canonical::technical author multiple roles and seniority levels",
+    "canonical::senior security operations engineer",
+    "canonical::site reliability gitops engineer",
+    "canonical::software engineer app stores",
+    "canonical::performance engineer open source"
   ],
   "ultimasOfertas": [
     {
-      "idFuente": "1137559",
-      "fuente": "remoteok",
-      "titulo": "Travel Support Specialist",
-      "empresa": "Aisles &amp; Abroad",
-      "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
-      "publicadoEn": 1792713605000,
-      "salarioTexto": null,
-      "ubicacion": "Seattle, Washington",
-      "etiquetas": [
-        "travel",
-        "education",
-        "customer support",
-        "non tech"
-      ]
-    },
-    {
-      "idFuente": "icarus-digital-marketing-performance-creative-strategist-and-ai-producer",
+      "idFuente": "cribl-customer-success-engineer-sydney",
       "fuente": "weworkremotely",
-      "titulo": "Performance Creative Strategist and AI Producer",
-      "empresa": "Icarus Digital Marketing",
-      "url": "https://weworkremotely.com/remote-jobs/icarus-digital-marketing-performance-creative-strategist-and-ai-producer",
-      "publicadoEn": 1787619496000,
+      "titulo": "Customer Success Engineer, Sydney",
+      "empresa": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
+      "publicadoEn": 1792827050000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "Sales and Marketing"
+        "Customer Support"
       ]
     },
     {
-      "idFuente": "zotefoams/strategic-account-manager",
-      "fuente": "himalayas",
-      "titulo": "Strategic Account Manager",
-      "empresa": "Zotefoams",
-      "url": "https://himalayas.app/companies/zotefoams/jobs/strategic-account-manager?utm_source=api",
-      "publicadoEn": 1792811010000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Strategic-Account-Manager",
-        "Account-Manager",
-        "Key-Account-Manager",
-        "Sales-Account-Manager"
-      ]
-    },
-    {
-      "idFuente": "martin-company/specialist-workers-compensation",
-      "fuente": "himalayas",
-      "titulo": "Specialist, Workers' Compensation",
-      "empresa": "Martin & Company",
-      "url": "https://himalayas.app/companies/martin-company/jobs/specialist-workers-compensation?utm_source=api",
-      "publicadoEn": 1792810996000,
-      "salarioTexto": "USD 100,000 - 130,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Workers'-Compensation-Specialist",
-        "Insurance-Compliance-Specialist",
-        "State-Filings",
-        "Insurance-Consultant",
-        "Workers-Comp-Specialist",
-        "Workers-Compensation-Claims-Specialist",
-        "Workers-Comp-Claims-Specialist",
-        "Workers-Comp-Claims-Professional",
-        "Workers'-Compensation-Representative",
-        "Workers'-Compensation-Analyst",
-        "Injury-Claims-Specialist",
-        "Workers-Compensation-Consultant",
-        "Workers'-Compensation-Claims-Representative"
-      ]
-    },
-    {
-      "idFuente": "bright-vision-technologies/cloud-network-architect-1287402157",
-      "fuente": "himalayas",
-      "titulo": "Cloud Network Architect",
-      "empresa": "Bright Vision Technologies",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-network-architect-1287402157?utm_source=api",
-      "publicadoEn": 1792810987000,
-      "salarioTexto": "USD 150,000 - 180,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Cloud-Network-Architect",
-        "Cloud-Architect",
-        "Solutions-Architect",
-        "Enterprise-Architect",
-        "Multi-Cloud-Architect",
-        "Network-Architect",
-        "AWS-Network-Architect",
-        "Cloud-Network-Architecture"
-      ]
-    },
-    {
-      "idFuente": "tiko-org/deputy-cto-3672618491",
-      "fuente": "himalayas",
-      "titulo": "Deputy CTO",
-      "empresa": "Tiko",
-      "url": "https://himalayas.app/companies/tiko-org/jobs/deputy-cto-3672618491?utm_source=api",
-      "publicadoEn": 1792810950000,
-      "salarioTexto": null,
-      "ubicacion": "South Africa",
-      "etiquetas": [
-        "Chief-Technology-Officer",
-        "Technology-Executive",
-        "VP-Of-Engineering",
-        "Director-of-Engineering",
-        "Technical-Director",
-        "Deputy-CTO",
-        "CTO",
-        "CTO-Delegation",
-        "Chief-Technology-Officer-(CTO)"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/psychiatric-nurse-practitioner-pmhnp-bc-madison-al",
-      "fuente": "himalayas",
-      "titulo": "Psychiatric Nurse Practitioner (PMHNP-BC) - Madison, AL",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/psychiatric-nurse-practitioner-pmhnp-bc-madison-al?utm_source=api",
-      "publicadoEn": 1792810922000,
-      "salarioTexto": "USD 125,000 - 145,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Psychiatric-Nurse-Practitioner",
-        "Nurse-Practitioner",
-        "Psychiatric-NP",
-        "PMHNP",
-        "Behavioral-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-NP",
-        "Mental-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-Nurse-Practitioner-(PMHNP-BC)",
-        "Outpatient-Psychiatric-NP"
-      ]
-    },
-    {
-      "idFuente": "the-aqua-life-swim-academy/client-care-and-sales-representative-8912554392",
-      "fuente": "himalayas",
-      "titulo": "Client Care and Sales Representative",
-      "empresa": "The Aqua Life Swim Academy",
-      "url": "https://himalayas.app/companies/the-aqua-life-swim-academy/jobs/client-care-and-sales-representative-8912554392?utm_source=api",
-      "publicadoEn": 1792810922000,
-      "salarioTexto": "USD 20 - 20",
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "Client-Care-Representative",
-        "Sales",
-        "Customer-Service",
-        "Call-Center-Representative",
-        "Client-Sales-Representative",
-        "Client-Services-Representative",
-        "Client-Care-Agent",
-        "Sales-And-Customer-Service-Representative",
-        "Client-Care-Specialist",
-        "Sales-and-Client-Support",
-        "Sales-And-Client-Services"
-      ]
-    },
-    {
-      "idFuente": "findec/retirement-plan-administrator-9747148401",
-      "fuente": "himalayas",
-      "titulo": "Retirement Plan Administrator",
-      "empresa": "FinDec",
-      "url": "https://himalayas.app/companies/findec/jobs/retirement-plan-administrator-9747148401?utm_source=api",
-      "publicadoEn": 1792810877000,
-      "salarioTexto": "USD 74,000 - 82,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Retirement-Plan-Administrator",
-        "Benefits-Administrator",
-        "Retirement-Benefits-Analyst",
-        "401(k)-Administration",
-        "Retirement-Plan-Administration",
-        "Retirement-Plans-Administration",
-        "Retirement-Plan-Compliance-Administrator",
-        "Pension-Plan-Administration",
-        "Pension-Administrator",
-        "Retirement-Benefits-Administration",
-        "Plan-Administrator"
-      ]
-    },
-    {
-      "idFuente": "fabstation/intermediate-xr-3d-engineer",
-      "fuente": "himalayas",
-      "titulo": "Intermediate XR 3D Engineer",
-      "empresa": "FabStation",
-      "url": "https://himalayas.app/companies/fabstation/jobs/intermediate-xr-3d-engineer?utm_source=api",
-      "publicadoEn": 1792810877000,
-      "salarioTexto": "USD 75,000 - 85,000",
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "XR-Engineer",
-        "3D-Engineer",
-        "Unity-Developer",
-        "AR-VR-Developer",
-        "Software-Engineer",
-        "Senior-XR-Engineer",
-        "Unity-VR-Engineer",
-        "VR-Software-Engineer"
-      ]
-    },
-    {
-      "idFuente": "infinite-lambda/sofia-based-i-senior-technical-product-manager",
-      "fuente": "himalayas",
-      "titulo": "Sofia-based I Senior Technical Product Manager",
-      "empresa": "Infinite Lambda",
-      "url": "https://himalayas.app/companies/infinite-lambda/jobs/sofia-based-i-senior-technical-product-manager?utm_source=api",
-      "publicadoEn": 1792810865000,
-      "salarioTexto": "USD 7,000 - 8,500",
-      "ubicacion": "Bulgaria",
-      "etiquetas": [
-        "Technical-Product-Manager",
-        "Remote-Technical-Product-Manager",
-        "Remote-Senior-Technical-Product-Manager-–-Healthcare",
-        "Remote-Senior-Product-Manager"
-      ]
-    },
-    {
-      "idFuente": "baldwin-risk-partners-llc/family-office-executive-private-risk",
-      "fuente": "himalayas",
-      "titulo": "Family Office Executive, Private Risk",
-      "empresa": "Baldwin Risk Partners, LLC",
-      "url": "https://himalayas.app/companies/baldwin-risk-partners-llc/jobs/family-office-executive-private-risk?utm_source=api",
-      "publicadoEn": 1792810865000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Family-Office-Executive",
-        "Insurance-Broker",
-        "Risk-Advisor",
-        "Risk-Management-Consultant",
-        "Insurance-Account-Executive",
-        "Risk-Management-Executive",
-        "Private-Risk-Management"
-      ]
-    },
-    {
-      "idFuente": "nuvant-consulting-group/business-enrollment-representative",
-      "fuente": "himalayas",
-      "titulo": "Business Enrollment Representative",
-      "empresa": "Nuvant Consulting Group",
-      "url": "https://himalayas.app/companies/nuvant-consulting-group/jobs/business-enrollment-representative?utm_source=api",
-      "publicadoEn": 1792810810000,
-      "salarioTexto": "USD 67,000 - 87,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Business-Enrollment-Representative",
-        "Sales",
-        "Account-Executive",
-        "Account-Representative",
-        "Enrollment-Representative",
-        "Business-Account-Representative",
-        "Enrollment-Specialist",
-        "Enrollment-Agent",
-        "Enrollment-Consultant"
-      ]
-    },
-    {
-      "idFuente": "argano/chief-commercial-officer",
-      "fuente": "himalayas",
-      "titulo": "Chief Commercial Officer",
-      "empresa": "Argano",
-      "url": "https://himalayas.app/companies/argano/jobs/chief-commercial-officer?utm_source=api",
-      "publicadoEn": 1792810775000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Chief-Commercial-Officer",
-        "Chief-Revenue-Officer",
-        "Commercial-Director",
-        "Vice-President-Of-Sales",
-        "Alliance-Director",
-        "Chief-Commercial-Officer-(CCO)",
-        "Chief-Commerce-Officer"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/psychiatric-nurse-practitioner-pmhnp-bc-auburn-al",
-      "fuente": "himalayas",
-      "titulo": "Psychiatric Nurse Practitioner (PMHNP-BC) - Auburn, AL",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/psychiatric-nurse-practitioner-pmhnp-bc-auburn-al?utm_source=api",
-      "publicadoEn": 1792810772000,
-      "salarioTexto": "USD 125,000 - 145,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Psychiatric-Nurse-Practitioner",
-        "Mental-Health-Nurse-Practitioner",
-        "Psychiatric-NP",
-        "Nurse-Practitioner",
-        "Psychiatric-Mental-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-NP",
-        "Behavioral-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-Nurse-Practitioner-(PMHNP-BC)",
-        "Outpatient-Psychiatric-NP",
-        "Behavioral-Health-APRN",
-        "Psychiatric-Advanced-Practice-Provider"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/licensed-professional-counselor-lpc-brighton-co",
-      "fuente": "himalayas",
-      "titulo": "Licensed Professional Counselor (LPC) - Brighton, CO",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/licensed-professional-counselor-lpc-brighton-co?utm_source=api",
-      "publicadoEn": 1792810728000,
-      "salarioTexto": "USD 62,000 - 80,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Licensed-Professional-Counselor",
-        "Mental-Health-Counselor",
-        "Clinical-Counselor",
-        "Licensed-Marriage-And-Family-Therapist",
-        "Licensed-Clinical-Social-Worker",
-        "Licensed-Professional-Counselor-(LPC)",
-        "Licensed-Professional-Counseling",
-        "Licensed-Counselor"
-      ]
-    },
-    {
-      "idFuente": "bright-vision-technologies/technical-lead-engineer-8703896411",
-      "fuente": "himalayas",
-      "titulo": "Technical Lead Engineer",
-      "empresa": "Bright Vision Technologies",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/technical-lead-engineer-8703896411?utm_source=api",
-      "publicadoEn": 1792810719000,
-      "salarioTexto": "USD 100,000 - 150,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Technical-Lead-Engineer",
-        "Software-Engineer",
-        "Principal-Software-Engineer",
-        "Software-Engineering-Manager",
-        "Technical-Engineering-Lead",
-        "Technical-Lead",
-        "Senior-Technical-Lead",
-        "Technical-Team-Lead",
-        "Lead-Engineer"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/licensed-marriage-and-family-therapist-lmft-lexington-ma",
-      "fuente": "himalayas",
-      "titulo": "Licensed Marriage and Family Therapist (LMFT) - Lexington, MA",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/licensed-marriage-and-family-therapist-lmft-lexington-ma?utm_source=api",
-      "publicadoEn": 1792810719000,
-      "salarioTexto": "USD 70,000 - 85,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Marriage-And-Family-Therapist",
-        "Mental-Health-Counselor",
-        "Clinical-Therapist",
-        "Licensed-Therapist",
-        "Licensed-Marriage-And-Family-Therapist-(LMFT)",
-        "Marriage-And-Family-Therapist-(LMFT)",
-        "Licensed-Marriage-And-Family-Therapist",
-        "Licensed-Clinical-Marriage-And-Family-Therapist",
-        "Licensed-Marriage-And-Family-Therapy",
-        "Licensed-Family-Therapist",
-        "Remote-Licensed-Marriage-And-Family-Therapist-(LMFT)",
-        "LMFT",
-        "Marriage-And-Family-Counselor"
-      ]
-    },
-    {
-      "idFuente": "bluestone-pim/solution-engineer-1872810783",
-      "fuente": "himalayas",
-      "titulo": "Solution Engineer",
-      "empresa": "Bluestone PIM",
-      "url": "https://himalayas.app/companies/bluestone-pim/jobs/solution-engineer-1872810783?utm_source=api",
-      "publicadoEn": 1792810707000,
-      "salarioTexto": null,
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Solutions-Engineer",
-        "Sales-Engineer",
-        "Technical-Consultant",
-        "Pre-Sales-Engineer",
-        "Solution-Sales-Engineer",
-        "Solutions-Sales-Engineer",
-        "Solution-Design-Engineer",
-        "Product-Solution-Engineer",
-        "Solutions-Application-Engineer",
-        "IT-Solutions-Engineer",
-        "Solutions-Design-Engineer",
-        "Solution-and-Service-Engineer",
-        "Technical-Solutions-Engineer"
-      ]
-    },
-    {
-      "idFuente": "plurilock-security-inc/procurement-manager-cybersecurity",
-      "fuente": "himalayas",
-      "titulo": "Procurement Manager – Cybersecurity",
-      "empresa": "Plurilock Security Inc.",
-      "url": "https://himalayas.app/companies/plurilock-security-inc/jobs/procurement-manager-cybersecurity?utm_source=api",
-      "publicadoEn": 1792810707000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Procurement-Manager",
-        "Cybersecurity-Procurement",
-        "IT-Procurement-Manager",
-        "Supply-Chain-Manager",
-        "Procurement-Sourcing-Manager",
-        "Procurement-Technology-Manager",
-        "Technical-Procurement-Manager",
-        "Software-Procurement-Manager"
-      ]
-    },
-    {
-      "idFuente": "improvado/revops-engineer-6616795336",
-      "fuente": "himalayas",
-      "titulo": "RevOps Engineer",
-      "empresa": "Improvado",
-      "url": "https://himalayas.app/companies/improvado/jobs/revops-engineer-6616795336?utm_source=api",
-      "publicadoEn": 1792810707000,
-      "salarioTexto": null,
-      "ubicacion": "Montenegro",
-      "etiquetas": [
-        "Revenue-Operations-Engineer",
-        "Sales-Operations-Engineer",
-        "Revenue-Operations-Manager",
-        "Salesforce-Operations",
-        "RevOps-Engineer",
-        "RevOps-Engineering",
-        "RevOps-Technologist",
-        "RevOps-Technical-Analyst",
-        "RevOps-Specialist"
-      ]
-    },
-    {
-      "idFuente": "brickbrands/french-bilingual-content-processing-specialist-customer-service-content-modera",
-      "fuente": "himalayas",
-      "titulo": "French Bilingual: Content Processing Specialist (Customer Service/Content Modera",
-      "empresa": "BrickBrands",
-      "url": "https://himalayas.app/companies/brickbrands/jobs/french-bilingual-content-processing-specialist-customer-service-content-modera?utm_source=api",
-      "publicadoEn": 1792810706000,
-      "salarioTexto": null,
-      "ubicacion": "Morocco",
-      "etiquetas": [
-        "Content-Moderator",
-        "Customer-Service",
-        "Social-Media-Support-Agent",
-        "Community-Manager",
-        "Customer-Service-and-Digital-Support-Specialist",
-        "French-Language-Content-Specialist",
-        "French-Language-Content-Moderator"
-      ]
-    },
-    {
-      "idFuente": "acadsoc/esl-teacher-jobs-in-philippines",
-      "fuente": "himalayas",
-      "titulo": "Esl Teacher Jobs In Philippines",
-      "empresa": "Acadsoc",
-      "url": "https://himalayas.app/companies/acadsoc/jobs/esl-teacher-jobs-in-philippines?utm_source=api",
-      "publicadoEn": 1792789454000,
-      "salarioTexto": "USD 90 - 150",
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "ESL-Teacher",
-        "English-Teacher",
-        "Online-English-Teacher",
-        "TEFL-Teacher",
-        "ESL-TEFL-Teacher",
-        "ESL-TEFL-Instructor",
-        "ELT-Teacher",
-        "ESL-Teaching",
-        "ESL-ELL-Teacher",
-        "ESL-EFL-Instructor",
-        "English-As-A-Second-Language-Teacher",
-        "TESOL-Teacher"
-      ]
-    },
-    {
-      "idFuente": "machinify/audit-policy-analyst-post-acute-services",
-      "fuente": "himalayas",
-      "titulo": "Audit Policy Analyst, Post-Acute Services",
-      "empresa": "Machinify",
-      "url": "https://himalayas.app/companies/machinify/jobs/audit-policy-analyst-post-acute-services?utm_source=api",
-      "publicadoEn": 1792789445000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Audit-Policy-Analyst",
-        "Healthcare-Policy-Analyst",
-        "Claims-Auditor",
-        "Payment-Integrity-Analyst",
-        "Clinical-Auditor",
-        "Senior-Healthcare-Auditor",
-        "Senior-Audit-Analyst",
-        "Claims-Audit-Analyst",
-        "Audit-Analyst",
-        "Audit-Compliance-Analyst",
-        "Policy-Analyst"
-      ]
-    },
-    {
-      "idFuente": "two-chairs/mental-health-therapist-washington-part-time-5500961588",
-      "fuente": "himalayas",
-      "titulo": "Mental Health Therapist - Washington (Part-Time)",
-      "empresa": "Two Chairs",
-      "url": "https://himalayas.app/companies/two-chairs/jobs/mental-health-therapist-washington-part-time-5500961588?utm_source=api",
-      "publicadoEn": 1792789436000,
-      "salarioTexto": "USD 58.5 - 85",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Mental-Health-Therapist",
-        "Licensed-Mental-Health-Counselor",
-        "Licensed-Clinical-Social-Worker",
-        "Licensed-Marriage-And-Family-Therapist",
-        "Psychologist",
-        "Outpatient-Mental-Health-Therapist",
-        "Licensed-Mental-Health-Therapist",
-        "Behavioral-Health-Therapist"
-      ]
-    },
-    {
-      "idFuente": "letuelezioni/insegnante-per-il-sostegno-scolastico-e-l-aiuto-compiti-part-time",
-      "fuente": "himalayas",
-      "titulo": "Insegnante per il Sostegno Scolastico e l'Aiuto Compiti - Part Time",
-      "empresa": "LeTueLezioni",
-      "url": "https://himalayas.app/companies/letuelezioni/jobs/insegnante-per-il-sostegno-scolastico-e-l-aiuto-compiti-part-time?utm_source=api",
-      "publicadoEn": 1792789432000,
-      "salarioTexto": "USD 20 - 40",
-      "ubicacion": "Italy",
-      "etiquetas": [
-        "Tutor",
-        "Private-Tutor",
-        "Teacher",
-        "Learning-Support-Specialist",
-        "Part-Time-Instructor-Special-Education",
-        "Profesor-De-Apoyo-Escolar",
-        "Education"
-      ]
-    },
-    {
-      "idFuente": "nbcuniversal/director-product-sports-programming",
-      "fuente": "himalayas",
-      "titulo": "Director, Product Sports & Programming",
-      "empresa": "NBCUniversal",
-      "url": "https://himalayas.app/companies/nbcuniversal/jobs/director-product-sports-programming?utm_source=api",
-      "publicadoEn": 1792789432000,
-      "salarioTexto": "USD 95,000 - 110,000",
-      "ubicacion": "Netherlands",
-      "etiquetas": [
-        "Director-of-Product",
-        "Director-Of-Data-Product-Management",
-        "Sports-Product-Director",
-        "Media-Product-Director",
-        "Director-Of-Content-Product",
-        "Director-Of-Product-Management",
-        "Director-Product-Management"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/psychiatric-nurse-practitioner-pmhnp-bc-akron-oh",
-      "fuente": "himalayas",
-      "titulo": "Psychiatric Nurse Practitioner (PMHNP-BC) - Akron, OH",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/psychiatric-nurse-practitioner-pmhnp-bc-akron-oh?utm_source=api",
-      "publicadoEn": 1792789431000,
-      "salarioTexto": "USD 125,000 - 145,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Psychiatric-Nurse-Practitioner",
-        "Nurse-Practitioner",
-        "Psychiatric-Mental-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-NP",
-        "Behavioral-Health-Nurse-Practitioner",
-        "Psychiatric-NP",
-        "Mental-Health-Nurse-Practitioner",
-        "Outpatient-Psychiatric-NP",
-        "Behavioral-Health-APRN"
-      ]
-    },
-    {
-      "idFuente": "iits-consulting-gmbh/senior-devops-cloud-engineer-all-genders-100-remote",
-      "fuente": "himalayas",
-      "titulo": "Senior DevOps/Cloud Engineer (all genders) - 100 % Remote",
-      "empresa": "iits-consulting GmbH",
-      "url": "https://himalayas.app/companies/iits-consulting-gmbh/jobs/senior-devops-cloud-engineer-all-genders-100-remote?utm_source=api",
-      "publicadoEn": 1792789420000,
-      "salarioTexto": null,
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Cloud-Engineer",
-        "DevOps-Engineer",
-        "Platform-Engineer",
-        "Infrastructure-Engineer",
-        "Site-Reliability-Engineer",
-        "Senior-Engineer-Cloud-and-DevOps-(P)",
-        "Senior-Cloud-Engineer"
-      ]
-    },
-    {
-      "idFuente": "kipp/salesforce-solution-architect",
-      "fuente": "himalayas",
-      "titulo": "Salesforce Solution Architect",
-      "empresa": "KIPP",
-      "url": "https://himalayas.app/companies/kipp/jobs/salesforce-solution-architect?utm_source=api",
-      "publicadoEn": 1792789414000,
-      "salarioTexto": "USD 155,000 - 170,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Salesforce-Solution-Architect",
-        "Salesforce-Architect",
-        "Salesforce-Technical-Architect",
-        "Salesforce-Platform-Architect",
-        "Enterprise-Solution-Architect",
-        "Salesforce-Solutions-Architect",
-        "Salesforce-CRM-Architect",
-        "Sales-Cloud-Solution-Architect",
-        "Lead-Salesforce-Architect"
-      ]
-    },
-    {
-      "idFuente": "newell-brands/key-account-manager-lead-remote-remote-mx",
-      "fuente": "himalayas",
-      "titulo": "Key Account Manager (Lead) (Remote, Remote, MX)",
-      "empresa": "Newell Brands",
-      "url": "https://himalayas.app/companies/newell-brands/jobs/key-account-manager-lead-remote-remote-mx?utm_source=api",
-      "publicadoEn": 1792789409000,
-      "salarioTexto": null,
-      "ubicacion": "Mexico",
-      "etiquetas": [
-        "Key-Account-Manager",
-        "Account-Manager",
-        "Commercial-Manager",
-        "Trade-Marketing-Manager",
-        "Key-Account-Sales-Manager",
-        "Lead-Account-Manager"
-      ]
-    },
-    {
-      "idFuente": "bare-international/flexible-weekly-gig-work-multiple-opportunities-in-cities-across-the-us",
-      "fuente": "himalayas",
-      "titulo": "Flexible, Weekly Gig Work - Multiple Opportunities in Cities Across the US",
-      "empresa": "BARE International",
-      "url": "https://himalayas.app/companies/bare-international/jobs/flexible-weekly-gig-work-multiple-opportunities-in-cities-across-the-us?utm_source=api",
-      "publicadoEn": 1792789402000,
-      "salarioTexto": "USD 15 - 25",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Collections-Associate",
-        "Retail-Auditor",
-        "Market-Research-Auditor",
-        "Inventory-Auditor",
-        "Field-Research-Associate",
-        "Flexible-Gig-Work",
-        "Part-Time-Gig-Work",
-        "Gig-Work",
-        "Remote-Gig-Work",
-        "Gig-Economy-Jobs",
-        "Freelance-Gig-Work",
-        "Gig-Economy-Work",
-        "Flexible-Work-Opportunities",
-        "Gig-Worker",
-        "Crowdsourced-Gig-Work"
-      ]
-    },
-    {
-      "idFuente": "atari-inc/asset-designer-platform-games",
-      "fuente": "himalayas",
-      "titulo": "Asset Designer: Platform Games",
-      "empresa": "Atari, Inc.",
-      "url": "https://himalayas.app/companies/atari-inc/jobs/asset-designer-platform-games?utm_source=api",
-      "publicadoEn": 1792789397000,
-      "salarioTexto": null,
-      "ubicacion": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Åland Islands",
-      "etiquetas": [
-        "Asset-creation",
-        "Game-Asset-Artist",
-        "Game-Artist",
-        "2D-Game-Artist",
-        "UI-Artist",
-        "Asset-Artist",
-        "Game-Asset-Development",
-        "3D-Asset-Artist",
-        "Game-Asset-Creation",
-        "Game-Art-Designer"
-      ]
-    },
-    {
-      "idFuente": "moodle/sr-manager-devops-9335692033",
-      "fuente": "himalayas",
-      "titulo": "Sr. Manager, DevOps",
-      "empresa": "Moodle",
-      "url": "https://himalayas.app/companies/moodle/jobs/sr-manager-devops-9335692033?utm_source=api",
-      "publicadoEn": 1792789389000,
-      "salarioTexto": "USD 120,000 - 135,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "DevOps-Manager",
-        "Infrastructure-Operations-Manager",
-        "Platform-Engineering-Manager",
-        "Site-Reliability-Engineering-Manager",
-        "Sr.-Manager-DevOps",
-        "Senior-DevOps-Manager",
-        "DevOps-Engineering-Manager"
-      ]
-    },
-    {
-      "idFuente": "palo-alto-networks/service-delivery-leader",
-      "fuente": "himalayas",
-      "titulo": "Service Delivery Leader",
-      "empresa": "Palo Alto Networks",
-      "url": "https://himalayas.app/companies/palo-alto-networks/jobs/service-delivery-leader?utm_source=api",
-      "publicadoEn": 1792789363000,
-      "salarioTexto": "USD 127,800 - 206,800",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Service-Delivery-Lead",
-        "Service-Delivery-Manager",
-        "Customer-Success-Leadership",
-        "Customer-Success-Manager",
-        "Technical-Account-Manager",
-        "Service-Delivery-Leadership",
-        "Services-Delivery-Leadership",
-        "Services-Delivery-Manager",
-        "Delivery-leadership"
-      ]
-    },
-    {
-      "idFuente": "state-of-north-carolina/audit-resolution-consultant",
-      "fuente": "himalayas",
-      "titulo": "Audit Resolution Consultant",
-      "empresa": "State of North Carolina",
-      "url": "https://himalayas.app/companies/state-of-north-carolina/jobs/audit-resolution-consultant?utm_source=api",
-      "publicadoEn": 1792789356000,
-      "salarioTexto": "USD 52,592 - 92,036",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Resolution-Consultant",
-        "Medicaid-Consultant",
-        "Program-Integrity-Auditor",
-        "Medicaid-Auditor",
-        "Human-Services-Program-Consultant",
-        "Audit-Resolution",
-        "Audit-Consultant",
-        "Audit-Consulting",
-        "Audit-Support-Consultant",
-        "Audit-Remediation",
-        "Financial-Audit-Consultant",
-        "Financial-Audit-Remediation",
-        "Audit-Advisory",
-        "Audit-Advisory-Services"
-      ]
-    },
-    {
-      "idFuente": "earthly-technologies/staff-platform-engineer",
-      "fuente": "himalayas",
-      "titulo": "Staff Platform Engineer",
-      "empresa": "Earthly Technologies",
-      "url": "https://himalayas.app/companies/earthly-technologies/jobs/staff-platform-engineer?utm_source=api",
-      "publicadoEn": 1792789322000,
-      "salarioTexto": "USD 210,000 - 260,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Platform-Engineer",
-        "Software-Engineer",
-        "Infrastructure-Engineer",
-        "DevOps-Engineer",
-        "Site-Reliability-Engineer",
-        "Staff-Platform-Engineer",
-        "Senior-Platform-Engineer",
-        "Staff-Infrastructure-Engineer",
-        "Staff-Cloud-Engineer"
-      ]
-    },
-    {
-      "idFuente": "the-cromeens-law-firm/of-counsel-colorado-4354739969",
-      "fuente": "himalayas",
-      "titulo": "Of Counsel Colorado",
-      "empresa": "The Cromeens Law Firm",
-      "url": "https://himalayas.app/companies/the-cromeens-law-firm/jobs/of-counsel-colorado-4354739969?utm_source=api",
-      "publicadoEn": 1792789307000,
-      "salarioTexto": "USD 100 - 100",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Of-Counsel",
-        "Corporate-Counsel",
-        "Litigation-Counsel",
-        "Attorney",
-        "Counsel"
-      ]
-    },
-    {
-      "idFuente": "songtradr/senior-tax-analyst-5017099024",
-      "fuente": "himalayas",
-      "titulo": "Senior Tax Analyst",
-      "empresa": "Songtradr",
-      "url": "https://himalayas.app/companies/songtradr/jobs/senior-tax-analyst-5017099024?utm_source=api",
-      "publicadoEn": 1792789303000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Senior-Tax-Analyst",
-        "Tax-Analyst",
-        "Senior-Tax-Accountant",
-        "Tax-Accountant",
-        "Corporate-Tax-Analyst",
-        "Tax-Senior-Analyst",
-        "Senior-Tax-Accounting",
-        "Tax-Senior-Associate"
-      ]
-    },
-    {
-      "idFuente": "jmt-consultants/steel-detailing-project-manager-3467124160",
-      "fuente": "himalayas",
-      "titulo": "Steel Detailing Project Manager",
-      "empresa": "JMT Consultants",
-      "url": "https://himalayas.app/companies/jmt-consultants/jobs/steel-detailing-project-manager-3467124160?utm_source=api",
-      "publicadoEn": 1792789280000,
-      "salarioTexto": "USD 85,000 - 100,000",
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "Structural-Steel-Project-Manager",
-        "Steel-Detailer",
-        "BIM-Project-Management",
-        "Steel-Fabrication-Project-Manager"
-      ]
-    },
-    {
-      "idFuente": "dell/advisory-solutions-architect-missouri-kansas-or-oklahoma",
-      "fuente": "himalayas",
-      "titulo": "Advisory Solutions Architect - Missouri, Kansas or Oklahoma",
-      "empresa": "dell",
-      "url": "https://himalayas.app/companies/dell/jobs/advisory-solutions-architect-missouri-kansas-or-oklahoma?utm_source=api",
-      "publicadoEn": 1792789273000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Solutions-Architect",
-        "Systems-Engineer",
-        "Sales-Engineer",
-        "Enterprise-Architect",
-        "Pre-Sales-Engineer",
-        "Technical-Solutions-Architecture-Advisor",
-        "Strategic-Solution-Architect"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/licensed-mental-health-professional-lpc-lmft-lcsw-murfreesboro-tn",
-      "fuente": "himalayas",
-      "titulo": "Licensed Mental Health Professional (LPC/LMFT/LCSW) - Murfreesboro, TN",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/licensed-mental-health-professional-lpc-lmft-lcsw-murfreesboro-tn?utm_source=api",
-      "publicadoEn": 1792789259000,
-      "salarioTexto": "USD 60,000 - 85,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Mental-Health-Professional",
-        "Psychotherapist",
-        "Licensed-Professional-Counselor",
-        "Licensed-Marriage-And-Family-Therapist",
-        "Licensed-Clinical-Social-Worker",
-        "Licensed-Mental-Health-Therapist",
-        "Licensed-Mental-Health-Counselor",
-        "Licensed-Clinical-Mental-Health-Counselor",
-        "Licensed-Mental-Health-Counselor-(LMHC)",
-        "Licensed-Mental-Health-Professional",
-        "Licensed-Marriage-And-Family-Therapist-(LMFT)",
-        "Licensed-Mental-Health-Clinician",
-        "Licensed-Clinical-Mental-Health-Clinician",
-        "Licensed-Behavioral-Health-Therapist"
-      ]
-    },
-    {
-      "idFuente": "steuart-nutrition-software-developer-ai-coding",
+      "idFuente": "beyondtrust-associate-data-engineer",
       "fuente": "weworkremotely",
-      "titulo": "Software Developer AI Coding",
-      "empresa": "STEUART NUTRITION",
-      "url": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
-      "publicadoEn": 1790175798000,
+      "titulo": "Associate Data Engineer",
+      "empresa": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+      "publicadoEn": 1792827050000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -3204,12 +2437,53 @@
       ]
     },
     {
-      "idFuente": "156581",
+      "idFuente": "oportun-sr-data-analytics-engineer-r14153",
+      "fuente": "weworkremotely",
+      "titulo": "Sr. Data Analytics Engineer (R14153)",
+      "empresa": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+      "publicadoEn": 1792827050000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "149523",
       "fuente": "jobicy",
-      "titulo": "Performance Engineer - Performance Analysis & Tuning",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning",
-      "publicadoEn": 1792747600000,
+      "titulo": "Cloud Field Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+      "publicadoEn": 1792813531000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Software Engineering",
+        "Entry-Level, Junior"
+      ]
+    },
+    {
+      "idFuente": "149565",
+      "fuente": "jobicy",
+      "titulo": "Ubuntu Security Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
+      "publicadoEn": 1792813513000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Cybersecurity",
+        "Midweight"
+      ]
+    },
+    {
+      "idFuente": "149558",
+      "fuente": "jobicy",
+      "titulo": "Microservices Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
+      "publicadoEn": 1792813504000,
       "salarioTexto": null,
       "ubicacion": "Anywhere",
       "etiquetas": [
@@ -3218,26 +2492,12 @@
       ]
     },
     {
-      "idFuente": "156582",
+      "idFuente": "149563",
       "fuente": "jobicy",
-      "titulo": "Performance Engineer - Benchmarking",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking",
-      "publicadoEn": 1792747599000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "QA & Testing",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "156576",
-      "fuente": "jobicy",
-      "titulo": "Supalite Engineer",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156576-supalite-engineer",
-      "publicadoEn": 1792747598000,
+      "titulo": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "publicadoEn": 1792813236000,
       "salarioTexto": null,
       "ubicacion": "Anywhere",
       "etiquetas": [
@@ -3246,72 +2506,771 @@
       ]
     },
     {
-      "idFuente": "156583",
+      "idFuente": "149543",
       "fuente": "jobicy",
-      "titulo": "Cloud Platform Engineer",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
-      "publicadoEn": 1792747597000,
+      "titulo": "Python Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149543-python-engineer",
+      "publicadoEn": 1792812932000,
       "salarioTexto": null,
       "ubicacion": "Anywhere",
       "etiquetas": [
-        "DevOps & Infrastructure",
+        "Software Engineering",
         "Any"
       ]
     },
     {
-      "idFuente": "156544",
+      "idFuente": "149527",
       "fuente": "jobicy",
-      "titulo": "Manual QA Engineer (Game Client)",
-      "empresa": "Playson",
-      "url": "https://jobicy.com/jobs/156544-manual-qa-engineer-game-client",
-      "publicadoEn": 1792746735000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
+      "titulo": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+      "publicadoEn": 1792812909000,
+      "salarioTexto": "USD 48,000 - 70,000",
+      "ubicacion": "Anywhere",
       "etiquetas": [
-        "QA & Testing",
+        "Software Engineering",
         "Any"
       ]
     },
     {
-      "idFuente": "1137557",
+      "idFuente": "149552",
+      "fuente": "jobicy",
+      "titulo": "Software Engineer - App Stores",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
+      "publicadoEn": 1792812618000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Software Engineering",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "149551",
+      "fuente": "jobicy",
+      "titulo": "Performance Engineer - Open Source",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
+      "publicadoEn": 1792812617000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Software Engineering",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "1137560",
       "fuente": "remoteok",
-      "titulo": "Senior DevOps Engineer",
-      "empresa": "Lemon.io",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-      "publicadoEn": 1792673908000,
-      "salarioTexto": "$50,000 - $150,000",
+      "titulo": "Accounting and Implementation Manager",
+      "empresa": "Aprio",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
+      "publicadoEn": 1792742405000,
+      "salarioTexto": null,
       "ubicacion": null,
       "etiquetas": [
-        "devops",
-        "engineer",
-        "dev",
-        "python",
+        "exec",
+        "accounting",
+        "design",
+        "sys admin",
+        "education",
+        "consulting",
+        "customer support",
+        "testing",
+        "marketing",
+        "payroll",
+        "finance",
+        "ops",
+        "stats",
+        "sales",
         "golang",
-        "aws",
-        "gcp",
-        "kubernetes",
-        "sql",
-        "linux",
-        "ansible",
-        "ai",
         "full time",
-        "full stack",
-        "remote",
-        "remote work"
+        "digital nomad"
       ]
     },
     {
-      "idFuente": "committee-for-children-senior-product-manager-edtech-innovation",
+      "idFuente": "2091161",
+      "fuente": "remotive",
+      "titulo": "AI Trainer - Video Annotation",
+      "empresa": "iMerit Technology",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "publicadoEn": 1792694419000,
+      "salarioTexto": "70K-80K",
+      "ubicacion": "Worldwide",
+      "etiquetas": [
+        "video",
+        "AI/ML",
+        "robotics"
+      ]
+    },
+    {
+      "idFuente": "carrot-medical-expert-fertility-contractor",
       "fuente": "weworkremotely",
-      "titulo": "Senior Product Manager - Edtech Innovation",
-      "empresa": "Committee for Children",
-      "url": "https://weworkremotely.com/remote-jobs/committee-for-children-senior-product-manager-edtech-innovation",
-      "publicadoEn": 1792774536000,
+      "titulo": "Medical Expert, Fertility (Contractor)",
+      "empresa": "Carrot",
+      "url": "https://weworkremotely.com/remote-jobs/carrot-medical-expert-fertility-contractor",
+      "publicadoEn": 1792827064000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Management and Finance"
+      ]
+    },
+    {
+      "idFuente": "cribl-director-product-management-security",
+      "fuente": "weworkremotely",
+      "titulo": "Director, Product Management (Security)",
+      "empresa": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-director-product-management-security",
+      "publicadoEn": 1792827064000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
         "Product"
+      ]
+    },
+    {
+      "idFuente": "anthropic-community-engagement-manager-data-centers-indiana-kentucky",
+      "fuente": "weworkremotely",
+      "titulo": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+      "empresa": "Anthropic",
+      "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-indiana-kentucky",
+      "publicadoEn": 1792827064000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "anthropic-anthropic-stem-fellow",
+      "fuente": "weworkremotely",
+      "titulo": "Anthropic STEM Fellow",
+      "empresa": "Anthropic",
+      "url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow",
+      "publicadoEn": 1792827063000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "jumio-customer-success-manager-emea",
+      "fuente": "weworkremotely",
+      "titulo": "Customer Success Manager, EMEA",
+      "empresa": "Jumio",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-customer-success-manager-emea",
+      "publicadoEn": 1792827064000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "gusto-inc-senior-product-design-manager-payroll",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Product Design Manager, Payroll",
+      "empresa": "Gusto, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-senior-product-design-manager-payroll",
+      "publicadoEn": 1792827064000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Design"
+      ]
+    },
+    {
+      "idFuente": "stockx-category-manager-trading-cards",
+      "fuente": "weworkremotely",
+      "titulo": "Category Manager - Trading Cards",
+      "empresa": "StockX",
+      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
+      "publicadoEn": 1792827064000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "beyondtrust-federal-account-manager-combatant-commands",
+      "fuente": "weworkremotely",
+      "titulo": "Federal Account Manager, Combatant Commands",
+      "empresa": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-federal-account-manager-combatant-commands",
+      "publicadoEn": 1792827063000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "stockx-category-manager-sneakers",
+      "fuente": "weworkremotely",
+      "titulo": "Category Manager - Sneakers",
+      "empresa": "StockX",
+      "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
+      "publicadoEn": 1792827063000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "gusto-inc-payment-operations-analyst",
+      "fuente": "weworkremotely",
+      "titulo": "Payment Operations Analyst",
+      "empresa": "Gusto, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-payment-operations-analyst",
+      "publicadoEn": 1792827063000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "oportun-senior-software-engineer-r14285",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Software Engineer (R14285)",
+      "empresa": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-software-engineer-r14285",
+      "publicadoEn": 1792827045000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "optimindhealth/licensed-mental-health-professional-lpc-lmft-lcsw-lmhc-belgrade-mt",
+      "fuente": "himalayas",
+      "titulo": "Licensed Mental Health Professional (LPC/LMFT/LCSW/LMHC) - Belgrade, MT",
+      "empresa": "OptiMindHealth",
+      "url": "https://himalayas.app/companies/optimindhealth/jobs/licensed-mental-health-professional-lpc-lmft-lcsw-lmhc-belgrade-mt?utm_source=api",
+      "publicadoEn": 1792831482000,
+      "salarioTexto": "USD 60,000 - 75,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Mental-Health-Professional",
+        "Psychotherapist",
+        "Licensed-Counselor",
+        "Clinical-Social-Worker",
+        "Marriage-And-Family-Therapist",
+        "Licensed-Mental-Health-Counselor-(LMHC)",
+        "Licensed-Clinical-Mental-Health-Counselor",
+        "Licensed-Mental-Health-Therapist",
+        "Licensed-Mental-Health-Counselor",
+        "Licensed-Clinical-Mental-Health-Clinician",
+        "Licensed-Marriage-And-Family-Therapist-(LMFT)",
+        "Licensed-Professional-Counselor-(LPC)",
+        "Licensed-Mental-Health-Clinician"
+      ]
+    },
+    {
+      "idFuente": "sortitt/investment-banking-analyst",
+      "fuente": "himalayas",
+      "titulo": "Investment Banking Analyst",
+      "empresa": "Sortitt",
+      "url": "https://himalayas.app/companies/sortitt/jobs/investment-banking-analyst?utm_source=api",
+      "publicadoEn": 1792831471000,
+      "salarioTexto": null,
+      "ubicacion": "Pakistan",
+      "etiquetas": [
+        "Investment-Banking-Analyst",
+        "Financial-Analyst",
+        "Equity-Research-Analyst",
+        "Valuation-Analyst",
+        "Corporate-Finance-Analyst",
+        "Investment-Banking-Professional",
+        "Investment-Banking",
+        "Banking-Analyst"
+      ]
+    },
+    {
+      "idFuente": "mercury-business-services/java-software-engineer-backend-4257958107",
+      "fuente": "himalayas",
+      "titulo": "Java Software Engineer (Backend)",
+      "empresa": "Mercury Business Services",
+      "url": "https://himalayas.app/companies/mercury-business-services/jobs/java-software-engineer-backend-4257958107?utm_source=api",
+      "publicadoEn": 1792831375000,
+      "salarioTexto": null,
+      "ubicacion": "Turkey",
+      "etiquetas": [
+        "Java-Software-Engineer",
+        "Backend-Engineer",
+        "Java-Developer",
+        "Software-Engineer",
+        "Java-Backend-Engineer",
+        "Backend-Java-Developer",
+        "Java-Backend-Developer",
+        "Mid-Level-Java-Backend-Engineer",
+        "Developer"
+      ]
+    },
+    {
+      "idFuente": "cna-insurance/underwriting-technician-large-casualty-5499911160",
+      "fuente": "himalayas",
+      "titulo": "Underwriting Technician, Large Casualty",
+      "empresa": "CNA Insurance",
+      "url": "https://himalayas.app/companies/cna-insurance/jobs/underwriting-technician-large-casualty-5499911160?utm_source=api",
+      "publicadoEn": 1792831350000,
+      "salarioTexto": "USD 35,000 - 65,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Underwriting-Technician",
+        "Insurance-Underwriter",
+        "Commercial-Lines-Underwriter",
+        "Insurance-Underwriting-Specialist",
+        "Underwriting-Associate",
+        "Underwriting-Operations-Specialist",
+        "Underwriting-Analyst"
+      ]
+    },
+    {
+      "idFuente": "md-staffing-services-inc/locum-psychiatric-nurse-practitioner",
+      "fuente": "himalayas",
+      "titulo": "Locum Psychiatric Nurse Practitioner",
+      "empresa": "MD Staffing Services Inc.",
+      "url": "https://himalayas.app/companies/md-staffing-services-inc/jobs/locum-psychiatric-nurse-practitioner?utm_source=api",
+      "publicadoEn": 1792831350000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Psychiatric-Nurse-Practitioner",
+        "Nurse-Practitioner",
+        "Advanced-Practice-Provider",
+        "Telemedicine-Clinician",
+        "Locum-Tenens-APRN",
+        "Locum-Psychiatry",
+        "Psychiatric-Mental-Health-Nurse-Practitioner",
+        "Psychiatric-NP",
+        "Psychiatric-Mental-Health-NP",
+        "Mental-Health-Nurse-Practitioner",
+        "Behavioral-Health-Nurse-Practitioner",
+        "Per-Diem-Nurse-Practitioner"
+      ]
+    },
+    {
+      "idFuente": "lynker-corporation/education-and-outreach-specialist",
+      "fuente": "himalayas",
+      "titulo": "Education and Outreach Specialist",
+      "empresa": "Lynker Corporation",
+      "url": "https://himalayas.app/companies/lynker-corporation/jobs/education-and-outreach-specialist?utm_source=api",
+      "publicadoEn": 1792831336000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Educational-Outreach-Coordinator",
+        "Education-Program-Manager",
+        "Outreach-Specialist",
+        "Curriculum-Developer",
+        "Science-Education-Coordinator",
+        "Community-Outreach-Specialist",
+        "Education-And-Training-Specialist",
+        "Education-Outreach",
+        "Outreach-Coordinator",
+        "Education-Program-Specialist",
+        "Environmental-Education-Specialist"
+      ]
+    },
+    {
+      "idFuente": "optimindhealth/licensed-mental-health-professional-lpc-lmft-lcsw-san-antonio-tx",
+      "fuente": "himalayas",
+      "titulo": "Licensed Mental Health Professional (LPC/LMFT/LCSW) - San Antonio, TX",
+      "empresa": "OptiMindHealth",
+      "url": "https://himalayas.app/companies/optimindhealth/jobs/licensed-mental-health-professional-lpc-lmft-lcsw-san-antonio-tx?utm_source=api",
+      "publicadoEn": 1792831285000,
+      "salarioTexto": "USD 60,000 - 75,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Licensed-Mental-Health-Professional",
+        "Psychotherapist",
+        "Mental-Health-Counselor",
+        "Therapist",
+        "Clinical-Social-Worker",
+        "Licensed-Mental-Health-Therapist",
+        "Licensed-Mental-Health-Counselor",
+        "Licensed-Mental-Health-Clinician",
+        "Licensed-Clinical-Mental-Health-Counselor",
+        "Licensed-Clinical-Mental-Health-Clinician",
+        "Licensed-Mental-Health-Counselor-(LMHC)",
+        "Licensed-Behavioral-Health-Therapist",
+        "Licensed-Mental-Health-Provider",
+        "Licensed-Marriage-And-Family-Therapist-(LMFT)"
+      ]
+    },
+    {
+      "idFuente": "avantpage/text-to-speech-quality-assurance-reviewers-remote-u-s-7109482879",
+      "fuente": "himalayas",
+      "titulo": "Text-to-Speech Quality Assurance Reviewers (Remote, U.S.)",
+      "empresa": "Avantpage",
+      "url": "https://himalayas.app/companies/avantpage/jobs/text-to-speech-quality-assurance-reviewers-remote-u-s-7109482879?utm_source=api",
+      "publicadoEn": 1792831271000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Quality-Assurance-Reviewer",
+        "Language-Quality-Assurance-Specialist",
+        "QA-Analyst",
+        "Transcription-Review",
+        "Audio-Quality-Reviewer",
+        "Remote-Language-Quality-Assessor",
+        "Voice-AI-QA-Specialist",
+        "Voice-QA-Analyst",
+        "Remote-Quality-Assurance-Specialist",
+        "Audio-QA-Annotation-Specialist",
+        "Remote-QA-Analyst",
+        "Quality-Assurance"
+      ]
+    },
+    {
+      "idFuente": "ncd/senior-recruiter",
+      "fuente": "himalayas",
+      "titulo": "Senior Recruiter",
+      "empresa": "NCD",
+      "url": "https://himalayas.app/companies/ncd/jobs/senior-recruiter?utm_source=api",
+      "publicadoEn": 1792831263000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Senior-Recruiter",
+        "Recruiter",
+        "Talent-Acquisition-Specialist",
+        "Corporate-Recruiter",
+        "Technical-Recruiter",
+        "Senior-Candidate-Recruiter",
+        "Senior-Sales-Recruiter",
+        "Senior-Corporate-Recruiter",
+        "Senior-IT-Recruiter",
+        "Senior-Recruitment-Consultant",
+        "Senior-Business-Recruiter",
+        "Senior-Technical-Recruiter"
+      ]
+    },
+    {
+      "idFuente": "mead-hunt-inc/cmoa-construction-manager",
+      "fuente": "himalayas",
+      "titulo": "CMOA Construction Manager",
+      "empresa": "Mead & Hunt, Inc.",
+      "url": "https://himalayas.app/companies/mead-hunt-inc/jobs/cmoa-construction-manager?utm_source=api",
+      "publicadoEn": 1792831262000,
+      "salarioTexto": "USD 85,000 - 160,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Construction-Manager",
+        "Project-Manager",
+        "Construction-Project-Manager",
+        "Site-Manager",
+        "Construction-Operations-Manager",
+        "Commercial-Construction-Manager",
+        "Construction-Management",
+        "Project-Manager-Construction",
+        "Construction-Program-Manager"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/cloud-strategy-architect-6988843774",
+      "fuente": "himalayas",
+      "titulo": "Cloud Strategy Architect",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-strategy-architect-6988843774?utm_source=api",
+      "publicadoEn": 1792831262000,
+      "salarioTexto": "USD 160,000 - 175,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Cloud-Strategy-Architect",
+        "Cloud-Solutions-Architect",
+        "Enterprise-Architect",
+        "Cloud-Security-Architect",
+        "Technical-Architect",
+        "Cloud-Architect",
+        "Cloud-Strategy-Consultant",
+        "Cloud-Solution-Architect",
+        "Cloud-Architecture-Consultant",
+        "Cloud-Transformation-Architect"
+      ]
+    },
+    {
+      "idFuente": "remote-craft/remote-craft-cold-caller",
+      "fuente": "himalayas",
+      "titulo": "Remote Craft - Cold Caller",
+      "empresa": "Remote Craft",
+      "url": "https://himalayas.app/companies/remote-craft/jobs/remote-craft-cold-caller?utm_source=api",
+      "publicadoEn": 1792831248000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "Cold-Caller",
+        "Sales-Development-Representative",
+        "Outbound-Sales-Representative",
+        "Lead-Generation-Specialist",
+        "Cold-Call-Sales-Representative",
+        "Cold-Calling",
+        "Cold-Calling-Specialist",
+        "Cold-Calling-Sales",
+        "Remote-Call-Center",
+        "Sales-Caller",
+        "Cold-Outbound-Specialist",
+        "Remote-Telemarketing-Representative",
+        "Real-Estate-Cold-Calling"
+      ]
+    },
+    {
+      "idFuente": "micro1/military-legal-advisor",
+      "fuente": "himalayas",
+      "titulo": "Military Legal Advisor",
+      "empresa": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/military-legal-advisor?utm_source=api",
+      "publicadoEn": 1792831241000,
+      "salarioTexto": "USD 70 - 120",
+      "ubicacion": "",
+      "etiquetas": [
+        "Legal-Advisor",
+        "Military-Counselor",
+        "Attorney-Advisor",
+        "Legal"
+      ]
+    },
+    {
+      "idFuente": "sensibly-sprouted/registered-dietitian",
+      "fuente": "himalayas",
+      "titulo": "Registered Dietitian",
+      "empresa": "Sensibly Sprouted",
+      "url": "https://himalayas.app/companies/sensibly-sprouted/jobs/registered-dietitian?utm_source=api",
+      "publicadoEn": 1792831189000,
+      "salarioTexto": "USD 60,000 - 66,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Registered-Dietitian",
+        "Clinical-Dietitian",
+        "Nutrition-Counselor",
+        "Registered-Dietician",
+        "Registered-Dietitian-Nutritionist",
+        "Dietician",
+        "Dietitian-Services",
+        "Healthcare-Dietitian",
+        "Pediatric-Dietitian",
+        "Weight-Management-Dietitian",
+        "Dietary-Consultant"
+      ]
+    },
+    {
+      "idFuente": "neptune-retail-solutions/senior-director-strategy-and-insights-3476608607",
+      "fuente": "himalayas",
+      "titulo": "Senior Director, Strategy and Insights",
+      "empresa": "Neptune Retail Solutions",
+      "url": "https://himalayas.app/companies/neptune-retail-solutions/jobs/senior-director-strategy-and-insights-3476608607?utm_source=api",
+      "publicadoEn": 1792831179000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Director-of-Strategy-and-Insights",
+        "Strategy-Director",
+        "Market-Insights-Manager",
+        "Business-Analytics-Director",
+        "Consumer-Insights-Director",
+        "Senior-Director-Strategy",
+        "Strategy-and-Research-Director",
+        "Insights-Director"
+      ]
+    },
+    {
+      "idFuente": "optimindhealth/licensed-mental-health-professional-lpc-lmft-lcsw-cuyahoga-falls-oh",
+      "fuente": "himalayas",
+      "titulo": "Licensed Mental Health Professional (LPC/LMFT/LCSW) - Cuyahoga Falls, OH",
+      "empresa": "OptiMindHealth",
+      "url": "https://himalayas.app/companies/optimindhealth/jobs/licensed-mental-health-professional-lpc-lmft-lcsw-cuyahoga-falls-oh?utm_source=api",
+      "publicadoEn": 1792831179000,
+      "salarioTexto": "USD 60,000 - 85,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Licensed-Mental-Health-Professional",
+        "Psychotherapist",
+        "Clinical-Social-Worker",
+        "Professional-Counselor",
+        "Marriage-And-Family-Therapist",
+        "Licensed-Mental-Health-Therapist",
+        "Licensed-Clinical-Mental-Health-Clinician",
+        "Licensed-Clinical-Mental-Health-Counselor",
+        "Licensed-Mental-Health-Clinician",
+        "Licensed-Mental-Health-Counselor",
+        "Licensed-Mental-Health-Provider",
+        "Licensed-Behavioral-Health-Therapist",
+        "Licensed-Marriage-And-Family-Therapist-(LMFT)",
+        "Licensed-Mental-Health-Counselor-(LMHC)"
+      ]
+    },
+    {
+      "idFuente": "amlb/onboarding-cloud-accountant-remote-canada",
+      "fuente": "himalayas",
+      "titulo": "Onboarding Cloud Accountant (Remote, Canada)",
+      "empresa": "AMLB",
+      "url": "https://himalayas.app/companies/amlb/jobs/onboarding-cloud-accountant-remote-canada?utm_source=api",
+      "publicadoEn": 1792831165000,
+      "salarioTexto": "USD 85,000 - 95,000",
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Cloud-Accountant",
+        "Accountant",
+        "Bookkeeper",
+        "Accounting-Implementation-Consultant",
+        "Client-Onboarding-Specialist",
+        "Accounting-Onboarding-Specialist",
+        "Accounting-Onboarding",
+        "Cloud-Accounting-Professional",
+        "Remote-Accountant",
+        "Cloud-Accounting-Consultant",
+        "Remote-Staff-Accountant"
+      ]
+    },
+    {
+      "idFuente": "infinite-electronics-inc/business-development-regional-sales-manager",
+      "fuente": "himalayas",
+      "titulo": "Business Development - Regional Sales Manager",
+      "empresa": "Infinite Electronics, Inc.",
+      "url": "https://himalayas.app/companies/infinite-electronics-inc/jobs/business-development-regional-sales-manager?utm_source=api",
+      "publicadoEn": 1792831165000,
+      "salarioTexto": "USD 145,200 - 166,957",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Regional-Sales-Manager",
+        "Sales-Manager",
+        "Business-Development-Manager",
+        "Channel-Sales-Manager",
+        "Regional-Business-Development-Manager",
+        "Regional-Sales-Manager-New-Business-Development",
+        "SALES-BUSINESS-DEVELOPMENT-MANAGER",
+        "Regional-Business-Development-Manager-Europe",
+        "Regional-Business-Director"
+      ]
+    },
+    {
+      "idFuente": "nxgentek/director-of-strategic-channel-partnerships-8733199660",
+      "fuente": "himalayas",
+      "titulo": "Director of Strategic & Channel Partnerships",
+      "empresa": "NEXGEN TECHNOLOGIES",
+      "url": "https://himalayas.app/companies/nxgentek/jobs/director-of-strategic-channel-partnerships-8733199660?utm_source=api",
+      "publicadoEn": 1792831120000,
+      "salarioTexto": "USD 80,000 - 100,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Director-Of-Strategic-Partnerships",
+        "Director-Of-Channel-Partnerships",
+        "Strategic-Partnerships-Director",
+        "Channel-Partnerships-Director",
+        "Partnerships-Director",
+        "Director-Of-Channel-Sales",
+        "Strategic-Partnership-Director"
+      ]
+    },
+    {
+      "idFuente": "nvidia/senior-assembly-process-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Assembly Process Engineer",
+      "empresa": "NVIDIA",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-assembly-process-engineer?utm_source=api",
+      "publicadoEn": 1792831068000,
+      "salarioTexto": null,
+      "ubicacion": "Taiwan",
+      "etiquetas": [
+        "Assembly-Engineer",
+        "Semiconductor-Process-Engineering",
+        "Packaging-Engineer",
+        "Manufacturing-Engineer",
+        "Process-Development-Engineer",
+        "Senior-Process-Engineer",
+        "Senior-Production-Engineer"
+      ]
+    },
+    {
+      "idFuente": "153973",
+      "fuente": "jobicy",
+      "titulo": "Senior Product Designer",
+      "empresa": "RevenueCat",
+      "url": "https://jobicy.com/jobs/153973-senior-product-designer-13",
+      "publicadoEn": 1792813811000,
+      "salarioTexto": "USD 220,000",
+      "ubicacion": "EMEA, LATAM, Canada, USA",
+      "etiquetas": [
+        "Web, UI & UX Design",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "149555",
+      "fuente": "jobicy",
+      "titulo": "Graduate Sales Development Representative",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
+      "publicadoEn": 1792813529000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Sales",
+        "Entry-Level, Junior"
+      ]
+    },
+    {
+      "idFuente": "149528",
+      "fuente": "jobicy",
+      "titulo": "Engineering Manager, Managed Services",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149528-engineering-manager-managed-services",
+      "publicadoEn": 1792813528000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Product & Operations",
+        "Midweight"
+      ]
+    },
+    {
+      "idFuente": "149566",
+      "fuente": "jobicy",
+      "titulo": "Rust Engineering Lead - Linux and Open Source",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
+      "publicadoEn": 1792813526000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Software Engineering",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "149531",
+      "fuente": "jobicy",
+      "titulo": "Solution Architecture Manager",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149531-solution-architecture-manager",
+      "publicadoEn": 1792813523000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Product & Operations",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "149557",
+      "fuente": "jobicy",
+      "titulo": "Senior Site Reliability Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
+      "publicadoEn": 1792813517000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "DevOps & Infrastructure",
+        "Senior"
       ]
     }
   ],
@@ -3352,13 +3311,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 7425,
-      "remotive": 1094,
-      "weworkremotely": 6540,
-      "himalayas": 1500,
-      "jobicy": 3300
+      "remoteok": 7524,
+      "remotive": 1104,
+      "weworkremotely": 6635,
+      "himalayas": 1520,
+      "jobicy": 3350
     },
-    "duplicadosDescartados": 17537,
-    "ultimaEjecucion": "2026-10-24T04:34:29.371Z"
+    "duplicadosDescartados": 17725,
+    "ultimaEjecucion": "2026-10-24T10:56:59.893Z"
   }
 }
