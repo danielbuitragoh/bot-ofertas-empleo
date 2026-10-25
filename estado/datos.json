@@ -2567,9 +2567,437 @@
     "supabase::data api engineer",
     "kong inc::product marketing manager ai governance emea",
     "kong inc::senior technical product marketing manager agent identity auth emea",
-    "gt::devops engineer live entertainment company"
+    "gt::devops engineer live entertainment company",
+    "acklen avenue::talent database sr ai engineer india only",
+    "capslock::finance director",
+    "6sense insights inc::sr manager gtm engineering",
+    "healthcare fraud shield::siu investigator",
+    "highlevel::product solution engineer",
+    "superchargeme::founding senior account executive",
+    "edgeq technologies private limited::junior data engineer",
+    "grafana labs::principal technical marketing engineer us remote",
+    "bybit::vip relationship manager korea",
+    "grafana labs::senior product marketing manager spain remote",
+    "welo global::financial accountant",
+    "cfra::technical research analyst temporary part time",
+    "dante::full stack engineer",
+    "cancernavigator::spanish speaking oncology nurse navigator",
+    "applaudo::senior data scientist temporary contract",
+    "sentinelone::sr director revenue operations amer",
+    "launchdarkly::revenue operations manager emea",
+    "opendorse::campaign coordinator part time temporary",
+    "aecom::senior instrumentation controls engineer",
+    "suppli::product manager"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "acklen-avenue/talent-database-sr-ai-engineer-india-only",
+      "fuente": "himalayas",
+      "titulo": "Talent Database - Sr. AI Engineer - India Only",
+      "empresa": "Acklen Avenue",
+      "url": "https://himalayas.app/companies/acklen-avenue/jobs/talent-database-sr-ai-engineer-india-only?utm_source=api",
+      "publicadoEn": 1792953862000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "AI-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "Senior-AI-ML-Data-Engineer",
+        "Senior-AI-Data-Engineer",
+        "Senior-AI-Engineer",
+        "Senior-AI-ML-Engineer",
+        "Senior-AI-Engineering"
+      ]
+    },
+    {
+      "idFuente": "capslock/finance-director-8465346962",
+      "fuente": "himalayas",
+      "titulo": "Finance Director",
+      "empresa": "CapsLock",
+      "url": "https://himalayas.app/companies/capslock/jobs/finance-director-8465346962?utm_source=api",
+      "publicadoEn": 1792953830000,
+      "salarioTexto": null,
+      "ubicacion": "Portugal",
+      "etiquetas": [
+        "Director-of-Finance",
+        "Head-of-Finance",
+        "Financial-Controller",
+        "VP-Finance",
+        "CFO-Finance-Director",
+        "Finance-and-Accounting-Director",
+        "Senior-Finance-Director",
+        "Business-Finance-Director",
+        "Accounting-Director",
+        "Senior-Director-Finance",
+        "Finance-Operations-Director"
+      ]
+    },
+    {
+      "idFuente": "6sense-insights-inc/sr-manager-gtm-engineering",
+      "fuente": "himalayas",
+      "titulo": "Sr. Manager, GTM Engineering",
+      "empresa": "6sense Insights, Inc.",
+      "url": "https://himalayas.app/companies/6sense-insights-inc/jobs/sr-manager-gtm-engineering?utm_source=api",
+      "publicadoEn": 1792953798000,
+      "salarioTexto": "USD 150,081.25 - 180,852.5",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "GTM-Engineering",
+        "GTM-Engineering-Manager",
+        "Marketing-Operations-Manager",
+        "Engineering-Manager-Revenue-Systems",
+        "Marketing-Automation-Manager",
+        "Engineering-Manager",
+        "GTM-Engineer",
+        "Senior-GTM-Manager",
+        "GTM-Systems-Engineer",
+        "GTM-Technology-Manager",
+        "Senior-Engineering-Management"
+      ]
+    },
+    {
+      "idFuente": "healthcare-fraud-shield/siu-investigator",
+      "fuente": "himalayas",
+      "titulo": "SIU Investigator",
+      "empresa": "Healthcare Fraud Shield",
+      "url": "https://himalayas.app/companies/healthcare-fraud-shield/jobs/siu-investigator?utm_source=api",
+      "publicadoEn": 1792953778000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Healthcare-Fraud-Investigator",
+        "Fraud-Investigator",
+        "Clinical-Coder",
+        "Claims-Investigator",
+        "Special-Investigation-Unit-Investigator",
+        "SIU-Investigations",
+        "SIU",
+        "SIU-(Special-Investigation-Unit)",
+        "Investigator",
+        "Special-Investigations-Unit-(SIU)",
+        "Special-Investigative-Unit-(SIU)"
+      ]
+    },
+    {
+      "idFuente": "highlevel/product-solution-engineer",
+      "fuente": "himalayas",
+      "titulo": "Product Solution Engineer",
+      "empresa": "HighLevel",
+      "url": "https://himalayas.app/companies/highlevel/jobs/product-solution-engineer?utm_source=api",
+      "publicadoEn": 1792953664000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Product-Solution-Engineer",
+        "Solutions-Engineer",
+        "Technical-Support-Engineer",
+        "Support-Engineer",
+        "Software-Engineer-in-Test",
+        "Product-Solutions-Manager",
+        "Product-Solution-Architect",
+        "Solutions-Design-Engineer",
+        "Solution-Design-Engineer",
+        "Product-Solutions-Specialist"
+      ]
+    },
+    {
+      "idFuente": "superchargeme/founding-senior-account-executive",
+      "fuente": "himalayas",
+      "titulo": "Founding Senior Account Executive",
+      "empresa": "SuperchargeMe",
+      "url": "https://himalayas.app/companies/superchargeme/jobs/founding-senior-account-executive?utm_source=api",
+      "publicadoEn": 1792953564000,
+      "salarioTexto": "USD 110,000 - 140,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Account-Executive",
+        "Senior-Account-Executive",
+        "New-Business-Account-Executive",
+        "Commercial-Account-Executive",
+        "Founding-Account-Executive",
+        "Founding-Sales-Executive",
+        "Startup-Account-Executive",
+        "Senior-Strategic-Account-Executive",
+        "Founding-Sales-Role",
+        "Principal-Account-Executive",
+        "Senior-Sales-Account-Executive",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "edgeq-technologies-private-limited/junior-data-engineer",
+      "fuente": "himalayas",
+      "titulo": "Junior Data Engineer",
+      "empresa": "EdgeQ Technologies Private Limited",
+      "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/junior-data-engineer?utm_source=api",
+      "publicadoEn": 1792953425000,
+      "salarioTexto": "USD 75,000 - 115,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Data-Engineer",
+        "Big-Data-Engineer",
+        "ETL-Engineer",
+        "Junior-Data-Engineer",
+        "Junior-Data-Engineering",
+        "Junior-Data-Engineer-Jobs",
+        "Junior-Data-Infrastructure-Engineer",
+        "Remote-Junior-Data-Engineer",
+        "Entry-Level-Data-Engineer",
+        "Junior-AI-Data-Platform-Engineer",
+        "Junior-Data-Developer",
+        "Data-Engineer-Intern",
+        "Data-Engineering-Intern"
+      ]
+    },
+    {
+      "idFuente": "grafana-labs/principal-technical-marketing-engineer-us-remote",
+      "fuente": "himalayas",
+      "titulo": "Principal Technical Marketing Engineer | US | Remote",
+      "empresa": "Grafana Labs",
+      "url": "https://himalayas.app/companies/grafana-labs/jobs/principal-technical-marketing-engineer-us-remote?utm_source=api",
+      "publicadoEn": 1792953348000,
+      "salarioTexto": "USD 183,858 - 220,630",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Technical-Marketing-Engineer",
+        "Technical-Product-Marketing",
+        "Developer-Advocate",
+        "Solutions-Engineer",
+        "Senior-Technical-Marketing-Manager",
+        "Product-Marketing-Engineer"
+      ]
+    },
+    {
+      "idFuente": "bybit/vip-relationship-manager-korea-3217138016",
+      "fuente": "himalayas",
+      "titulo": "VIP Relationship Manager, Korea",
+      "empresa": "Bybit",
+      "url": "https://himalayas.app/companies/bybit/jobs/vip-relationship-manager-korea-3217138016?utm_source=api",
+      "publicadoEn": 1792953330000,
+      "salarioTexto": null,
+      "ubicacion": "South Korea",
+      "etiquetas": [
+        "Relationship-Manager",
+        "VIP-Relationship-Manager",
+        "Client-Relationship-Manager",
+        "Account-Manager",
+        "VIP-Relations-Manager",
+        "VIP-Account-Manager",
+        "VIP-Relationship-Management"
+      ]
+    },
+    {
+      "idFuente": "grafana-labs/senior-product-marketing-manager-spain-remote",
+      "fuente": "himalayas",
+      "titulo": "Senior Product Marketing Manager  | Spain | Remote",
+      "empresa": "Grafana Labs",
+      "url": "https://himalayas.app/companies/grafana-labs/jobs/senior-product-marketing-manager-spain-remote?utm_source=api",
+      "publicadoEn": 1792953277000,
+      "salarioTexto": "USD 82,988 - 99,586",
+      "ubicacion": "Spain",
+      "etiquetas": [
+        "Product-Marketing-Manager",
+        "Technical-Product-Marketing-Manager",
+        "Solutions-Marketing-Manager",
+        "Senior-Product-Marketing",
+        "Global-Product-Marketing-Manager",
+        "Marketing"
+      ]
+    },
+    {
+      "idFuente": "welo-global/financial-accountant-6025938427",
+      "fuente": "himalayas",
+      "titulo": "Financial Accountant",
+      "empresa": "Welo Global",
+      "url": "https://himalayas.app/companies/welo-global/jobs/financial-accountant-6025938427?utm_source=api",
+      "publicadoEn": 1792953255000,
+      "salarioTexto": null,
+      "ubicacion": "Greece, Italy, Romania",
+      "etiquetas": [
+        "Financial-Accountant",
+        "Financial-Reporting-Accountant",
+        "Accountant",
+        "Accounting-Analyst",
+        "Financial-Accounting"
+      ]
+    },
+    {
+      "idFuente": "cfra/technical-research-analyst-temporary-part-time",
+      "fuente": "himalayas",
+      "titulo": "Technical Research Analyst (Temporary/Part Time)",
+      "empresa": "CFRA",
+      "url": "https://himalayas.app/companies/cfra/jobs/technical-research-analyst-temporary-part-time?utm_source=api",
+      "publicadoEn": 1792953241000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Technical-Research-Specialist",
+        "Market-Research-Analyst",
+        "Investment-Research-Analyst",
+        "Financial-Analyst",
+        "Part-Time-Research-Specialist",
+        "Technical-Analyst",
+        "Research-Analyst",
+        "Technical-Researcher"
+      ]
+    },
+    {
+      "idFuente": "dante/full-stack-engineer",
+      "fuente": "himalayas",
+      "titulo": "Full Stack Engineer",
+      "empresa": "Dante",
+      "url": "https://himalayas.app/companies/dante/jobs/full-stack-engineer?utm_source=api",
+      "publicadoEn": 1792953218000,
+      "salarioTexto": "USD 150,000 - 200,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Full-Stack-Engineering",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Developer",
+        "Full-Stack-Product-Engineer",
+        "Full-Stack-Software-Engineering",
+        "Full-Stack-JavaScript-Engineer",
+        "Full-Stack-Software-Developer"
+      ]
+    },
+    {
+      "idFuente": "cancernavigator/spanish-speaking-oncology-nurse-navigator",
+      "fuente": "himalayas",
+      "titulo": "Spanish Speaking Oncology Nurse Navigator",
+      "empresa": "CancerNavigator",
+      "url": "https://himalayas.app/companies/cancernavigator/jobs/spanish-speaking-oncology-nurse-navigator?utm_source=api",
+      "publicadoEn": 1792953205000,
+      "salarioTexto": "USD 100,000 - 115,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Oncology-Nurse-Navigator",
+        "Nurse-Navigator",
+        "Oncology-Care-Navigator",
+        "Oncology-Nurse",
+        "Registered-Nurse-Navigator",
+        "Oncology-Nurse-Case-Manager",
+        "Oncology-Care-Coordinator"
+      ]
+    },
+    {
+      "idFuente": "applaudo/senior-data-scientist-temporary-contract",
+      "fuente": "himalayas",
+      "titulo": "Senior Data Scientist (Temporary Contract)",
+      "empresa": "Applaudo",
+      "url": "https://himalayas.app/companies/applaudo/jobs/senior-data-scientist-temporary-contract?utm_source=api",
+      "publicadoEn": 1792953158000,
+      "salarioTexto": null,
+      "ubicacion": "Colombia",
+      "etiquetas": [
+        "Data-Scientist",
+        "Data-Science-Engineer",
+        "Machine-Learning-Scientist",
+        "Analytics-Engineer",
+        "Senior-Data-Science",
+        "Senior-Data-Science-Specialist",
+        "Senior-Data-Scientist-III",
+        "Data-Science"
+      ]
+    },
+    {
+      "idFuente": "sentinelone/sr-director-revenue-operations-amer",
+      "fuente": "himalayas",
+      "titulo": "Sr. Director, Revenue Operations - AMER",
+      "empresa": "SentinelOne",
+      "url": "https://himalayas.app/companies/sentinelone/jobs/sr-director-revenue-operations-amer?utm_source=api",
+      "publicadoEn": 1792953047000,
+      "salarioTexto": "USD 198,650 - 298,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Director-of-Revenue-Operations",
+        "Senior-Director-Of-Revenue-Operations",
+        "Head-Of-Revenue-Operations",
+        "Sales-Operations-Director",
+        "Revenue-Operations-Director"
+      ]
+    },
+    {
+      "idFuente": "launchdarkly/revenue-operations-manager-emea",
+      "fuente": "himalayas",
+      "titulo": "Revenue Operations Manager - EMEA",
+      "empresa": "LaunchDarkly",
+      "url": "https://himalayas.app/companies/launchdarkly/jobs/revenue-operations-manager-emea?utm_source=api",
+      "publicadoEn": 1792953043000,
+      "salarioTexto": null,
+      "ubicacion": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "etiquetas": [
+        "Revenue-Operations-Manager",
+        "GTM-Operations-Manager",
+        "Sales-Operations-Manager",
+        "Marketing-Operations-Manager",
+        "Operations-Manager",
+        "Management"
+      ]
+    },
+    {
+      "idFuente": "opendorse/campaign-coordinator-part-time-temporary",
+      "fuente": "himalayas",
+      "titulo": "Campaign Coordinator, Part-Time (Temporary)",
+      "empresa": "Opendorse",
+      "url": "https://himalayas.app/companies/opendorse/jobs/campaign-coordinator-part-time-temporary?utm_source=api",
+      "publicadoEn": 1792953012000,
+      "salarioTexto": "USD 25 - 35",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Campaign-Coordinator",
+        "Marketing-Coordinator",
+        "Social-Media-Coordinator",
+        "Campaign-Associate",
+        "Marketing-Campaign-Coordinator",
+        "Entry-Level-Campaign-Assistant",
+        "Campaign-Management-Associate"
+      ]
+    },
+    {
+      "idFuente": "aecom/senior-instrumentation-controls-engineer-5946985207",
+      "fuente": "himalayas",
+      "titulo": "Senior Instrumentation & Controls Engineer",
+      "empresa": "AECOM",
+      "url": "https://himalayas.app/companies/aecom/jobs/senior-instrumentation-controls-engineer-5946985207?utm_source=api",
+      "publicadoEn": 1792952992000,
+      "salarioTexto": "USD 125,000 - 170,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Instrumentation-And-Controls-Engineer",
+        "Controls-Engineer",
+        "Electrical-Engineer",
+        "Mining-Engineer",
+        "Senior-Instrumentation-Engineer",
+        "Senior-Controls-Engineer",
+        "Instrumentation-Controls-Engineer",
+        "Senior-Control-Engineer",
+        "Senior-Industrial-Automation-Engineer",
+        "Senior-SCADA-Engineer",
+        "Instrumentation-Engineer"
+      ]
+    },
+    {
+      "idFuente": "suppli/product-manager",
+      "fuente": "himalayas",
+      "titulo": "Product Manager",
+      "empresa": "Suppli",
+      "url": "https://himalayas.app/companies/suppli/jobs/product-manager?utm_source=api",
+      "publicadoEn": 1792952925000,
+      "salarioTexto": "USD 180,000 - 220,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Product-Manager",
+        "Technical-Product-Manager",
+        "B2B-Product-Manager",
+        "Product-Management",
+        "Product-Manager-Jobs",
+        "Software-Product-Manager",
+        "Product-Mgmt",
+        "Product"
+      ]
+    },
     {
       "idFuente": "156997",
       "fuente": "jobicy",
@@ -3116,275 +3544,6 @@
         "Software Engineering",
         "Senior"
       ]
-    },
-    {
-      "idFuente": "156944",
-      "fuente": "jobicy",
-      "titulo": "AWS Gaming GTM Segment Lead",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156944-aws-gaming-gtm-segment-lead",
-      "publicadoEn": 1792925107000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Business Development",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "156941",
-      "fuente": "jobicy",
-      "titulo": "Senior Data Analyst - Marketing",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156941-senior-data-analyst-marketing",
-      "publicadoEn": 1792925107000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "156943",
-      "fuente": "jobicy",
-      "titulo": "Product Manager - Realtime",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
-      "publicadoEn": 1792925106000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Product & Operations",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "156942",
-      "fuente": "jobicy",
-      "titulo": "Technical Account Management (TAM) Leader",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/156942-technical-account-management-tam-leader",
-      "publicadoEn": 1792925106000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Customer Support & Success",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "156927",
-      "fuente": "jobicy",
-      "titulo": "Product Marketing Manager, AI Governance (EMEA)",
-      "empresa": "Kong Inc.",
-      "url": "https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea",
-      "publicadoEn": 1792924681000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "156925",
-      "fuente": "jobicy",
-      "titulo": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
-      "empresa": "Kong Inc.",
-      "url": "https://jobicy.com/jobs/156925-senior-technical-product-marketing-manager-agent-identity-auth-emea",
-      "publicadoEn": 1792924681000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "156913",
-      "fuente": "jobicy",
-      "titulo": "DevOps Engineer | Live Entertainment Company",
-      "empresa": "GT",
-      "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
-      "publicadoEn": 1792924626000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "planetscale-software-engineer-planetscale-postgres",
-      "fuente": "weworkremotely",
-      "titulo": "Software Engineer - PlanetScale Postgres",
-      "empresa": "PlanetScale",
-      "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-      "publicadoEn": 1792913454000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "keeper-security-bilingual-channel-sales-engineer-french-emea",
-      "fuente": "weworkremotely",
-      "titulo": "Bilingual Channel Sales Engineer, French (EMEA)",
-      "empresa": "Keeper Security",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-sales-engineer-french-emea",
-      "publicadoEn": 1792913454000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "planetscale-ai-developer-experience-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "AI Developer Experience Engineer",
-      "empresa": "PlanetScale",
-      "url": "https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer",
-      "publicadoEn": 1792913446000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "154022",
-      "fuente": "jobicy",
-      "titulo": "Full-Stack Engineer",
-      "empresa": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
-      "publicadoEn": 1792901712000,
-      "salarioTexto": null,
-      "ubicacion": "Bulgaria, Germany, Ireland, Netherlands, Poland, Spain, UK, USA",
-      "etiquetas": [
-        "Software Engineering",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "149520",
-      "fuente": "jobicy",
-      "titulo": "Junior Linux Kernel Engineer - Ubuntu",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
-      "publicadoEn": 1792901704000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Software Engineering",
-        "Entry-Level, Junior"
-      ]
-    },
-    {
-      "idFuente": "keeper-security-communications-intern",
-      "fuente": "weworkremotely",
-      "titulo": "Communications Intern",
-      "empresa": "Keeper Security",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-communications-intern",
-      "publicadoEn": 1792913462000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "gemini-lead-technical-compliance",
-      "fuente": "weworkremotely",
-      "titulo": "Lead, Technical Compliance",
-      "empresa": "Gemini",
-      "url": "https://weworkremotely.com/remote-jobs/gemini-lead-technical-compliance",
-      "publicadoEn": 1792913454000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "databricks-enterprise-account-executive-federal-civilian",
-      "fuente": "weworkremotely",
-      "titulo": "Enterprise Account Executive, Federal Civilian",
-      "empresa": "Databricks",
-      "url": "https://weworkremotely.com/remote-jobs/databricks-enterprise-account-executive-federal-civilian",
-      "publicadoEn": 1792913454000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "talkspace-clinical-quality-specialist",
-      "fuente": "weworkremotely",
-      "titulo": "Clinical Quality Specialist",
-      "empresa": "Talkspace",
-      "url": "https://weworkremotely.com/remote-jobs/talkspace-clinical-quality-specialist",
-      "publicadoEn": 1792913454000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "6sense-senior-advertising-account-executive",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Advertising Account Executive",
-      "empresa": "6sense",
-      "url": "https://weworkremotely.com/remote-jobs/6sense-senior-advertising-account-executive",
-      "publicadoEn": 1792913454000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "tebra-senior-software-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Software Engineer",
-      "empresa": "Tebra",
-      "url": "https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
-      "publicadoEn": 1792913448000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "samsara-account-executive-commercial-west",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive, Commercial ( West)",
-      "empresa": "Samsara",
-      "url": "https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial-west",
-      "publicadoEn": 1792913448000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "talkspace-client-support-supervisor",
-      "fuente": "weworkremotely",
-      "titulo": "Client Support Supervisor",
-      "empresa": "Talkspace",
-      "url": "https://weworkremotely.com/remote-jobs/talkspace-client-support-supervisor",
-      "publicadoEn": 1792913446000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -3424,13 +3583,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 8019,
-      "remotive": 1154,
-      "weworkremotely": 7110,
-      "himalayas": 1620,
-      "jobicy": 3600
+      "remoteok": 8118,
+      "remotive": 1164,
+      "weworkremotely": 7205,
+      "himalayas": 1640,
+      "jobicy": 3650
     },
-    "duplicadosDescartados": 18935,
-    "ultimaEjecucion": "2026-10-25T16:15:50.935Z"
+    "duplicadosDescartados": 19189,
+    "ultimaEjecucion": "2026-10-25T20:49:26.426Z"
   }
 }
