@@ -2463,9 +2463,481 @@
     "zscaler::sales account executive majors",
     "synthesia::senior engineering manager",
     "synthesia::staff research scientist interactive avatars",
-    "synthesia::product designer ai native products staff level l6"
+    "synthesia::product designer ai native products staff level l6",
+    "onebrief::solutions engineer",
+    "coenterprise llc::director of marketing",
+    "icf::data scientist remote usa",
+    "taraki::sales development assistant navigator hr",
+    "renew capital::sr financial analyst",
+    "cadence travel::business travel specialist",
+    "mitchell whale insurance brokers::account manager personal lines client care",
+    "posigen::inside sales representative work from home in new jersey",
+    "exoscale::site reliability engineer observability and databases f m d",
+    "photon interactive uk limited::business analyst mid offshore",
+    "appficiency inc::human resources business partner",
+    "healthedge::project coordinator",
+    "pc caddie ag::support kundenbetreuung m w d",
+    "castelion corporation::energetics safety manager",
+    "talent insider::creative content video trainer freelance",
+    "crawford company::high net worth loss adjuster",
+    "entrata::risk underwriting specialist ii",
+    "axiscare home care software::product manager",
+    "teya::customer relations agent hungarian english speaker",
+    "red nucleus::director business development value and access",
+    "optimal dynamics::talent community"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "1137568",
+      "fuente": "remoteok",
+      "titulo": "Solutions Engineer",
+      "empresa": "Onebrief",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+      "publicadoEn": 1792800002000,
+      "salarioTexto": "$180,000 - $220,000",
+      "ubicacion": null,
+      "etiquetas": [
+        "design",
+        "ansible",
+        "grafana",
+        "sys admin",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "travel",
+        "finance",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "coenterprise-llc/director-of-marketing",
+      "fuente": "himalayas",
+      "titulo": "Director of Marketing",
+      "empresa": "CoEnterprise, LLC",
+      "url": "https://himalayas.app/companies/coenterprise-llc/jobs/director-of-marketing?utm_source=api",
+      "publicadoEn": 1792896308000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Marketing-Director",
+        "B2B-Marketing-Director",
+        "Demand-Generation-Director",
+        "Director-Of-Marketing-Communications",
+        "Director-Of-Brand-Marketing",
+        "Director-Of-Marketing-And-Communications"
+      ]
+    },
+    {
+      "idFuente": "icf/data-scientist-remote-usa",
+      "fuente": "himalayas",
+      "titulo": "Data Scientist - Remote USA",
+      "empresa": "ICF",
+      "url": "https://himalayas.app/companies/icf/jobs/data-scientist-remote-usa?utm_source=api",
+      "publicadoEn": 1792896263000,
+      "salarioTexto": "USD 81,499 - 138,549",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Data-Scientist",
+        "Junior-Data-Scientist",
+        "Data-Analyst",
+        "Business-Intelligence-Analyst",
+        "Machine-Learning-Engineer",
+        "Remote-Data-Scientist",
+        "Remote-Data-Science",
+        "Remote-Junior-Data-Scientist",
+        "Data-Science"
+      ]
+    },
+    {
+      "idFuente": "taraki/sales-development-assistant-navigator-hr",
+      "fuente": "himalayas",
+      "titulo": "Sales Development Assistant - Navigator HR",
+      "empresa": "Taraki",
+      "url": "https://himalayas.app/companies/taraki/jobs/sales-development-assistant-navigator-hr?utm_source=api",
+      "publicadoEn": 1792896263000,
+      "salarioTexto": null,
+      "ubicacion": "Pakistan",
+      "etiquetas": [
+        "Sales-Development-Representative",
+        "Sales-Development-Assistant",
+        "Lead-Generation-Specialist",
+        "B2B-Sales-Specialist",
+        "Sales-Development-Associate",
+        "Business-Development-Assistant",
+        "Sales-Development-Specialist",
+        "Sales-Development"
+      ]
+    },
+    {
+      "idFuente": "renew-capital/sr-financial-analyst-3592406064",
+      "fuente": "himalayas",
+      "titulo": "Sr. Financial Analyst",
+      "empresa": "Renew Capital",
+      "url": "https://himalayas.app/companies/renew-capital/jobs/sr-financial-analyst-3592406064?utm_source=api",
+      "publicadoEn": 1792896255000,
+      "salarioTexto": null,
+      "ubicacion": "Morocco",
+      "etiquetas": [
+        "Financial-Analyst",
+        "Investment-Analyst",
+        "Private-Equity-Analyst",
+        "Venture-Capital-Analyst",
+        "Senior-Finance-Analyst",
+        "Senior-FP&A-Analyst",
+        "Senior-Financial-Planning-And-Analysis-Analyst",
+        "Senior-Operations-Finance-Analyst",
+        "Senior-Financial-Analyst-–-Revenue"
+      ]
+    },
+    {
+      "idFuente": "cadence-travel/business-travel-specialist",
+      "fuente": "himalayas",
+      "titulo": "Business Travel Specialist",
+      "empresa": "Cadence Travel",
+      "url": "https://himalayas.app/companies/cadence-travel/jobs/business-travel-specialist?utm_source=api",
+      "publicadoEn": 1792896240000,
+      "salarioTexto": "USD 32 - 38",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Business-Travel-Specialist",
+        "Travel-Consultant",
+        "Travel-Coordinator",
+        "Corporate-Travel-Agent",
+        "Executive-Travel-Assistant",
+        "Corporate-Travel-Specialist",
+        "Business-Travel-Consultant",
+        "Business-Travel-Advisor",
+        "Travel-Specialist",
+        "Corporate-Travel-Consultant",
+        "VIP-Corporate-Travel-Consultant"
+      ]
+    },
+    {
+      "idFuente": "mitchell-whale-insurance-brokers/account-manager-personal-lines-client-care",
+      "fuente": "himalayas",
+      "titulo": "Account Manager, Personal Lines Client Care",
+      "empresa": "Mitchell & Whale Insurance Brokers",
+      "url": "https://himalayas.app/companies/mitchell-whale-insurance-brokers/jobs/account-manager-personal-lines-client-care?utm_source=api",
+      "publicadoEn": 1792896228000,
+      "salarioTexto": "USD 54,000 - 64,000",
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Account-Manager",
+        "Insurance-Account-Manager",
+        "Personal-Lines-Account-Manager",
+        "Customer-Service",
+        "Personal-Lines-Client-Care",
+        "Client-Services-Account-Manager",
+        "Insurance-Client-Manager"
+      ]
+    },
+    {
+      "idFuente": "posigen/inside-sales-representative-work-from-home-in-new-jersey",
+      "fuente": "himalayas",
+      "titulo": "Inside Sales Representative - Work from Home in New Jersey",
+      "empresa": "PosiGen",
+      "url": "https://himalayas.app/companies/posigen/jobs/inside-sales-representative-work-from-home-in-new-jersey?utm_source=api",
+      "publicadoEn": 1792896209000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Inside-Sales-Representative",
+        "Sales",
+        "Customer-Service",
+        "Renewable-Energy-Specialist",
+        "Remote-Inside-Sales",
+        "Inside-Sales-Professional",
+        "Inside-Sales-Associate",
+        "Remote-Sales-Representative",
+        "Remote-Entry-Level-Sales-Representative",
+        "Inside-Sales"
+      ]
+    },
+    {
+      "idFuente": "exoscale/site-reliability-engineer-observability-and-databases-f-m-d",
+      "fuente": "himalayas",
+      "titulo": "Site Reliability Engineer - Observability and Databases (f/m/d)",
+      "empresa": "Exoscale",
+      "url": "https://himalayas.app/companies/exoscale/jobs/site-reliability-engineer-observability-and-databases-f-m-d?utm_source=api",
+      "publicadoEn": 1792896187000,
+      "salarioTexto": null,
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Site-Reliability-Engineer",
+        "Reliability-Engineer",
+        "Cloud-Engineer",
+        "DevOps-Engineer",
+        "Platform-Engineer",
+        "Database-Site-Reliability-Engineer",
+        "Site-Reliability-Engineer-II",
+        "Site-Reliability-Operations-Engineer",
+        "Database-Reliability-Engineer",
+        "Monitoring-And-Observability-Engineer"
+      ]
+    },
+    {
+      "idFuente": "photon-interactive-uk-limited/business-analyst-mid-offshore",
+      "fuente": "himalayas",
+      "titulo": "Business Analyst(Mid) | Offshore",
+      "empresa": "Photon Interactive UK Limited",
+      "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/business-analyst-mid-offshore?utm_source=api",
+      "publicadoEn": 1792896187000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Business-Analyst",
+        "Requirements-Analyst",
+        "Business-Process-Analyst",
+        "HR-Business-Analyst",
+        "Sap-Business-Analyst",
+        "Mid-Level-Business-Analyst",
+        "Remote-Business-Analyst",
+        "Mid-Level-Business-Analysis-Consultant",
+        "Mid-Level-Business-Process-Analyst"
+      ]
+    },
+    {
+      "idFuente": "appficiency-inc/human-resources-business-partner-9988990393",
+      "fuente": "himalayas",
+      "titulo": "Human Resources Business Partner",
+      "empresa": "Appficiency Inc.",
+      "url": "https://himalayas.app/companies/appficiency-inc/jobs/human-resources-business-partner-9988990393?utm_source=api",
+      "publicadoEn": 1792896186000,
+      "salarioTexto": "USD 60,000 - 80,000",
+      "ubicacion": "Japan",
+      "etiquetas": [
+        "HR-Business-Partner",
+        "Strategic-HR-Partner",
+        "Senior-HR-Business-Partner"
+      ]
+    },
+    {
+      "idFuente": "healthedge/project-coordinator",
+      "fuente": "himalayas",
+      "titulo": "Project Coordinator",
+      "empresa": "HealthEdge",
+      "url": "https://himalayas.app/companies/healthedge/jobs/project-coordinator?utm_source=api",
+      "publicadoEn": 1792896145000,
+      "salarioTexto": "USD 62,000 - 65,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Project-Coordinator",
+        "Project-Assistant",
+        "Program-Coordinator",
+        "Delivery-Coordinator",
+        "Project-Management-Coordinator",
+        "Project-Coordinating-Manager",
+        "Project-Support-Coordinator",
+        "Construction-Project-Coordinator",
+        "Technical-Project-Coordinator",
+        "Agency-Project-Coordinator"
+      ]
+    },
+    {
+      "idFuente": "pc-caddie-ag/support-kundenbetreuung-m-w-d",
+      "fuente": "himalayas",
+      "titulo": "Support & Kundenbetreuung (m/w/d)",
+      "empresa": "PC CADDIE AG",
+      "url": "https://himalayas.app/companies/pc-caddie-ag/jobs/support-kundenbetreuung-m-w-d?utm_source=api",
+      "publicadoEn": 1792896118000,
+      "salarioTexto": null,
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Customer-Support-Specialist",
+        "Technical-Support-Specialist",
+        "Support-Specialist",
+        "Sachbearbeiter-Kundenbetreuung",
+        "Kundensupport-Spezialist",
+        "Bilingual-German-English-Customer-Support-Specialist",
+        "Remote-German-Customer-Support-Specialist",
+        "Kundenbetreuung",
+        "Kundenservice-Mitarbeiter",
+        "Kundensupport",
+        "Remote-Swiss-German-Customer-Support-Specialist",
+        "Customer-Service"
+      ]
+    },
+    {
+      "idFuente": "castelion-corporation/energetics-safety-manager",
+      "fuente": "himalayas",
+      "titulo": "Energetics Safety Manager",
+      "empresa": "Castelion Corporation",
+      "url": "https://himalayas.app/companies/castelion-corporation/jobs/energetics-safety-manager?utm_source=api",
+      "publicadoEn": 1792896107000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Safety-Manager",
+        "Energetics-Safety-Manager",
+        "Explosives-Safety-Manager",
+        "EHS-Manager",
+        "Occupational-Safety-Manager",
+        "Technical-Safety-Manager",
+        "Process-Safety-Manager"
+      ]
+    },
+    {
+      "idFuente": "talent-insider/creative-content-video-trainer-freelance",
+      "fuente": "himalayas",
+      "titulo": "Creative Content Video Trainer (Freelance)",
+      "empresa": "Talent Insider",
+      "url": "https://himalayas.app/companies/talent-insider/jobs/creative-content-video-trainer-freelance?utm_source=api",
+      "publicadoEn": 1792896098000,
+      "salarioTexto": null,
+      "ubicacion": "Indonesia",
+      "etiquetas": [
+        "Creative-Content-Video-Trainer",
+        "Video-Editor",
+        "Videographer",
+        "Instructional-Designer",
+        "Corporate-Trainer",
+        "Training-Content-Developer",
+        "Freelance-Video-Creator",
+        "Training-Content-Designer",
+        "Video-Content-Creator",
+        "Video-Content-Specialist",
+        "Creative-Content-Producer",
+        "Creative-Content-Specialist",
+        "Freelance-Content-Creator",
+        "Video-Content-Producer",
+        "Content-Creator"
+      ]
+    },
+    {
+      "idFuente": "crawford-company/high-net-worth-loss-adjuster",
+      "fuente": "himalayas",
+      "titulo": "High Net Worth Loss Adjuster",
+      "empresa": "Crawford & Company",
+      "url": "https://himalayas.app/companies/crawford-company/jobs/high-net-worth-loss-adjuster?utm_source=api",
+      "publicadoEn": 1792896091000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Loss-Adjuster",
+        "Property-Claims-Adjuster",
+        "High-Net-Worth-Claims",
+        "Commercial-Claims-Adjuster",
+        "Insurance-Claims-Adjuster",
+        "High-Net-Worth-Insurance",
+        "Large-Loss-Claims-Adjuster",
+        "Major-Loss-Adjuster",
+        "Insurance-Loss-Adjuster",
+        "Complex-Property-Claims-Adjuster",
+        "Property-Damage-Adjuster"
+      ]
+    },
+    {
+      "idFuente": "entrata/risk-underwriting-specialist-ii",
+      "fuente": "himalayas",
+      "titulo": "Risk & Underwriting Specialist II",
+      "empresa": "Entrata",
+      "url": "https://himalayas.app/companies/entrata/jobs/risk-underwriting-specialist-ii?utm_source=api",
+      "publicadoEn": 1792896091000,
+      "salarioTexto": "USD 23.13 - 36.92",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Risk-and-Underwriting",
+        "Underwriting-Specialist",
+        "Risk-Management-Specialist",
+        "Payment-Operations-Specialist",
+        "Payments-Compliance-Specialist",
+        "Insurance-Underwriter-II",
+        "Commercial-Lines-Underwriter-II",
+        "Risk-Management-Underwriter",
+        "Insurance-Underwriting-Specialist"
+      ]
+    },
+    {
+      "idFuente": "axiscare-home-care-software/product-manager",
+      "fuente": "himalayas",
+      "titulo": "Product Manager",
+      "empresa": "AxisCare Home Care Software",
+      "url": "https://himalayas.app/companies/axiscare-home-care-software/jobs/product-manager?utm_source=api",
+      "publicadoEn": 1792896086000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Product-Manager",
+        "Product-Owner",
+        "SaaS-Product-Manager",
+        "Product-Management",
+        "Product-Manager-Jobs",
+        "Software-Product-Manager",
+        "Product-Product-Management",
+        "Product-Mgmt",
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "teya/customer-relations-agent-hungarian-english-speaker-7276519104",
+      "fuente": "himalayas",
+      "titulo": "Customer Relations Agent (Hungarian/English Speaker)",
+      "empresa": "Teya",
+      "url": "https://himalayas.app/companies/teya/jobs/customer-relations-agent-hungarian-english-speaker-7276519104?utm_source=api",
+      "publicadoEn": 1792896075000,
+      "salarioTexto": null,
+      "ubicacion": "Hungary",
+      "etiquetas": [
+        "Hungarian-Customer-Service-Representative",
+        "Hungarian-Speaking-Customer-Support-Representative",
+        "Customer-Service"
+      ]
+    },
+    {
+      "idFuente": "red-nucleus/director-business-development-value-and-access-5877155841",
+      "fuente": "himalayas",
+      "titulo": "Director Business Development, Value and Access",
+      "empresa": "Red Nucleus",
+      "url": "https://himalayas.app/companies/red-nucleus/jobs/director-business-development-value-and-access-5877155841?utm_source=api",
+      "publicadoEn": 1792896065000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Director-of-Business-Development",
+        "Business-Development-Director",
+        "Sales-Director",
+        "Market-Access-Director",
+        "Director-Business-Development",
+        "Director-Of-Market-Access",
+        "Director-Of-Business-Value-Strategy"
+      ]
+    },
+    {
+      "idFuente": "optimal-dynamics/talent-community",
+      "fuente": "himalayas",
+      "titulo": "Talent Community",
+      "empresa": "Optimal Dynamics",
+      "url": "https://himalayas.app/companies/optimal-dynamics/jobs/talent-community?utm_source=api",
+      "publicadoEn": 1792896042000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Talent-Community",
+        "Open-Applications",
+        "General-Applications",
+        "Future-Opportunities",
+        "Talent-Pool",
+        "Talent-Community-Talent-Pool",
+        "Talent-and-Communities",
+        "Tech-Talent-Community",
+        "IT-Talent-Community",
+        "Niche-Talent-Community",
+        "Talent-Network"
+      ]
+    },
     {
       "idFuente": "1137563",
       "fuente": "remoteok",
@@ -3021,420 +3493,6 @@
         "Business-Development-LATAM",
         "International-Business-Development-Manager"
       ]
-    },
-    {
-      "idFuente": "green-ocean-property-management/senior-recruiter-3153830167",
-      "fuente": "himalayas",
-      "titulo": "Senior Recruiter",
-      "empresa": "Green Ocean Property Management",
-      "url": "https://himalayas.app/companies/green-ocean-property-management/jobs/senior-recruiter-3153830167?utm_source=api",
-      "publicadoEn": 1792852991000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Senior-Recruiter",
-        "Recruiter",
-        "Talent-Acquisition-Specialist",
-        "HR-Recruiter",
-        "Technical-Recruiter",
-        "Senior-Candidate-Recruiter",
-        "Senior-Corporate-Recruiter"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/psychiatric-nurse-practitioner-pmhnp-bc-woburn-ma",
-      "fuente": "himalayas",
-      "titulo": "Psychiatric Nurse Practitioner (PMHNP-BC) - Woburn, MA",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/psychiatric-nurse-practitioner-pmhnp-bc-woburn-ma?utm_source=api",
-      "publicadoEn": 1792852965000,
-      "salarioTexto": "USD 135,000 - 160,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Psychiatric-Nurse-Practitioner",
-        "Psychiatric-NP",
-        "Behavioral-Health-Nurse-Practitioner",
-        "Mental-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-NP",
-        "Psychiatric-Mental-Health-Nurse-Practitioner-(PMHNP-BC)",
-        "Outpatient-Psychiatric-NP"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/psychiatric-nurse-practitioner-pmhnp-bc-pueblo-co",
-      "fuente": "himalayas",
-      "titulo": "Psychiatric Nurse Practitioner (PMHNP-BC) - Pueblo, CO",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/psychiatric-nurse-practitioner-pmhnp-bc-pueblo-co?utm_source=api",
-      "publicadoEn": 1792852965000,
-      "salarioTexto": "USD 115,000 - 135,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Psychiatric-Nurse-Practitioner",
-        "Mental-Health-Nurse-Practitioner",
-        "Remote-Psychiatric-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-Nurse-Practitioner",
-        "Psychiatric-Mental-Health-NP",
-        "Psychiatric-Mental-Health-Nurse-Practitioner-(PMHNP-BC)",
-        "Behavioral-Health-Nurse-Practitioner",
-        "Psychiatric-NP",
-        "Outpatient-Psychiatric-NP"
-      ]
-    },
-    {
-      "idFuente": "letuelezioni/insegnante-per-ripetizioni-di-statistica-scuole-superiori",
-      "fuente": "himalayas",
-      "titulo": "Insegnante per Ripetizioni di Statistica - Scuole Superiori",
-      "empresa": "LeTueLezioni",
-      "url": "https://himalayas.app/companies/letuelezioni/jobs/insegnante-per-ripetizioni-di-statistica-scuole-superiori?utm_source=api",
-      "publicadoEn": 1792852951000,
-      "salarioTexto": "USD 18 - 36",
-      "ubicacion": "Italy",
-      "etiquetas": [
-        "Statistics-Teaching",
-        "Private-Tutor",
-        "Mathematics-Teacher",
-        "Tutor",
-        "Statistics-Instructor",
-        "Statistics-Tutor",
-        "Enseñanza-De-Estadística",
-        "Statistics-Tutoring"
-      ]
-    },
-    {
-      "idFuente": "optimindhealth/licensed-mental-health-professional-lpc-lmft-lcsw-lmhc-warner-robins-ga",
-      "fuente": "himalayas",
-      "titulo": "Licensed Mental Health Professional (LPC/LMFT/LCSW/LMHC) - Warner Robins, GA",
-      "empresa": "OptiMindHealth",
-      "url": "https://himalayas.app/companies/optimindhealth/jobs/licensed-mental-health-professional-lpc-lmft-lcsw-lmhc-warner-robins-ga?utm_source=api",
-      "publicadoEn": 1792852931000,
-      "salarioTexto": "USD 45,000 - 65,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Mental-Health-Professional",
-        "Licensed-Professional-Counselor",
-        "Licensed-Marriage-And-Family-Therapist",
-        "Licensed-Clinical-Social-Worker",
-        "Psychotherapist",
-        "Licensed-Mental-Health-Counselor",
-        "Licensed-Clinical-Mental-Health-Counselor",
-        "Licensed-Mental-Health-Therapist",
-        "Licensed-Mental-Health-Professional",
-        "Licensed-Mental-Health-Clinician",
-        "Licensed-Clinical-Mental-Health-Clinician",
-        "Licensed-Professional-Counselor-(LPC)",
-        "Licensed-Mental-Health-Counselor-(LMHC)",
-        "Licensed-Mental-Health-Provider",
-        "Licensed-Professional-Clinical-Counselor"
-      ]
-    },
-    {
-      "idFuente": "cardinal-education/account-executive-education-926607317",
-      "fuente": "himalayas",
-      "titulo": "Account Executive (Education)",
-      "empresa": "Cardinal Education",
-      "url": "https://himalayas.app/companies/cardinal-education/jobs/account-executive-education-926607317?utm_source=api",
-      "publicadoEn": 1792852920000,
-      "salarioTexto": "USD 80,000 - 120,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Account-Executive",
-        "Educational-Sales-Consultant",
-        "Sales-Consultant",
-        "Admissions-Sales-Consultant",
-        "Educational-Account-Executive",
-        "EdTech-Account-Executive",
-        "Education-Sales-Executive",
-        "K12-Enterprise-Account-Executive",
-        "Enterprise-Account-Executive",
-        "Education-Sales-Representative",
-        "Sales"
-      ]
-    },
-    {
-      "idFuente": "flatgigs/senior-devops-engineer-mlops-focus",
-      "fuente": "himalayas",
-      "titulo": "Senior DevOps Engineer (MLOps Focus)",
-      "empresa": "Flatgigs",
-      "url": "https://himalayas.app/companies/flatgigs/jobs/senior-devops-engineer-mlops-focus?utm_source=api",
-      "publicadoEn": 1792852906000,
-      "salarioTexto": null,
-      "ubicacion": "Pakistan",
-      "etiquetas": [
-        "DevOps-Engineer",
-        "MLOps-Engineer",
-        "Site-Reliability-Engineer",
-        "Cloud-Infrastructure-Engineer",
-        "Cloud-Security-Engineer",
-        "Senior-MLOps-Engineer",
-        "Senior-DevOps-Engineer-AI-ML",
-        "Senior-DevOps-Platform-Engineer",
-        "Senior-DevOps",
-        "Senior-AWS-DevOps-Engineer"
-      ]
-    },
-    {
-      "idFuente": "thirdbridge/directeur-trice-de-comptes",
-      "fuente": "himalayas",
-      "titulo": "Directeur.trice de comptes",
-      "empresa": "Thirdbridge",
-      "url": "https://himalayas.app/companies/thirdbridge/jobs/directeur-trice-de-comptes?utm_source=api",
-      "publicadoEn": 1792852906000,
-      "salarioTexto": null,
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "Account-Director",
-        "Sales-Director",
-        "Account-Manager",
-        "Business-Development-Director",
-        "Directeur-De-Comptes",
-        "Director-Of-Accounts"
-      ]
-    },
-    {
-      "idFuente": "svetness-personal-training/trainer-interview-onboarding-specialist-internal",
-      "fuente": "himalayas",
-      "titulo": "Trainer Interview & Onboarding Specialist (Internal)",
-      "empresa": "Svetness Personal Training",
-      "url": "https://himalayas.app/companies/svetness-personal-training/jobs/trainer-interview-onboarding-specialist-internal?utm_source=api",
-      "publicadoEn": 1792852890000,
-      "salarioTexto": "USD 13 - 13",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Onboarding-Specialist",
-        "Talent-Acquisition-Specialist",
-        "Human-Resources-Specialist",
-        "Client-Onboarding-And-Training-Specialist",
-        "Employee-Training-Specialist",
-        "HR-Training-Specialist",
-        "Employee-Onboarding-Specialist",
-        "New-Hire-Onboarding-Specialist",
-        "HR-Onboarding-Specialist"
-      ]
-    },
-    {
-      "idFuente": "zeiss-group/business-development-specialist-sms",
-      "fuente": "himalayas",
-      "titulo": "Business Development Specialist - SMS",
-      "empresa": "ZEISS Group",
-      "url": "https://himalayas.app/companies/zeiss-group/jobs/business-development-specialist-sms?utm_source=api",
-      "publicadoEn": 1792852875000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Business-Development-Specialist",
-        "Business-Development-Representative",
-        "Business-Development-Engineer",
-        "Semiconductor-Sales-Specialist",
-        "SMS-Marketing-Specialist",
-        "Business-Development-Professional",
-        "Business-Developer",
-        "Business-Development",
-        "Sales"
-      ]
-    },
-    {
-      "idFuente": "myanma-posts-and-telecommunications/human-resource-deputy-manager-employee-relations",
-      "fuente": "himalayas",
-      "titulo": "Human Resource Deputy Manager (Employee Relations)",
-      "empresa": "Myanma Posts and Telecommunications",
-      "url": "https://himalayas.app/companies/myanma-posts-and-telecommunications/jobs/human-resource-deputy-manager-employee-relations?utm_source=api",
-      "publicadoEn": 1792852875000,
-      "salarioTexto": null,
-      "ubicacion": "Myanmar",
-      "etiquetas": [
-        "HR-Manager",
-        "Employee-Relations-Manager",
-        "Deputy-Human-Resources-Manager",
-        "HR-Business-Partner",
-        "HR-Assistant-Manager",
-        "Labour-Relations-Manager",
-        "Assistant-Manager-HR"
-      ]
-    },
-    {
-      "idFuente": "united-biosource-corporation/clinical-project-research-manager-eds-rwe-nis",
-      "fuente": "himalayas",
-      "titulo": "Clinical Project Research Manager - EDS/RWE/NIS",
-      "empresa": "United-Biosource-Corporation",
-      "url": "https://himalayas.app/companies/united-biosource-corporation/jobs/clinical-project-research-manager-eds-rwe-nis?utm_source=api",
-      "publicadoEn": 1792852870000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Clinical-Project-Manager",
-        "Clinical-Research-Manager",
-        "Project-Manager",
-        "Research-Project-Manager",
-        "Clinical-Trial-Manager",
-        "Clinical-Research-Project-Manager"
-      ]
-    },
-    {
-      "idFuente": "phoenixteam/java-full-stack-engineer-5938034162",
-      "fuente": "himalayas",
-      "titulo": "Java/Full Stack Engineer",
-      "empresa": "PhoenixTeam",
-      "url": "https://himalayas.app/companies/phoenixteam/jobs/java-full-stack-engineer-5938034162?utm_source=api",
-      "publicadoEn": 1792852855000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Java-Developer",
-        "Full-Stack-Engineer",
-        "Software-Engineer",
-        "Backend-Engineer",
-        "Frontend-Engineer",
-        "Senior-Full-Stack-Java-Developer",
-        "Senior-Java-Full-Stack-Developer",
-        "Senior-Full-Stack-Engineer-(Java-+-Cloud)",
-        "Senior-Full-Stack-Engineer-(Java-+-DevOps)"
-      ]
-    },
-    {
-      "idFuente": "recare-deutschland-gmbh/founders-associate-ceo-office-m-w-d",
-      "fuente": "himalayas",
-      "titulo": "Founders Associate – CEO Office (m/w/d)",
-      "empresa": "Recare Deutschland GmbH",
-      "url": "https://himalayas.app/companies/recare-deutschland-gmbh/jobs/founders-associate-ceo-office-m-w-d?utm_source=api",
-      "publicadoEn": 1792852846000,
-      "salarioTexto": null,
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Founder's-Associate",
-        "Executive-Assistant",
-        "Chief-of-Staff",
-        "Business-Operations-Associate",
-        "Project-Manager",
-        "Founders-Associate",
-        "Founder-Associate",
-        "Startup-Operations-Associate",
-        "Founder’S-Office"
-      ]
-    },
-    {
-      "idFuente": "virtuozzo/territory-manager-benelux-nordics-290002713",
-      "fuente": "himalayas",
-      "titulo": "Territory Manager – Benelux & Nordics",
-      "empresa": "Virtuozzo",
-      "url": "https://himalayas.app/companies/virtuozzo/jobs/territory-manager-benelux-nordics-290002713?utm_source=api",
-      "publicadoEn": 1792852845000,
-      "salarioTexto": null,
-      "ubicacion": "Netherlands",
-      "etiquetas": [
-        "Territory-Manager",
-        "Territory-Sales-Manager",
-        "Account-Executive",
-        "Business-Development-Manager",
-        "Channel-Sales-Manager"
-      ]
-    },
-    {
-      "idFuente": "tunymedia-gmbh/eventmanager-in-m-w-d-fur-quereinstieg",
-      "fuente": "himalayas",
-      "titulo": "Eventmanager/in (m/w/d) für Quereinstieg",
-      "empresa": "Tunymedia GmbH",
-      "url": "https://himalayas.app/companies/tunymedia-gmbh/jobs/eventmanager-in-m-w-d-fur-quereinstieg?utm_source=api",
-      "publicadoEn": 1792852844000,
-      "salarioTexto": null,
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Event-Manager",
-        "Call-Center-Team-Leader",
-        "Customer-Service-Lead",
-        "Sales-Team-Leader",
-        "Marketing-Events-Manager",
-        "Event-Marketing-Manager",
-        "Marketing-Event-Manager",
-        "Events-Project-Manager"
-      ]
-    },
-    {
-      "idFuente": "bitsight/account-executive-german-speaking",
-      "fuente": "himalayas",
-      "titulo": "Account Executive, German Speaking",
-      "empresa": "Bitsight",
-      "url": "https://himalayas.app/companies/bitsight/jobs/account-executive-german-speaking?utm_source=api",
-      "publicadoEn": 1792852835000,
-      "salarioTexto": "USD 40,100 - 75,000",
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Account-Executive",
-        "Enterprise-Account-Executive",
-        "Technology-Sales-Representative",
-        "German-Speaking-Account-Executive",
-        "Account-Executive-Europe",
-        "Account-Executive-EMEA",
-        "International-Account-Executive",
-        "Global-Account-Executive",
-        "Sales"
-      ]
-    },
-    {
-      "idFuente": "wilson-sonsini-goodrich-rosati/it-communications-and-vendor-specialist",
-      "fuente": "himalayas",
-      "titulo": "IT Communications and Vendor Specialist",
-      "empresa": "Wilson Sonsini Goodrich & Rosati",
-      "url": "https://himalayas.app/companies/wilson-sonsini-goodrich-rosati/jobs/it-communications-and-vendor-specialist?utm_source=api",
-      "publicadoEn": 1792852834000,
-      "salarioTexto": "USD 26.97 - 40.36",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "IT-Communications-Specialist",
-        "Communications-Specialist",
-        "IT-Vendor-Manager",
-        "Vendor-Management-Specialist",
-        "Vendor-Relations-Specialist",
-        "IT-Communications",
-        "IT-Vendor-Relations"
-      ]
-    },
-    {
-      "idFuente": "cyclomedia/account-director-transportation-sales",
-      "fuente": "himalayas",
-      "titulo": "Account Director - Transportation Sales",
-      "empresa": "Cyclomedia",
-      "url": "https://himalayas.app/companies/cyclomedia/jobs/account-director-transportation-sales?utm_source=api",
-      "publicadoEn": 1792852819000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Account-Director",
-        "Sales-Director",
-        "Transportation-Sales-Director",
-        "Public-Sector-Account-Executive",
-        "Logistics-Account-Director",
-        "National-Account-Sales-Director"
-      ]
-    },
-    {
-      "idFuente": "156738",
-      "fuente": "jobicy",
-      "titulo": "Senior Product Manager, Ad Monetization",
-      "empresa": "RevenueCat",
-      "url": "https://jobicy.com/jobs/156738-senior-product-manager-ad-monetization",
-      "publicadoEn": 1792841022000,
-      "salarioTexto": "USD 230,000",
-      "ubicacion": "APAC, EMEA, LATAM, Canada, USA",
-      "etiquetas": [
-        "Product & Operations",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "156711",
-      "fuente": "jobicy",
-      "titulo": "Partner Solutions Architect (EMEA)",
-      "empresa": "Datadog",
-      "url": "https://jobicy.com/jobs/156711-partner-solutions-architect-emea",
-      "publicadoEn": 1792837460000,
-      "salarioTexto": null,
-      "ubicacion": "Italy, Spain",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Director"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -3474,13 +3532,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 7722,
-      "remotive": 1124,
-      "weworkremotely": 6825,
-      "himalayas": 1560,
-      "jobicy": 3450
+      "remoteok": 7821,
+      "remotive": 1134,
+      "weworkremotely": 6920,
+      "himalayas": 1580,
+      "jobicy": 3500
     },
-    "duplicadosDescartados": 18217,
-    "ultimaEjecucion": "2026-10-24T20:47:23.069Z"
+    "duplicadosDescartados": 18470,
+    "ultimaEjecucion": "2026-10-25T04:38:54.917Z"
   }
 }
