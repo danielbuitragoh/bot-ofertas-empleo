@@ -2802,9 +2802,427 @@
     "nebius::senior ml engineer ai research",
     "nebius::senior ml engineer agentic search",
     "nebius::senior machine learning engineer llm inference optimization",
-    "nebius::partner solutions architect"
+    "nebius::partner solutions architect",
+    "centerwell senior primary care::senior risk adjustment coding analyst",
+    "author health::psychiatric mental health nurse practitioner",
+    "purdue university::purdue global full time faculty english rhetoric remote virtual in us",
+    "info resume edge::staff graphic designer videographer united states remote",
+    "caci international inc::senior azure cloud platform engineer",
+    "eurofins::business controller m w d",
+    "abbott::join the talent pipeline at abbott nutrition uk ireland",
+    "sutter health::director applications lab systems",
+    "baker tilly::temporary application analyst",
+    "eco animal health::regulatory affairs officer uk eu",
+    "highmark health::summer 2027 software engineer engen graduate intern",
+    "assurant::customer experience specialist",
+    "bright vision technologies::cloud infrastructure engineer aws",
+    "teradyne::ai platform architect teradyne india remote india in",
+    "reddit::senior data scientist consumer",
+    "ey::attorney independent contractor u s business immigration remote from u s o",
+    "540::data engineer",
+    "praxis precision medicines::hcp personal marketing lead epilepsy",
+    "enterprisedb::software engineering program manager",
+    "jabil::consulting supply chain manager"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "centerwell-senior-primary-care/senior-risk-adjustment-coding-analyst",
+      "fuente": "himalayas",
+      "titulo": "Senior Risk Adjustment Coding Analyst",
+      "empresa": "CenterWell Senior Primary Care",
+      "url": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/senior-risk-adjustment-coding-analyst?utm_source=api",
+      "publicadoEn": 1793162273000,
+      "salarioTexto": "USD 86,300 - 118,700",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Risk-Adjustment-Analyst",
+        "Risk-Adjustment-Specialist",
+        "Clinical-Operations-Analyst",
+        "Clinical-Operations-Specialist",
+        "Health-Data-Analyst",
+        "Risk-Adjustment-Coding-Specialist",
+        "Risk-Adjustment-Coder",
+        "Risk-Adjustment-Medical-Coder",
+        "Senior-Coding-Audit-Analyst",
+        "Senior-Medical-Coder",
+        "Healthcare-Coding-Analyst"
+      ]
+    },
+    {
+      "idFuente": "author-health/psychiatric-mental-health-nurse-practitioner",
+      "fuente": "himalayas",
+      "titulo": "Psychiatric Mental Health Nurse Practitioner",
+      "empresa": "Author Health",
+      "url": "https://himalayas.app/companies/author-health/jobs/psychiatric-mental-health-nurse-practitioner?utm_source=api",
+      "publicadoEn": 1793162223000,
+      "salarioTexto": "USD 135,000 - 150,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Psychiatric-Mental-Health-Nurse-Practitioner",
+        "Psychiatric-Nurse-Practitioner",
+        "Mental-Health-Nurse-Practitioner",
+        "Nurse-Practitioner",
+        "Psychiatric-Mental-Health-NP",
+        "Behavioral-Health-Nurse-Practitioner",
+        "Psychiatric-NP",
+        "Outpatient-Psychiatric-NP",
+        "Mental-Health-Nurse-Prescriber"
+      ]
+    },
+    {
+      "idFuente": "purdue-university/purdue-global-full-time-faculty-english-rhetoric-remote-virtual-in-us",
+      "fuente": "himalayas",
+      "titulo": "Purdue Global Full-Time Faculty, English & Rhetoric (Remote/Virtual, IN, US)",
+      "empresa": "Purdue University",
+      "url": "https://himalayas.app/companies/purdue-university/jobs/purdue-global-full-time-faculty-english-rhetoric-remote-virtual-in-us?utm_source=api",
+      "publicadoEn": 1793162170000,
+      "salarioTexto": "USD 64,000 - 64,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "English-Professor",
+        "English-Faculty",
+        "Composition-Instructor",
+        "Rhetoric",
+        "English-Teacher",
+        "English-and-Rhetoric-Faculty"
+      ]
+    },
+    {
+      "idFuente": "info-resume-edge/staff-graphic-designer-videographer-united-states-remote",
+      "fuente": "himalayas",
+      "titulo": "Staff Graphic Designer & Videographer | United States | Remote",
+      "empresa": "Info Resume Edge",
+      "url": "https://himalayas.app/companies/info-resume-edge/jobs/staff-graphic-designer-videographer-united-states-remote?utm_source=api",
+      "publicadoEn": 1793162143000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Graphic-Designer",
+        "Video-Producer",
+        "Video-Editor",
+        "Motion-Graphics-Designer",
+        "Remote-Senior-Graphic-Designer",
+        "Staff-Creative-Designer"
+      ]
+    },
+    {
+      "idFuente": "caci-international-inc/senior-azure-cloud-platform-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Azure Cloud Platform Engineer",
+      "empresa": "CACI International Inc",
+      "url": "https://himalayas.app/companies/caci-international-inc/jobs/senior-azure-cloud-platform-engineer?utm_source=api",
+      "publicadoEn": 1793162129000,
+      "salarioTexto": "USD 98,500 - 206,800",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Senior-Cloud-Platform-Engineer",
+        "Azure-Cloud-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "DevOps-Engineer",
+        "Platform-Engineer",
+        "Senior-Azure-Engineer",
+        "Azure-Platform-Engineer",
+        "Senior-Cloud-Engineer"
+      ]
+    },
+    {
+      "idFuente": "eurofins/business-controller-m-w-d-7378718523",
+      "fuente": "himalayas",
+      "titulo": "Business Controller (m/w/d)",
+      "empresa": "Eurofins",
+      "url": "https://himalayas.app/companies/eurofins/jobs/business-controller-m-w-d-7378718523?utm_source=api",
+      "publicadoEn": 1793162107000,
+      "salarioTexto": null,
+      "ubicacion": "Germany",
+      "etiquetas": [
+        "Business-Controller",
+        "Financial-Controller",
+        "Controlling-Analyst",
+        "Financial-Analyst",
+        "Finance-Business-Controller"
+      ]
+    },
+    {
+      "idFuente": "abbott/join-the-talent-pipeline-at-abbott-nutrition-uk-ireland",
+      "fuente": "himalayas",
+      "titulo": "Join the Talent Pipeline at Abbott Nutrition UK & Ireland",
+      "empresa": "Abbott",
+      "url": "https://himalayas.app/companies/abbott/jobs/join-the-talent-pipeline-at-abbott-nutrition-uk-ireland?utm_source=api",
+      "publicadoEn": 1793162034000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Commercial-Operations-Specialist",
+        "Sales",
+        "Territory-Manager",
+        "Marketing-Specialist",
+        "Product-Manager"
+      ]
+    },
+    {
+      "idFuente": "sutter-health/director-applications-lab-systems",
+      "fuente": "himalayas",
+      "titulo": "Director, Applications, Lab Systems",
+      "empresa": "Sutter Health",
+      "url": "https://himalayas.app/companies/sutter-health/jobs/director-applications-lab-systems?utm_source=api",
+      "publicadoEn": 1793161944000,
+      "salarioTexto": "USD 148,824 - 291,012.8",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "IT-Director",
+        "Applications-Director",
+        "Enterprise-Applications-Director",
+        "Laboratory-Information-Systems-Director",
+        "Clinical-Applications-Director",
+        "Director-Of-Application-Engineering"
+      ]
+    },
+    {
+      "idFuente": "bakertilly/temporary-application-analyst",
+      "fuente": "himalayas",
+      "titulo": "Temporary Application Analyst",
+      "empresa": "Baker Tilly",
+      "url": "https://himalayas.app/companies/bakertilly/jobs/temporary-application-analyst?utm_source=api",
+      "publicadoEn": 1793161912000,
+      "salarioTexto": "USD 22.5 - 109.2",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Application-Analyst",
+        "Epic-Consultant",
+        "EHR-Consultant",
+        "Healthcare-IT-Consultant",
+        "Implementation-Consultant",
+        "IT-Application-Analyst",
+        "Senior-Application-Analyst"
+      ]
+    },
+    {
+      "idFuente": "eco-animal-health/regulatory-affairs-officer-uk-eu",
+      "fuente": "himalayas",
+      "titulo": "Regulatory Affairs Officer (UK/EU)",
+      "empresa": "ECO Animal Health",
+      "url": "https://himalayas.app/companies/eco-animal-health/jobs/regulatory-affairs-officer-uk-eu?utm_source=api",
+      "publicadoEn": 1793161901000,
+      "salarioTexto": "USD 30,000 - 45,000",
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Regulatory-Officer",
+        "Regulatory-Affairs-Specialist",
+        "Veterinary-Regulatory-Affairs",
+        "Regulatory-Affairs-Associate",
+        "Regulatory-Affairs-Manager",
+        "Regulatory-Affairs-(EU)",
+        "Regulatory-Affairs-Executive"
+      ]
+    },
+    {
+      "idFuente": "highmark-health/summer-2027-software-engineer-engen-graduate-intern",
+      "fuente": "himalayas",
+      "titulo": "Summer 2027 Software Engineer enGen Graduate Intern",
+      "empresa": "Highmark Health",
+      "url": "https://himalayas.app/companies/highmark-health/jobs/summer-2027-software-engineer-engen-graduate-intern?utm_source=api",
+      "publicadoEn": 1793161769000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Software-Engineer-Intern",
+        "Software-Engineering-Intern",
+        "Graduate-Software-Engineer",
+        "Cloud-Software-Engineer",
+        "Enterprise-Application-Developer",
+        "Software-Engineering-Internship",
+        "Software-Developer-Intern",
+        "Software-Development-Intern",
+        "Graduate-Software-Developer",
+        "Software-Intern",
+        "Software-Developer-Internship"
+      ]
+    },
+    {
+      "idFuente": "assurant/customer-experience-specialist",
+      "fuente": "himalayas",
+      "titulo": "Customer Experience Specialist",
+      "empresa": "Assurant",
+      "url": "https://himalayas.app/companies/assurant/jobs/customer-experience-specialist?utm_source=api",
+      "publicadoEn": 1793161755000,
+      "salarioTexto": null,
+      "ubicacion": "South Korea",
+      "etiquetas": [
+        "Customer-Experience-Specialist",
+        "Customer-Service",
+        "Customer-Support-Specialist",
+        "Insurance-Claims-Specialist",
+        "CX-Specialist",
+        "Client-Experience-Specialist",
+        "Guest-Experience-Specialist",
+        "Customer-Satisfaction-Specialist",
+        "CX-Quality-Specialist"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/cloud-infrastructure-engineer-aws-5667355332",
+      "fuente": "himalayas",
+      "titulo": "Cloud Infrastructure Engineer – AWS",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/cloud-infrastructure-engineer-aws-5667355332?utm_source=api",
+      "publicadoEn": 1793161743000,
+      "salarioTexto": "USD 130,000 - 180,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Cloud-Infrastructure-Engineer",
+        "Cloud-Engineer",
+        "AWS-Engineer",
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Senior-Cloud-Infrastructure-Engineer"
+      ]
+    },
+    {
+      "idFuente": "teradyne/ai-platform-architect-teradyne-india-remote-india-in-3339885010",
+      "fuente": "himalayas",
+      "titulo": "AI Platform Architect (Teradyne, India) (Remote, India, IN)",
+      "empresa": "Teradyne",
+      "url": "https://himalayas.app/companies/teradyne/jobs/ai-platform-architect-teradyne-india-remote-india-in-3339885010?utm_source=api",
+      "publicadoEn": 1793161651000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "AI-Platform-Architect",
+        "AI-Platform-Engineering",
+        "Enterprise-AI-Architecture",
+        "AI-Solutions-Architecture",
+        "AI-Infrastructure",
+        "AI-Platform-Engineer",
+        "AI-ML-Platform-Engineer",
+        "Platform-AI-Engineer",
+        "ML-Platform-Architect",
+        "Platform-Architect"
+      ]
+    },
+    {
+      "idFuente": "reddit/senior-data-scientist-consumer",
+      "fuente": "himalayas",
+      "titulo": "Senior Data Scientist - Consumer",
+      "empresa": "Reddit",
+      "url": "https://himalayas.app/companies/reddit/jobs/senior-data-scientist-consumer?utm_source=api",
+      "publicadoEn": 1793161649000,
+      "salarioTexto": "USD 190,800 - 267,100",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Consumer-Data-Science",
+        "Data-Science",
+        "Data-Scientist",
+        "Applied-Sciences",
+        "Product-Analytics",
+        "Senior-Data-Science",
+        "Senior-Data-Scientist-Jobs"
+      ]
+    },
+    {
+      "idFuente": "ey/attorney-independent-contractor-u-s-business-immigration-remote-from-u-s-o-1964813225",
+      "fuente": "himalayas",
+      "titulo": "Attorney - Independent Contractor - U.S Business Immigration - Remote from U.S o",
+      "empresa": "EY",
+      "url": "https://himalayas.app/companies/ey/jobs/attorney-independent-contractor-u-s-business-immigration-remote-from-u-s-o-1964813225?utm_source=api",
+      "publicadoEn": 1793161649000,
+      "salarioTexto": null,
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Immigration-Attorney",
+        "US-Business-Immigration-Attorney",
+        "Immigration-Lawyer",
+        "Business-Immigration-Specialist",
+        "Independent-Contractor-Attorney",
+        "Remote-Business-Immigration-Lawyer",
+        "Remote-Immigration-Attorney",
+        "Remote-Lawyer",
+        "Freelance-Attorney",
+        "U.S.-Immigration-Attorney"
+      ]
+    },
+    {
+      "idFuente": "540/data-engineer",
+      "fuente": "himalayas",
+      "titulo": "Data Engineer",
+      "empresa": "540",
+      "url": "https://himalayas.app/companies/540/jobs/data-engineer?utm_source=api",
+      "publicadoEn": 1793161646000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Data-Engineer",
+        "Data-Engineering",
+        "Federal-Data-Engineering",
+        "Healthcare-Data-Engineering",
+        "Data-Platform-Engineering",
+        "Data-Engineer-Jobs",
+        "Data-Engineering-Analyst",
+        "Data-Engineering-Specialist",
+        "Data-Engineering-Jobs",
+        "Data-Engineering-Positions"
+      ]
+    },
+    {
+      "idFuente": "praxis-precision-medicines/hcp-personal-marketing-lead-epilepsy",
+      "fuente": "himalayas",
+      "titulo": "HCP Personal Marketing Lead - Epilepsy",
+      "empresa": "Praxis Precision Medicines",
+      "url": "https://himalayas.app/companies/praxis-precision-medicines/jobs/hcp-personal-marketing-lead-epilepsy?utm_source=api",
+      "publicadoEn": 1793161587000,
+      "salarioTexto": "USD 190,000 - 214,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "HCP-Marketing",
+        "Pharmaceutical-Marketing",
+        "Marketing-Manager",
+        "Brand-Marketing-Manager",
+        "Product-Marketing-Manager",
+        "Neurology-Marketing",
+        "HCP-Engagement-Marketing",
+        "Marketing"
+      ]
+    },
+    {
+      "idFuente": "enterprisedb/software-engineering-program-manager",
+      "fuente": "himalayas",
+      "titulo": "Software Engineering Program Manager",
+      "empresa": "enterprisedb",
+      "url": "https://himalayas.app/companies/enterprisedb/jobs/software-engineering-program-manager?utm_source=api",
+      "publicadoEn": 1793161492000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Engineering-Program-Manager",
+        "Technical-Program-Manager",
+        "Program-Manager",
+        "Software-Development-Program-Manager",
+        "Engineering-Program-Manager-(EPM)",
+        "Software-Project-Manager",
+        "Engineering-Program-Management"
+      ]
+    },
+    {
+      "idFuente": "jabil/consulting-supply-chain-manager",
+      "fuente": "himalayas",
+      "titulo": "Consulting Supply Chain Manager",
+      "empresa": "Jabil",
+      "url": "https://himalayas.app/companies/jabil/jobs/consulting-supply-chain-manager?utm_source=api",
+      "publicadoEn": 1793161485000,
+      "salarioTexto": "USD 98,200 - 176,800",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Supply-Chain-Consultant",
+        "Management-Consultant",
+        "Procurement-Consultant",
+        "Operations-Consultant",
+        "Supply-Chain-Manager",
+        "Supply-Chain-Management-Consultant",
+        "Supply-Chain-Management-Consulting",
+        "Supply-Chain-Consulting",
+        "Supply-Chain-Solutions-Consultant",
+        "Supply-Chain-Transformation-Consultant"
+      ]
+    },
     {
       "idFuente": "biesterfeld/senior-sales-manager-m-w-d-pharma",
       "fuente": "himalayas",
@@ -3384,397 +3802,6 @@
         "Workday-Solutions-Developer",
         "Workday-Technical-Developer"
       ]
-    },
-    {
-      "idFuente": "vetsez/data-engineer",
-      "fuente": "himalayas",
-      "titulo": "Data Engineer",
-      "empresa": "VetsEZ",
-      "url": "https://himalayas.app/companies/vetsez/jobs/data-engineer?utm_source=api",
-      "publicadoEn": 1793116526000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Data-Engineer",
-        "Healthcare-Data-Engineer",
-        "Data-Pipeline-Engineer",
-        "Data-Engineer-Jobs",
-        "Data-Engineering",
-        "Data-Engineering-Software-Engineer",
-        "Data-Engineering-Jobs"
-      ]
-    },
-    {
-      "idFuente": "conduent/pension-benefits-services-specialist-1740237565",
-      "fuente": "himalayas",
-      "titulo": "Pension Benefits Services Specialist",
-      "empresa": "Conduent",
-      "url": "https://himalayas.app/companies/conduent/jobs/pension-benefits-services-specialist-1740237565?utm_source=api",
-      "publicadoEn": 1793116510000,
-      "salarioTexto": "USD 26,600 - 33,250",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Pension-Specialist",
-        "Benefits-Specialist",
-        "Pension-Administrator",
-        "Retirement-Services-Representative",
-        "Customer-Service",
-        "Retirement-Services-Specialist",
-        "Pension-Administration-Specialist",
-        "Benefits-Services-Representative",
-        "Pensions-Technician",
-        "Retirement-Plans-Specialist"
-      ]
-    },
-    {
-      "idFuente": "trase-systems/director-production-and-infrastructure-engineering",
-      "fuente": "himalayas",
-      "titulo": "Director, Production and Infrastructure Engineering",
-      "empresa": "Trase Systems",
-      "url": "https://himalayas.app/companies/trase-systems/jobs/director-production-and-infrastructure-engineering?utm_source=api",
-      "publicadoEn": 1793116450000,
-      "salarioTexto": "USD 240,000 - 290,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Director-of-Production-and-Infrastructure-Engineering",
-        "Director-of-Engineering",
-        "Infrastructure-Engineering-Director",
-        "Director-Of-DevOps",
-        "Platform-Engineering-Director",
-        "Production-Operations-Director",
-        "Production-Systems-Director",
-        "Engineering-Operations-Director"
-      ]
-    },
-    {
-      "idFuente": "healthie/staff-engineer-automation",
-      "fuente": "himalayas",
-      "titulo": "Staff Engineer, Automation",
-      "empresa": "Healthie",
-      "url": "https://himalayas.app/companies/healthie/jobs/staff-engineer-automation?utm_source=api",
-      "publicadoEn": 1793116435000,
-      "salarioTexto": "USD 190,000 - 220,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Software-Engineer",
-        "Automation-Engineer",
-        "Backend-Engineer",
-        "Platform-Engineer",
-        "Staff-Automation-Engineer",
-        "Staff-Process-Automation-Engineer",
-        "Staff-Engineer"
-      ]
-    },
-    {
-      "idFuente": "confluent-health/hris-analyst",
-      "fuente": "himalayas",
-      "titulo": "HRIS Analyst",
-      "empresa": "Confluent Health",
-      "url": "https://himalayas.app/companies/confluent-health/jobs/hris-analyst?utm_source=api",
-      "publicadoEn": 1793116386000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "HRIS-Analyst",
-        "HR-Technology-Specialist",
-        "HRIS-Support-Analyst",
-        "Workforce-Technology-Specialist",
-        "Systems-Analyst",
-        "HRIS-Data-Analyst",
-        "HRIS-Systems-Analyst",
-        "HRIS-Functional-Analyst",
-        "HR-Systems-Analyst"
-      ]
-    },
-    {
-      "idFuente": "decisionpoint-corporation/asset-equipment-specialist-junior",
-      "fuente": "himalayas",
-      "titulo": "Asset / Equipment Specialist (Junior)",
-      "empresa": "DecisionPoint Corporation",
-      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/asset-equipment-specialist-junior?utm_source=api",
-      "publicadoEn": 1793116333000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "IT-Asset-Management-Specialist",
-        "Asset-Management-Specialist",
-        "Equipment-Specialist",
-        "Inventory-Control-Specialist",
-        "Property-Administrator",
-        "Asset-Specialist",
-        "Equipment-Management-Specialist",
-        "Equipment-Support-Specialist"
-      ]
-    },
-    {
-      "idFuente": "ionq-com/senior-manager-global-customer-success",
-      "fuente": "himalayas",
-      "titulo": "Senior Manager, Global Customer Success",
-      "empresa": "IonQ",
-      "url": "https://himalayas.app/companies/ionq-com/jobs/senior-manager-global-customer-success?utm_source=api",
-      "publicadoEn": 1793116245000,
-      "salarioTexto": "USD 148,000 - 185,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Customer-Success-Manager",
-        "Director-of-Customer-Success",
-        "Customer-Support-Director",
-        "Technical-Services-Manager",
-        "Senior-Manager-Customer-Success",
-        "Sr.-Manager-Of-Customer-Success",
-        "Senior-Director-Customer-Success"
-      ]
-    },
-    {
-      "idFuente": "bright-vision-technologies/guidewire-application-developer-4597267239",
-      "fuente": "himalayas",
-      "titulo": "Guidewire Application Developer",
-      "empresa": "Bright Vision Technologies",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/guidewire-application-developer-4597267239?utm_source=api",
-      "publicadoEn": 1793116218000,
-      "salarioTexto": "USD 100,000 - 100,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Guidewire-Developer",
-        "Application-Developer",
-        "Software-Developer",
-        "Insurance-Software-Developer",
-        "Integration-Developer",
-        "Guidewire-Cloud-Developer",
-        "Guidewire-Integration-Developer",
-        "Guidewire-Configuration-Developer",
-        "Guidewire-Development",
-        "Guidewire-InsuranceSuite-Developer",
-        "Developer"
-      ]
-    },
-    {
-      "idFuente": "college-board/director-community-management",
-      "fuente": "himalayas",
-      "titulo": "Director, Community Management",
-      "empresa": "College Board",
-      "url": "https://himalayas.app/companies/college-board/jobs/director-community-management?utm_source=api",
-      "publicadoEn": 1793116188000,
-      "salarioTexto": "USD 80,000 - 130,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Community-Director",
-        "Community-Manager",
-        "Community-Engagement-Director",
-        "Digital-Engagement-Director",
-        "Content-Strategy-Director",
-        "Community-Operations-Director",
-        "Community-Strategy-Director"
-      ]
-    },
-    {
-      "idFuente": "wing-assistant/part-time-insurance-virtual-assistant-21233",
-      "fuente": "himalayas",
-      "titulo": "Part Time Insurance Virtual Assistant | 21233",
-      "empresa": "Wing Assistant",
-      "url": "https://himalayas.app/companies/wing-assistant/jobs/part-time-insurance-virtual-assistant-21233?utm_source=api",
-      "publicadoEn": 1793116164000,
-      "salarioTexto": "USD 31,500 - 31,500",
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Insurance-Virtual-Assistant",
-        "Virtual-Assistant",
-        "Insurance-Support-Specialist",
-        "Policy-Service-Representative",
-        "Insurance-Administration",
-        "Remote-Insurance-Assistant",
-        "Insurance-Assistant"
-      ]
-    },
-    {
-      "idFuente": "sotheby-s-institute-of-art/front-end-developer",
-      "fuente": "himalayas",
-      "titulo": "Front-End Developer",
-      "empresa": "Sotheby's Institute of Art",
-      "url": "https://himalayas.app/companies/sotheby-s-institute-of-art/jobs/front-end-developer?utm_source=api",
-      "publicadoEn": 1793116122000,
-      "salarioTexto": "USD 85,000 - 100,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Front-End-Developer",
-        "Frontend-Engineer",
-        "Web-Developer",
-        "WordPress-Developer",
-        "Frontend-React-Developer",
-        "Frontend-Development",
-        "UI-Frontend-Developer",
-        "React-Frontend-Developer",
-        "Frontend-Web-Development"
-      ]
-    },
-    {
-      "idFuente": "argano/principal-consultant-oracle-cloud-epm-fcc-arc-managed-services",
-      "fuente": "himalayas",
-      "titulo": "Principal Consultant - Oracle Cloud EPM FCC/ARC - Managed Services",
-      "empresa": "Argano",
-      "url": "https://himalayas.app/companies/argano/jobs/principal-consultant-oracle-cloud-epm-fcc-arc-managed-services?utm_source=api",
-      "publicadoEn": 1793116101000,
-      "salarioTexto": null,
-      "ubicacion": "India",
-      "etiquetas": [
-        "Principal-Consultant",
-        "Technology-Consultant",
-        "Enterprise-Application-Consultant",
-        "Oracle-EPM-Consultant",
-        "Technology-Consulting-Manager",
-        "Oracle-Cloud-EPM-Consultant",
-        "Principal-Oracle-Cloud-Consultant",
-        "Oracle-EPM-Solution-Architect",
-        "Oracle-EPM-Techno-Functional-Consultant",
-        "Oracle-EPM-Consulting"
-      ]
-    },
-    {
-      "idFuente": "bright-vision-technologies/multi-cloud-solutions-architect-5604319973",
-      "fuente": "himalayas",
-      "titulo": "Multi-Cloud Solutions Architect",
-      "empresa": "Bright Vision Technologies",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/multi-cloud-solutions-architect-5604319973?utm_source=api",
-      "publicadoEn": 1793116068000,
-      "salarioTexto": "USD 140,000 - 170,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Multi-Cloud-Solutions-Architect",
-        "Cloud-Solutions-Architect",
-        "Cloud-Security-Architect",
-        "Enterprise-Architect",
-        "Multi-Cloud-Architect",
-        "Cloud-Solution-Architect",
-        "Hybrid-Cloud-Architect",
-        "Cloud-Infrastructure-Solutions-Architect",
-        "Cloud-Systems-Architect",
-        "AWS-Cloud-Solutions-Architect",
-        "Multi-Cloud-Architecture",
-        "Solutions-Architect"
-      ]
-    },
-    {
-      "idFuente": "centerstone/crisis-care-consultant",
-      "fuente": "himalayas",
-      "titulo": "Crisis Care Consultant",
-      "empresa": "Centerstone",
-      "url": "https://himalayas.app/companies/centerstone/jobs/crisis-care-consultant?utm_source=api",
-      "publicadoEn": 1793116000000,
-      "salarioTexto": "USD 16.5 - 23.1",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Crisis-Care-Consultant",
-        "Crisis-Counselor",
-        "Suicide-Prevention-Counselor",
-        "Crisis-Specialist",
-        "Crisis-Clinician",
-        "Crisis-Counsellor",
-        "Crisis-Care",
-        "Crisis-Assessment-Clinician",
-        "Crisis-Mental-Health-Clinician",
-        "Crisis-Counseling",
-        "Crisis-Support-Specialist",
-        "Healthcare"
-      ]
-    },
-    {
-      "idFuente": "aptive/program-manager",
-      "fuente": "himalayas",
-      "titulo": "Program Manager",
-      "empresa": "Aptive",
-      "url": "https://himalayas.app/companies/aptive/jobs/program-manager?utm_source=api",
-      "publicadoEn": 1793115936000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Program-Manager",
-        "Federal-Program-Manager",
-        "Project-Program-Manager",
-        "Program-And-Project-Manager",
-        "Program-Operations-Manager"
-      ]
-    },
-    {
-      "idFuente": "sharegate/specialiste-staff-operations-de-securite",
-      "fuente": "himalayas",
-      "titulo": "Spécialiste Staff, opérations de sécurité",
-      "empresa": "ShareGate",
-      "url": "https://himalayas.app/companies/sharegate/jobs/specialiste-staff-operations-de-securite?utm_source=api",
-      "publicadoEn": 1793115928000,
-      "salarioTexto": "USD 125,000 - 160,000",
-      "ubicacion": "Canada",
-      "etiquetas": [
-        "Security-Operations-Specialist",
-        "Detection-Engineer",
-        "Incident-Response-Engineer",
-        "Security-Engineer",
-        "SOC-Engineer",
-        "Sécurité-Opérationnelle"
-      ]
-    },
-    {
-      "idFuente": "logistics-management-institute/information-system-security-officer-isso",
-      "fuente": "himalayas",
-      "titulo": "Information System Security Officer (ISSO)",
-      "empresa": "Logistics Management Institute",
-      "url": "https://himalayas.app/companies/logistics-management-institute/jobs/information-system-security-officer-isso?utm_source=api",
-      "publicadoEn": 1793115662000,
-      "salarioTexto": "USD 92,075 - 158,138",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Information-System-Security-Officer",
-        "Information-Security-Officer",
-        "Cybersecurity-Compliance-Specialist",
-        "Security-Authorization-Specialist",
-        "IT-Security-And-Compliance-Analyst",
-        "Information-System-Security-Officer-(ISSO)",
-        "Information-Systems-Security-Officer-(ISSO)",
-        "Information-Systems-Security-Officer",
-        "Information-Assurance-Officer",
-        "System-Security-Officer"
-      ]
-    },
-    {
-      "idFuente": "157409",
-      "fuente": "jobicy",
-      "titulo": "Executive Search Lead - Technology",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/157409-executive-search-lead-technology",
-      "publicadoEn": 1793110096000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "HR & Recruiting",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "157405",
-      "fuente": "jobicy",
-      "titulo": "Engineering Manager - Ubuntu Core",
-      "empresa": "Canonical",
-      "url": "https://jobicy.com/jobs/157405-engineering-manager-ubuntu-core",
-      "publicadoEn": 1793110089000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA, LATAM, Canada, USA",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157353",
-      "fuente": "jobicy",
-      "titulo": "Product Manager - Trust & Safety (Full Remote - Spain)",
-      "empresa": "EverAI",
-      "url": "https://jobicy.com/jobs/157353-product-manager-trust-safety-full-remote-spain",
-      "publicadoEn": 1793099636000,
-      "salarioTexto": "USD 95,000 - 125,000",
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Product & Operations",
-        "Director"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -3814,13 +3841,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 8811,
-      "remotive": 1234,
-      "weworkremotely": 7874,
-      "himalayas": 1780,
-      "jobicy": 4000
+      "remoteok": 8910,
+      "remotive": 1244,
+      "weworkremotely": 7969,
+      "himalayas": 1800,
+      "jobicy": 4050
     },
-    "duplicadosDescartados": 20896,
-    "ultimaEjecucion": "2026-10-27T22:12:36.903Z"
+    "duplicadosDescartados": 21150,
+    "ultimaEjecucion": "2026-10-28T05:39:45.659Z"
   }
 }
