@@ -2914,9 +2914,471 @@
     "nebius::senior site reliability engineer devtools",
     "elevenlabs::data engineer",
     "nebius::senior sales engineer token factory",
-    "nebius::senior product designer compute nebius console"
+    "nebius::senior product designer compute nebius console",
+    "imerit technology::ai data quality specialist ai trainer",
+    "mmc group::benefits verification specialist call center agent remote must have your own computer must live in us",
+    "thehivecareers::head of innovation insurance investments",
+    "hyre::video editor",
+    "systemsaccountants::netsuite principal consultant",
+    "bright vision technologies::llm prompt specialist",
+    "wise integration::project manager it infrastructure application projects lithuanian citizens o",
+    "smart photonics b v::sales director usa west coast",
+    "nebius::senior product manager inference platform",
+    "bright vision technologies::salesforce integration architect",
+    "ezcorp::delivery lead digital products",
+    "pearson::advanced associate legal compliance",
+    "accompany health::executive clinical director of market operations",
+    "exodigo::program manager engineering services",
+    "whakarongorau aotearoa::healthline healthline maori pathway clinician",
+    "serverfarm::integration lead",
+    "ewor gmbh::industrial tech co founder head of sales 100 remote m f d",
+    "walmart internal::senior software engineer",
+    "urban ridge supplies::business development manager",
+    "arrise::senior application security engineer",
+    "doxel::sales engineer",
+    "customer io::senior brand designer"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "imerit-technology-ai-data-quality-specialist-ai-trainer",
+      "fuente": "weworkremotely",
+      "titulo": "AI Data Quality Specialist - AI Trainer",
+      "empresa": "iMerit Technology",
+      "url": "https://weworkremotely.com/remote-jobs/imerit-technology-ai-data-quality-specialist-ai-trainer",
+      "publicadoEn": 1793227452000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must",
+      "fuente": "weworkremotely",
+      "titulo": "Benefits Verification Specialist ( Call Center Agent- REMOTE)-Must have your own computer MUST LIVE IN US",
+      "empresa": "MMC Group",
+      "url": "https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must",
+      "publicadoEn": 1790639599000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "thehivecareers/head-of-innovation-insurance-investments-4528940132",
+      "fuente": "himalayas",
+      "titulo": "Head of Innovation — Insurance & Investments",
+      "empresa": "TheHiveCareers",
+      "url": "https://himalayas.app/companies/thehivecareers/jobs/head-of-innovation-insurance-investments-4528940132?utm_source=api",
+      "publicadoEn": 1793246348000,
+      "salarioTexto": null,
+      "ubicacion": "Guyana",
+      "etiquetas": [
+        "Director-Of-Innovation",
+        "Head-Of-Innovation",
+        "Innovation-Director",
+        "Digital-Transformation-Director",
+        "Product-Innovation-Manager",
+        "Insurance-Innovation-Lead",
+        "Head-Of-Product-Innovation",
+        "VP-Of-Innovation",
+        "Innovation-Portfolio-and-Partnerships-Lead"
+      ]
+    },
+    {
+      "idFuente": "hyre/video-editor",
+      "fuente": "himalayas",
+      "titulo": "Video Editor",
+      "empresa": "Hyre",
+      "url": "https://himalayas.app/companies/hyre/jobs/video-editor?utm_source=api",
+      "publicadoEn": 1793246347000,
+      "salarioTexto": null,
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Video-Editor",
+        "Video-Production-Specialist",
+        "Video-Content-Editor",
+        "Social-Media-Video-Editor",
+        "Motion-Graphics-Editor",
+        "Video-Editing",
+        "Creative-Video-Editor"
+      ]
+    },
+    {
+      "idFuente": "systemsaccountants/netsuite-principal-consultant",
+      "fuente": "himalayas",
+      "titulo": "NetSuite Principal Consultant",
+      "empresa": "SystemsAccountants",
+      "url": "https://himalayas.app/companies/systemsaccountants/jobs/netsuite-principal-consultant?utm_source=api",
+      "publicadoEn": 1793246330000,
+      "salarioTexto": null,
+      "ubicacion": "Canada, United States",
+      "etiquetas": [
+        "NetSuite-Consultant",
+        "ERP-Consultant",
+        "ERP-Implementation-Consultant",
+        "Principal-Consultant",
+        "Business-Systems-Consultant",
+        "NetSuite-Principal-Consultant",
+        "Principal-NetSuite-Consultant",
+        "NetSuite-Lead-Consultant",
+        "Senior-NetSuite-Consultant",
+        "NetSuite-Consulting-Manager"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/llm-prompt-specialist-4590919093",
+      "fuente": "himalayas",
+      "titulo": "LLM Prompt Specialist",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/llm-prompt-specialist-4590919093?utm_source=api",
+      "publicadoEn": 1793246315000,
+      "salarioTexto": "USD 100,000 - 150,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "LLM-Prompt-Specialist",
+        "Prompt-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Generative-AI-Engineer",
+        "GenAI-Prompt-Specialist",
+        "Prompt-Engineering-Specialist",
+        "LLM-Prompt-Engineering"
+      ]
+    },
+    {
+      "idFuente": "wise-integration/project-manager-it-infrastructure-application-projects-_lithuanian-citizens-o",
+      "fuente": "himalayas",
+      "titulo": "Project Manager (IT infrastructure & application projects)_Lithuanian Citizens o",
+      "empresa": "WISE INTEGRATION",
+      "url": "https://himalayas.app/companies/wise-integration/jobs/project-manager-it-infrastructure-application-projects-_lithuanian-citizens-o?utm_source=api",
+      "publicadoEn": 1793246315000,
+      "salarioTexto": null,
+      "ubicacion": "Lithuania",
+      "etiquetas": [
+        "Technical-Project-Manager",
+        "IT-Project-Manager",
+        "Infrastructure-Project-Manager",
+        "Applications-Project-Manager",
+        "IT-Infrastructure-Project-Manager",
+        "Project-Manager"
+      ]
+    },
+    {
+      "idFuente": "smart-photonics-b-v/sales-director-usa-west-coast",
+      "fuente": "himalayas",
+      "titulo": "Sales Director USA (West Coast)",
+      "empresa": "SMART Photonics B.V.",
+      "url": "https://himalayas.app/companies/smart-photonics-b-v/jobs/sales-director-usa-west-coast?utm_source=api",
+      "publicadoEn": 1793246286000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales-Director",
+        "Regional-Sales-Director",
+        "Commercial-Director",
+        "Sales-Manager",
+        "Account-Executive",
+        "US-Sales-Director",
+        "North-America-Sales-Director",
+        "Americas-Sales-Director",
+        "Western-Sales-Director",
+        "Regional-Director-Of-Sales"
+      ]
+    },
+    {
+      "idFuente": "nebius/senior-product-manager-inference-platform",
+      "fuente": "himalayas",
+      "titulo": "Senior Product Manager - Inference Platform",
+      "empresa": "Nebius",
+      "url": "https://himalayas.app/companies/nebius/jobs/senior-product-manager-inference-platform?utm_source=api",
+      "publicadoEn": 1793246248000,
+      "salarioTexto": "USD 228,000 - 285,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Product-Manager",
+        "Technical-Product-Manager",
+        "Platform-Product-Manager",
+        "AI-Product-Manager",
+        "Senior-Product-Manager-AI-Platform",
+        "Senior-AI-Product-Manager",
+        "Senior-Product-Manager-Platform",
+        "Senior-AI-Product-Management",
+        "Senior-AI-Product-Lead",
+        "AI-Platform-Product-Manager"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/salesforce-integration-architect-1593080909",
+      "fuente": "himalayas",
+      "titulo": "Salesforce Integration Architect",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/salesforce-integration-architect-1593080909?utm_source=api",
+      "publicadoEn": 1793246247000,
+      "salarioTexto": "USD 145,000 - 190,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Salesforce-Integration-Architect",
+        "Salesforce-Architect",
+        "Integration-Architect",
+        "Enterprise-Architect",
+        "Salesforce-Engineer",
+        "CRM-Integration-Architect",
+        "Salesforce-API-Architect",
+        "Salesforce-Solution-Architect",
+        "Salesforce-Solutions-Architect"
+      ]
+    },
+    {
+      "idFuente": "ezcorp/delivery-lead-digital-products",
+      "fuente": "himalayas",
+      "titulo": "Delivery Lead, Digital Products",
+      "empresa": "EZCORP",
+      "url": "https://himalayas.app/companies/ezcorp/jobs/delivery-lead-digital-products?utm_source=api",
+      "publicadoEn": 1793246247000,
+      "salarioTexto": null,
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Delivery-Lead",
+        "Technical-Program-Manager",
+        "Digital-Program-Manager",
+        "Project-Management-Office-Lead",
+        "Product-Delivery-Manager",
+        "Digital-Delivery-Lead",
+        "Software-Delivery-Lead",
+        "Technical-Delivery-Lead",
+        "Senior-Delivery-Lead",
+        "Project-Delivery-Lead"
+      ]
+    },
+    {
+      "idFuente": "pearson/advanced-associate-legal-compliance",
+      "fuente": "himalayas",
+      "titulo": "Advanced Associate, Legal Compliance",
+      "empresa": "Pearson",
+      "url": "https://himalayas.app/companies/pearson/jobs/advanced-associate-legal-compliance?utm_source=api",
+      "publicadoEn": 1793246242000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "Compliance-Associate",
+        "Risk-Management-Associate",
+        "Contract-Administrator",
+        "Legal-Operations-and-Compliance-Associate",
+        "Legal-Compliance-Analyst",
+        "Legal-Compliance-Specialist",
+        "Legal-Operations-Associate",
+        "Legal"
+      ]
+    },
+    {
+      "idFuente": "accompany-health/executive-clinical-director-of-market-operations",
+      "fuente": "himalayas",
+      "titulo": "Executive Clinical Director of Market Operations",
+      "empresa": "Accompany Health",
+      "url": "https://himalayas.app/companies/accompany-health/jobs/executive-clinical-director-of-market-operations?utm_source=api",
+      "publicadoEn": 1793246234000,
+      "salarioTexto": "USD 160,000 - 250,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Clinical-Director",
+        "Director-Clinical-Operations",
+        "Medical-Director",
+        "Clinical-Operations-Director",
+        "Healthcare-Operations-Director",
+        "Executive-Clinical-Operations",
+        "Senior-Director-Of-Clinical-Operations"
+      ]
+    },
+    {
+      "idFuente": "exodigo/program-manager-engineering-services",
+      "fuente": "himalayas",
+      "titulo": "Program Manager, Engineering Services",
+      "empresa": "Exodigo",
+      "url": "https://himalayas.app/companies/exodigo/jobs/program-manager-engineering-services?utm_source=api",
+      "publicadoEn": 1793246209000,
+      "salarioTexto": "USD 156,000 - 192,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Program-Manager",
+        "Engineering-Program-Manager",
+        "Engineering-Services-Manager",
+        "Project-Management-Office-Manager",
+        "Technical-Program-Manager",
+        "Engineering-Program-Manager-(EPM)",
+        "Service-Program-Manager",
+        "Project-Engineering-Manager",
+        "Engineering-Program-Management"
+      ]
+    },
+    {
+      "idFuente": "whakarongorau-aotearoa/healthline-healthline-maori-pathway-clinician",
+      "fuente": "himalayas",
+      "titulo": "Healthline & Healthline Māori Pathway Clinician",
+      "empresa": "Whakarongorau Aotearoa",
+      "url": "https://himalayas.app/companies/whakarongorau-aotearoa/jobs/healthline-healthline-maori-pathway-clinician?utm_source=api",
+      "publicadoEn": 1793246208000,
+      "salarioTexto": "USD 36.41 - 38.67",
+      "ubicacion": "New Zealand",
+      "etiquetas": [
+        "Registered-Nurse",
+        "Paramedic",
+        "Clinical-Nurse",
+        "Telehealth-Nurse",
+        "Health-and-Wellbeing-Clinician"
+      ]
+    },
+    {
+      "idFuente": "serverfarm/integration-lead",
+      "fuente": "himalayas",
+      "titulo": "Integration Lead",
+      "empresa": "Serverfarm",
+      "url": "https://himalayas.app/companies/serverfarm/jobs/integration-lead?utm_source=api",
+      "publicadoEn": 1793246138000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Integration-Lead",
+        "Lead-Integration-Engineer",
+        "Platform-Integration-Engineer",
+        "IoT-Integration-Lead",
+        "Data-Center-Systems-Integration-Lead",
+        "Service-Integration-Lead",
+        "Business-Integration-Lead",
+        "Integration-Design-Lead",
+        "Enterprise-Integration-Lead",
+        "Data-Integration-Lead",
+        "Digital-Integration-Lead",
+        "SAP-Integration-Lead",
+        "AI-Integration-Lead"
+      ]
+    },
+    {
+      "idFuente": "ewor-gmbh/industrial-tech-co-founder-head-of-sales-100-remote-m-f-d-7393006580",
+      "fuente": "himalayas",
+      "titulo": "Industrial Tech Co-Founder / Head of Sales (100 % remote) (m/f/d)",
+      "empresa": "EWOR GmbH",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/industrial-tech-co-founder-head-of-sales-100-remote-m-f-d-7393006580?utm_source=api",
+      "publicadoEn": 1793246133000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Head-of-Sales",
+        "Co-Founder",
+        "Sales-Director",
+        "Startup-Founder",
+        "Industrial-Tech-Founder",
+        "Remote-Director-Of-Sales",
+        "Remote-VP-Sales",
+        "Remote-Sales-Director",
+        "Industrial-Sales-Director"
+      ]
+    },
+    {
+      "idFuente": "walmart-com/senior-software-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior, Software Engineer",
+      "empresa": "Walmart - Internal",
+      "url": "https://himalayas.app/companies/walmart-com/jobs/senior-software-engineer?utm_source=api",
+      "publicadoEn": 1793246105000,
+      "salarioTexto": "USD 108,000 - 234,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Software-Engineer",
+        "Java-Developer",
+        "AI-ML-Engineer",
+        "Platform-Engineer",
+        "Senior-Software-Developer",
+        "Senior-Software-Engineer-Jobs",
+        "Senior-Engineer",
+        "Senior-Software-Development",
+        "Developer"
+      ]
+    },
+    {
+      "idFuente": "urban-ridge-supplies/business-development-manager",
+      "fuente": "himalayas",
+      "titulo": "Business Development Manager",
+      "empresa": "Urban Ridge Supplies",
+      "url": "https://himalayas.app/companies/urban-ridge-supplies/jobs/business-development-manager?utm_source=api",
+      "publicadoEn": 1793246103000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Business-Development-Manager",
+        "Commercial-Manager",
+        "Sales-Manager",
+        "Business-Development-Director",
+        "SALES-BUSINESS-DEVELOPMENT-MANAGER",
+        "B2B-Business-Development-Manager",
+        "Business-Development-Account-Manager",
+        "Business-Development-Team-Manager"
+      ]
+    },
+    {
+      "idFuente": "arrise/senior-application-security-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Application Security Engineer",
+      "empresa": "Arrise",
+      "url": "https://himalayas.app/companies/arrise/jobs/senior-application-security-engineer?utm_source=api",
+      "publicadoEn": 1793246102000,
+      "salarioTexto": null,
+      "ubicacion": "Malta",
+      "etiquetas": [
+        "Application-Security-Engineer",
+        "Security-Engineer",
+        "Product-Security-Engineer",
+        "Cloud-Security-Engineer",
+        "DevSecOps-Engineer",
+        "Senior-Application-Security-Engineer",
+        "Lead-Application-Security-Engineer",
+        "Senior-Information-Security-Engineer",
+        "Application-Security-Architect",
+        "Application-Security-Lead",
+        "Senior-Principal-Security-Engineer",
+        "Senior-Cybersecurity-Engineer"
+      ]
+    },
+    {
+      "idFuente": "doxel/sales-engineer",
+      "fuente": "himalayas",
+      "titulo": "Sales Engineer",
+      "empresa": "Doxel",
+      "url": "https://himalayas.app/companies/doxel/jobs/sales-engineer?utm_source=api",
+      "publicadoEn": 1793246100000,
+      "salarioTexto": "USD 120,000 - 128,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Sales-Engineer",
+        "Solutions-Engineer",
+        "Technical-Sales-Engineer",
+        "Pre-Sales-Engineer",
+        "Product-Sales-Engineer",
+        "Senior-Sales-Engineer",
+        "Sales-Engineering-Jobs",
+        "Sales-Solutions-Engineer",
+        "Sales-Engineering-Specialist",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "customer-io/senior-brand-designer",
+      "fuente": "himalayas",
+      "titulo": "Senior Brand Designer",
+      "empresa": "Customer.io",
+      "url": "https://himalayas.app/companies/customer-io/jobs/senior-brand-designer?utm_source=api",
+      "publicadoEn": 1793246098000,
+      "salarioTexto": "USD 128,000 - 160,000",
+      "ubicacion": "Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Brazil, Canada, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, United States, Uruguay, Venezuela",
+      "etiquetas": [
+        "Brand-Designer",
+        "Visual-Designer",
+        "Art-Director",
+        "Creative-Director",
+        "Senior-Branding-Designer"
+      ]
+    },
     {
       "idFuente": "edconic-front-end-developer",
       "fuente": "weworkremotely",
@@ -3431,313 +3893,6 @@
         "Software Engineering",
         "Senior"
       ]
-    },
-    {
-      "idFuente": "157565",
-      "fuente": "jobicy",
-      "titulo": "Regulatory and Start Up Specialist (Portuguese speaker)",
-      "empresa": "Precision Medicine Group",
-      "url": "https://jobicy.com/jobs/157565-regulatory-and-start-up-specialist-portuguese-speaker",
-      "publicadoEn": 1793193672000,
-      "salarioTexto": null,
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Legal & Compliance",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157563",
-      "fuente": "jobicy",
-      "titulo": "Regulatory and Start Up Specialist",
-      "empresa": "Precision Medicine Group",
-      "url": "https://jobicy.com/jobs/157563-regulatory-and-start-up-specialist",
-      "publicadoEn": 1793193670000,
-      "salarioTexto": null,
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Healthcare & Medical",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157561",
-      "fuente": "jobicy",
-      "titulo": "Project Director",
-      "empresa": "Precision Medicine Group",
-      "url": "https://jobicy.com/jobs/157561-project-director",
-      "publicadoEn": 1793193652000,
-      "salarioTexto": null,
-      "ubicacion": "Hungary, Poland, Romania, Serbia, Slovakia, Spain, UK",
-      "etiquetas": [
-        "Project & Program Management",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "157558",
-      "fuente": "jobicy",
-      "titulo": "Principal/Senior Clinical Data Scientist",
-      "empresa": "Precision Medicine Group",
-      "url": "https://jobicy.com/jobs/157558-principal-senior-clinical-data-scientist",
-      "publicadoEn": 1793193648000,
-      "salarioTexto": null,
-      "ubicacion": "Hungary, Poland, Romania, Serbia, Slovakia, Spain, UK",
-      "etiquetas": [
-        "Healthcare & Medical",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157554",
-      "fuente": "jobicy",
-      "titulo": "Staff Analytics Engineer",
-      "empresa": "Pleo",
-      "url": "https://jobicy.com/jobs/157554-staff-analytics-engineer-2",
-      "publicadoEn": 1793193642000,
-      "salarioTexto": null,
-      "ubicacion": "Denmark, Portugal, Spain, UK",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157538",
-      "fuente": "jobicy",
-      "titulo": "Post-Production Lead",
-      "empresa": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/157538-post-production-lead",
-      "publicadoEn": 1793192090000,
-      "salarioTexto": null,
-      "ubicacion": "Belgium, Denmark, France, Germany, Ireland, Netherlands, Poland, Portugal, Spain, Switzerland, UK, USA",
-      "etiquetas": [
-        "Creative & Design",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157536",
-      "fuente": "jobicy",
-      "titulo": "ElevenMusic - Content Creator & Strategist",
-      "empresa": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/157536-elevenmusic-content-creator-strategist",
-      "publicadoEn": 1793192087000,
-      "salarioTexto": null,
-      "ubicacion": "Canada, Europe, Japan, Mexico, USA",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157535",
-      "fuente": "jobicy",
-      "titulo": "Senior Technical Product Manager - AI Compute Platform",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157535-senior-technical-product-manager-ai-compute-platform",
-      "publicadoEn": 1793192085000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Product & Operations",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157533",
-      "fuente": "jobicy",
-      "titulo": "Senior Systems HPC Engineer",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157533-senior-systems-hpc-engineer",
-      "publicadoEn": 1793192082000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157531",
-      "fuente": "jobicy",
-      "titulo": "Senior System Engineer (CloudGate)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157531-senior-system-engineer-cloudgate",
-      "publicadoEn": 1793192079000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157528",
-      "fuente": "jobicy",
-      "titulo": "Senior/Staff Application Security Engineer",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157528-senior-staff-application-security-engineer",
-      "publicadoEn": 1793192045000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Cybersecurity",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157525",
-      "fuente": "jobicy",
-      "titulo": "Senior Software Engineer (YDB Team)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157525-senior-software-engineer-ydb-team",
-      "publicadoEn": 1793192042000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157523",
-      "fuente": "jobicy",
-      "titulo": "Account Manager - Southern Europe",
-      "empresa": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/157523-account-manager-southern-europe",
-      "publicadoEn": 1793192040000,
-      "salarioTexto": null,
-      "ubicacion": "Italy, Spain",
-      "etiquetas": [
-        "Sales",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "157522",
-      "fuente": "jobicy",
-      "titulo": "Senior Software Engineer (Agentic Search) – Web Rendering (Chromium)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157522-senior-software-engineer-agentic-search-web-rendering-chromium",
-      "publicadoEn": 1793192039000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, Israel",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157519",
-      "fuente": "jobicy",
-      "titulo": "Senior Site Reliability Engineer — Token Factory (Inference Platform)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157519-senior-site-reliability-engineer-token-factory-inference-platform",
-      "publicadoEn": 1793192007000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157517",
-      "fuente": "jobicy",
-      "titulo": "Account Executive - Spain - Mid-Market",
-      "empresa": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/157517-account-executive-spain-mid-market",
-      "publicadoEn": 1793192004000,
-      "salarioTexto": null,
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "157516",
-      "fuente": "jobicy",
-      "titulo": "Senior Site Reliability Engineer (SRE, Compute Node Team)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157516-senior-site-reliability-engineer-sre-compute-node-team",
-      "publicadoEn": 1793192002000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157513",
-      "fuente": "jobicy",
-      "titulo": "Senior Site Reliability Engineer (SRE)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157513-senior-site-reliability-engineer-sre",
-      "publicadoEn": 1793191999000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, Israel",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157510",
-      "fuente": "jobicy",
-      "titulo": "Senior Site Reliability Engineer (DevTools)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157510-senior-site-reliability-engineer-devtools",
-      "publicadoEn": 1793191971000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, Israel",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157507",
-      "fuente": "jobicy",
-      "titulo": "Senior Sales Engineer - Token Factory",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157507-senior-sales-engineer-token-factory",
-      "publicadoEn": 1793191967000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157502",
-      "fuente": "jobicy",
-      "titulo": "Senior Product Designer - Compute, Nebius Console",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/157502-senior-product-designer-compute-nebius-console",
-      "publicadoEn": 1793191961000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Web, UI & UX Design",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "carrot-sr-data-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Sr. Data Engineer",
-      "empresa": "Carrot",
-      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
-      "publicadoEn": 1793172673000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -3777,13 +3932,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 9108,
-      "remotive": 1266,
-      "weworkremotely": 8159,
-      "himalayas": 1840,
-      "jobicy": 4150
+      "remoteok": 9207,
+      "remotive": 1277,
+      "weworkremotely": 8254,
+      "himalayas": 1860,
+      "jobicy": 4200
     },
-    "duplicadosDescartados": 21608,
-    "ultimaEjecucion": "2026-10-28T22:33:41.449Z"
+    "duplicadosDescartados": 21861,
+    "ultimaEjecucion": "2026-10-29T05:45:32.990Z"
   }
 }
