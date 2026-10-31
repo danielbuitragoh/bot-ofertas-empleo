@@ -3207,9 +3207,535 @@
     "nash::enterprise account executive uk eu",
     "playson::senior game developer",
     "enode::engineering manager",
-    "elevenlabs::transcription subtitling specialist freelance"
+    "elevenlabs::transcription subtitling specialist freelance",
+    "cai::contract recruiter",
+    "cloudary sas::aws cloud solutions architect",
+    "anduril industries::senior ta operations specialist",
+    "teksynap::application database administrator w secret clearance",
+    "axon::sr technical support representative",
+    "improvado::senior revops engineer",
+    "observeai::enterprise account executive",
+    "dexcom::senior algorithm engineer sensing algorithms",
+    "african climate foundation::programme officer transport africa",
+    "gitlab::senior professional services project manager emea",
+    "xenopsi::executive creative director",
+    "sweat pants agency::google ads media buyer growth strategist",
+    "agentify::especialista de ventas call center en espanol venezuela virtual",
+    "valce talent solutions::sales agent",
+    "allcares::senior ai engineer",
+    "dynata::general manager dynata",
+    "huzzle::google ads specialist",
+    "sphere::systems engineer platform deployment operations",
+    "bright vision technologies::infrastructure engineer automation",
+    "ntara::developer guatemala",
+    "nvidia::senior compiler engineer rust gpu",
+    "an epic adventure::remote reservation manager",
+    "j d power::senior grc engineer",
+    "sipcam agro usa::canadian commercial manager",
+    "alkami technology inc::compliance specialist",
+    "givedirectly::technical program associate or manager",
+    "givedirectly::senior data scientist mno data",
+    "ajax systems::business development manager sub saharan africa",
+    "givedirectly::director talent management",
+    "ashby::recruiting operations consultant"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "1137607",
+      "fuente": "remoteok",
+      "titulo": "Contract Recruiter",
+      "empresa": "CAI",
+      "url": "https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607",
+      "publicadoEn": 1793376015000,
+      "salarioTexto": null,
+      "ubicacion": "Australia",
+      "etiquetas": [
+        "sys admin",
+        "technical",
+        "recruiter",
+        "customer support",
+        "quality assurance",
+        "exec",
+        "ops",
+        "biotech",
+        "engineer",
+        "ads"
+      ]
+    },
+    {
+      "idFuente": "1137606",
+      "fuente": "remoteok",
+      "titulo": "AWS Cloud Solutions Architect",
+      "empresa": "Cloudary SAS",
+      "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+      "publicadoEn": 1793376006000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "architecture",
+        "design",
+        "ansible",
+        "infosec",
+        "docker",
+        "technical",
+        "dev",
+        "exec",
+        "serverless",
+        "cloud",
+        "postgres",
+        "sql",
+        "api",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "anduril-industries-senior-ta-operations-specialist",
+      "fuente": "weworkremotely",
+      "titulo": "Senior TA Operations Specialist",
+      "empresa": "Anduril Industries",
+      "url": "https://weworkremotely.com/remote-jobs/anduril-industries-senior-ta-operations-specialist",
+      "publicadoEn": 1793462420000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "teksynap-application-database-administrator-w-secret-clearance",
+      "fuente": "weworkremotely",
+      "titulo": "Application Database Administrator w/Secret Clearance",
+      "empresa": "TekSynap",
+      "url": "https://weworkremotely.com/remote-jobs/teksynap-application-database-administrator-w-secret-clearance",
+      "publicadoEn": 1793462418000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "axon-sr-technical-support-representative",
+      "fuente": "weworkremotely",
+      "titulo": "Sr Technical Support Representative",
+      "empresa": "Axon",
+      "url": "https://weworkremotely.com/remote-jobs/axon-sr-technical-support-representative",
+      "publicadoEn": 1793462416000,
+      "salarioTexto": null,
+      "ubicacion": "Canada Only",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "improvado/senior-revops-engineer-6065679128",
+      "fuente": "himalayas",
+      "titulo": "Senior RevOps Engineer",
+      "empresa": "Improvado",
+      "url": "https://himalayas.app/companies/improvado/jobs/senior-revops-engineer-6065679128?utm_source=api",
+      "publicadoEn": 1793480638000,
+      "salarioTexto": null,
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Revenue-Operations-Engineer",
+        "Sales-Operations-Engineer",
+        "GTM-Engineer",
+        "Revenue-Operations-Manager"
+      ]
+    },
+    {
+      "idFuente": "observeai/enterprise-account-executive",
+      "fuente": "himalayas",
+      "titulo": "Enterprise Account Executive",
+      "empresa": "ObserveAI",
+      "url": "https://himalayas.app/companies/observeai/jobs/enterprise-account-executive?utm_source=api",
+      "publicadoEn": 1793480638000,
+      "salarioTexto": "USD 270,000 - 300,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Enterprise-Account-Executive",
+        "Account-Executive",
+        "Enterprise-Sales-Executive",
+        "Saas-Account-Executive"
+      ]
+    },
+    {
+      "idFuente": "dexcom/senior-algorithm-engineer-sensing-algorithms",
+      "fuente": "himalayas",
+      "titulo": "Senior Algorithm Engineer - Sensing Algorithms",
+      "empresa": "Dexcom",
+      "url": "https://himalayas.app/companies/dexcom/jobs/senior-algorithm-engineer-sensing-algorithms?utm_source=api",
+      "publicadoEn": 1793480617000,
+      "salarioTexto": "USD 111,100 - 185,100",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Algorithm-Engineer",
+        "Algorithms-Engineer",
+        "Signal-Processing-Engineer",
+        "Machine-Learning-Engineer",
+        "Medical-Device-Engineer"
+      ]
+    },
+    {
+      "idFuente": "african-climate-foundation/programme-officer-transport-africa",
+      "fuente": "himalayas",
+      "titulo": "Programme Officer – Transport (Africa)",
+      "empresa": "African Climate Foundation",
+      "url": "https://himalayas.app/companies/african-climate-foundation/jobs/programme-officer-transport-africa?utm_source=api",
+      "publicadoEn": 1793480526000,
+      "salarioTexto": null,
+      "ubicacion": "Algeria, Angola, Benin, Botswana, British Indian Ocean Territory, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Côte d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe",
+      "etiquetas": [
+        "Program-Officer",
+        "Transport-Officer",
+        "Climate-Program-Officer",
+        "Sustainability-Programme-Officer",
+        "Development-Programme-Officer"
+      ]
+    },
+    {
+      "idFuente": "gitlab-com/senior-professional-services-project-manager-emea",
+      "fuente": "himalayas",
+      "titulo": "Senior Professional Services Project Manager (EMEA)",
+      "empresa": "GitLab",
+      "url": "https://himalayas.app/companies/gitlab-com/jobs/senior-professional-services-project-manager-emea?utm_source=api",
+      "publicadoEn": 1793480496000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Senior-Project-Manager",
+        "Professional-Services-Project-Manager",
+        "IT-Project-Manager",
+        "Consulting-Project-Manager",
+        "Technical-Project-Manager"
+      ]
+    },
+    {
+      "idFuente": "xenopsi/executive-creative-director",
+      "fuente": "himalayas",
+      "titulo": "Executive Creative Director",
+      "empresa": "XenoPsi",
+      "url": "https://himalayas.app/companies/xenopsi/jobs/executive-creative-director?utm_source=api",
+      "publicadoEn": 1793480496000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Executive-Creative-Director",
+        "Creative-Director",
+        "Brand-Creative-Director",
+        "Art-Director",
+        "Creative-Services-Director"
+      ]
+    },
+    {
+      "idFuente": "sweat-pants-agency/google-ads-media-buyer-growth-strategist-6567975122",
+      "fuente": "himalayas",
+      "titulo": "Google Ads Media Buyer / Growth Strategist",
+      "empresa": "Sweat Pants Agency",
+      "url": "https://himalayas.app/companies/sweat-pants-agency/jobs/google-ads-media-buyer-growth-strategist-6567975122?utm_source=api",
+      "publicadoEn": 1793480454000,
+      "salarioTexto": null,
+      "ubicacion": "Romania",
+      "etiquetas": [
+        "Media-Buyer",
+        "Performance-Marketing-Manager",
+        "Growth-Strategist",
+        "Paid-Media-Manager",
+        "Google-Ads-Specialist"
+      ]
+    },
+    {
+      "idFuente": "agentify/especialista-de-ventas-call-center-en-espanol-venezuela-virtual",
+      "fuente": "himalayas",
+      "titulo": "Especialista de Ventas Call Center en Español - Venezuela - Virtual",
+      "empresa": "Agentify",
+      "url": "https://himalayas.app/companies/agentify/jobs/especialista-de-ventas-call-center-en-espanol-venezuela-virtual?utm_source=api",
+      "publicadoEn": 1793480454000,
+      "salarioTexto": null,
+      "ubicacion": "Venezuela",
+      "etiquetas": [
+        "Sales-Specialist",
+        "Call-Center-Representative",
+        "Sales",
+        "Customer-Service",
+        "Account-Executive"
+      ]
+    },
+    {
+      "idFuente": "valce-talent-solutions/sales-agent-8646117437",
+      "fuente": "himalayas",
+      "titulo": "Sales Agent",
+      "empresa": "Valce Talent Solutions",
+      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/sales-agent-8646117437?utm_source=api",
+      "publicadoEn": 1793480440000,
+      "salarioTexto": "USD 1,000 - 1,000",
+      "ubicacion": "Mexico",
+      "etiquetas": [
+        "Sales-Agent",
+        "Sales",
+        "Remote-Sales-Representative"
+      ]
+    },
+    {
+      "idFuente": "allcares/senior-ai-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior AI Engineer",
+      "empresa": "AllCares",
+      "url": "https://himalayas.app/companies/allcares/jobs/senior-ai-engineer?utm_source=api",
+      "publicadoEn": 1793480415000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Senior-AI-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "LLM-Engineer",
+        "Applied-Scientist"
+      ]
+    },
+    {
+      "idFuente": "dynata/general-manager-dynata",
+      "fuente": "himalayas",
+      "titulo": "General Manager, Dynata+",
+      "empresa": "Dynata",
+      "url": "https://himalayas.app/companies/dynata/jobs/general-manager-dynata?utm_source=api",
+      "publicadoEn": 1793480407000,
+      "salarioTexto": "USD 180,000 - 230,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "General-Manager",
+        "Platform-General-Manager",
+        "SaaS-General-Manager",
+        "Product-Platform-Manager",
+        "VP-Of-Product"
+      ]
+    },
+    {
+      "idFuente": "huzzle/google-ads-specialist-5129963677",
+      "fuente": "himalayas",
+      "titulo": "Google Ads Specialist",
+      "empresa": "Huzzle",
+      "url": "https://himalayas.app/companies/huzzle/jobs/google-ads-specialist-5129963677?utm_source=api",
+      "publicadoEn": 1793480407000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Google-Ads-Specialist",
+        "PPC-Specialist",
+        "Digital-Marketing-Specialist",
+        "Performance-Marketing-Specialist",
+        "Paid-Search-Specialist"
+      ]
+    },
+    {
+      "idFuente": "sphere/systems-engineer-platform-deployment-operations",
+      "fuente": "himalayas",
+      "titulo": "Systems Engineer – Platform Deployment Operations",
+      "empresa": "Sphere",
+      "url": "https://himalayas.app/companies/sphere/jobs/systems-engineer-platform-deployment-operations?utm_source=api",
+      "publicadoEn": 1793480373000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Systems-Engineer",
+        "Infrastructure-Engineer",
+        "Deployment-Engineer",
+        "Platform-Engineer",
+        "Systems-Administrator"
+      ]
+    },
+    {
+      "idFuente": "bright-vision-technologies/infrastructure-engineer-automation-336588810",
+      "fuente": "himalayas",
+      "titulo": "Infrastructure Engineer – Automation",
+      "empresa": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/infrastructure-engineer-automation-336588810?utm_source=api",
+      "publicadoEn": 1793480373000,
+      "salarioTexto": "USD 100,000 - 150,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Infrastructure-Engineer",
+        "DevOps-Engineer",
+        "Cloud-Engineer",
+        "Automation-Engineer",
+        "Infrastructure-Automation-Engineer"
+      ]
+    },
+    {
+      "idFuente": "ntara/developer-guatemala",
+      "fuente": "himalayas",
+      "titulo": "Developer - Guatemala",
+      "empresa": "Ntara",
+      "url": "https://himalayas.app/companies/ntara/jobs/developer-guatemala?utm_source=api",
+      "publicadoEn": 1793480372000,
+      "salarioTexto": null,
+      "ubicacion": "Guatemala",
+      "etiquetas": [
+        "Developer",
+        ".NET-Developer",
+        "Software-Developer",
+        "Backend-Engineer",
+        "Web-Developer"
+      ]
+    },
+    {
+      "idFuente": "nvidia/senior-compiler-engineer-rust-gpu",
+      "fuente": "himalayas",
+      "titulo": "Senior Compiler Engineer – Rust GPU",
+      "empresa": "NVIDIA",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-compiler-engineer-rust-gpu?utm_source=api",
+      "publicadoEn": 1793480247000,
+      "salarioTexto": "USD 152,000 - 241,500",
+      "ubicacion": "Canada, United States",
+      "etiquetas": [
+        "Compiler-Engineer",
+        "GPU-Compiler-Engineering",
+        "Systems-Software-Engineer",
+        "Programming-Language-Specialist",
+        "Software-Engineer"
+      ]
+    },
+    {
+      "idFuente": "an-epic-adventure/remote-reservation-manager",
+      "fuente": "himalayas",
+      "titulo": "Remote Reservation Manager",
+      "empresa": "AN EPIC ADVENTURE",
+      "url": "https://himalayas.app/companies/an-epic-adventure/jobs/remote-reservation-manager?utm_source=api",
+      "publicadoEn": 1793480236000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Reservation-Manager",
+        "Travel-Manager",
+        "Travel-Consultant",
+        "Client-Services-Manager"
+      ]
+    },
+    {
+      "idFuente": "j-d-power/senior-grc-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior GRC Engineer",
+      "empresa": "J.D. Power",
+      "url": "https://himalayas.app/companies/j-d-power/jobs/senior-grc-engineer?utm_source=api",
+      "publicadoEn": 1793480230000,
+      "salarioTexto": "USD 120,000 - 145,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "GRC-Engineer",
+        "Governance-Risk-and-Compliance-Engineer",
+        "Compliance-Engineer",
+        "Security-Compliance-Engineer",
+        "Risk-Management-Engineer"
+      ]
+    },
+    {
+      "idFuente": "sipcam-agro-usa/canadian-commercial-manager",
+      "fuente": "himalayas",
+      "titulo": "Canadian Commercial Manager",
+      "empresa": "Sipcam Agro USA",
+      "url": "https://himalayas.app/companies/sipcam-agro-usa/jobs/canadian-commercial-manager?utm_source=api",
+      "publicadoEn": 1793480219000,
+      "salarioTexto": null,
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Commercial-Manager",
+        "Country-Manager",
+        "Sales-Manager",
+        "Regional-Sales-Manager",
+        "Business-Manager"
+      ]
+    },
+    {
+      "idFuente": "alkami-technology-inc/compliance-specialist",
+      "fuente": "himalayas",
+      "titulo": "Compliance Specialist",
+      "empresa": "Alkami Technology, Inc.",
+      "url": "https://himalayas.app/companies/alkami-technology-inc/jobs/compliance-specialist?utm_source=api",
+      "publicadoEn": 1793480219000,
+      "salarioTexto": "USD 72,000 - 90,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Compliance-Specialist",
+        "Compliance-Analyst",
+        "Risk-And-Compliance-Specialist",
+        "GRC-Analyst"
+      ]
+    },
+    {
+      "idFuente": "158248",
+      "fuente": "jobicy",
+      "titulo": "Technical Program Associate or Manager",
+      "empresa": "GiveDirectly",
+      "url": "https://jobicy.com/jobs/158248-technical-program-associate-or-manager",
+      "publicadoEn": 1793466252000,
+      "salarioTexto": "USD 92,400 - 107,070",
+      "ubicacion": "Canada, Germany, Netherlands, Poland, Portugal, Spain, Türkiye, UK, USA",
+      "etiquetas": [
+        "Project & Program Management",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158241",
+      "fuente": "jobicy",
+      "titulo": "Senior Data Scientist, MNO Data",
+      "empresa": "GiveDirectly",
+      "url": "https://jobicy.com/jobs/158241-senior-data-scientist-mno-data",
+      "publicadoEn": 1793466242000,
+      "salarioTexto": "USD 107,070",
+      "ubicacion": "Canada, Germany, Netherlands, Poland, Portugal, Spain, Türkiye, UK, USA",
+      "etiquetas": [
+        "Data Science & Analytics",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158236",
+      "fuente": "jobicy",
+      "titulo": "Business Development Manager (Sub-Saharan Africa)",
+      "empresa": "Ajax Systems",
+      "url": "https://jobicy.com/jobs/158236-business-development-manager-sub-saharan-africa",
+      "publicadoEn": 1793466208000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "Business Development",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "158221",
+      "fuente": "jobicy",
+      "titulo": "Director, Talent Management",
+      "empresa": "GiveDirectly",
+      "url": "https://jobicy.com/jobs/158221-director-talent-management",
+      "publicadoEn": 1793466168000,
+      "salarioTexto": "USD 134,400",
+      "ubicacion": "Canada, Germany, Netherlands, Poland, Portugal, South Korea, Spain, Türkiye, UK, USA",
+      "etiquetas": [
+        "HR & Recruiting",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "158170",
+      "fuente": "jobicy",
+      "titulo": "Recruiting Operations Consultant",
+      "empresa": "Ashby",
+      "url": "https://jobicy.com/jobs/158170-recruiting-operations-consultant",
+      "publicadoEn": 1793441351000,
+      "salarioTexto": "EUR 102,000 - 142,375",
+      "ubicacion": "Europe",
+      "etiquetas": [
+        "Customer Support & Success",
+        "Senior"
+      ]
+    },
     {
       "idFuente": "2091165",
       "fuente": "remotive",
@@ -3517,477 +4043,6 @@
         "Subcontract-Administration",
         "Contracting-Administrator"
       ]
-    },
-    {
-      "idFuente": "workday/sr-divisional-strategy-consultant-work-from-home",
-      "fuente": "himalayas",
-      "titulo": "Sr Divisional Strategy Consultant - Work From Home",
-      "empresa": "Workday",
-      "url": "https://himalayas.app/companies/workday/jobs/sr-divisional-strategy-consultant-work-from-home?utm_source=api",
-      "publicadoEn": 1793446040000,
-      "salarioTexto": "USD 69,800 - 125,900",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Strategy-Consultant",
-        "Business-Strategy-Consultant",
-        "Divisional-Strategy-Consultant",
-        "Strategic-Planning-Consultant",
-        "Healthcare-Consultant",
-        "Senior-Strategy-Consultant",
-        "Remote-Strategic-Consultant"
-      ]
-    },
-    {
-      "idFuente": "alignment-health/medical-director-utilization-management-5852769228",
-      "fuente": "himalayas",
-      "titulo": "Medical Director, Utilization Management",
-      "empresa": "Alignment Health",
-      "url": "https://himalayas.app/companies/alignment-health/jobs/medical-director-utilization-management-5852769228?utm_source=api",
-      "publicadoEn": 1793446039000,
-      "salarioTexto": "USD 262,145 - 393,217",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Medical-Director",
-        "Physician-Advisor",
-        "Utilization-Management",
-        "Clinical-Operations",
-        "Medical-Director-Utilization-Management",
-        "Utilization-Management-Director",
-        "Managed-Care-Medical-Director"
-      ]
-    },
-    {
-      "idFuente": "globelifeinsurance/agent-recruiter",
-      "fuente": "himalayas",
-      "titulo": "Agent Recruiter",
-      "empresa": "Global Elite",
-      "url": "https://himalayas.app/companies/globelifeinsurance/jobs/agent-recruiter?utm_source=api",
-      "publicadoEn": 1793446030000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Agent-Recruiter",
-        "Recruiter",
-        "Talent-Acquisition-Specialist",
-        "Insurance-Recruiter",
-        "Agent-Recruiting",
-        "Agency-Recruiter",
-        "Agency-Recruiting",
-        "Talent-Recruiter",
-        "Real-Estate-Recruiter"
-      ]
-    },
-    {
-      "idFuente": "asialocalize/collaboration-opportunity-linguists-language-specialists-6259518551",
-      "fuente": "himalayas",
-      "titulo": "Collaboration Opportunity – Linguists & Language Specialists",
-      "empresa": "AsiaLocalize",
-      "url": "https://himalayas.app/companies/asialocalize/jobs/collaboration-opportunity-linguists-language-specialists-6259518551?utm_source=api",
-      "publicadoEn": 1793446018000,
-      "salarioTexto": null,
-      "ubicacion": "China, Mexico",
-      "etiquetas": [
-        "Linguist",
-        "Language-Specialist",
-        "Translator",
-        "Freelance-Translator",
-        "Localization-Specialist"
-      ]
-    },
-    {
-      "idFuente": "parexel/medical-director-rheumatology",
-      "fuente": "himalayas",
-      "titulo": "Medical Director - Rheumatology",
-      "empresa": "Parexel",
-      "url": "https://himalayas.app/companies/parexel/jobs/medical-director-rheumatology?utm_source=api",
-      "publicadoEn": 1793445895000,
-      "salarioTexto": null,
-      "ubicacion": "Serbia",
-      "etiquetas": [
-        "Medical-Director",
-        "Clinical-Research-Medical-Director",
-        "Rheumatologist",
-        "Pharmaceutical-Medical-Director"
-      ]
-    },
-    {
-      "idFuente": "standard-bank-group/cash-operations-manager",
-      "fuente": "himalayas",
-      "titulo": "Cash Operations Manager",
-      "empresa": "Standard Bank Group",
-      "url": "https://himalayas.app/companies/standard-bank-group/jobs/cash-operations-manager?utm_source=api",
-      "publicadoEn": 1793445849000,
-      "salarioTexto": null,
-      "ubicacion": "Zimbabwe",
-      "etiquetas": [
-        "Cash-Operations-Management",
-        "ATM-Operations-Manager",
-        "Branch-Operations-Manager",
-        "Cash-Management-Officer",
-        "Banking-Operations-Manager"
-      ]
-    },
-    {
-      "idFuente": "bright-vision-technologies/software-development-engineer-in-test-2138751074",
-      "fuente": "himalayas",
-      "titulo": "Software Development Engineer in Test",
-      "empresa": "Bright Vision Technologies",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/software-development-engineer-in-test-2138751074?utm_source=api",
-      "publicadoEn": 1793445840000,
-      "salarioTexto": "USD 85,000 - 100,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Software-Engineer-in-Test",
-        "QA-Automation-Engineer",
-        "Automation-Testing",
-        "Software-Test-Engineer"
-      ]
-    },
-    {
-      "idFuente": "autodesk/revenue-analyst",
-      "fuente": "himalayas",
-      "titulo": "Revenue Analyst",
-      "empresa": "Autodesk",
-      "url": "https://himalayas.app/companies/autodesk/jobs/revenue-analyst?utm_source=api",
-      "publicadoEn": 1793445819000,
-      "salarioTexto": "USD 76,000 - 135,520",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Accounting-Revenue-Analyst",
-        "Revenue-Accountant",
-        "Accounting-Analyst",
-        "Revenue-Analyst"
-      ]
-    },
-    {
-      "idFuente": "incubator-lab/content-manager-social",
-      "fuente": "himalayas",
-      "titulo": "Content Manager, Social",
-      "empresa": "Incubator Lab",
-      "url": "https://himalayas.app/companies/incubator-lab/jobs/content-manager-social?utm_source=api",
-      "publicadoEn": 1793445819000,
-      "salarioTexto": "USD 65,000 - 75,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Social-Media-Manager",
-        "Content-Manager",
-        "Social-Media-Content-Manager"
-      ]
-    },
-    {
-      "idFuente": "pigment/solutions-architect-epm-nordics",
-      "fuente": "himalayas",
-      "titulo": "Solutions Architect, EPM - Nordics",
-      "empresa": "Pigment",
-      "url": "https://himalayas.app/companies/pigment/jobs/solutions-architect-epm-nordics?utm_source=api",
-      "publicadoEn": 1793445819000,
-      "salarioTexto": null,
-      "ubicacion": "Sweden",
-      "etiquetas": [
-        "Solutions-Architect",
-        "Enterprise-Planning-Consultant",
-        "Business-Planning-Consultant",
-        "Performance-Management-Consultant",
-        "Technical-Consultant"
-      ]
-    },
-    {
-      "idFuente": "chapters-health-system/rn-triage-part-time",
-      "fuente": "himalayas",
-      "titulo": "RN, Triage - Part-time",
-      "empresa": "Chapters Health System",
-      "url": "https://himalayas.app/companies/chapters-health-system/jobs/rn-triage-part-time?utm_source=api",
-      "publicadoEn": 1793445726000,
-      "salarioTexto": "USD 32.69 - 51.08",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Registered-Nurse",
-        "Triage-Nurse",
-        "Telephone-Triage-Nurse",
-        "Hospice-Nurse"
-      ]
-    },
-    {
-      "idFuente": "crowdstrike/sr-finance-transformation-manager",
-      "fuente": "himalayas",
-      "titulo": "Sr. Finance Transformation Manager",
-      "empresa": "Crowdstrike",
-      "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-finance-transformation-manager?utm_source=api",
-      "publicadoEn": 1793445697000,
-      "salarioTexto": "USD 145,000 - 220,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Finance-Transformation-Manager",
-        "Finance-Transformation-Consultant",
-        "Financial-Planning-And-Analysis-Manager"
-      ]
-    },
-    {
-      "idFuente": "tnt-growth/growth-marketing-associate-paid-social",
-      "fuente": "himalayas",
-      "titulo": "Growth Marketing Associate (Paid Social)",
-      "empresa": "TNT Growth",
-      "url": "https://himalayas.app/companies/tnt-growth/jobs/growth-marketing-associate-paid-social?utm_source=api",
-      "publicadoEn": 1793445668000,
-      "salarioTexto": "USD 55,000 - 75,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Growth-and-Marketing-Associate",
-        "Paid-Social-Media-Manager",
-        "Performance-Marketing-Manager",
-        "Digital-Marketing-Specialist",
-        "Paid-Media-Specialist"
-      ]
-    },
-    {
-      "idFuente": "proofpoint/senior-named-account-manager",
-      "fuente": "himalayas",
-      "titulo": "Senior Named Account Manager",
-      "empresa": "Proofpoint",
-      "url": "https://himalayas.app/companies/proofpoint/jobs/senior-named-account-manager?utm_source=api",
-      "publicadoEn": 1793445610000,
-      "salarioTexto": null,
-      "ubicacion": "India",
-      "etiquetas": [
-        "Account-Manager",
-        "Named-Account-Manager",
-        "Enterprise-Account-Manager",
-        "Key-Account-Manager",
-        "Sales-Executive"
-      ]
-    },
-    {
-      "idFuente": "s-p-global/sales-compensation-analyst-strategic-incentive-programs-payee-lifecycle",
-      "fuente": "himalayas",
-      "titulo": "Sales Compensation Analyst (Strategic Incentive Programs & Payee Lifecycle)",
-      "empresa": "S&P Global",
-      "url": "https://himalayas.app/companies/s-p-global/jobs/sales-compensation-analyst-strategic-incentive-programs-payee-lifecycle?utm_source=api",
-      "publicadoEn": 1793445566000,
-      "salarioTexto": "USD 70,817 - 125,091",
-      "ubicacion": "United Kingdom",
-      "etiquetas": [
-        "Sales-Compensation-Analyst",
-        "Compensation-Analyst",
-        "Incentive-Program-Manager",
-        "Sales-Operations-Analyst"
-      ]
-    },
-    {
-      "idFuente": "qualfon/vice-president-business-development-3pl-fulfillment",
-      "fuente": "himalayas",
-      "titulo": "Vice President, Business Development - 3PL & Fulfillment",
-      "empresa": "Qualfon",
-      "url": "https://himalayas.app/companies/qualfon/jobs/vice-president-business-development-3pl-fulfillment?utm_source=api",
-      "publicadoEn": 1793445550000,
-      "salarioTexto": "USD 100,000 - 150,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Vice-President-Of-Business-Development",
-        "Business-Development-Director",
-        "Sales-Director",
-        "Business-Development-Manager"
-      ]
-    },
-    {
-      "idFuente": "fis/senior-sales-executive-card-issuing-solutions",
-      "fuente": "himalayas",
-      "titulo": "Senior Sales Executive, Card Issuing Solutions",
-      "empresa": "FIS",
-      "url": "https://himalayas.app/companies/fis/jobs/senior-sales-executive-card-issuing-solutions?utm_source=api",
-      "publicadoEn": 1793445549000,
-      "salarioTexto": "USD 110,500 - 187,850",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Sales-Executive",
-        "Account-Executive",
-        "Payment-Sales-Executive",
-        "Business-Development-Executive",
-        "Banking-Solutions-Sales"
-      ]
-    },
-    {
-      "idFuente": "flexport/senior-it-systems-engineer-1065684461",
-      "fuente": "himalayas",
-      "titulo": "Senior IT Systems Engineer",
-      "empresa": "Flexport",
-      "url": "https://himalayas.app/companies/flexport/jobs/senior-it-systems-engineer-1065684461?utm_source=api",
-      "publicadoEn": 1793445408000,
-      "salarioTexto": "USD 105,600 - 172,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "IT-Systems-Engineer",
-        "Systems-Engineer",
-        "Systems-Administrator",
-        "IT-Support-Engineer"
-      ]
-    },
-    {
-      "idFuente": "158155",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Danish",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158155-ai-trainers-network-danish",
-      "publicadoEn": 1793437912000,
-      "salarioTexto": null,
-      "ubicacion": "Denmark, France, Germany, Spain, Sweden, UK, USA",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158149",
-      "fuente": "jobicy",
-      "titulo": "Merchant Support Specialist",
-      "empresa": "Polar",
-      "url": "https://jobicy.com/jobs/158149-merchant-support-specialist",
-      "publicadoEn": 1793437890000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Technical Support",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158146",
-      "fuente": "jobicy",
-      "titulo": "Vice President, International",
-      "empresa": "Toptal",
-      "url": "https://jobicy.com/jobs/158146-vice-president-international",
-      "publicadoEn": 1793437887000,
-      "salarioTexto": null,
-      "ubicacion": "APAC, EMEA",
-      "etiquetas": [
-        "Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "158142",
-      "fuente": "jobicy",
-      "titulo": "Senior Campaign Manager (Temp Contract)",
-      "empresa": "Pleo",
-      "url": "https://jobicy.com/jobs/158142-senior-campaign-manager-temp-contract",
-      "publicadoEn": 1793437769000,
-      "salarioTexto": null,
-      "ubicacion": "Germany, Portugal, Spain, UK",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "158135",
-      "fuente": "jobicy",
-      "titulo": "Staff Security Operations Engineer",
-      "empresa": "Pleo",
-      "url": "https://jobicy.com/jobs/158135-staff-security-operations-engineer-2",
-      "publicadoEn": 1793437759000,
-      "salarioTexto": null,
-      "ubicacion": "Denmark, Germany, Netherlands, Portugal, Spain, Sweden, UK",
-      "etiquetas": [
-        "Cybersecurity",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "154292",
-      "fuente": "jobicy",
-      "titulo": "Growth Marketing Specialist",
-      "empresa": "saas.group",
-      "url": "https://jobicy.com/jobs/154292-growth-marketing-specialist-2",
-      "publicadoEn": 1793417968000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "154291",
-      "fuente": "jobicy",
-      "titulo": "Chief Technology Officer",
-      "empresa": "saas.group",
-      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
-      "publicadoEn": 1793417967000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "154289",
-      "fuente": "jobicy",
-      "titulo": "Chief Executive Officer",
-      "empresa": "saas.group",
-      "url": "https://jobicy.com/jobs/154289-chief-executive-officer-3",
-      "publicadoEn": 1793417965000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Product & Operations",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "154287",
-      "fuente": "jobicy",
-      "titulo": "AP Specialist",
-      "empresa": "saas.group",
-      "url": "https://jobicy.com/jobs/154287-ap-specialist",
-      "publicadoEn": 1793417964000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Finance & Accounting",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "154283",
-      "fuente": "jobicy",
-      "titulo": "Enterprise Account Executive (UK/EU)",
-      "empresa": "Nash",
-      "url": "https://jobicy.com/jobs/154283-enterprise-account-executive-uk-eu",
-      "publicadoEn": 1793417960000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, UK",
-      "etiquetas": [
-        "Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "152046",
-      "fuente": "jobicy",
-      "titulo": "Senior Game Developer",
-      "empresa": "Playson",
-      "url": "https://jobicy.com/jobs/152046-senior-game-developer",
-      "publicadoEn": 1793417708000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, Ukraine",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "152044",
-      "fuente": "jobicy",
-      "titulo": "Engineering Manager",
-      "empresa": "Enode",
-      "url": "https://jobicy.com/jobs/152044-engineering-manager-5",
-      "publicadoEn": 1793417707000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Midweight"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -4027,13 +4082,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 9900,
-      "remotive": 1362,
-      "weworkremotely": 8930,
-      "himalayas": 2000,
-      "jobicy": 4550
+      "remoteok": 9999,
+      "remotive": 1375,
+      "weworkremotely": 9029,
+      "himalayas": 2020,
+      "jobicy": 4600
     },
-    "duplicadosDescartados": 23534,
-    "ultimaEjecucion": "2026-10-31T12:25:14.496Z"
+    "duplicadosDescartados": 23785,
+    "ultimaEjecucion": "2026-10-31T21:33:02.235Z"
   }
 }
