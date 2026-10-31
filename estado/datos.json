@@ -3133,9 +3133,536 @@
     "everai::senior lead lifecycle marketing manager full remote spain",
     "bloomreach::staff software engineer",
     "shopfully::senior product manager",
-    "enode::senior design engineer"
+    "enode::senior design engineer",
+    "gev wind power::competent wind turbine technicians eu uk apac 2027",
+    "polaroid::country manager canada",
+    "destination careers::client support amp travel booking online",
+    "contently::managing editor freelance",
+    "webengage::software engineer java",
+    "webengage::senior solutions engineer",
+    "decisionpoint corporation::service desk lead",
+    "webengage::growth associate mar tech",
+    "decisionpoint corporation::security monitoring siem analyst",
+    "contently::research director freelance",
+    "openspecimen krishagni::quality analyst business analyst",
+    "wadhwani ai::machine learning scientist asr",
+    "decisionpoint corporation::cloud cybersecurity manager",
+    "webengage::strategic account manager ksa",
+    "digital jersey::relocate your business",
+    "decisionpoint corporation::senior security threat engineer",
+    "webengage::business development representative",
+    "decisionpoint corporation::configuration management lead",
+    "webengage::senior user experience designer",
+    "webengage::security engineer",
+    "init norway::senior cloud ai first engineer",
+    "webengage::performance marketer",
+    "decisionpoint corporation::vulnerability management analyst"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "1137603",
+      "fuente": "remoteok",
+      "titulo": "Competent Wind Turbine Technicians EU UK APAC 2027",
+      "empresa": "GEV Wind Power",
+      "url": "https://remoteOK.com/remote-jobs/remote-competent-wind-turbine-technicians-eu-uk-apac-2027-gev-wind-power-1137603",
+      "publicadoEn": 1793318417000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "education",
+        "technical",
+        "customer support",
+        "testing",
+        "exec",
+        "ops",
+        "medical"
+      ]
+    },
+    {
+      "idFuente": "1137602",
+      "fuente": "remoteok",
+      "titulo": "Country Manager Canada",
+      "empresa": "Polaroid",
+      "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
+      "publicadoEn": 1793318410000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "exec",
+        "education",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "finance",
+        "math",
+        "senior",
+        "ops",
+        "legal",
+        "sales"
+      ]
+    },
+    {
+      "idFuente": "1137601",
+      "fuente": "remoteok",
+      "titulo": "Client Support &amp; Travel Booking Online",
+      "empresa": "Destination Careers",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-support-amp-travel-booking-online-destination-careers-1137601",
+      "publicadoEn": 1793318403000,
+      "salarioTexto": null,
+      "ubicacion": "Ohio",
+      "etiquetas": [
+        "travel",
+        "education",
+        "customer support",
+        "virtual assistant",
+        "non tech"
+      ]
+    },
+    {
+      "idFuente": "contently/managing-editor-freelance-1917275207",
+      "fuente": "himalayas",
+      "titulo": "Managing Editor (Freelance)",
+      "empresa": "Contently",
+      "url": "https://himalayas.app/companies/contently/jobs/managing-editor-freelance-1917275207?utm_source=api",
+      "publicadoEn": 1793417341000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Managing-Editor",
+        "Editorial-Coordinator",
+        "Content-Editor",
+        "Freelance-Editor",
+        "Publishing-Editor",
+        "Editorial-Manager",
+        "Freelance-Editorial-Work",
+        "Freelance-Editing"
+      ]
+    },
+    {
+      "idFuente": "webengage/software-engineer-java",
+      "fuente": "himalayas",
+      "titulo": "Software Engineer (Java)",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/software-engineer-java?utm_source=api",
+      "publicadoEn": 1793417339000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Software-Engineer",
+        "Java-Developer",
+        "Backend-Engineer",
+        "Software-Developer",
+        "Java-Software-Engineer",
+        "IT-Software-Engineer",
+        "Software-Engineer-Developer",
+        "Developer"
+      ]
+    },
+    {
+      "idFuente": "webengage/senior-solutions-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Solutions Engineer",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/senior-solutions-engineer?utm_source=api",
+      "publicadoEn": 1793417338000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Solutions-Engineer",
+        "Solutions-Architect",
+        "Technical-Sales-Engineer",
+        "Pre-Sales-Engineer",
+        "Customer-Solutions-Engineer",
+        "Senior-Solutions-Engineer",
+        "Principal-Solutions-Engineer",
+        "Senior-Technical-Solutions-Architect",
+        "Senior-Solutions-Consultant",
+        "Technical-Solutions-Engineer",
+        "Senior-Solutions-Specialist",
+        "Solutions-Engineering-Architect"
+      ]
+    },
+    {
+      "idFuente": "decisionpoint-corporation/service-desk-lead",
+      "fuente": "himalayas",
+      "titulo": "Service Desk Lead",
+      "empresa": "DecisionPoint Corporation",
+      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/service-desk-lead?utm_source=api",
+      "publicadoEn": 1793417338000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Service-Desk-Management",
+        "IT-Support",
+        "Help-Desk-Leadership",
+        "ITSM-ITIL",
+        "IT-Operations",
+        "IT-Service-Desk-Lead",
+        "Service-Desk-Manager",
+        "IT-Service-Desk-Manager"
+      ]
+    },
+    {
+      "idFuente": "webengage/growth-associate-mar-tech-500410564",
+      "fuente": "himalayas",
+      "titulo": "Growth Associate, Mar-tech",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/growth-associate-mar-tech-500410564?utm_source=api",
+      "publicadoEn": 1793417337000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Growth-Associate",
+        "Martech",
+        "Customer-Success",
+        "Marketing-Analytics",
+        "Growth-Marketer-Associate",
+        "Growth-and-Marketing-Associate",
+        "MarTech-Associate",
+        "Entry-Level-Growth-Marketing-Associate",
+        "Growth-Operations-Associate",
+        "Growth-Specialist-Associate",
+        "Growth-Marketing-Analyst",
+        "Growth-and-Outreach-Associate",
+        "Growth",
+        "Marketing",
+        "Operations"
+      ]
+    },
+    {
+      "idFuente": "decisionpoint-corporation/security-monitoring-siem-analyst",
+      "fuente": "himalayas",
+      "titulo": "Security Monitoring / SIEM Analyst",
+      "empresa": "DecisionPoint Corporation",
+      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/security-monitoring-siem-analyst?utm_source=api",
+      "publicadoEn": 1793417337000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Security-Monitoring",
+        "SIEM-Analyst",
+        "SOC-Analyst",
+        "Cybersecurity-Operations",
+        "Threat-Analysis",
+        "Security-Information-And-Event-Management-(SIEM)-Specialist",
+        "SIEM-Platform-Security-Engineer",
+        "Security-Operations-Center-Analyst",
+        "SIEM-Engineer"
+      ]
+    },
+    {
+      "idFuente": "contently/research-director-freelance-3897500556",
+      "fuente": "himalayas",
+      "titulo": "Research Director (Freelance)",
+      "empresa": "Contently",
+      "url": "https://himalayas.app/companies/contently/jobs/research-director-freelance-3897500556?utm_source=api",
+      "publicadoEn": 1793417337000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Research-Director",
+        "Market-Research",
+        "Consumer-Insights",
+        "Marketing-Research",
+        "Content-Strategy",
+        "Director-Of-Research",
+        "Senior-Director-Research",
+        "Market-Research-Director",
+        "Strategy-and-Research-Director",
+        "Head-Of-Research"
+      ]
+    },
+    {
+      "idFuente": "openspecimen-krishagni/quality-analyst-business-analyst",
+      "fuente": "himalayas",
+      "titulo": "Quality analyst / Business analyst",
+      "empresa": "OpenSpecimen (Krishagni)",
+      "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+      "publicadoEn": 1793417337000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Quality-Analyst",
+        "Business-Analyst",
+        "Software-Testing",
+        "Clinical-Research",
+        "Biobanking",
+        "Quality-Management-Analyst",
+        "Quality-Process-Analyst",
+        "Business-QA-Analyst",
+        "Quality-Testing-Analyst",
+        "IT-Quality-Analyst",
+        "Quality-Systems-Analyst",
+        "QA-Analyst",
+        "IT-Quality-Assurance-Analyst"
+      ]
+    },
+    {
+      "idFuente": "wadhwani-ai/machine-learning-scientist-asr",
+      "fuente": "himalayas",
+      "titulo": "Machine Learning Scientist (ASR)",
+      "empresa": "Wadhwani AI",
+      "url": "https://himalayas.app/companies/wadhwani-ai/jobs/machine-learning-scientist-asr?utm_source=api",
+      "publicadoEn": 1793417329000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Machine-Learning-Scientist",
+        "Research-Scientist",
+        "Applied-AI-Researcher",
+        "Speech-Scientist",
+        "Data-Scientist",
+        "Senior-Machine-Learning-Scientist",
+        "Machine-Learning-Research-Scientist",
+        "Applied-Machine-Learning-Scientist",
+        "Lead-Machine-Learning-Scientist"
+      ]
+    },
+    {
+      "idFuente": "decisionpoint-corporation/cloud-cybersecurity-manager",
+      "fuente": "himalayas",
+      "titulo": "Cloud Cybersecurity Manager",
+      "empresa": "DecisionPoint Corporation",
+      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/cloud-cybersecurity-manager?utm_source=api",
+      "publicadoEn": 1793417329000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Cloud-Security",
+        "Cybersecurity-Management",
+        "Infosec",
+        "Security-Operations",
+        "Cybersecurity-Leadership",
+        "Cloud-Security-Manager",
+        "Cybersecurity-Manager",
+        "Cloud-Security-Director",
+        "Enterprise-Cybersecurity-Manager"
+      ]
+    },
+    {
+      "idFuente": "webengage/strategic-account-manager-ksa",
+      "fuente": "himalayas",
+      "titulo": "Strategic Account Manager - KSA",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/strategic-account-manager-ksa?utm_source=api",
+      "publicadoEn": 1793417328000,
+      "salarioTexto": null,
+      "ubicacion": "Saudi Arabia",
+      "etiquetas": [
+        "Strategic-Account-Manager",
+        "Enterprise-Account-Manager",
+        "Account-Manager",
+        "Key-Account-Manager",
+        "SaaS-Account-Manager",
+        "Strategic-Account-Leader",
+        "Strategic-Account-Specialist",
+        "Strategic-Account-Solutions-Manager",
+        "Strategic-Accounts-Executive",
+        "Strategic-Account-Executive",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "digital-jersey/relocate-your-business-1816749362",
+      "fuente": "himalayas",
+      "titulo": "Relocate Your Business",
+      "empresa": "Digital Jersey",
+      "url": "https://himalayas.app/companies/digital-jersey/jobs/relocate-your-business-1816749362?utm_source=api",
+      "publicadoEn": 1793417328000,
+      "salarioTexto": null,
+      "ubicacion": "Jersey",
+      "etiquetas": [
+        "Commercial-Moving-and-Relocation",
+        "Business-Development",
+        "economic-development",
+        "Startup-Relocation",
+        "Digital-Business-Incentives",
+        "Relocation-Consulting",
+        "Relocation-Management",
+        "Commercial-Moving"
+      ]
+    },
+    {
+      "idFuente": "decisionpoint-corporation/senior-security-threat-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Security/Threat Engineer",
+      "empresa": "DecisionPoint Corporation",
+      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/senior-security-threat-engineer?utm_source=api",
+      "publicadoEn": 1793417328000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Cybersecurity",
+        "Threat-Detection",
+        "Vulnerability-Management",
+        "Security-Engineering",
+        "Security-Operations",
+        "Senior-Cybersecurity-Engineer",
+        "Senior-Information-Security-Engineer",
+        "Senior-Principal-Security-Engineer",
+        "Senior-Security-Operations-Engineer",
+        "Senior-Application-Security-Engineer",
+        "Senior-Security-Engineering-Manager",
+        "Senior-Threat-Data-Engineer",
+        "Security-Engineer"
+      ]
+    },
+    {
+      "idFuente": "webengage/business-development-representative-6898690906",
+      "fuente": "himalayas",
+      "titulo": "Business Development Representative",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/business-development-representative-6898690906?utm_source=api",
+      "publicadoEn": 1793417327000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Business-Development-Representative",
+        "Sales-Development-Representative",
+        "Lead-Generation",
+        "SaaS-Sales",
+        "Business-Development",
+        "Sales-Business-Development-Representative",
+        "Business-Development-Professional",
+        "Partner-Business-Development-Representative",
+        "Business-Developer",
+        "Remote-Business-Development-Representative",
+        "Business-Development-Specialist",
+        "SDR-Business-Development-Representative",
+        "Sales"
+      ]
+    },
+    {
+      "idFuente": "decisionpoint-corporation/configuration-management-lead",
+      "fuente": "himalayas",
+      "titulo": "Configuration Management Lead",
+      "empresa": "DecisionPoint Corporation",
+      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/configuration-management-lead?utm_source=api",
+      "publicadoEn": 1793417325000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Configuration-Management",
+        "Configuration-Management-Lead",
+        "IT-Operations",
+        "DevSecOps",
+        "Enterprise-Systems-Management",
+        "Lead-Configuration-Management-Engineer",
+        "Configuration-Management-Manager",
+        "Senior-Configuration-Analyst"
+      ]
+    },
+    {
+      "idFuente": "webengage/senior-user-experience-designer-5315194496",
+      "fuente": "himalayas",
+      "titulo": "Senior User Experience Designer",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/senior-user-experience-designer-5315194496?utm_source=api",
+      "publicadoEn": 1793417325000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "UX-Design",
+        "Product-Design",
+        "UI-Design",
+        "Interaction-Design",
+        "Product-Research",
+        "UI-UX-Designer",
+        "Senior-UX-Designer",
+        "Product-Designer",
+        "Senior-UX-Design",
+        "Senior-Interaction-Designer",
+        "Senior-UX-Architect",
+        "Senior-UI-UX-Design"
+      ]
+    },
+    {
+      "idFuente": "webengage/security-engineer",
+      "fuente": "himalayas",
+      "titulo": "Security Engineer",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/security-engineer?utm_source=api",
+      "publicadoEn": 1793417325000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Security-Engineer",
+        "Compliance-Engineer",
+        "Cloud-Security-Engineer",
+        "Cybersecurity-Engineer",
+        "Information-Security-Engineer",
+        "IT-Security-Engineer",
+        "Security-Engineering",
+        "Software-Security-Engineer",
+        "Security-Software-Engineer",
+        "Network-Security-Engineer",
+        "Systems-Security-Engineer"
+      ]
+    },
+    {
+      "idFuente": "init-norway/senior-cloud-ai-first-engineer-8033260920",
+      "fuente": "himalayas",
+      "titulo": "Senior Cloud & AI First Engineer",
+      "empresa": "Init Norway",
+      "url": "https://himalayas.app/companies/init-norway/jobs/senior-cloud-ai-first-engineer-8033260920?utm_source=api",
+      "publicadoEn": 1793417323000,
+      "salarioTexto": null,
+      "ubicacion": "North Macedonia",
+      "etiquetas": [
+        "Software-Engineer",
+        "Cloud-Engineer",
+        "Backend-Engineer",
+        "Full-Stack-Engineer",
+        "Senior-Cloud-Engineer",
+        "Senior-Cloud-Software-Engineer",
+        "Senior-Cloud-Infrastructure-Engineer",
+        "Senior-Cloud-Platform-Engineer",
+        "Senior-AI-Engineer"
+      ]
+    },
+    {
+      "idFuente": "webengage/performance-marketer",
+      "fuente": "himalayas",
+      "titulo": "Performance Marketer",
+      "empresa": "WebEngage",
+      "url": "https://himalayas.app/companies/webengage/jobs/performance-marketer?utm_source=api",
+      "publicadoEn": 1793417322000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Performance-Marketing",
+        "Digital-Marketing",
+        "Paid-Search-Marketing",
+        "PPC-Marketing",
+        "B2B-Marketing",
+        "Performance-Marketer",
+        "Performance-Marketing-Specialist",
+        "Performance-Marketing-Analyst",
+        "Marketing",
+        "Growth"
+      ]
+    },
+    {
+      "idFuente": "decisionpoint-corporation/vulnerability-management-analyst",
+      "fuente": "himalayas",
+      "titulo": "Vulnerability Management Analyst",
+      "empresa": "DecisionPoint Corporation",
+      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/vulnerability-management-analyst?utm_source=api",
+      "publicadoEn": 1793417322000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Vulnerability-Management",
+        "Cybersecurity-Operations",
+        "Infosec",
+        "Security-Analysis",
+        "DoD-Cybersecurity",
+        "Vulnerability-Management-Analyst",
+        "Vulnerability-Analyst",
+        "Vulnerability-Management-Specialist",
+        "Vulnerability-Assessment-Analyst"
+      ]
+    },
     {
       "idFuente": "1137600",
       "fuente": "remoteok",
@@ -3574,322 +4101,6 @@
         "Sales",
         "Director"
       ]
-    },
-    {
-      "idFuente": "158062",
-      "fuente": "jobicy",
-      "titulo": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Spain)",
-      "empresa": "EverAI",
-      "url": "https://jobicy.com/jobs/158062-senior-lead-lifecycle-marketing-manager-full-remote-spain",
-      "publicadoEn": 1793377933000,
-      "salarioTexto": "EUR 85,000 - 105,000",
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "157993",
-      "fuente": "jobicy",
-      "titulo": "Staff Software Engineer",
-      "empresa": "Bloomreach",
-      "url": "https://jobicy.com/jobs/157993-staff-software-engineer-14",
-      "publicadoEn": 1793363674000,
-      "salarioTexto": "CZK 1,520,000 - 1,900,000",
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157991",
-      "fuente": "jobicy",
-      "titulo": "Senior Product Manager",
-      "empresa": "ShopFully",
-      "url": "https://jobicy.com/jobs/157991-senior-product-manager-14",
-      "publicadoEn": 1793363671000,
-      "salarioTexto": "EUR 50,000 - 70,000",
-      "ubicacion": "Bulgaria, France, Germany, Italy, Poland, Portugal, Romania, Spain",
-      "etiquetas": [
-        "Product & Operations",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "157958",
-      "fuente": "jobicy",
-      "titulo": "Senior Design Engineer",
-      "empresa": "Enode",
-      "url": "https://jobicy.com/jobs/157958-senior-design-engineer",
-      "publicadoEn": 1793357122000,
-      "salarioTexto": null,
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Web, UI & UX Design",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "wrike-cloudops-engineer-network-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "CloudOps Engineer (Network Engineer)",
-      "empresa": "Wrike",
-      "url": "https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer",
-      "publicadoEn": 1793345477000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "anthropic-autonomous-systems-security-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Autonomous Systems Security Engineer",
-      "empresa": "Anthropic",
-      "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
-      "publicadoEn": 1793345474000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "carrot-sr-it-systems-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Sr. IT Systems Engineer",
-      "empresa": "Carrot",
-      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
-      "fuente": "weworkremotely",
-      "titulo": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
-      "empresa": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "152057",
-      "fuente": "jobicy",
-      "titulo": "Multigres Engineer",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
-      "publicadoEn": 1793330411000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Software Engineering",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "152053",
-      "fuente": "jobicy",
-      "titulo": "Support Engineer (EMEA)",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
-      "publicadoEn": 1793330410000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA",
-      "etiquetas": [
-        "Technical Support",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "jumio-principal-enterprise-architect",
-      "fuente": "weworkremotely",
-      "titulo": "Principal Enterprise Architect",
-      "empresa": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
-      "publicadoEn": 1793345481000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "anthropic-community-engagement-manager-data-centers-louisiana",
-      "fuente": "weworkremotely",
-      "titulo": "Community Engagement Manager, Data Centers (Louisiana)",
-      "empresa": "Anthropic",
-      "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-louisiana",
-      "publicadoEn": 1793345481000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "jumio-identity-consultant",
-      "fuente": "weworkremotely",
-      "titulo": "Identity Consultant",
-      "empresa": "Jumio",
-      "url": "https://weworkremotely.com/remote-jobs/jumio-identity-consultant",
-      "publicadoEn": 1793345477000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "wolt-english-english-speaking-support-associate-full-time-remote",
-      "fuente": "weworkremotely",
-      "titulo": "English-Speaking Support Associate (Full-time - Remote)",
-      "empresa": "Wolt - English",
-      "url": "https://weworkremotely.com/remote-jobs/wolt-english-english-speaking-support-associate-full-time-remote",
-      "publicadoEn": 1793345472000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "keeper-security-creative-localization-specialist",
-      "fuente": "weworkremotely",
-      "titulo": "Creative Localization Specialist",
-      "empresa": "Keeper Security",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-creative-localization-specialist",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "wrike-account-development-manager-1-evening-shift-16-30-01-00-cest",
-      "fuente": "weworkremotely",
-      "titulo": "Account Development Manager 1  -Evening shift  (16:30 - 01:00) CEST",
-      "empresa": "Wrike",
-      "url": "https://weworkremotely.com/remote-jobs/wrike-account-development-manager-1-evening-shift-16-30-01-00-cest",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "wolt-english-account-manager",
-      "fuente": "weworkremotely",
-      "titulo": "Account Manager",
-      "empresa": "Wolt - English",
-      "url": "https://weworkremotely.com/remote-jobs/wolt-english-account-manager",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "carrot-sr-manager-data-engineering",
-      "fuente": "weworkremotely",
-      "titulo": "Sr. Manager, Data Engineering",
-      "empresa": "Carrot",
-      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "smartsheet-manager-engineering-remote-eligible-in-bulgaria",
-      "fuente": "weworkremotely",
-      "titulo": "Manager, Engineering (Remote Eligible in Bulgaria)",
-      "empresa": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "airtable-renewals-associate",
-      "fuente": "weworkremotely",
-      "titulo": "Renewals Associate",
-      "empresa": "Airtable",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-renewals-associate",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
-      "fuente": "weworkremotely",
-      "titulo": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
-      "empresa": "Keeper Security",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
-      "publicadoEn": 1793345470000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "interdependence-public-relations/senior-graphic-designer-video-content",
-      "fuente": "himalayas",
-      "titulo": "Senior Graphic Designer, Video Content",
-      "empresa": "Interdependence Public Relations",
-      "url": "https://himalayas.app/companies/interdependence-public-relations/jobs/senior-graphic-designer-video-content?utm_source=api",
-      "publicadoEn": 1793360690000,
-      "salarioTexto": null,
-      "ubicacion": "India",
-      "etiquetas": [
-        "Graphic-Designer",
-        "Visual-Designer",
-        "Brand-Designer",
-        "Digital-Content-Designer",
-        "Senior-Graphic-Designer",
-        "Senior-Motion-Graphics-Designer",
-        "Senior-Multimedia-Designer",
-        "Senior-Video-Editor-Motion-Designer"
-      ]
-    },
-    {
-      "idFuente": "palo-alto-networks/domain-consultant-secops-transformation-2878862817",
-      "fuente": "himalayas",
-      "titulo": "Domain Consultant SecOps Transformation",
-      "empresa": "Palo Alto Networks",
-      "url": "https://himalayas.app/companies/palo-alto-networks/jobs/domain-consultant-secops-transformation-2878862817?utm_source=api",
-      "publicadoEn": 1793360689000,
-      "salarioTexto": null,
-      "ubicacion": "Italy",
-      "etiquetas": [
-        "Security-Operations-Consultant",
-        "Cybersecurity-Consultant",
-        "Security-Consultant",
-        "Pre-Sales-Engineer",
-        "Domain-Consultant"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -3929,13 +4140,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 9702,
-      "remotive": 1337,
-      "weworkremotely": 8735,
-      "himalayas": 1960,
-      "jobicy": 4450
+      "remoteok": 9801,
+      "remotive": 1349,
+      "weworkremotely": 8831,
+      "himalayas": 1980,
+      "jobicy": 4500
     },
-    "duplicadosDescartados": 23050,
-    "ultimaEjecucion": "2026-10-30T22:17:06.750Z"
+    "duplicadosDescartados": 23304,
+    "ultimaEjecucion": "2026-10-31T05:38:08.984Z"
   }
 }
