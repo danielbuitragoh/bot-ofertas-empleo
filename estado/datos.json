@@ -3237,9 +3237,407 @@
     "givedirectly::senior data scientist mno data",
     "ajax systems::business development manager sub saharan africa",
     "givedirectly::director talent management",
-    "ashby::recruiting operations consultant"
+    "ashby::recruiting operations consultant",
+    "adaptyv::scientific account executive",
+    "bjak::product engineer ai finance",
+    "bjak::lead software engineer ai email app",
+    "huzzle::remote google ads expert",
+    "blueground::sales admin extensions on demand",
+    "nearshore business solutions::sales development representative sdr",
+    "bjak::product lead ai investing app",
+    "bjak::technical product lead ai investing",
+    "bjak::product manager ai finance",
+    "moniepoint::data scientist fraud",
+    "affirm::senior manager security incident response",
+    "agile defense::contracts specialist",
+    "bjak::product lead ai finance",
+    "bjak::technical product lead ai neobank",
+    "bjak::lead engineer machine learning",
+    "bjak::technical product manager ai stockbroking",
+    "pairs::head of institutional sales",
+    "bjak::product lead ai stockbroking app",
+    "biovid::market research manager senior manager quantitative research",
+    "bjak::principal software engineer",
+    "bjak::product lead ai investing"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "1137608",
+      "fuente": "remoteok",
+      "titulo": "Scientific Account Executive",
+      "empresa": "Adaptyv",
+      "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
+      "publicadoEn": 1793404804000,
+      "salarioTexto": null,
+      "ubicacion": "Lausanne",
+      "etiquetas": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "api",
+        "exec",
+        "sales",
+        "golang",
+        "biotech",
+        "engineer",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "bjak/product-engineer-ai-finance-6131525159",
+      "fuente": "himalayas",
+      "titulo": "Product Engineer - AI Finance",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/product-engineer-ai-finance-6131525159?utm_source=api",
+      "publicadoEn": 1793506973000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "AI-Product-Engineer",
+        "Financial-AI-Engineering",
+        "Mid-Level-AI-Product-Engineer",
+        "Product-Engineer",
+        "Finance"
+      ]
+    },
+    {
+      "idFuente": "bjak/lead-software-engineer-ai-email-app-6920670565",
+      "fuente": "himalayas",
+      "titulo": "Lead Software Engineer, AI Email App",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/lead-software-engineer-ai-email-app-6920670565?utm_source=api",
+      "publicadoEn": 1793506704000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Lead-AI-Software-Engineer",
+        "Lead-AI-Product-Engineer",
+        "Senior-AI-Software-Engineer",
+        "Senior-Software-AI-Engineer",
+        "Lead-AI-Developer",
+        "Software-Engineer"
+      ]
+    },
+    {
+      "idFuente": "huzzle/remote-google-ads-expert",
+      "fuente": "himalayas",
+      "titulo": "Remote Google Ads Expert",
+      "empresa": "Huzzle",
+      "url": "https://himalayas.app/companies/huzzle/jobs/remote-google-ads-expert?utm_source=api",
+      "publicadoEn": 1793506511000,
+      "salarioTexto": null,
+      "ubicacion": "South Africa",
+      "etiquetas": [
+        "Google-Ads-Manager",
+        "PPC-Specialist",
+        "Paid-Search-Specialist",
+        "Digital-Marketing-Specialist",
+        "Performance-Marketing-Manager"
+      ]
+    },
+    {
+      "idFuente": "blueground/sales-admin-extensions-on-demand",
+      "fuente": "himalayas",
+      "titulo": "Sales Admin, Extensions - On Demand",
+      "empresa": "Blueground",
+      "url": "https://himalayas.app/companies/blueground/jobs/sales-admin-extensions-on-demand?utm_source=api",
+      "publicadoEn": 1793506511000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Sales-Administrator",
+        "Sales-Support-Specialist",
+        "Account-Manager",
+        "Leasing-Coordinator",
+        "Customer-Service"
+      ]
+    },
+    {
+      "idFuente": "nearshore-business-solutions/sales-development-representative-sdr",
+      "fuente": "himalayas",
+      "titulo": "Sales Development Representative (SDR)",
+      "empresa": "Nearshore Business Solutions",
+      "url": "https://himalayas.app/companies/nearshore-business-solutions/jobs/sales-development-representative-sdr?utm_source=api",
+      "publicadoEn": 1793506508000,
+      "salarioTexto": "USD 1,500 - 2,000",
+      "ubicacion": "Colombia",
+      "etiquetas": [
+        "Sales-Development-Representative",
+        "Business-Development-Representative",
+        "Outbound-Sales-Representative",
+        "Lead-Generation-Specialist"
+      ]
+    },
+    {
+      "idFuente": "bjak/product-lead-ai-investing-app-1591516175",
+      "fuente": "himalayas",
+      "titulo": "Product Lead - AI Investing App",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/product-lead-ai-investing-app-1591516175?utm_source=api",
+      "publicadoEn": 1793506507000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "AI-Stockbroking-Product-Lead",
+        "AI-Product-Lead",
+        "AI-Product-Manager-Lead",
+        "Investment-Technology-Product-Management",
+        "Fintech-Product-Lead",
+        "AI-Product-Manager",
+        "Product-Lead"
+      ]
+    },
+    {
+      "idFuente": "bjak/technical-product-lead-ai-investing-126049933",
+      "fuente": "himalayas",
+      "titulo": "Technical Product Lead - AI Investing",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/technical-product-lead-ai-investing-126049933?utm_source=api",
+      "publicadoEn": 1793506504000,
+      "salarioTexto": null,
+      "ubicacion": "Malaysia",
+      "etiquetas": [
+        "AI-Stockbroking-Product-Lead",
+        "Technical-Product-Lead",
+        "Product-Lead"
+      ]
+    },
+    {
+      "idFuente": "bjak/product-manager-ai-finance-2556479730",
+      "fuente": "himalayas",
+      "titulo": "Product Manager - AI Finance",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/product-manager-ai-finance-2556479730?utm_source=api",
+      "publicadoEn": 1793506486000,
+      "salarioTexto": null,
+      "ubicacion": "China",
+      "etiquetas": [
+        "AI-Product-Manager",
+        "Financial-Product-Manager",
+        "AI-ML-Product-Manager",
+        "Fintech-Product-Manager",
+        "Finance-Product-Management",
+        "Digital-Finance-Product-Manager",
+        "Product-Manager-Financial-Services",
+        "Product-Manager"
+      ]
+    },
+    {
+      "idFuente": "moniepoint/data-scientist-fraud-811593414",
+      "fuente": "himalayas",
+      "titulo": "Data Scientist (Fraud)",
+      "empresa": "Moniepoint",
+      "url": "https://himalayas.app/companies/moniepoint/jobs/data-scientist-fraud-811593414?utm_source=api",
+      "publicadoEn": 1793506468000,
+      "salarioTexto": null,
+      "ubicacion": "South Africa",
+      "etiquetas": [
+        "Data-Scientist",
+        "Fraud-Detection-Data-Scientist",
+        "Risk-Analytics-Scientist",
+        "Machine-Learning-Scientist",
+        "Decision-Scientist"
+      ]
+    },
+    {
+      "idFuente": "affirm/senior-manager-security-incident-response-9028717050",
+      "fuente": "himalayas",
+      "titulo": "Senior Manager, Security Incident Response",
+      "empresa": "Affirm",
+      "url": "https://himalayas.app/companies/affirm/jobs/senior-manager-security-incident-response-9028717050?utm_source=api",
+      "publicadoEn": 1793506330000,
+      "salarioTexto": "USD 209,000 - 269,000",
+      "ubicacion": "Canada",
+      "etiquetas": [
+        "Incident-Response-Manager",
+        "Security-Operations-Manager",
+        "Information-Security-Manager"
+      ]
+    },
+    {
+      "idFuente": "agile-defense/contracts-specialist",
+      "fuente": "himalayas",
+      "titulo": "Contracts Specialist",
+      "empresa": "Agile Defense",
+      "url": "https://himalayas.app/companies/agile-defense/jobs/contracts-specialist?utm_source=api",
+      "publicadoEn": 1793506310000,
+      "salarioTexto": "USD 55,000 - 65,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Contracts-Specialist",
+        "Contract-Administrator",
+        "Government-Contracts-Specialist",
+        "Contract-Analyst",
+        "Procurement-Specialist"
+      ]
+    },
+    {
+      "idFuente": "bjak/product-lead-ai-finance-7176740108",
+      "fuente": "himalayas",
+      "titulo": "Product Lead - AI Finance",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/product-lead-ai-finance-7176740108?utm_source=api",
+      "publicadoEn": 1793506149000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "AI-Product-Lead",
+        "Fintech-Product-Lead",
+        "AI-Product-Manager-Lead",
+        "Senior-AI-Product-Lead",
+        "Head-Of-Product-Finance",
+        "Head-Of-AI-Product",
+        "Team-Lead-AI-Products",
+        "Product-Lead"
+      ]
+    },
+    {
+      "idFuente": "bjak/technical-product-lead-ai-neobank-2225671261",
+      "fuente": "himalayas",
+      "titulo": "Technical Product Lead - AI Neobank",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/technical-product-lead-ai-neobank-2225671261?utm_source=api",
+      "publicadoEn": 1793506149000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "AI-Product-Lead",
+        "AI-Technical-Lead",
+        "Technical-Lead-AI",
+        "Banking-Technology-Lead",
+        "AI-Product-Manager-Lead",
+        "Banking-Product-Manager",
+        "Fintech-Product-Lead",
+        "Technical-Product-Lead",
+        "Product-Lead"
+      ]
+    },
+    {
+      "idFuente": "bjak/lead-engineer-machine-learning-2404498753",
+      "fuente": "himalayas",
+      "titulo": "Lead Engineer, Machine Learning",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/lead-engineer-machine-learning-2404498753?utm_source=api",
+      "publicadoEn": 1793505891000,
+      "salarioTexto": null,
+      "ubicacion": "Singapore",
+      "etiquetas": [
+        "Lead-Machine-Learning-Engineer",
+        "Machine-Learning-Engineering-Lead",
+        "Lead-ML-Engineer",
+        "Lead-AI-ML-Engineer",
+        "Machine-Learning-Lead",
+        "Lead-AI-Engineer",
+        "AI-ML-Engineering-Lead",
+        "Machine-Learning-Technical-Lead",
+        "ML-Engineering-Lead",
+        "Senior-Lead-AI-Engineer"
+      ]
+    },
+    {
+      "idFuente": "bjak/technical-product-manager-ai-stockbroking-3005747279",
+      "fuente": "himalayas",
+      "titulo": "Technical Product Manager - AI Stockbroking",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/technical-product-manager-ai-stockbroking-3005747279?utm_source=api",
+      "publicadoEn": 1793505891000,
+      "salarioTexto": null,
+      "ubicacion": "China",
+      "etiquetas": [
+        "AI-Stockbroking-Product-Lead",
+        "Trading-Product-Manager",
+        "Brokerage-Product-Manager",
+        "AI-Product-Manager",
+        "Technical-Product-Manager",
+        "Investment-Technology-Product-Management",
+        "WealthTech-Product-Manager",
+        "Product-Manager"
+      ]
+    },
+    {
+      "idFuente": "pairs/head-of-institutional-sales",
+      "fuente": "himalayas",
+      "titulo": "Head of Institutional Sales",
+      "empresa": "Pairs",
+      "url": "https://himalayas.app/companies/pairs/jobs/head-of-institutional-sales?utm_source=api",
+      "publicadoEn": 1793505891000,
+      "salarioTexto": "USD 200,000 - 300,000",
+      "ubicacion": "Canada, United Arab Emirates, United Kingdom",
+      "etiquetas": [
+        "Institutional-Sales-Director",
+        "Head-of-Sales"
+      ]
+    },
+    {
+      "idFuente": "bjak/product-lead-ai-stockbroking-app-9608600266",
+      "fuente": "himalayas",
+      "titulo": "Product Lead - AI Stockbroking App",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/product-lead-ai-stockbroking-app-9608600266?utm_source=api",
+      "publicadoEn": 1793505882000,
+      "salarioTexto": null,
+      "ubicacion": "Taiwan",
+      "etiquetas": [
+        "Fintech-Product-Lead",
+        "Product-Lead",
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "biovid/market-research-manager-senior-manager-quantitative-research",
+      "fuente": "himalayas",
+      "titulo": "Market Research Manager/Senior Manager – Quantitative Research",
+      "empresa": "BioVid",
+      "url": "https://himalayas.app/companies/biovid/jobs/market-research-manager-senior-manager-quantitative-research?utm_source=api",
+      "publicadoEn": 1793505856000,
+      "salarioTexto": "USD 80,000 - 80,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Market-Research-Manager",
+        "Quantitative-Research-Manager",
+        "Market-Research-Analyst"
+      ]
+    },
+    {
+      "idFuente": "bjak/principal-software-engineer-3148326841",
+      "fuente": "himalayas",
+      "titulo": "Principal Software Engineer",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/principal-software-engineer-3148326841?utm_source=api",
+      "publicadoEn": 1793505856000,
+      "salarioTexto": null,
+      "ubicacion": "Netherlands",
+      "etiquetas": [
+        "Principal-Software-Engineer",
+        "Principal-Software-Development-Engineer",
+        "Principal-Software-Engineering",
+        "Principal-Software-Developer",
+        "Principal-Fullstack-Software-Engineer",
+        "Principal-Software-Engineer-Frontend",
+        "Principal-C++-Software-Engineer",
+        "Principal-Research-Software-Engineer",
+        "Principal-Embedded-Software-Engineer"
+      ]
+    },
+    {
+      "idFuente": "bjak/product-lead-ai-investing-2972707725",
+      "fuente": "himalayas",
+      "titulo": "Product Lead - AI Investing",
+      "empresa": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/product-lead-ai-investing-2972707725?utm_source=api",
+      "publicadoEn": 1793505845000,
+      "salarioTexto": null,
+      "ubicacion": "Netherlands",
+      "etiquetas": [
+        "AI-Product-Lead",
+        "AI-Product-Manager-Lead",
+        "Senior-AI-Product-Lead",
+        "Head-Of-AI-Product",
+        "AI-Product-Leadership",
+        "Product-Lead"
+      ]
+    },
     {
       "idFuente": "1137607",
       "fuente": "remoteok",
@@ -3721,328 +4119,6 @@
         "HR & Recruiting",
         "Director"
       ]
-    },
-    {
-      "idFuente": "158170",
-      "fuente": "jobicy",
-      "titulo": "Recruiting Operations Consultant",
-      "empresa": "Ashby",
-      "url": "https://jobicy.com/jobs/158170-recruiting-operations-consultant",
-      "publicadoEn": 1793441351000,
-      "salarioTexto": "EUR 102,000 - 142,375",
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Customer Support & Success",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "2091165",
-      "fuente": "remotive",
-      "titulo": "Full-Stack Developer",
-      "empresa": "Fluence International, Inc.",
-      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-      "publicadoEn": 1793298161000,
-      "salarioTexto": "$3.5k–$5k/month",
-      "ubicacion": "Worldwide",
-      "etiquetas": [
-        "admin",
-        "api",
-        "AWS",
-        "backend",
-        "cloud",
-        "docker",
-        "frontend",
-        "fullstack",
-        "javascript",
-        "react",
-        "security",
-        "UI/UX",
-        "AI/ML",
-        "automation",
-        "documentation",
-        "healthcare",
-        "Typescript ",
-        "web applications",
-        "SOLID",
-        "JSON",
-        "serverless",
-        "next.js",
-        "github",
-        "REST",
-        "mental health",
-        "BaaS",
-        "datadog"
-      ]
-    },
-    {
-      "idFuente": "dropbox-backend-product-software-engineer-1",
-      "fuente": "weworkremotely",
-      "titulo": "Backend Product Software Engineer",
-      "empresa": "Dropbox",
-      "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
-      "publicadoEn": 1793431872000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Back-End Programming"
-      ]
-    },
-    {
-      "idFuente": "ritual-distributed-systems-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Distributed Systems Engineer",
-      "empresa": "Ritual",
-      "url": "https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "gitlab-backend-engineer-knowledge-graph",
-      "fuente": "weworkremotely",
-      "titulo": "Backend Engineer, Knowledge Graph",
-      "empresa": "GitLab",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "alloy-technical-support-engineer-triage-discovery",
-      "fuente": "weworkremotely",
-      "titulo": "Technical Support Engineer, Triage & Discovery",
-      "empresa": "Alloy",
-      "url": "https://weworkremotely.com/remote-jobs/alloy-technical-support-engineer-triage-discovery",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "ritual-developer-experience-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Developer Experience Engineer",
-      "empresa": "Ritual",
-      "url": "https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "158154",
-      "fuente": "jobicy",
-      "titulo": "Full Stack Developer - Java & React (f/m/d)",
-      "empresa": "ecosio",
-      "url": "https://jobicy.com/jobs/158154-full-stack-developer-java-react-f-m-d-2",
-      "publicadoEn": 1793437896000,
-      "salarioTexto": null,
-      "ubicacion": "Austria, Croatia, Germany, Hungary, Italy, Portugal, Spain, UK",
-      "etiquetas": [
-        "Software Engineering",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158150",
-      "fuente": "jobicy",
-      "titulo": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
-      "empresa": "ecosio",
-      "url": "https://jobicy.com/jobs/158150-e-invoicing-edi-integration-engineer-f-m-d-with-english-and-german-french-italian-3",
-      "publicadoEn": 1793437891000,
-      "salarioTexto": null,
-      "ubicacion": "Austria, Croatia, France, Germany, Hungary, Italy, Poland, Portugal, Spain, UK",
-      "etiquetas": [
-        "Software Engineering",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "1137604",
-      "fuente": "remoteok",
-      "titulo": "Online Client Support &amp; Travel Booking We Will Train You",
-      "empresa": "Destination Careers",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
-      "publicadoEn": 1793347212000,
-      "salarioTexto": null,
-      "ubicacion": "Dallas, Texas",
-      "etiquetas": [
-        "travel",
-        "education",
-        "customer support",
-        "virtual assistant",
-        "non tech"
-      ]
-    },
-    {
-      "idFuente": "bybit-client-service-analyst-p2p",
-      "fuente": "weworkremotely",
-      "titulo": "Client Service Analyst - P2P",
-      "empresa": "Bybit",
-      "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-p2p",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Front-End Programming"
-      ]
-    },
-    {
-      "idFuente": "rubrik-job-board-account-executive-nas-product-specialist",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive, NAS Product Specialist",
-      "empresa": "Rubrik Job Board",
-      "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-account-executive-nas-product-specialist",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "coinbase-capacity-planning-lead",
-      "fuente": "weworkremotely",
-      "titulo": "Capacity Planning Lead",
-      "empresa": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-capacity-planning-lead",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "bybit-client-service-analyst-livechat-turkish-required",
-      "fuente": "weworkremotely",
-      "titulo": "Client Service Analyst - Livechat (Turkish required)",
-      "empresa": "Bybit",
-      "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-livechat-turkish-required",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Front-End Programming"
-      ]
-    },
-    {
-      "idFuente": "coinbase-broker-dealer-operations-senior-associate",
-      "fuente": "weworkremotely",
-      "titulo": "Broker Dealer Operations, Senior Associate",
-      "empresa": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-senior-associate",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "gitlab-associate-renewals-manager-smb",
-      "fuente": "weworkremotely",
-      "titulo": "Associate Renewals Manager, SMB",
-      "empresa": "GitLab",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-associate-renewals-manager-smb",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "abnormal-ai-security-sales-executive-north-central",
-      "fuente": "weworkremotely",
-      "titulo": "AI Security Sales Executive, North Central",
-      "empresa": "Abnormal",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-north-central",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "abnormal-ai-security-sales-executive-bay-area",
-      "fuente": "weworkremotely",
-      "titulo": "AI Security Sales Executive, Bay Area",
-      "empresa": "Abnormal",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-ai-security-sales-executive-bay-area",
-      "publicadoEn": 1793431862000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "the-supply-chainer-independent-sales-agent-b2b-media-commission-based-remote",
-      "fuente": "weworkremotely",
-      "titulo": "Independent Sales Agent, B2B Media - Commission Based, Remote",
-      "empresa": "The Supply Chainer",
-      "url": "https://weworkremotely.com/remote-jobs/the-supply-chainer-independent-sales-agent-b2b-media-commission-based-remote",
-      "publicadoEn": 1793427635000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "cds-global/digital-media-advisor-4063477157",
-      "fuente": "himalayas",
-      "titulo": "Digital  Media Advisor",
-      "empresa": "CDS Global",
-      "url": "https://himalayas.app/companies/cds-global/jobs/digital-media-advisor-4063477157?utm_source=api",
-      "publicadoEn": 1793446044000,
-      "salarioTexto": "USD 95,000 - 105,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Sales-And-Advertising",
-        "Digital-Sales",
-        "Outside-Sales",
-        "B2B-Sales",
-        "Media-Sales",
-        "Media-Advisor",
-        "Digital-Media-Strategist",
-        "Digital-Media-Analyst",
-        "Media-Consultant",
-        "Digital-Media-Specialist"
-      ]
-    },
-    {
-      "idFuente": "stantec/subcontracts-administrator",
-      "fuente": "himalayas",
-      "titulo": "Subcontracts Administrator",
-      "empresa": "Stantec",
-      "url": "https://himalayas.app/companies/stantec/jobs/subcontracts-administrator?utm_source=api",
-      "publicadoEn": 1793446040000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Subcontracts-Administrator",
-        "Contract-Administrator",
-        "Procurement-Specialist",
-        "Subcontract-Manager",
-        "Government-Contracts-Specialist",
-        "Subcontracts-Administration",
-        "Subcontract-Administration",
-        "Contracting-Administrator"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -4082,13 +4158,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 9999,
-      "remotive": 1375,
-      "weworkremotely": 9029,
-      "himalayas": 2020,
-      "jobicy": 4600
+      "remoteok": 10098,
+      "remotive": 1388,
+      "weworkremotely": 9128,
+      "himalayas": 2040,
+      "jobicy": 4650
     },
-    "duplicadosDescartados": 23785,
-    "ultimaEjecucion": "2026-10-31T21:33:02.235Z"
+    "duplicadosDescartados": 24045,
+    "ultimaEjecucion": "2026-11-01T05:59:54.358Z"
   }
 }
