@@ -3576,392 +3576,128 @@
     "capital blue cross::manager data engineering",
     "molt legal partners llc::litigation paralegal",
     "g2i inc::senior software engineer ai training",
-    "softtest pays pty ltd::el1 southpan system engineer team lead"
+    "softtest pays pty ltd::el1 southpan system engineer team lead",
+    "vogel::m a praktikum intern",
+    "kyra::paid media manager us",
+    "calabrio::sales operations analyst",
+    "ringbook limited::tech lead",
+    "staffright::senior property manager eng",
+    "vxi global solutions::us remote patient care advocate customer service",
+    "mantech::requisitioning agent",
+    "mindrift::physician md do put medical ai to the test remote",
+    "crazy maple studio::screenwriter reelshort contractor",
+    "zanda health::product owner",
+    "reframe space inc::digital marketing specialist organic growth and lead generation",
+    "micro1::federal regulatory policy analyst",
+    "micro1::federal contract specialist",
+    "agensi pekerjaan penta consultancy sdn bhd::change manager",
+    "acierta headhunter::gerente canal channel manager ingles b2 remoto",
+    "surgo health::research fellow phd or postdoctoral lmic family planning",
+    "affinity travels::urban travel concierge",
+    "icon::clinical research associate ii",
+    "scalejet::ugc program manager social performance creative",
+    "trupanion::trilingual veterinary claims specialist english french german",
+    "ameresco::operations manager medium voltage",
+    "concert8 solutions inc::native japanese speaker customer service representative travel",
+    "dentons::regional business development executive senior",
+    "we assist io::intake specialist mlt",
+    "mercor::labor attorney fully remote",
+    "bosch group::hvac specialist water source heat pumps geothermal",
+    "scalejet::hr specialist",
+    "blackfluo ai::senior talent acquisition manager",
+    "mercor::spreadsheet analyst fully remote upto 150 hr",
+    "mercor::business analyst fully remote upto 160 hr",
+    "mercor::consultant fully remote upto 160 hr",
+    "canonical::global head of cloud alliances",
+    "mozilla::staff software engineer tools systems",
+    "elevenlabs::developer advocate",
+    "spotify::senior product manager core experience",
+    "nebius::contract manager ofci procurement data centers",
+    "welo global::english to maltese review lead for ui marketing product content",
+    "welo global::english to lao review lead for ui marketing product content",
+    "welo global::english to kyrgyz review lead for ui marketing product content",
+    "canonical::python software engineer ubuntu hardware certification team",
+    "elevenlabs::equity administrator",
+    "canonical::python software engineer commercial systems",
+    "canonical::product marketing lead",
+    "canonical::product manager ubuntu",
+    "elevenlabs::full stack engineer backend leaning payments engineering",
+    "canonical::product manager security",
+    "elevenlabs::full stack engineer backend leaning platform engineering",
+    "canonical::product manager data",
+    "canonical::product manager cloud",
+    "canonical::product manager ai",
+    "elevenlabs::people partner engineering product",
+    "canonical::product manager",
+    "canonical::organisational development associate",
+    "elevenlabs::employee relations partner",
+    "canonical::observability engineering manager",
+    "okx::senior talent acquisition manager",
+    "consensys::product marketing lead trade",
+    "canonical::site reliability engineering manager",
+    "canonical::golang engineering manager commercial systems",
+    "canonical::software engineer ceph distributed storage",
+    "canonical::senior organisational development practitioner",
+    "canonical::regional sdr director",
+    "canonical::tax senior associate",
+    "canonical::python engineering manager commercial systems",
+    "canonical::director talent analytics",
+    "canonical::software architect containers virtualisation",
+    "canonical::engineering manager for iam identity and access management",
+    "canonical::software engineer data infrastructure",
+    "canonical::design manager visual",
+    "canonical::developer relations engineer"
   ],
   "ultimasOfertas": [
     {
-      "idFuente": "micro1/engineering-phd",
-      "fuente": "himalayas",
-      "titulo": "Engineering PhD",
-      "empresa": "micro1",
-      "url": "https://himalayas.app/companies/micro1/jobs/engineering-phd?utm_source=api",
-      "publicadoEn": 1793768082000,
-      "salarioTexto": "USD 80 - 95",
-      "ubicacion": "",
-      "etiquetas": [
-        "Engineering-Research-Jobs",
-        "PhD-Research",
-        "PhD-Researcher",
-        "Research-Engineer",
-        "Graduate-Engineering",
-        "PhD-Research-Roles"
-      ]
-    },
-    {
-      "idFuente": "1137622",
-      "fuente": "remoteok",
-      "titulo": "Tax Manager Private Client",
-      "empresa": "Aprio",
-      "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
-      "publicadoEn": 1793664018000,
-      "salarioTexto": null,
-      "ubicacion": "Scotch Plains, NJ",
-      "etiquetas": [
-        "exec",
-        "education",
-        "consulting",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "accounting",
-        "finance",
-        "junior",
-        "sales",
-        "full time",
-        "digital nomad"
-      ]
-    },
-    {
-      "idFuente": "1137621",
-      "fuente": "remoteok",
-      "titulo": "Client Accounting Division Manager",
-      "empresa": "Burkland Associates",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
-      "publicadoEn": 1793664010000,
-      "salarioTexto": null,
-      "ubicacion": null,
-      "etiquetas": [
-        "exec",
-        "accounting",
-        "amazon",
-        "hr",
-        "sys admin",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "finance",
-        "video",
-        "content writing",
-        "ops",
-        "medical",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "part time",
-        "digital nomad"
-      ]
-    },
-    {
-      "idFuente": "imprint/lead-product-marketing-manager",
-      "fuente": "himalayas",
-      "titulo": "Lead Product Marketing Manager",
-      "empresa": "Imprint",
-      "url": "https://himalayas.app/companies/imprint/jobs/lead-product-marketing-manager?utm_source=api",
-      "publicadoEn": 1793768119000,
-      "salarioTexto": "USD 200,000 - 240,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Product-Marketing-Lead",
-        "Product-Marketing-Team-Lead",
-        "Product-Marketing-Manager",
-        "Lead-Marketing-Manager",
-        "Product-Marketing-Director",
-        "Director-Of-Product-Marketing"
-      ]
-    },
-    {
-      "idFuente": "fujifilm/principal-national-support-engineer-ii-1831987509",
-      "fuente": "himalayas",
-      "titulo": "Principal National Support Engineer II",
-      "empresa": "Fujifilm",
-      "url": "https://himalayas.app/companies/fujifilm/jobs/principal-national-support-engineer-ii-1831987509?utm_source=api",
-      "publicadoEn": 1793768049000,
-      "salarioTexto": "USD 110,366 - 130,909",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Principal-Support-Engineer",
-        "Technical-Support-Engineer",
-        "Systems-Support-Engineer",
-        "Software-Support-Engineer",
-        "Medical-Imaging-Support"
-      ]
-    },
-    {
-      "idFuente": "clera/product-marketing-manager",
-      "fuente": "himalayas",
-      "titulo": "Product Marketing Manager",
-      "empresa": "Clera",
-      "url": "https://himalayas.app/companies/clera/jobs/product-marketing-manager?utm_source=api",
-      "publicadoEn": 1793767940000,
-      "salarioTexto": "USD 135,000 - 165,000",
-      "ubicacion": "",
-      "etiquetas": [
-        "Product-Marketing-Manager",
-        "Product-Marketer",
-        "SaaS-Product-Marketing-Manager",
-        "Global-Product-Marketing-Manager"
-      ]
-    },
-    {
-      "idFuente": "focal-search-pte-ltd/sales-coordinator-marine",
-      "fuente": "himalayas",
-      "titulo": "Sales Coordinator (Marine)",
-      "empresa": "Focal Search Pte Ltd",
-      "url": "https://himalayas.app/companies/focal-search-pte-ltd/jobs/sales-coordinator-marine?utm_source=api",
-      "publicadoEn": 1793767907000,
-      "salarioTexto": null,
-      "ubicacion": "Singapore",
-      "etiquetas": [
-        "Sales-Coordinator",
-        "Order-Coordinator",
-        "Logistics-Coordinator",
-        "Export-Coordinator"
-      ]
-    },
-    {
-      "idFuente": "spotter-labs/recruiting-operations-analyst",
-      "fuente": "himalayas",
-      "titulo": "Recruiting Operations Analyst",
-      "empresa": "Spotter Labs",
-      "url": "https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst?utm_source=api",
-      "publicadoEn": 1793767893000,
-      "salarioTexto": null,
-      "ubicacion": "",
-      "etiquetas": [
-        "Recruitment-Operations-Analyst",
-        "Recruiting-Analyst",
-        "Recruiting-Operations-Jobs",
-        "Recruitment-Analyst",
-        "Talent-Acquisition-Operations-Specialist"
-      ]
-    },
-    {
-      "idFuente": "outsource-recruiter/performance-marketing-specialist-ecommerce",
-      "fuente": "himalayas",
-      "titulo": "Performance Marketing Specialist (Ecommerce)",
-      "empresa": "Outsource Recruiter",
-      "url": "https://himalayas.app/companies/outsource-recruiter/jobs/performance-marketing-specialist-ecommerce?utm_source=api",
-      "publicadoEn": 1793767889000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Performance-Marketing-Specialist",
-        "Digital-Marketing-Specialist",
-        "eCommerce-Marketing-Specialist",
-        "Paid-Media-Specialist",
-        "PPC-Specialist"
-      ]
-    },
-    {
-      "idFuente": "outsourcey/full-stack-developer",
-      "fuente": "himalayas",
-      "titulo": "Full Stack Developer",
-      "empresa": "Outsourcey",
-      "url": "https://himalayas.app/companies/outsourcey/jobs/full-stack-developer?utm_source=api",
-      "publicadoEn": 1793767882000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Full-Stack-Developer",
-        "3D-Graphics-Developer",
-        "Unreal-Engine-Developer",
-        "Virtual-Reality-Developer",
-        "3D-Generalist"
-      ]
-    },
-    {
-      "idFuente": "utopia-studio/legal-compliance-manager-7014945144",
-      "fuente": "himalayas",
-      "titulo": "Legal & Compliance Manager",
-      "empresa": "The Studio",
-      "url": "https://himalayas.app/companies/utopia-studio/jobs/legal-compliance-manager-7014945144?utm_source=api",
-      "publicadoEn": 1793767879000,
-      "salarioTexto": "USD 50,000 - 50,000",
-      "ubicacion": "Qatar",
-      "etiquetas": [
-        "Legal-Compliance-Manager",
-        "Compliance-Manager",
-        "Legal-Compliance-Specialist",
-        "Legal-Manager",
-        "Regulatory-Compliance-Manager",
-        "Corporate-Compliance-Manager",
-        "Legal"
-      ]
-    },
-    {
-      "idFuente": "venon-solutions/1021-ai-native-full-stack-engineer-react-next-js-php",
-      "fuente": "himalayas",
-      "titulo": "#1021 - AI-Native Full-Stack Engineer (React, Next.js, PHP)",
-      "empresa": "Venon Solutions",
-      "url": "https://himalayas.app/companies/venon-solutions/jobs/1021-ai-native-full-stack-engineer-react-next-js-php?utm_source=api",
-      "publicadoEn": 1793767856000,
-      "salarioTexto": null,
-      "ubicacion": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-      "etiquetas": [
-        "Full-Stack-Engineer",
-        "Software-Engineer",
-        "Web-Developer",
-        "Frontend-Engineer",
-        "Backend-Engineer"
-      ]
-    },
-    {
-      "idFuente": "softtest-pays-pty-ltd/el1-lead-cyber-security-architect",
-      "fuente": "himalayas",
-      "titulo": "EL1 Lead Cyber Security Architect",
-      "empresa": "Softtest pays pty ltd",
-      "url": "https://himalayas.app/companies/softtest-pays-pty-ltd/jobs/el1-lead-cyber-security-architect?utm_source=api",
-      "publicadoEn": 1793767816000,
-      "salarioTexto": null,
-      "ubicacion": "Australia",
-      "etiquetas": [
-        "Cyber-Security-Architect",
-        "Security-Architect",
-        "Information-Security-Architect",
-        "Cloud-Security-Architect",
-        "Enterprise-Security-Architect"
-      ]
-    },
-    {
-      "idFuente": "outsource-recruiter/field-operations-scheduler-bilingual-french-english",
-      "fuente": "himalayas",
-      "titulo": "Field Operations Scheduler (Bilingual - French/English)",
-      "empresa": "Outsource Recruiter",
-      "url": "https://himalayas.app/companies/outsource-recruiter/jobs/field-operations-scheduler-bilingual-french-english?utm_source=api",
-      "publicadoEn": 1793767745000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Field-Scheduler",
-        "Operations-Schedulers",
-        "Workforce-Coordinator",
-        "Recruiting-Coordinator",
-        "Staffing-Coordinator"
-      ]
-    },
-    {
-      "idFuente": "teya/business-development-manager-1007620106",
-      "fuente": "himalayas",
-      "titulo": "Business Development Manager",
-      "empresa": "Teya",
-      "url": "https://himalayas.app/companies/teya/jobs/business-development-manager-1007620106?utm_source=api",
-      "publicadoEn": 1793767745000,
-      "salarioTexto": null,
-      "ubicacion": "Czechia",
-      "etiquetas": [
-        "Business-Development-Manager",
-        "SALES-BUSINESS-DEVELOPMENT-MANAGER",
-        "B2B-Business-Development-Manager",
-        "Business-Development-Team-Manager"
-      ]
-    },
-    {
-      "idFuente": "porch-group/actuarial-specialist",
-      "fuente": "himalayas",
-      "titulo": "Actuarial Specialist",
-      "empresa": "Porch Group",
-      "url": "https://himalayas.app/companies/porch-group/jobs/actuarial-specialist?utm_source=api",
-      "publicadoEn": 1793767744000,
-      "salarioTexto": "USD 1,875,000 - 2,625,000",
-      "ubicacion": "India",
-      "etiquetas": [
-        "Actuary",
-        "Actuarial-Analyst",
-        "Pricing-Analyst",
-        "Insurance-Actuary",
-        "Actuarial-Consultant"
-      ]
-    },
-    {
-      "idFuente": "5blue-software/full-stack-developer-django-vue-js-ai-part-time",
-      "fuente": "himalayas",
-      "titulo": "Full-Stack Developer (Django + Vue.js, AI) part-time",
-      "empresa": "5Blue Software",
-      "url": "https://himalayas.app/companies/5blue-software/jobs/full-stack-developer-django-vue-js-ai-part-time?utm_source=api",
-      "publicadoEn": 1793767723000,
-      "salarioTexto": null,
-      "ubicacion": "Ukraine",
-      "etiquetas": [
-        "Full-Stack-Developer-(JavaScript-Python)",
-        "Mid-Level-Full-Stack-Developer-(JavaScript-Python)",
-        "Full-Stack-Developer"
-      ]
-    },
-    {
-      "idFuente": "capital-blue-cross/manager-data-engineering",
-      "fuente": "himalayas",
-      "titulo": "Manager, Data Engineering",
-      "empresa": "Capital Blue Cross",
-      "url": "https://himalayas.app/companies/capital-blue-cross/jobs/manager-data-engineering?utm_source=api",
-      "publicadoEn": 1793767603000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Data-Engineering-Manager",
-        "Data-Engineering-Lead",
-        "Data-Platform-Manager"
-      ]
-    },
-    {
-      "idFuente": "molt-legal-partners-llc/litigation-paralegal",
-      "fuente": "himalayas",
-      "titulo": "Litigation Paralegal",
-      "empresa": "Molt Legal Partners, LLC",
-      "url": "https://himalayas.app/companies/molt-legal-partners-llc/jobs/litigation-paralegal?utm_source=api",
-      "publicadoEn": 1793767537000,
-      "salarioTexto": "USD 35 - 35",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Litigation-Paralegals",
-        "Civil-Litigation-Paralegal",
-        "Administrative-Law-Paralegal",
-        "Legal-Assistant"
-      ]
-    },
-    {
-      "idFuente": "g2i-inc/senior-software-engineer-ai-training",
-      "fuente": "himalayas",
-      "titulo": "Senior Software Engineer, AI Training",
-      "empresa": "G2i Inc.",
-      "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training?utm_source=api",
-      "publicadoEn": 1793767503000,
-      "salarioTexto": "USD 100 - 200",
-      "ubicacion": "",
-      "etiquetas": [
-        "Senior-AI-Software-Engineer",
-        "Senior-Software-AI-Engineer",
-        "Senior-AI-Engineer",
-        "Senior-AI-Software-Developer",
-        "Senior-AI-ML-Engineer",
-        "Senior-AI-ML-Engineer-Code-Training-Data",
-        "Software-Engineer"
-      ]
-    },
-    {
-      "idFuente": "softtest-pays-pty-ltd/el1-southpan-system-engineer-team-lead",
-      "fuente": "himalayas",
-      "titulo": "EL1 SouthPAN System Engineer Team Lead",
-      "empresa": "Softtest pays pty ltd",
-      "url": "https://himalayas.app/companies/softtest-pays-pty-ltd/jobs/el1-southpan-system-engineer-team-lead?utm_source=api",
-      "publicadoEn": 1793767374000,
-      "salarioTexto": null,
-      "ubicacion": "Australia",
-      "etiquetas": [
-        "Systems-Engineer",
-        "Systems-Engineering-Lead",
-        "Engineering-Team-Lead",
-        "Technical-Lead"
-      ]
-    },
-    {
-      "idFuente": "158738",
+      "idFuente": "158994",
       "fuente": "jobicy",
-      "titulo": "System Engineer (Token Factory)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/158738-system-engineer-token-factory",
-      "publicadoEn": 1793719378000,
+      "titulo": "Developer Advocate",
+      "empresa": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158994-developer-advocate-2",
+      "publicadoEn": 1793809483000,
+      "salarioTexto": null,
+      "ubicacion": "Bulgaria, France, Germany, Italy, Poland, Spain, UK, USA",
+      "etiquetas": [
+        "Marketing & Sales",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "158954",
+      "fuente": "jobicy",
+      "titulo": "Python Software Engineer - Ubuntu Hardware Certification Team",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/158954-python-software-engineer-ubuntu-hardware-certification-team",
+      "publicadoEn": 1793800159000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "QA & Testing",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "158952",
+      "fuente": "jobicy",
+      "titulo": "Python Software Engineer, Commercial Systems",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/158952-python-software-engineer-commercial-systems",
+      "publicadoEn": 1793800156000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "Software Engineering",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "158947",
+      "fuente": "jobicy",
+      "titulo": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "empresa": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158947-full-stack-engineer-backend-leaning-payments-engineering",
+      "publicadoEn": 1793800126000,
       "salarioTexto": null,
       "ubicacion": "Europe, USA",
       "etiquetas": [
@@ -3970,40 +3706,231 @@
       ]
     },
     {
-      "idFuente": "158735",
+      "idFuente": "158945",
       "fuente": "jobicy",
-      "titulo": "System Engineer (Compute Node)",
-      "empresa": "Nebius",
-      "url": "https://jobicy.com/jobs/158735-system-engineer-compute-node",
-      "publicadoEn": 1793719373000,
+      "titulo": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "empresa": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158945-full-stack-engineer-backend-leaning-platform-engineering",
+      "publicadoEn": 1793800122000,
       "salarioTexto": null,
-      "ubicacion": "Europe",
+      "ubicacion": "Europe, USA",
       "etiquetas": [
-        "DevOps & Infrastructure",
+        "Software Engineering",
         "Any"
       ]
     },
     {
-      "idFuente": "158729",
+      "idFuente": "149972",
       "fuente": "jobicy",
-      "titulo": "Test Automation Engineer (f/m/d)",
-      "empresa": "ecosio",
-      "url": "https://jobicy.com/jobs/158729-test-automation-engineer-f-m-d",
-      "publicadoEn": 1793719340000,
+      "titulo": "Software Engineer, Ceph & Distributed Storage",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage",
+      "publicadoEn": 1793763307000,
       "salarioTexto": null,
-      "ubicacion": "Austria, Croatia, Germany, Hungary, Italy, Portugal, Spain, UK",
+      "ubicacion": "EMEA, LATAM, Canada, USA",
       "etiquetas": [
-        "QA & Testing",
+        "Software Engineering",
         "Any"
       ]
     },
     {
-      "idFuente": "clickguard-inc-revops-manager",
+      "idFuente": "149993",
+      "fuente": "jobicy",
+      "titulo": "Developer Relations Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
+      "publicadoEn": 1793763015000,
+      "salarioTexto": null,
+      "ubicacion": "APAC, EMEA",
+      "etiquetas": [
+        "Software Engineering",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "1137677",
+      "fuente": "remoteok",
+      "titulo": "M&A Praktikum Intern",
+      "empresa": "Vogel",
+      "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
+      "publicadoEn": 1793721625000,
+      "salarioTexto": "$4,000 - $4,000",
+      "ubicacion": "München",
+      "etiquetas": [
+        "testing",
+        "marketing",
+        "exec",
+        "finance",
+        "senior",
+        "excel"
+      ]
+    },
+    {
+      "idFuente": "1137675",
+      "fuente": "remoteok",
+      "titulo": "Paid Media Manager US ",
+      "empresa": "Kyra",
+      "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+      "publicadoEn": 1793721612000,
+      "salarioTexto": null,
+      "ubicacion": "US",
+      "etiquetas": [
+        "exec",
+        "customer support",
+        "testing",
+        "marketing",
+        "finance",
+        "scheme",
+        "content writing",
+        "excel",
+        "stats",
+        "legal",
+        "medical"
+      ]
+    },
+    {
+      "idFuente": "1137674",
+      "fuente": "remoteok",
+      "titulo": "Sales Operations Analyst",
+      "empresa": "Calabrio",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+      "publicadoEn": 1793721605000,
+      "salarioTexto": "$75,000 - $75,000",
+      "ubicacion": null,
+      "etiquetas": [
+        "analyst",
+        "saas",
+        "salesforce",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "accounting",
+        "finance",
+        "exec",
+        "ops",
+        "excel",
+        "stats",
+        "sales",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "1137673",
+      "fuente": "remoteok",
+      "titulo": "Tech lead",
+      "empresa": "Ringbook Limited",
+      "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+      "publicadoEn": 1793717635000,
+      "salarioTexto": "$40,000 - $50,000",
+      "ubicacion": null,
+      "etiquetas": [
+        "dev",
+        "exec",
+        "accounting",
+        "saas"
+      ]
+    },
+    {
+      "idFuente": "1137624",
+      "fuente": "remoteok",
+      "titulo": "Senior Property Manager ENG",
+      "empresa": "StaffRight",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "publicadoEn": 1793692812000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "php",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "marketing",
+        "medical",
+        "full time",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "vxi-global-solutions-us-remote-patient-care-advocate-customer-service",
       "fuente": "weworkremotely",
-      "titulo": "RevOps Manager",
-      "empresa": "ClickGUARD Inc.",
-      "url": "https://weworkremotely.com/remote-jobs/clickguard-inc-revops-manager",
-      "publicadoEn": 1793732955000,
+      "titulo": "US Remote Patient Care Advocate (Customer Service)",
+      "empresa": "VXI Global Solutions",
+      "url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-patient-care-advocate-customer-service",
+      "publicadoEn": 1793817056000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "mantech-requisitioning-agent",
+      "fuente": "weworkremotely",
+      "titulo": "Requisitioning Agent",
+      "empresa": "MANTECH",
+      "url": "https://weworkremotely.com/remote-jobs/mantech-requisitioning-agent",
+      "publicadoEn": 1793811637000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
+      "fuente": "weworkremotely",
+      "titulo": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
+      "empresa": "Mindrift",
+      "url": "https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
+      "publicadoEn": 1793811634000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "crazy-maple-studio-screenwriter-reelshort-contractor",
+      "fuente": "weworkremotely",
+      "titulo": "Screenwriter - ReelShort (Contractor)",
+      "empresa": "Crazy Maple Studio",
+      "url": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor",
+      "publicadoEn": 1793811632000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "zanda-health-product-owner-1",
+      "fuente": "weworkremotely",
+      "titulo": "Product Owner",
+      "empresa": "Zanda Health",
+      "url": "https://weworkremotely.com/remote-jobs/zanda-health-product-owner-1",
+      "publicadoEn": 1793797165000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Product"
+      ]
+    },
+    {
+      "idFuente": "reframe-space-inc-digital-marketing-specialist-organic-growth-and-lead-generation",
+      "fuente": "weworkremotely",
+      "titulo": "Digital Marketing Specialist - Organic Growth and Lead Generation",
+      "empresa": "Reframe Space Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/reframe-space-inc-digital-marketing-specialist-organic-growth-and-lead-generation",
+      "publicadoEn": 1793784798000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -4011,381 +3938,550 @@
       ]
     },
     {
-      "idFuente": "turtles-customer-happiness-advocate-remote-canada",
-      "fuente": "weworkremotely",
-      "titulo": "Customer Happiness Advocate (Remote - Canada)",
-      "empresa": "Turtles",
-      "url": "https://weworkremotely.com/remote-jobs/turtles-customer-happiness-advocate-remote-canada",
-      "publicadoEn": 1793730848000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "m-kopa-senior-crm-manager",
-      "fuente": "weworkremotely",
-      "titulo": "Senior CRM Manager",
-      "empresa": "M-Kopa",
-      "url": "https://weworkremotely.com/remote-jobs/m-kopa-senior-crm-manager",
-      "publicadoEn": 1793725742000,
-      "salarioTexto": null,
-      "ubicacion": "Nairobi Province",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "elitebrain-photographer-ai-image-quality-evaluation-remote-u-s",
-      "fuente": "weworkremotely",
-      "titulo": "Photographer – AI Image Quality Evaluation (Remote, U.S.)",
-      "empresa": "ELITEBRAIN",
-      "url": "https://weworkremotely.com/remote-jobs/elitebrain-photographer-ai-image-quality-evaluation-remote-u-s",
-      "publicadoEn": 1793725221000,
-      "salarioTexto": null,
-      "ubicacion": "USA Only",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "mantech-quantum-research-scientist",
-      "fuente": "weworkremotely",
-      "titulo": "Quantum Research Scientist",
-      "empresa": "MANTECH",
-      "url": "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
-      "publicadoEn": 1793725219000,
-      "salarioTexto": null,
-      "ubicacion": "USA Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "custom-mechanical-solutions-quality-and-reliability-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Quality and Reliability Engineer",
-      "empresa": "Custom Mechanical Solutions",
-      "url": "https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
-      "publicadoEn": 1793725216000,
-      "salarioTexto": null,
-      "ubicacion": "USA Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "remote-talent-cloud-remote-ai-training-20-hr-united-states-2",
-      "fuente": "weworkremotely",
-      "titulo": "Remote AI Training - $20/hr - United States",
-      "empresa": "Remote Talent Cloud",
-      "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states-2",
-      "publicadoEn": 1793716684000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "tether-operations-limited/senior-business-analyst-mining-100-remote",
+      "idFuente": "micro1/federal-regulatory-policy-analyst",
       "fuente": "himalayas",
-      "titulo": "Senior Business Analyst Mining (100% remote)",
-      "empresa": "Tether Operations Limited",
-      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-mining-100-remote?utm_source=api",
-      "publicadoEn": 1793746094000,
-      "salarioTexto": null,
-      "ubicacion": "Colombia",
-      "etiquetas": [
-        "Senior-Business-Analyst",
-        "Mining-Analyst",
-        "Financial-Analyst",
-        "Investment-Banking-Analyst"
-      ]
-    },
-    {
-      "idFuente": "mercor/accounting-specialist-fully-remote-up-to-42-hr-5823861008",
-      "fuente": "himalayas",
-      "titulo": "Accounting Specialist - Fully Remote | Up to $42/hr",
-      "empresa": "mercor",
-      "url": "https://himalayas.app/companies/mercor/jobs/accounting-specialist-fully-remote-up-to-42-hr-5823861008?utm_source=api",
-      "publicadoEn": 1793746083000,
-      "salarioTexto": "USD 42 - 42",
-      "ubicacion": "Australia",
-      "etiquetas": [
-        "Accounting-Specialist",
-        "Financial-Analyst",
-        "FP&A-Analyst",
-        "Corporate-Finance-Analyst"
-      ]
-    },
-    {
-      "idFuente": "oec/product-designer-analytics",
-      "fuente": "himalayas",
-      "titulo": "Product Designer, Analytics",
-      "empresa": "OEC",
-      "url": "https://himalayas.app/companies/oec/jobs/product-designer-analytics?utm_source=api",
-      "publicadoEn": 1793746083000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Product-Designer",
-        "Data-Product-Designer",
-        "UX-Designer",
-        "UI-Designer",
-        "Data-Visualization-Designer"
-      ]
-    },
-    {
-      "idFuente": "patrique-mercier-recruitment-es/german-speaking-euro-1-500-per-month-german-content-moderator-for-social-media",
-      "fuente": "himalayas",
-      "titulo": "GERMAN SPEAKING|Euro 1.500 per MONTH!-German Content Moderator for Social Media",
-      "empresa": "Patrique Mercier Recruitment ES",
-      "url": "https://himalayas.app/companies/patrique-mercier-recruitment-es/jobs/german-speaking-euro-1-500-per-month-german-content-moderator-for-social-media?utm_source=api",
-      "publicadoEn": 1793746053000,
-      "salarioTexto": "USD 1,500 - 1,500",
-      "ubicacion": "Greece",
-      "etiquetas": [
-        "Content-Moderator",
-        "Social-Media-Content-Moderator",
-        "Content-Review-Specialist"
-      ]
-    },
-    {
-      "idFuente": "microsourcing/senior-video-editor-davinci-resolve-studio",
-      "fuente": "himalayas",
-      "titulo": "Senior Video Editor (DaVinci Resolve Studio)",
-      "empresa": "MicroSourcing",
-      "url": "https://himalayas.app/companies/microsourcing/jobs/senior-video-editor-davinci-resolve-studio?utm_source=api",
-      "publicadoEn": 1793745966000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Senior-Video-Editor",
-        "Video-Editor",
-        "Motion-Graphics-Editor",
-        "Post-Production-Editor"
-      ]
-    },
-    {
-      "idFuente": "lifelancer/nutrition-support-dietitian-registered-dietitian",
-      "fuente": "himalayas",
-      "titulo": "Nutrition Support Dietitian - Registered Dietitian",
-      "empresa": "Lifelancer",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/nutrition-support-dietitian-registered-dietitian?utm_source=api",
-      "publicadoEn": 1793745964000,
-      "salarioTexto": "USD 21.1 - 48.67",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Registered-Dietitian",
-        "Nutrition-Support-Dietitian",
-        "Clinical-Dietitian",
-        "Home-Health-Dietitian",
-        "Medical-Nutrition-Therapy"
-      ]
-    },
-    {
-      "idFuente": "micro1/federal-budget-analyst",
-      "fuente": "himalayas",
-      "titulo": "Federal Budget Analyst",
+      "titulo": "Federal Regulatory Policy Analyst",
       "empresa": "micro1",
-      "url": "https://himalayas.app/companies/micro1/jobs/federal-budget-analyst?utm_source=api",
-      "publicadoEn": 1793745954000,
-      "salarioTexto": "USD 60 - 85",
+      "url": "https://himalayas.app/companies/micro1/jobs/federal-regulatory-policy-analyst?utm_source=api",
+      "publicadoEn": 1793818106000,
+      "salarioTexto": "USD 50 - 70",
       "ubicacion": "",
       "etiquetas": []
     },
     {
-      "idFuente": "valiant-solutions/red-team-tester-mid",
+      "idFuente": "micro1/federal-contract-specialist",
       "fuente": "himalayas",
-      "titulo": "Red Team Tester (Mid)",
-      "empresa": "Valiant Solutions",
-      "url": "https://himalayas.app/companies/valiant-solutions/jobs/red-team-tester-mid?utm_source=api",
-      "publicadoEn": 1793745954000,
-      "salarioTexto": "USD 130,000 - 142,000",
-      "ubicacion": "United States",
+      "titulo": "Federal Contract Specialist",
+      "empresa": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/federal-contract-specialist?utm_source=api",
+      "publicadoEn": 1793818085000,
+      "salarioTexto": "USD 60 - 80",
+      "ubicacion": "",
+      "etiquetas": []
+    },
+    {
+      "idFuente": "agensi-pekerjaan-penta-consultancy-sdn-bhd/change-manager",
+      "fuente": "himalayas",
+      "titulo": "Change Manager",
+      "empresa": "Agensi Pekerjaan Penta Consultancy Sdn. Bhd",
+      "url": "https://himalayas.app/companies/agensi-pekerjaan-penta-consultancy-sdn-bhd/jobs/change-manager?utm_source=api",
+      "publicadoEn": 1793817898000,
+      "salarioTexto": null,
+      "ubicacion": "Malaysia",
       "etiquetas": [
-        "Red-Team-Tester",
-        "Penetration-Tester",
-        "Offensive-Security-Engineer",
-        "Security-Tester",
-        "Security-Testing-Engineer"
+        "Change-Manager",
+        "Change-Management-Consultant",
+        "Transformation-Manager"
       ]
     },
     {
-      "idFuente": "mutual-of-omaha/business-systems-analyst-ii-iii",
+      "idFuente": "acierta-headhunter/gerente-canal-channel-manager-ingles-b2-remoto",
       "fuente": "himalayas",
-      "titulo": "Business Systems Analyst II/III",
-      "empresa": "Mutual Of Omaha",
-      "url": "https://himalayas.app/companies/mutual-of-omaha/jobs/business-systems-analyst-ii-iii?utm_source=api",
-      "publicadoEn": 1793745896000,
-      "salarioTexto": "USD 59,000 - 87,500",
-      "ubicacion": "United States",
+      "titulo": "GERENTE CANAL  CHANNEL MANAGER (ingles +b2) REMOTO",
+      "empresa": "ACIERTA HEADHUNTER",
+      "url": "https://himalayas.app/companies/acierta-headhunter/jobs/gerente-canal-channel-manager-ingles-b2-remoto?utm_source=api",
+      "publicadoEn": 1793817763000,
+      "salarioTexto": null,
+      "ubicacion": "Colombia",
       "etiquetas": [
-        "Business-Systems-Analyst",
-        "Business-Analyst",
-        "Systems-Analyst",
-        "Business-Process-Analyst",
-        "Project-Analyst"
+        "Channel-Manager",
+        "Partner-Marketing-Manager",
+        "Channel-Sales-Manager",
+        "Business-Development-Manager"
       ]
     },
     {
-      "idFuente": "lifelancer/senior-director-quality-regulatory-notified-body-audits-9311506596",
+      "idFuente": "surgo-health/research-fellow-phd-or-postdoctoral-lmic-family-planning",
       "fuente": "himalayas",
-      "titulo": "Senior Director, Quality & Regulatory Notified Body Audits",
-      "empresa": "Lifelancer",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/senior-director-quality-regulatory-notified-body-audits-9311506596?utm_source=api",
-      "publicadoEn": 1793745846000,
-      "salarioTexto": "USD 172,800 - 259,200",
+      "titulo": "Research Fellow (PhD or Postdoctoral) - LMIC Family Planning",
+      "empresa": "Surgo Health",
+      "url": "https://himalayas.app/companies/surgo-health/jobs/research-fellow-phd-or-postdoctoral-lmic-family-planning?utm_source=api",
+      "publicadoEn": 1793817352000,
+      "salarioTexto": "USD 6,000 - 6,000",
       "ubicacion": "United States",
       "etiquetas": [
-        "Quality-Director",
-        "Regulatory-Affairs-Director",
-        "Regulatory-Quality-Director",
-        "Notified-Body-Specialist",
-        "Quality-Assurance-Director"
+        "Research-Fellow",
+        "Postdoctoral-Researcher",
+        "Research-Scientist",
+        "Global-Health-Research",
+        "Public-Health-Researcher",
+        "Epidemiology-Research-Fellow"
       ]
     },
     {
-      "idFuente": "affinity-travels/homebased-travel-advisor",
+      "idFuente": "affinity-travels/urban-travel-concierge",
       "fuente": "himalayas",
-      "titulo": "Homebased travel advisor",
+      "titulo": "Urban Travel Concierge",
       "empresa": "Affinity Travels",
-      "url": "https://himalayas.app/companies/affinity-travels/jobs/homebased-travel-advisor?utm_source=api",
-      "publicadoEn": 1793745789000,
+      "url": "https://himalayas.app/companies/affinity-travels/jobs/urban-travel-concierge?utm_source=api",
+      "publicadoEn": 1793817204000,
       "salarioTexto": null,
       "ubicacion": "United States",
       "etiquetas": [
-        "Travel-Advisor",
-        "Travel-Consultant"
+        "Travel-Consultant",
+        "Travel-Concierge",
+        "Luxury-Travel-Advisor",
+        "Travel-Planning-Specialist"
       ]
     },
     {
-      "idFuente": "future-group/business-development-executive-usa-market",
+      "idFuente": "iconplc/clinical-research-associate-ii",
       "fuente": "himalayas",
-      "titulo": "Business Development Executive-USA Market",
-      "empresa": "Future Group",
-      "url": "https://himalayas.app/companies/future-group/jobs/business-development-executive-usa-market?utm_source=api",
-      "publicadoEn": 1793745760000,
+      "titulo": "Clinical Research Associate II",
+      "empresa": "ICON",
+      "url": "https://himalayas.app/companies/iconplc/jobs/clinical-research-associate-ii?utm_source=api",
+      "publicadoEn": 1793817137000,
       "salarioTexto": null,
-      "ubicacion": "Egypt",
-      "etiquetas": [
-        "Business-Development-Executive",
-        "Business-Development-Manager",
-        "Sales-Executive",
-        "Account-Executive"
-      ]
-    },
-    {
-      "idFuente": "quota-crushers-agency/sr-sales-executive-cyber-security-4985133748",
-      "fuente": "himalayas",
-      "titulo": "Sr Sales Executive - Cyber Security",
-      "empresa": "Quota Crushers Agency",
-      "url": "https://himalayas.app/companies/quota-crushers-agency/jobs/sr-sales-executive-cyber-security-4985133748?utm_source=api",
-      "publicadoEn": 1793745566000,
-      "salarioTexto": "USD 110,000 - 220,000",
       "ubicacion": "United States",
       "etiquetas": [
-        "Sales-Executive",
-        "Cybersecurity-Sales",
-        "Enterprise-Sales-Representative",
-        "Account-Executive"
+        "Clinical-Research-Associate",
+        "Clinical-Trial-Monitor",
+        "Clinical-Research-Coordinator"
       ]
     },
     {
-      "idFuente": "lifelancer/assoc-business-development-director-safety-solutions-3136075848",
+      "idFuente": "scalejet/ugc-program-manager-social-performance-creative-7992376921",
       "fuente": "himalayas",
-      "titulo": "Assoc Business Development Director - Safety Solutions",
-      "empresa": "Lifelancer",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/assoc-business-development-director-safety-solutions-3136075848?utm_source=api",
-      "publicadoEn": 1793745555000,
-      "salarioTexto": "USD 89,900 - 250,400",
+      "titulo": "UGC Program Manager, Social & Performance Creative",
+      "empresa": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/ugc-program-manager-social-performance-creative-7992376921?utm_source=api",
+      "publicadoEn": 1793816506000,
+      "salarioTexto": null,
+      "ubicacion": "Romania",
+      "etiquetas": [
+        "UGC-Program-Manager",
+        "Social-Media-Manager",
+        "Performance-Creative-Manager",
+        "DTC-Creative-Manager",
+        "Content-Production-Manager",
+        "UGC-Marketing-Manager",
+        "Social-Creative-Manager",
+        "UGC-Content-Manager",
+        "Content-Creator-Program-Manager",
+        "Creative-Program-Manager",
+        "Creative-Campaigns-Manager",
+        "Marketing"
+      ]
+    },
+    {
+      "idFuente": "trupanion/trilingual-veterinary-claims-specialist-english-french-german",
+      "fuente": "himalayas",
+      "titulo": "Trilingual Veterinary Claims Specialist – English, French & German",
+      "empresa": "Trupanion",
+      "url": "https://himalayas.app/companies/trupanion/jobs/trilingual-veterinary-claims-specialist-english-french-german?utm_source=api",
+      "publicadoEn": 1793816488000,
+      "salarioTexto": null,
+      "ubicacion": "Germany, Switzerland",
+      "etiquetas": [
+        "Insurance-Claims-Specialist",
+        "Pet-Insurance",
+        "Veterinary-Claims",
+        "Claims-Processing",
+        "Animal-Health",
+        "Claims-Customer-Service",
+        "Bilingual-Claims-Specialist",
+        "Bilingual-Claims-Processor",
+        "Medical-Claims-Specialist",
+        "Healthcare-Claims-Specialist",
+        "Claims-Specialist"
+      ]
+    },
+    {
+      "idFuente": "ameresco/operations-manager-medium-voltage",
+      "fuente": "himalayas",
+      "titulo": "Operations Manager - Medium Voltage",
+      "empresa": "Ameresco",
+      "url": "https://himalayas.app/companies/ameresco/jobs/operations-manager-medium-voltage?utm_source=api",
+      "publicadoEn": 1793816471000,
+      "salarioTexto": "USD 111,000 - 161,500",
       "ubicacion": "United States",
       "etiquetas": [
-        "Business-Development-Director",
-        "Sales-Director",
-        "Account-Executive"
+        "Medium-Voltage-Electrical",
+        "Renewable-Energy-Operations",
+        "Solar-Operations",
+        "Energy-Storage-Operations",
+        "Operations-Manager",
+        "Operations-and-Maintenance-Manager"
       ]
     },
     {
-      "idFuente": "microsourcing/marketing-campaign-coordinator",
+      "idFuente": "concert8-solutions-inc/native-japanese-speaker-customer-service-representative-travel-6576666614",
       "fuente": "himalayas",
-      "titulo": "Marketing Campaign Coordinator",
-      "empresa": "MicroSourcing",
-      "url": "https://himalayas.app/companies/microsourcing/jobs/marketing-campaign-coordinator?utm_source=api",
-      "publicadoEn": 1793745542000,
-      "salarioTexto": "USD 30,000 - 40,000",
+      "titulo": "Native Japanese Speaker - Customer Service Representative – Travel",
+      "empresa": "Concert8 Solutions Inc",
+      "url": "https://himalayas.app/companies/concert8-solutions-inc/jobs/native-japanese-speaker-customer-service-representative-travel-6576666614?utm_source=api",
+      "publicadoEn": 1793816448000,
+      "salarioTexto": null,
+      "ubicacion": "Japan",
+      "etiquetas": [
+        "Customer-Service",
+        "Travel-Industry-Customer-Support",
+        "Japanese-Language-Jobs",
+        "Remote-Customer-Support",
+        "Bilingual-Customer-Service",
+        "Japanese-Speaking-Customer-Service-Representative",
+        "Travel-Customer-Service-Representative",
+        "Customer-Service-Representative-Travel",
+        "Travel-Customer-Service"
+      ]
+    },
+    {
+      "idFuente": "dentons/regional-business-development-executive-senior-2766035764",
+      "fuente": "himalayas",
+      "titulo": "Regional Business Development Executive (Senior)",
+      "empresa": "Dentons",
+      "url": "https://himalayas.app/companies/dentons/jobs/regional-business-development-executive-senior-2766035764?utm_source=api",
+      "publicadoEn": 1793816434000,
+      "salarioTexto": null,
+      "ubicacion": "Algeria, Angola, Benin, Botswana, British Indian Ocean Territory, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Côte d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Western Sahara, Zambia, Zimbabwe",
+      "etiquetas": [
+        "Business-Development",
+        "Marketing",
+        "Regional-Development",
+        "Professional-Services-Marketing",
+        "Client-Relations",
+        "Global-Roles",
+        "Law-Practice",
+        "Regional-Business-Development-Manager",
+        "Senior-Regional-Sales-Executive",
+        "Senior-Business-Development-Executive",
+        "Senior-Business-Development",
+        "Regional-Sales-Development-Manager",
+        "Regional-Sales-Manager-New-Business-Development",
+        "Regional-Sales-Executive",
+        "Senior-Business-Developer",
+        "Regional-Business-Development-Jobs",
+        "Business-Development-Executive"
+      ]
+    },
+    {
+      "idFuente": "we-assist-io/intake-specialist-mlt",
+      "fuente": "himalayas",
+      "titulo": "Intake Specialist - MLT",
+      "empresa": "We Assist.io",
+      "url": "https://himalayas.app/companies/we-assist-io/jobs/intake-specialist-mlt?utm_source=api",
+      "publicadoEn": 1793816429000,
+      "salarioTexto": "USD 9,600 - 14,400",
       "ubicacion": "Philippines",
       "etiquetas": [
-        "Marketing-Campaign-Coordinator",
-        "Marketing-Coordinator",
-        "Campaign-Coordinator",
-        "Media-Coordinator",
-        "Marketing-Assistant"
+        "Intake-Specialist",
+        "Customer-Service",
+        "Lead-Generation-Specialist",
+        "Call-Center-Representative",
+        "Scheduling-Coordinator"
       ]
     },
     {
-      "idFuente": "lifelancer/business-consultant-global-medical-business-consulting-1172171119",
+      "idFuente": "mercor/labor-attorney-fully-remote",
       "fuente": "himalayas",
-      "titulo": "Business Consultant - Global Medical Business Consulting",
-      "empresa": "Lifelancer",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/business-consultant-global-medical-business-consulting-1172171119?utm_source=api",
-      "publicadoEn": 1793745485000,
-      "salarioTexto": "USD 63,000 - 95,000",
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Business-Consultant",
-        "Management-Consultant",
-        "Life-Sciences-Consultant",
-        "Healthcare-Consultant"
-      ]
-    },
-    {
-      "idFuente": "ciee-barcelona/human-resources-generalist",
-      "fuente": "himalayas",
-      "titulo": "Human Resources Generalist",
-      "empresa": "CIEE Barcelona",
-      "url": "https://himalayas.app/companies/ciee-barcelona/jobs/human-resources-generalist?utm_source=api",
-      "publicadoEn": 1793745336000,
+      "titulo": "Labor Attorney - Fully Remote",
+      "empresa": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/labor-attorney-fully-remote?utm_source=api",
+      "publicadoEn": 1793816418000,
       "salarioTexto": null,
-      "ubicacion": "Canada, United States",
+      "ubicacion": "Canada, United Kingdom, United States",
       "etiquetas": [
-        "HR-Generalist",
+        "Employment-Law",
+        "Labor-Law",
+        "Workplace-Investigations",
+        "Employment-Compliance",
+        "Legal-Consulting",
+        "Remote-Labor-And-Employment-Attorney",
+        "Remote-Employment-Attorney",
+        "Labor-Attorney",
+        "Labor-Law-Attorney",
+        "Remote-Attorney",
+        "Remote-Lawyer",
+        "Legal"
+      ]
+    },
+    {
+      "idFuente": "bosch-group/hvac-specialist-water-source-heat-pumps-geothermal-2877772667",
+      "fuente": "himalayas",
+      "titulo": "HVAC Specialist (Water Source Heat Pumps/Geothermal)",
+      "empresa": "Bosch Group",
+      "url": "https://himalayas.app/companies/bosch-group/jobs/hvac-specialist-water-source-heat-pumps-geothermal-2877772667?utm_source=api",
+      "publicadoEn": 1793816343000,
+      "salarioTexto": "USD 65,000 - 80,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Service",
+        "Mechanical-Or-Industrial-Engineering",
+        "Technical-Support",
+        "HVAC-Engineering",
+        "Technical-Customer-Support",
+        "Heat-Pump-Specialist",
+        "HVAC-Systems-Engineer",
+        "HVAC-Technician",
+        "HVAC-Engineer",
+        "Geothermal-Energy-Engineer"
+      ]
+    },
+    {
+      "idFuente": "scalejet/hr-specialist-5909309556",
+      "fuente": "himalayas",
+      "titulo": "HR Specialist",
+      "empresa": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/hr-specialist-5909309556?utm_source=api",
+      "publicadoEn": 1793816336000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
         "Human-Resources-Specialist",
-        "HRIS-Specialist",
-        "Compensation-Analyst",
-        "Payroll-Specialist"
+        "Recruitment-Specialist",
+        "HR-Operations-Specialist",
+        "HR-Generalist",
+        "Talent-Acquisition-Specialist",
+        "HR-Services-Specialist",
+        "HR-Support-Specialist",
+        "Human-Resources"
       ]
     },
     {
-      "idFuente": "quota-crushers-agency/director-of-sales-global-trade",
+      "idFuente": "blackfluo-ai/senior-talent-acquisition-manager-9148826028",
       "fuente": "himalayas",
-      "titulo": "Director Of Sales - Global Trade",
-      "empresa": "Quota Crushers Agency",
-      "url": "https://himalayas.app/companies/quota-crushers-agency/jobs/director-of-sales-global-trade?utm_source=api",
-      "publicadoEn": 1793745334000,
-      "salarioTexto": "USD 170,000 - 170,000",
-      "ubicacion": "United States",
+      "titulo": "Senior Talent Acquisition Manager",
+      "empresa": "Blackfluo.ai",
+      "url": "https://himalayas.app/companies/blackfluo-ai/jobs/senior-talent-acquisition-manager-9148826028?utm_source=api",
+      "publicadoEn": 1793816310000,
+      "salarioTexto": null,
+      "ubicacion": "Afghanistan, Albania, Algeria, Andorra, Angola, Antarctica, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Benin, Bosnia and Herzegovina, Botswana, Bouvet Island, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, French Guiana, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hungary, Iceland, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Martinique, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Montenegro, Morocco, Mozambique, Namibia, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Palestine, State of, Poland, Portugal, Qatar, Romania, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Sint Maarten (Dutch part), Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Tanzania, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
       "etiquetas": [
-        "Sales-Director",
-        "B2B-Sales-Director"
+        "Senior-Talent-Acquisition-Manager",
+        "Technical-Recruiter",
+        "Talent-Acquisition-Manager",
+        "Senior-Technical-Recruiter",
+        "Tech-Recruiting",
+        "Senior-Manager-Talent-Acquisition",
+        "Senior-Recruiting-Manager",
+        "Senior-Recruitment-Manager",
+        "Executive-Talent-Acquisition-Manager"
       ]
     },
     {
-      "idFuente": "3cloud/architect-enterprise-solutions-architecture",
+      "idFuente": "mercor/spreadsheet-analyst-fully-remote-upto-150-hr-9529208666",
       "fuente": "himalayas",
-      "titulo": "Architect - Enterprise Solutions Architecture",
-      "empresa": "3Cloud",
-      "url": "https://himalayas.app/companies/3cloud/jobs/architect-enterprise-solutions-architecture?utm_source=api",
-      "publicadoEn": 1793745329000,
-      "salarioTexto": "USD 145,200 - 187,800",
+      "titulo": "Spreadsheet Analyst - Fully Remote | Upto $150/hr",
+      "empresa": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/spreadsheet-analyst-fully-remote-upto-150-hr-9529208666?utm_source=api",
+      "publicadoEn": 1793816310000,
+      "salarioTexto": null,
       "ubicacion": "United States",
       "etiquetas": [
-        "Solutions-Architect",
-        "Cloud-Architect",
-        "Azure-Architect",
-        "Enterprise-Architect"
+        "Spreadsheet-Analyst",
+        "Document-Evaluation",
+        "Excel-Specialist",
+        "Document-Reviewer",
+        "Remote-Excel-Work",
+        "Remote-Data-Analyst",
+        "Excel-Data-Analyst",
+        "Spreadsheet-Specialist"
+      ]
+    },
+    {
+      "idFuente": "mercor/business-analyst-fully-remote-upto-160-hr-1578771222",
+      "fuente": "himalayas",
+      "titulo": "Business Analyst - Fully Remote | Upto $160/hr",
+      "empresa": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/business-analyst-fully-remote-upto-160-hr-1578771222?utm_source=api",
+      "publicadoEn": 1793816293000,
+      "salarioTexto": null,
+      "ubicacion": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Åland Islands",
+      "etiquetas": [
+        "Business-Analyst",
+        "Contract-Business-Analysis",
+        "Document-Review-Analyst",
+        "Evaluation-Specialist",
+        "AI-Research-Analyst",
+        "Remote-Business-Analyst"
+      ]
+    },
+    {
+      "idFuente": "mercor/consultant-fully-remote-upto-160-hr-8658103545",
+      "fuente": "himalayas",
+      "titulo": "Consultant - Fully Remote | Upto $160/hr",
+      "empresa": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/consultant-fully-remote-upto-160-hr-8658103545?utm_source=api",
+      "publicadoEn": 1793816292000,
+      "salarioTexto": null,
+      "ubicacion": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Åland Islands",
+      "etiquetas": [
+        "Consulting",
+        "Advisory",
+        "ContractWorks",
+        "Remote-Work",
+        "Document-Review",
+        "Remote-Consultant",
+        "Remote-Consulting",
+        "Remote-Work-Consultant"
+      ]
+    },
+    {
+      "idFuente": "159003",
+      "fuente": "jobicy",
+      "titulo": "Global Head of Cloud Alliances",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/159003-global-head-of-cloud-alliances",
+      "publicadoEn": 1793809905000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA, LATAM, Canada, USA",
+      "etiquetas": [
+        "Business Development",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "158995",
+      "fuente": "jobicy",
+      "titulo": "Staff Software Engineer, Tools & Systems",
+      "empresa": "Mozilla",
+      "url": "https://jobicy.com/jobs/158995-staff-software-engineer-tools-systems",
+      "publicadoEn": 1793809504000,
+      "salarioTexto": "EUR 76,000 - 101,000",
+      "ubicacion": "Spain",
+      "etiquetas": [
+        "Software Engineering",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158991",
+      "fuente": "jobicy",
+      "titulo": "Senior Product Manager - Core Experience",
+      "empresa": "Spotify",
+      "url": "https://jobicy.com/jobs/158991-senior-product-manager-core-experience",
+      "publicadoEn": 1793809478000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "Product & Operations",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158988",
+      "fuente": "jobicy",
+      "titulo": "Contract Manager – OFCI Procurement (Data Centers)",
+      "empresa": "Nebius",
+      "url": "https://jobicy.com/jobs/158988-contract-manager-ofci-procurement-data-centers",
+      "publicadoEn": 1793809473000,
+      "salarioTexto": null,
+      "ubicacion": "Europe",
+      "etiquetas": [
+        "Legal & Compliance",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158982",
+      "fuente": "jobicy",
+      "titulo": "English to Maltese Review Lead for UI, Marketing & Product Content",
+      "empresa": "Welo Global",
+      "url": "https://jobicy.com/jobs/158982-english-to-maltese-review-lead-for-ui-marketing-product-content",
+      "publicadoEn": 1793800716000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "QA & Testing",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158980",
+      "fuente": "jobicy",
+      "titulo": "English to Lao Review Lead for UI, Marketing & Product Content",
+      "empresa": "Welo Global",
+      "url": "https://jobicy.com/jobs/158980-english-to-lao-review-lead-for-ui-marketing-product-content",
+      "publicadoEn": 1793800691000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "QA & Testing",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158978",
+      "fuente": "jobicy",
+      "titulo": "English to Kyrgyz Review Lead for UI, Marketing & Product Content",
+      "empresa": "Welo Global",
+      "url": "https://jobicy.com/jobs/158978-english-to-kyrgyz-review-lead-for-ui-marketing-product-content",
+      "publicadoEn": 1793800688000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "QA & Testing",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158953",
+      "fuente": "jobicy",
+      "titulo": "Equity Administrator",
+      "empresa": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158953-equity-administrator-2",
+      "publicadoEn": 1793800158000,
+      "salarioTexto": null,
+      "ubicacion": "Europe, USA",
+      "etiquetas": [
+        "Finance & Accounting",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "158950",
+      "fuente": "jobicy",
+      "titulo": "Product Marketing Lead",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/158950-product-marketing-lead-4",
+      "publicadoEn": 1793800153000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "Marketing & Sales",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "158948",
+      "fuente": "jobicy",
+      "titulo": "Product Manager - Ubuntu",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/158948-product-manager-ubuntu",
+      "publicadoEn": 1793800149000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "Product & Operations",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158946",
+      "fuente": "jobicy",
+      "titulo": "Product Manager - Security",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/158946-product-manager-security-2",
+      "publicadoEn": 1793800124000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "Product & Operations",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "158944",
+      "fuente": "jobicy",
+      "titulo": "Product Manager - Data",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/158944-product-manager-data",
+      "publicadoEn": 1793800121000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA",
+      "etiquetas": [
+        "Product & Operations",
+        "Senior"
       ]
     }
   ],
@@ -4426,13 +4522,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 10890,
-      "remotive": 1478,
-      "weworkremotely": 9928,
-      "himalayas": 2200,
-      "jobicy": 5050
+      "remoteok": 10989,
+      "remotive": 1489,
+      "weworkremotely": 10028,
+      "himalayas": 2220,
+      "jobicy": 5100
     },
-    "duplicadosDescartados": 25969,
-    "ultimaEjecucion": "2026-11-04T06:17:45.992Z"
+    "duplicadosDescartados": 26179,
+    "ultimaEjecucion": "2026-11-04T19:43:51.792Z"
   }
 }
