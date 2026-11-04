@@ -3555,9 +3555,406 @@
     "nebius::network planning technical project manager",
     "welo global::ai trainers network hebrew",
     "cloudbeds::head of global support",
-    "binance::investigation analyst geofencing 12 months contract"
+    "binance::investigation analyst geofencing 12 months contract",
+    "aprio::tax manager private client",
+    "burkland associates::client accounting division manager",
+    "imprint::lead product marketing manager",
+    "micro1::engineering phd",
+    "fujifilm::principal national support engineer ii",
+    "clera::product marketing manager",
+    "focal search pte ltd::sales coordinator marine",
+    "spotter labs::recruiting operations analyst",
+    "outsource recruiter::performance marketing specialist ecommerce",
+    "outsourcey::full stack developer",
+    "the studio::legal compliance manager",
+    "venon solutions::1021 ai native full stack engineer react next js php",
+    "softtest pays pty ltd::el1 lead cyber security architect",
+    "outsource recruiter::field operations scheduler bilingual french english",
+    "teya::business development manager",
+    "porch group::actuarial specialist",
+    "5blue software::full stack developer django vue js ai part time",
+    "capital blue cross::manager data engineering",
+    "molt legal partners llc::litigation paralegal",
+    "g2i inc::senior software engineer ai training",
+    "softtest pays pty ltd::el1 southpan system engineer team lead"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "micro1/engineering-phd",
+      "fuente": "himalayas",
+      "titulo": "Engineering PhD",
+      "empresa": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/engineering-phd?utm_source=api",
+      "publicadoEn": 1793768082000,
+      "salarioTexto": "USD 80 - 95",
+      "ubicacion": "",
+      "etiquetas": [
+        "Engineering-Research-Jobs",
+        "PhD-Research",
+        "PhD-Researcher",
+        "Research-Engineer",
+        "Graduate-Engineering",
+        "PhD-Research-Roles"
+      ]
+    },
+    {
+      "idFuente": "1137622",
+      "fuente": "remoteok",
+      "titulo": "Tax Manager Private Client",
+      "empresa": "Aprio",
+      "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+      "publicadoEn": 1793664018000,
+      "salarioTexto": null,
+      "ubicacion": "Scotch Plains, NJ",
+      "etiquetas": [
+        "exec",
+        "education",
+        "consulting",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "accounting",
+        "finance",
+        "junior",
+        "sales",
+        "full time",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "1137621",
+      "fuente": "remoteok",
+      "titulo": "Client Accounting Division Manager",
+      "empresa": "Burkland Associates",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+      "publicadoEn": 1793664010000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "exec",
+        "accounting",
+        "amazon",
+        "hr",
+        "sys admin",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "finance",
+        "video",
+        "content writing",
+        "ops",
+        "medical",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "part time",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "imprint/lead-product-marketing-manager",
+      "fuente": "himalayas",
+      "titulo": "Lead Product Marketing Manager",
+      "empresa": "Imprint",
+      "url": "https://himalayas.app/companies/imprint/jobs/lead-product-marketing-manager?utm_source=api",
+      "publicadoEn": 1793768119000,
+      "salarioTexto": "USD 200,000 - 240,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Product-Marketing-Lead",
+        "Product-Marketing-Team-Lead",
+        "Product-Marketing-Manager",
+        "Lead-Marketing-Manager",
+        "Product-Marketing-Director",
+        "Director-Of-Product-Marketing"
+      ]
+    },
+    {
+      "idFuente": "fujifilm/principal-national-support-engineer-ii-1831987509",
+      "fuente": "himalayas",
+      "titulo": "Principal National Support Engineer II",
+      "empresa": "Fujifilm",
+      "url": "https://himalayas.app/companies/fujifilm/jobs/principal-national-support-engineer-ii-1831987509?utm_source=api",
+      "publicadoEn": 1793768049000,
+      "salarioTexto": "USD 110,366 - 130,909",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Principal-Support-Engineer",
+        "Technical-Support-Engineer",
+        "Systems-Support-Engineer",
+        "Software-Support-Engineer",
+        "Medical-Imaging-Support"
+      ]
+    },
+    {
+      "idFuente": "clera/product-marketing-manager",
+      "fuente": "himalayas",
+      "titulo": "Product Marketing Manager",
+      "empresa": "Clera",
+      "url": "https://himalayas.app/companies/clera/jobs/product-marketing-manager?utm_source=api",
+      "publicadoEn": 1793767940000,
+      "salarioTexto": "USD 135,000 - 165,000",
+      "ubicacion": "",
+      "etiquetas": [
+        "Product-Marketing-Manager",
+        "Product-Marketer",
+        "SaaS-Product-Marketing-Manager",
+        "Global-Product-Marketing-Manager"
+      ]
+    },
+    {
+      "idFuente": "focal-search-pte-ltd/sales-coordinator-marine",
+      "fuente": "himalayas",
+      "titulo": "Sales Coordinator (Marine)",
+      "empresa": "Focal Search Pte Ltd",
+      "url": "https://himalayas.app/companies/focal-search-pte-ltd/jobs/sales-coordinator-marine?utm_source=api",
+      "publicadoEn": 1793767907000,
+      "salarioTexto": null,
+      "ubicacion": "Singapore",
+      "etiquetas": [
+        "Sales-Coordinator",
+        "Order-Coordinator",
+        "Logistics-Coordinator",
+        "Export-Coordinator"
+      ]
+    },
+    {
+      "idFuente": "spotter-labs/recruiting-operations-analyst",
+      "fuente": "himalayas",
+      "titulo": "Recruiting Operations Analyst",
+      "empresa": "Spotter Labs",
+      "url": "https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst?utm_source=api",
+      "publicadoEn": 1793767893000,
+      "salarioTexto": null,
+      "ubicacion": "",
+      "etiquetas": [
+        "Recruitment-Operations-Analyst",
+        "Recruiting-Analyst",
+        "Recruiting-Operations-Jobs",
+        "Recruitment-Analyst",
+        "Talent-Acquisition-Operations-Specialist"
+      ]
+    },
+    {
+      "idFuente": "outsource-recruiter/performance-marketing-specialist-ecommerce",
+      "fuente": "himalayas",
+      "titulo": "Performance Marketing Specialist (Ecommerce)",
+      "empresa": "Outsource Recruiter",
+      "url": "https://himalayas.app/companies/outsource-recruiter/jobs/performance-marketing-specialist-ecommerce?utm_source=api",
+      "publicadoEn": 1793767889000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "Performance-Marketing-Specialist",
+        "Digital-Marketing-Specialist",
+        "eCommerce-Marketing-Specialist",
+        "Paid-Media-Specialist",
+        "PPC-Specialist"
+      ]
+    },
+    {
+      "idFuente": "outsourcey/full-stack-developer",
+      "fuente": "himalayas",
+      "titulo": "Full Stack Developer",
+      "empresa": "Outsourcey",
+      "url": "https://himalayas.app/companies/outsourcey/jobs/full-stack-developer?utm_source=api",
+      "publicadoEn": 1793767882000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "Full-Stack-Developer",
+        "3D-Graphics-Developer",
+        "Unreal-Engine-Developer",
+        "Virtual-Reality-Developer",
+        "3D-Generalist"
+      ]
+    },
+    {
+      "idFuente": "utopia-studio/legal-compliance-manager-7014945144",
+      "fuente": "himalayas",
+      "titulo": "Legal & Compliance Manager",
+      "empresa": "The Studio",
+      "url": "https://himalayas.app/companies/utopia-studio/jobs/legal-compliance-manager-7014945144?utm_source=api",
+      "publicadoEn": 1793767879000,
+      "salarioTexto": "USD 50,000 - 50,000",
+      "ubicacion": "Qatar",
+      "etiquetas": [
+        "Legal-Compliance-Manager",
+        "Compliance-Manager",
+        "Legal-Compliance-Specialist",
+        "Legal-Manager",
+        "Regulatory-Compliance-Manager",
+        "Corporate-Compliance-Manager",
+        "Legal"
+      ]
+    },
+    {
+      "idFuente": "venon-solutions/1021-ai-native-full-stack-engineer-react-next-js-php",
+      "fuente": "himalayas",
+      "titulo": "#1021 - AI-Native Full-Stack Engineer (React, Next.js, PHP)",
+      "empresa": "Venon Solutions",
+      "url": "https://himalayas.app/companies/venon-solutions/jobs/1021-ai-native-full-stack-engineer-react-next-js-php?utm_source=api",
+      "publicadoEn": 1793767856000,
+      "salarioTexto": null,
+      "ubicacion": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+      "etiquetas": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Web-Developer",
+        "Frontend-Engineer",
+        "Backend-Engineer"
+      ]
+    },
+    {
+      "idFuente": "softtest-pays-pty-ltd/el1-lead-cyber-security-architect",
+      "fuente": "himalayas",
+      "titulo": "EL1 Lead Cyber Security Architect",
+      "empresa": "Softtest pays pty ltd",
+      "url": "https://himalayas.app/companies/softtest-pays-pty-ltd/jobs/el1-lead-cyber-security-architect?utm_source=api",
+      "publicadoEn": 1793767816000,
+      "salarioTexto": null,
+      "ubicacion": "Australia",
+      "etiquetas": [
+        "Cyber-Security-Architect",
+        "Security-Architect",
+        "Information-Security-Architect",
+        "Cloud-Security-Architect",
+        "Enterprise-Security-Architect"
+      ]
+    },
+    {
+      "idFuente": "outsource-recruiter/field-operations-scheduler-bilingual-french-english",
+      "fuente": "himalayas",
+      "titulo": "Field Operations Scheduler (Bilingual - French/English)",
+      "empresa": "Outsource Recruiter",
+      "url": "https://himalayas.app/companies/outsource-recruiter/jobs/field-operations-scheduler-bilingual-french-english?utm_source=api",
+      "publicadoEn": 1793767745000,
+      "salarioTexto": null,
+      "ubicacion": "Philippines",
+      "etiquetas": [
+        "Field-Scheduler",
+        "Operations-Schedulers",
+        "Workforce-Coordinator",
+        "Recruiting-Coordinator",
+        "Staffing-Coordinator"
+      ]
+    },
+    {
+      "idFuente": "teya/business-development-manager-1007620106",
+      "fuente": "himalayas",
+      "titulo": "Business Development Manager",
+      "empresa": "Teya",
+      "url": "https://himalayas.app/companies/teya/jobs/business-development-manager-1007620106?utm_source=api",
+      "publicadoEn": 1793767745000,
+      "salarioTexto": null,
+      "ubicacion": "Czechia",
+      "etiquetas": [
+        "Business-Development-Manager",
+        "SALES-BUSINESS-DEVELOPMENT-MANAGER",
+        "B2B-Business-Development-Manager",
+        "Business-Development-Team-Manager"
+      ]
+    },
+    {
+      "idFuente": "porch-group/actuarial-specialist",
+      "fuente": "himalayas",
+      "titulo": "Actuarial Specialist",
+      "empresa": "Porch Group",
+      "url": "https://himalayas.app/companies/porch-group/jobs/actuarial-specialist?utm_source=api",
+      "publicadoEn": 1793767744000,
+      "salarioTexto": "USD 1,875,000 - 2,625,000",
+      "ubicacion": "India",
+      "etiquetas": [
+        "Actuary",
+        "Actuarial-Analyst",
+        "Pricing-Analyst",
+        "Insurance-Actuary",
+        "Actuarial-Consultant"
+      ]
+    },
+    {
+      "idFuente": "5blue-software/full-stack-developer-django-vue-js-ai-part-time",
+      "fuente": "himalayas",
+      "titulo": "Full-Stack Developer (Django + Vue.js, AI) part-time",
+      "empresa": "5Blue Software",
+      "url": "https://himalayas.app/companies/5blue-software/jobs/full-stack-developer-django-vue-js-ai-part-time?utm_source=api",
+      "publicadoEn": 1793767723000,
+      "salarioTexto": null,
+      "ubicacion": "Ukraine",
+      "etiquetas": [
+        "Full-Stack-Developer-(JavaScript-Python)",
+        "Mid-Level-Full-Stack-Developer-(JavaScript-Python)",
+        "Full-Stack-Developer"
+      ]
+    },
+    {
+      "idFuente": "capital-blue-cross/manager-data-engineering",
+      "fuente": "himalayas",
+      "titulo": "Manager, Data Engineering",
+      "empresa": "Capital Blue Cross",
+      "url": "https://himalayas.app/companies/capital-blue-cross/jobs/manager-data-engineering?utm_source=api",
+      "publicadoEn": 1793767603000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Data-Engineering-Manager",
+        "Data-Engineering-Lead",
+        "Data-Platform-Manager"
+      ]
+    },
+    {
+      "idFuente": "molt-legal-partners-llc/litigation-paralegal",
+      "fuente": "himalayas",
+      "titulo": "Litigation Paralegal",
+      "empresa": "Molt Legal Partners, LLC",
+      "url": "https://himalayas.app/companies/molt-legal-partners-llc/jobs/litigation-paralegal?utm_source=api",
+      "publicadoEn": 1793767537000,
+      "salarioTexto": "USD 35 - 35",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Litigation-Paralegals",
+        "Civil-Litigation-Paralegal",
+        "Administrative-Law-Paralegal",
+        "Legal-Assistant"
+      ]
+    },
+    {
+      "idFuente": "g2i-inc/senior-software-engineer-ai-training",
+      "fuente": "himalayas",
+      "titulo": "Senior Software Engineer, AI Training",
+      "empresa": "G2i Inc.",
+      "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training?utm_source=api",
+      "publicadoEn": 1793767503000,
+      "salarioTexto": "USD 100 - 200",
+      "ubicacion": "",
+      "etiquetas": [
+        "Senior-AI-Software-Engineer",
+        "Senior-Software-AI-Engineer",
+        "Senior-AI-Engineer",
+        "Senior-AI-Software-Developer",
+        "Senior-AI-ML-Engineer",
+        "Senior-AI-ML-Engineer-Code-Training-Data",
+        "Software-Engineer"
+      ]
+    },
+    {
+      "idFuente": "softtest-pays-pty-ltd/el1-southpan-system-engineer-team-lead",
+      "fuente": "himalayas",
+      "titulo": "EL1 SouthPAN System Engineer Team Lead",
+      "empresa": "Softtest pays pty ltd",
+      "url": "https://himalayas.app/companies/softtest-pays-pty-ltd/jobs/el1-southpan-system-engineer-team-lead?utm_source=api",
+      "publicadoEn": 1793767374000,
+      "salarioTexto": null,
+      "ubicacion": "Australia",
+      "etiquetas": [
+        "Systems-Engineer",
+        "Systems-Engineering-Lead",
+        "Engineering-Team-Lead",
+        "Technical-Lead"
+      ]
+    },
     {
       "idFuente": "158738",
       "fuente": "jobicy",
@@ -3990,300 +4387,6 @@
         "Azure-Architect",
         "Enterprise-Architect"
       ]
-    },
-    {
-      "idFuente": "158826",
-      "fuente": "jobicy",
-      "titulo": "Partner Solutions Architect , AI Builder",
-      "empresa": "Supabase",
-      "url": "https://jobicy.com/jobs/158826-partner-solutions-architect-ai-builder",
-      "publicadoEn": 1793735795000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Customer Support & Success",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "158810",
-      "fuente": "jobicy",
-      "titulo": "Brazilian Portuguese Patent Language Lead",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158810-brazilian-portuguese-patent-language-lead",
-      "publicadoEn": 1793727108000,
-      "salarioTexto": null,
-      "ubicacion": "France, Germany, Italy, Portugal, Spain, UK",
-      "etiquetas": [
-        "Legal & Compliance",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "158809",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Welsh",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158809-ai-trainers-network-welsh",
-      "publicadoEn": 1793727088000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158808",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Vietnamese",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158808-ai-trainers-network-vietnamese",
-      "publicadoEn": 1793727087000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158807",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Uzbek",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158807-ai-trainers-network-uzbek",
-      "publicadoEn": 1793727085000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158806",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Ukrainian",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158806-ai-trainers-network-ukrainian",
-      "publicadoEn": 1793727084000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158805",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Twi",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158805-ai-trainers-network-twi",
-      "publicadoEn": 1793727082000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158804",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Turkish",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158804-ai-trainers-network-turkish",
-      "publicadoEn": 1793727081000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158803",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Thai",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158803-ai-trainers-network-thai",
-      "publicadoEn": 1793727079000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158802",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Tagalog",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158802-ai-trainers-network-tagalog",
-      "publicadoEn": 1793727077000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158801",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Swedish",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158801-ai-trainers-network-swedish",
-      "publicadoEn": 1793727076000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158800",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Swahili",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158800-ai-trainers-network-swahili",
-      "publicadoEn": 1793727074000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158799",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Southeast Asia Talent Hub (Ex-Singapore Residents)",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158799-ai-trainers-network-southeast-asia-talent-hub-ex-singapore-residents",
-      "publicadoEn": 1793727049000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158798",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Somali",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158798-ai-trainers-network-somali",
-      "publicadoEn": 1793727048000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158797",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Slovenian",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158797-ai-trainers-network-slovenian",
-      "publicadoEn": 1793727046000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158796",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Slovak",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158796-ai-trainers-network-slovak",
-      "publicadoEn": 1793727045000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158795",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Serbian",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158795-ai-trainers-network-serbian",
-      "publicadoEn": 1793727043000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158794",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Romanian",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158794-ai-trainers-network-romanian",
-      "publicadoEn": 1793727041000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158793",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Portuguese",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158793-ai-trainers-network-portuguese",
-      "publicadoEn": 1793727040000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158792",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Polish",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158792-ai-trainers-network-polish",
-      "publicadoEn": 1793727038000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "158791",
-      "fuente": "jobicy",
-      "titulo": "AI Trainers Network - Persian",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/158791-ai-trainers-network-persian",
-      "publicadoEn": 1793727036000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -4323,13 +4426,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 10791,
-      "remotive": 1468,
-      "weworkremotely": 9828,
-      "himalayas": 2180,
-      "jobicy": 5000
+      "remoteok": 10890,
+      "remotive": 1478,
+      "weworkremotely": 9928,
+      "himalayas": 2200,
+      "jobicy": 5050
     },
-    "duplicadosDescartados": 25711,
-    "ultimaEjecucion": "2026-11-03T23:20:50.746Z"
+    "duplicadosDescartados": 25969,
+    "ultimaEjecucion": "2026-11-04T06:17:45.992Z"
   }
 }
