@@ -4228,9 +4228,345 @@
     "cantina labs::machine learning engineer ops",
     "cantina labs::machine learning engineer tts",
     "cantina labs::machine learning engineer core evaluations",
-    "xbow::software engineer console"
+    "xbow::software engineer console",
+    "buoyant::senior software engineer kubernetes control plane",
+    "knack::cloud engineer",
+    "wipfli::commercial operations manager",
+    "caci international inc::business systems analyst momentum financials environment specialist",
+    "thehivecareers::director of pmo insurance investments",
+    "impact care::customer success project manager",
+    "peraton::senior ansible automation engineer",
+    "go intellects inc::16yrs senior react js developer remote in person interview",
+    "dozuki::enterprise inside sales account executive",
+    "job duck::v108 bilingual pre suit case manager",
+    "rgh global limited::client success manager",
+    "davies north america::senior claim representative claim counsel",
+    "gamivision::user acquisition expert",
+    "crash champions::hris system analyst",
+    "humana::epic technology leadership",
+    "micro1::sr full stack software engineer",
+    "magicschool::director information technology security k12 edtech",
+    "global payments::associate field sales representative spokane wa",
+    "esko::commercial counsel"
   ],
   "ultimasOfertas": [
+    {
+      "idFuente": "knack-cloud-engineer-1",
+      "fuente": "weworkremotely",
+      "titulo": "Cloud Engineer",
+      "empresa": "Knack",
+      "url": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
+      "publicadoEn": 1794349938000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "DevOps and Sysadmin"
+      ]
+    },
+    {
+      "idFuente": "1137713",
+      "fuente": "remoteok",
+      "titulo": "Senior Software Engineer — Kubernetes Control Plane",
+      "empresa": "Buoyant",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
+      "publicadoEn": 1794261602000,
+      "salarioTexto": null,
+      "ubicacion": null,
+      "etiquetas": [
+        "golang",
+        "dev",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ]
+    },
+    {
+      "idFuente": "wipfli/commercial-operations-manager",
+      "fuente": "himalayas",
+      "titulo": "Commercial Operations Manager",
+      "empresa": "Wipfli",
+      "url": "https://himalayas.app/companies/wipfli/jobs/commercial-operations-manager?utm_source=api",
+      "publicadoEn": 1794374739000,
+      "salarioTexto": "USD 107,000 - 144,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Commercial-Operations-Manager",
+        "Revenue-Operations-Manager",
+        "Sales-Operations-Manager",
+        "Business-Operations-Manager",
+        "Operations-Manager"
+      ]
+    },
+    {
+      "idFuente": "caci-international-inc/business-systems-analyst-momentum-financials-environment-specialist",
+      "fuente": "himalayas",
+      "titulo": "Business Systems Analyst - Momentum Financials Environment Specialist",
+      "empresa": "CACI International Inc",
+      "url": "https://himalayas.app/companies/caci-international-inc/jobs/business-systems-analyst-momentum-financials-environment-specialist?utm_source=api",
+      "publicadoEn": 1794374495000,
+      "salarioTexto": "USD 75,200 - 158,100",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Business-Systems-Analyst",
+        "Financial-Systems-Analyst",
+        "Systems-Analyst",
+        "Momentum-Financials-Specialist",
+        "Business-Analyst"
+      ]
+    },
+    {
+      "idFuente": "thehivecareers/director-of-pmo-insurance-investments-7415335271",
+      "fuente": "himalayas",
+      "titulo": "Director of PMO – Insurance & Investments",
+      "empresa": "TheHiveCareers",
+      "url": "https://himalayas.app/companies/thehivecareers/jobs/director-of-pmo-insurance-investments-7415335271?utm_source=api",
+      "publicadoEn": 1794374351000,
+      "salarioTexto": null,
+      "ubicacion": "Saint Lucia",
+      "etiquetas": [
+        "Project-Management-Office-Director",
+        "Program-Management-Director",
+        "Portfolio-Management-Director",
+        "Project-Director"
+      ]
+    },
+    {
+      "idFuente": "impact-care/customer-success-project-manager",
+      "fuente": "himalayas",
+      "titulo": "Customer Success Project Manager",
+      "empresa": "IMPaCT Care",
+      "url": "https://himalayas.app/companies/impact-care/jobs/customer-success-project-manager?utm_source=api",
+      "publicadoEn": 1794374040000,
+      "salarioTexto": "USD 75,000 - 95,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Success-Project-Manager",
+        "Customer-Implementation-Manager",
+        "Customer-Success-Manager",
+        "Technical-Project-Manager",
+        "Healthcare-Project-Manager"
+      ]
+    },
+    {
+      "idFuente": "peraton/senior-ansible-automation-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Ansible Automation Engineer",
+      "empresa": "Peraton",
+      "url": "https://himalayas.app/companies/peraton/jobs/senior-ansible-automation-engineer?utm_source=api",
+      "publicadoEn": 1794373881000,
+      "salarioTexto": "USD 104,000 - 166,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Automation-Engineer",
+        "Ansible-Engineer",
+        "DevOps-Engineer",
+        "Infrastructure-Automation-Engineer",
+        "Site-Reliability-Engineer"
+      ]
+    },
+    {
+      "idFuente": "go-intellects-inc/16yrs-senior-react-js-developer-remote-in-person-interview",
+      "fuente": "himalayas",
+      "titulo": "16yrs Senior REACT JS Developer -Remote - In Person interview",
+      "empresa": "Go Intellects Inc.",
+      "url": "https://himalayas.app/companies/go-intellects-inc/jobs/16yrs-senior-react-js-developer-remote-in-person-interview?utm_source=api",
+      "publicadoEn": 1794373800000,
+      "salarioTexto": "USD 84 - 88",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "React-Developer",
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "Web-Developer",
+        "Software-Developer"
+      ]
+    },
+    {
+      "idFuente": "dozuki/enterprise-inside-sales-account-executive",
+      "fuente": "himalayas",
+      "titulo": "Enterprise Inside Sales Account Executive",
+      "empresa": "Dozuki",
+      "url": "https://himalayas.app/companies/dozuki/jobs/enterprise-inside-sales-account-executive?utm_source=api",
+      "publicadoEn": 1794373780000,
+      "salarioTexto": "USD 75,000 - 90,000",
+      "ubicacion": "Canada, United States",
+      "etiquetas": [
+        "Account-Executive",
+        "Enterprise-Sales-Account-Executive",
+        "Inside-Sales-Account-Manager",
+        "Saas-Account-Executive",
+        "Manufacturing-Account-Executive"
+      ]
+    },
+    {
+      "idFuente": "job-duck/v108-bilingual-pre-suit-case-manager",
+      "fuente": "himalayas",
+      "titulo": "V108 - Bilingual Pre-Suit Case Manager",
+      "empresa": "Job Duck",
+      "url": "https://himalayas.app/companies/job-duck/jobs/v108-bilingual-pre-suit-case-manager?utm_source=api",
+      "publicadoEn": 1794373673000,
+      "salarioTexto": "USD 1,220 - 1,320",
+      "ubicacion": "Argentina, Chile, Colombia, El Salvador, Honduras, Mexico, Peru, United States",
+      "etiquetas": [
+        "Pre-Litigation-Case-Manager",
+        "Legal-Case-Manager",
+        "Personal-Injury-Case-Manager",
+        "Legal-Assistant",
+        "Paralegal"
+      ]
+    },
+    {
+      "idFuente": "rgh-global-limited/client-success-manager",
+      "fuente": "himalayas",
+      "titulo": "Client Success Manager",
+      "empresa": "RGH-Global Limited",
+      "url": "https://himalayas.app/companies/rgh-global-limited/jobs/client-success-manager?utm_source=api",
+      "publicadoEn": 1794373637000,
+      "salarioTexto": null,
+      "ubicacion": "United Kingdom",
+      "etiquetas": [
+        "Customer-Success-Manager",
+        "Account-Manager",
+        "Client-Relationship-Manager"
+      ]
+    },
+    {
+      "idFuente": "davies-north-america/senior-claim-representative-claim-counsel",
+      "fuente": "himalayas",
+      "titulo": "Senior Claim Representative / Claim Counsel",
+      "empresa": "Davies North America",
+      "url": "https://himalayas.app/companies/davies-north-america/jobs/senior-claim-representative-claim-counsel?utm_source=api",
+      "publicadoEn": 1794373440000,
+      "salarioTexto": "USD 110,000 - 140,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Claims-Counsel",
+        "Senior-Claims-Representative",
+        "Complex-Property-Claims-Adjuster",
+        "Claims-Attorney",
+        "Coverage-Counsel"
+      ]
+    },
+    {
+      "idFuente": "gamivision/user-acquisition-expert",
+      "fuente": "himalayas",
+      "titulo": "User Acquisition Expert",
+      "empresa": "Gamivision",
+      "url": "https://himalayas.app/companies/gamivision/jobs/user-acquisition-expert?utm_source=api",
+      "publicadoEn": 1794373354000,
+      "salarioTexto": null,
+      "ubicacion": "Vietnam",
+      "etiquetas": [
+        "User-Acquisition-Specialist",
+        "Performance-Marketing-Specialist",
+        "Mobile-App-Marketing-Specialist",
+        "Growth-Marketing-Specialist"
+      ]
+    },
+    {
+      "idFuente": "crash-champions/hris-system-analyst-1971812709",
+      "fuente": "himalayas",
+      "titulo": "HRIS System Analyst",
+      "empresa": "Crash Champions",
+      "url": "https://himalayas.app/companies/crash-champions/jobs/hris-system-analyst-1971812709?utm_source=api",
+      "publicadoEn": 1794373353000,
+      "salarioTexto": "USD 80,000 - 110,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "HRIS-Systems-Analyst",
+        "HR-Systems-Analyst",
+        "HRIS-Analyst",
+        "HR-Technology-Analyst",
+        "HRIS-Consultant"
+      ]
+    },
+    {
+      "idFuente": "humana/epic-technology-leadership",
+      "fuente": "himalayas",
+      "titulo": "Epic Technology Leadership",
+      "empresa": "Humana",
+      "url": "https://himalayas.app/companies/humana/jobs/epic-technology-leadership?utm_source=api",
+      "publicadoEn": 1794373193000,
+      "salarioTexto": "USD 106,900 - 147,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Technical-Lead",
+        "Technical-Program-Manager",
+        "Product-Engineering-Lead",
+        "Engineering-Manager"
+      ]
+    },
+    {
+      "idFuente": "micro1/sr-full-stack-software-engineer-579932160",
+      "fuente": "himalayas",
+      "titulo": "Sr. Full-Stack Software Engineer",
+      "empresa": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/sr-full-stack-software-engineer-579932160?utm_source=api",
+      "publicadoEn": 1794373169000,
+      "salarioTexto": "USD 50 - 100",
+      "ubicacion": "Suriname",
+      "etiquetas": [
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "¿Senior-Fullstack-Engineering",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(JavaScript-Python)"
+      ]
+    },
+    {
+      "idFuente": "magicschool/director-information-technology-security-k12-edtech",
+      "fuente": "himalayas",
+      "titulo": "Director, Information Technology & Security (K12 Edtech)",
+      "empresa": "MagicSchool",
+      "url": "https://himalayas.app/companies/magicschool/jobs/director-information-technology-security-k12-edtech?utm_source=api",
+      "publicadoEn": 1794373161000,
+      "salarioTexto": "USD 200,000 - 280,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Director-Of-IT-and-Security",
+        "Director-of-Information-Security",
+        "Director-Of-Information-Technology",
+        "Information-Technology-Director",
+        "Educational-Technology-Director"
+      ]
+    },
+    {
+      "idFuente": "global-payments/associate-field-sales-representative-spokane-wa",
+      "fuente": "himalayas",
+      "titulo": "Associate Field Sales Representative (Spokane, WA)",
+      "empresa": "Global Payments",
+      "url": "https://himalayas.app/companies/global-payments/jobs/associate-field-sales-representative-spokane-wa?utm_source=api",
+      "publicadoEn": 1794373123000,
+      "salarioTexto": "USD 50,000 - 120,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Field-Sales-Representative",
+        "Sales",
+        "Territory-Sales-Representative",
+        "Account-Executive",
+        "Merchant-Sales"
+      ]
+    },
+    {
+      "idFuente": "esko/commercial-counsel",
+      "fuente": "himalayas",
+      "titulo": "Commercial Counsel",
+      "empresa": "Esko",
+      "url": "https://himalayas.app/companies/esko/jobs/commercial-counsel?utm_source=api",
+      "publicadoEn": 1794373118000,
+      "salarioTexto": null,
+      "ubicacion": "Czechia, Poland",
+      "etiquetas": [
+        "Commercial-Counsel",
+        "Commercial-Legal-Counsel",
+        "Software-Counsel",
+        "Technology-Counsel",
+        "Corporate-Counsel"
+      ]
+    },
     {
       "idFuente": "1137711",
       "fuente": "remoteok",
@@ -4725,293 +5061,6 @@
         "Incident-Response-Analyst",
         "Information-Security-Analyst"
       ]
-    },
-    {
-      "idFuente": "pavago/bookkeeper-5327524203",
-      "fuente": "himalayas",
-      "titulo": "Bookkeeper",
-      "empresa": "Pavago",
-      "url": "https://himalayas.app/companies/pavago/jobs/bookkeeper-5327524203?utm_source=api",
-      "publicadoEn": 1794330753000,
-      "salarioTexto": null,
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Bookkeeper",
-        "Accounting-Assistant",
-        "Accounts-Payable-Specialist",
-        "Accounts-Receivable-Specialist",
-        "Financial-Recordkeeper"
-      ]
-    },
-    {
-      "idFuente": "v4c-ai/data-engineer-mexico",
-      "fuente": "himalayas",
-      "titulo": "Data Engineer Mexico",
-      "empresa": "V4C.ai",
-      "url": "https://himalayas.app/companies/v4c-ai/jobs/data-engineer-mexico?utm_source=api",
-      "publicadoEn": 1794330626000,
-      "salarioTexto": null,
-      "ubicacion": "Mexico",
-      "etiquetas": [
-        "Data-Engineer",
-        "Big-Data-Engineer",
-        "Analytics-Engineer",
-        "Data-Platform-Engineer",
-        "MLOps-Engineer"
-      ]
-    },
-    {
-      "idFuente": "unisys/automation-engineer-patching",
-      "fuente": "himalayas",
-      "titulo": "Automation Engineer - Patching",
-      "empresa": "Unisys",
-      "url": "https://himalayas.app/companies/unisys/jobs/automation-engineer-patching?utm_source=api",
-      "publicadoEn": 1794330580000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Automation-Engineer",
-        "Infrastructure-Automation-Engineer",
-        "Patch-Management-Engineer",
-        "DevOps-Engineer",
-        "Systems-Engineer"
-      ]
-    },
-    {
-      "idFuente": "fullsteam/onboarding-specialist",
-      "fuente": "himalayas",
-      "titulo": "Onboarding Specialist",
-      "empresa": "Fullsteam",
-      "url": "https://himalayas.app/companies/fullsteam/jobs/onboarding-specialist?utm_source=api",
-      "publicadoEn": 1794330547000,
-      "salarioTexto": "USD 28.86 - 38.46",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Onboarding-Specialist",
-        "Customer-Onboarding-Specialist",
-        "Implementation-Specialist",
-        "Customer-Success-Specialist",
-        "Product-Support-Specialist"
-      ]
-    },
-    {
-      "idFuente": "rtx/manager-corporate-contracts-operations",
-      "fuente": "himalayas",
-      "titulo": "Manager, Corporate Contracts Operations",
-      "empresa": "RTX",
-      "url": "https://himalayas.app/companies/rtx/jobs/manager-corporate-contracts-operations?utm_source=api",
-      "publicadoEn": 1794330376000,
-      "salarioTexto": "USD 107,500 - 204,500",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Contract-Operations-Manager",
-        "Corporate-Contracts-Manager",
-        "Contract-Compliance-Reviewer",
-        "Government-Contracts-Manager",
-        "Contracts-Administrator"
-      ]
-    },
-    {
-      "idFuente": "loancare/senior-counsel-litigation",
-      "fuente": "himalayas",
-      "titulo": "Senior Counsel - Litigation",
-      "empresa": "LoanCare",
-      "url": "https://himalayas.app/companies/loancare/jobs/senior-counsel-litigation?utm_source=api",
-      "publicadoEn": 1794330277000,
-      "salarioTexto": "USD 103,000 - 193,100",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Senior-Litigation-Counsel",
-        "Consumer-Finance-Litigation",
-        "Mortgage-Litigation",
-        "Senior-Counsel",
-        "Litigation-Counsel"
-      ]
-    },
-    {
-      "idFuente": "ajaib/senior-web-engineer-ii-platform",
-      "fuente": "himalayas",
-      "titulo": "Senior Web Engineer II - Platform",
-      "empresa": "Ajaib",
-      "url": "https://himalayas.app/companies/ajaib/jobs/senior-web-engineer-ii-platform?utm_source=api",
-      "publicadoEn": 1794330234000,
-      "salarioTexto": null,
-      "ubicacion": "Indonesia",
-      "etiquetas": [
-        "Web-Engineer",
-        "Frontend-Engineer",
-        "Platform-Engineer",
-        "Software-Engineer",
-        "Front-End-Developer"
-      ]
-    },
-    {
-      "idFuente": "161092",
-      "fuente": "jobicy",
-      "titulo": "Community Intern (Reedsy Learning)",
-      "empresa": "Reedsy",
-      "url": "https://jobicy.com/jobs/161092-community-intern-reedsy-learning",
-      "publicadoEn": 1794311495000,
-      "salarioTexto": "GBP 14,000 - 26,000",
-      "ubicacion": "Canada, France, Netherlands, Spain, UK, USA",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Entry-Level, Junior"
-      ]
-    },
-    {
-      "idFuente": "161091",
-      "fuente": "jobicy",
-      "titulo": "Solutions Architect",
-      "empresa": "Orkes",
-      "url": "https://jobicy.com/jobs/161091-solutions-architect-5",
-      "publicadoEn": 1794311478000,
-      "salarioTexto": "USD 80,000 - 180,000",
-      "ubicacion": "Europe",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "161088",
-      "fuente": "jobicy",
-      "titulo": "Enterprise Account Executive",
-      "empresa": "Orkes",
-      "url": "https://jobicy.com/jobs/161088-enterprise-account-executive-38",
-      "publicadoEn": 1794311473000,
-      "salarioTexto": "USD 200,000 - 400,000",
-      "ubicacion": "EMEA, USA",
-      "etiquetas": [
-        "Sales",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "161086",
-      "fuente": "jobicy",
-      "titulo": "Community Growth Manager",
-      "empresa": "Reedsy",
-      "url": "https://jobicy.com/jobs/161086-community-growth-manager",
-      "publicadoEn": 1794311452000,
-      "salarioTexto": "EUR 35,000 - 50,000",
-      "ubicacion": "Canada, France, Netherlands, Portugal, Spain, UK, USA",
-      "etiquetas": [
-        "Marketing & Sales",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "161070",
-      "fuente": "jobicy",
-      "titulo": "Mid-Market Implementation Specialist - EMEA (German speaking)",
-      "empresa": "Ashby",
-      "url": "https://jobicy.com/jobs/161070-mid-market-implementation-specialist-emea-german-speaking",
-      "publicadoEn": 1794310384000,
-      "salarioTexto": "GBP 95,000 - 120,000",
-      "ubicacion": "Belgium, France, Germany, Ireland, Netherlands, Portugal, Spain, UK",
-      "etiquetas": [
-        "Project & Program Management",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "161069",
-      "fuente": "jobicy",
-      "titulo": "Senior Customer Success Manager, International",
-      "empresa": "Tremendous",
-      "url": "https://jobicy.com/jobs/161069-senior-customer-success-manager-international",
-      "publicadoEn": 1794310365000,
-      "salarioTexto": "EUR 85,000 - 140,000",
-      "ubicacion": "Spain, UK, USA",
-      "etiquetas": [
-        "Customer Support & Success",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "161063",
-      "fuente": "jobicy",
-      "titulo": "Senior Software Engineer — AI-Native Engineering (XTM Foundation)",
-      "empresa": "Filigran",
-      "url": "https://jobicy.com/jobs/161063-senior-software-engineer-ai-native-engineering-xtm-foundation",
-      "publicadoEn": 1794310355000,
-      "salarioTexto": null,
-      "ubicacion": "France, Germany, Italy, Spain, UK",
-      "etiquetas": [
-        "Software Engineering",
-        "Director"
-      ]
-    },
-    {
-      "idFuente": "161022",
-      "fuente": "jobicy",
-      "titulo": "Site Reliability Engineer",
-      "empresa": "Orkes",
-      "url": "https://jobicy.com/jobs/161022-site-reliability-engineer-6",
-      "publicadoEn": 1794301767000,
-      "salarioTexto": "USD 125,000 - 250,000",
-      "ubicacion": "EMEA, Australia",
-      "etiquetas": [
-        "DevOps & Infrastructure",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "161001",
-      "fuente": "jobicy",
-      "titulo": "Research Scientist, Real-Time Video Generation",
-      "empresa": "Cantina Labs",
-      "url": "https://jobicy.com/jobs/161001-research-scientist-real-time-video-generation",
-      "publicadoEn": 1794301074000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, USA",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Any"
-      ]
-    },
-    {
-      "idFuente": "160994",
-      "fuente": "jobicy",
-      "titulo": "Machine Learning Engineer, TTS",
-      "empresa": "Cantina Labs",
-      "url": "https://jobicy.com/jobs/160994-machine-learning-engineer-tts",
-      "publicadoEn": 1794301008000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, USA",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "160991",
-      "fuente": "jobicy",
-      "titulo": "Machine Learning Engineer, Core Evaluations",
-      "empresa": "Cantina Labs",
-      "url": "https://jobicy.com/jobs/160991-machine-learning-engineer-core-evaluations",
-      "publicadoEn": 1794301004000,
-      "salarioTexto": null,
-      "ubicacion": "Europe, USA",
-      "etiquetas": [
-        "Data Science & Analytics",
-        "Senior"
-      ]
-    },
-    {
-      "idFuente": "160794",
-      "fuente": "jobicy",
-      "titulo": "Software Engineer - Console",
-      "empresa": "XBOW",
-      "url": "https://jobicy.com/jobs/160794-software-engineer-console",
-      "publicadoEn": 1794284395000,
-      "salarioTexto": "USD 100,000 - 350,000",
-      "ubicacion": "Argentina, Europe, USA",
-      "etiquetas": [
-        "Software Engineering",
-        "Senior"
-      ]
     }
   ],
   "idsGuardadosEnGestor": [
@@ -5051,13 +5100,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 12375,
-      "remotive": 1656,
-      "weworkremotely": 11428,
-      "himalayas": 2500,
-      "jobicy": 5800
+      "remoteok": 12474,
+      "remotive": 1669,
+      "weworkremotely": 11528,
+      "himalayas": 2520,
+      "jobicy": 5850
     },
-    "duplicadosDescartados": 29530,
-    "ultimaEjecucion": "2026-11-10T19:42:18.164Z"
+    "duplicadosDescartados": 29793,
+    "ultimaEjecucion": "2026-11-11T06:14:22.358Z"
   }
 }
