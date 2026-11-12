@@ -4361,442 +4361,159 @@
     "remote talent latam::head of web design remote latam only 88149",
     "welo global::andromeda delta audio transcription rater v2 spanish spain",
     "apaleo::staff backend engineer platform f m d",
-    "nivoda::sales development representative german speaking europe"
+    "nivoda::sales development representative german speaking europe",
+    "hadley designs llc::amazon brand manager",
+    "veeva systems::it consultant system analyst cloud crm remote",
+    "vector outsourcing solutions phils inc::medical billing collections consultant work from home",
+    "praxis precision medicines inc::manager cmc materials management",
+    "medamerica::practice administrator teleneurohospital medicine",
+    "stayd collective::cleaning operations coordinator",
+    "edgeq technologies private limited::robotics software engineer job title robotics software engineer",
+    "edgeq technologies private limited::unity developer",
+    "edgeq technologies private limited::game ui engineer",
+    "blueprint technologies::supply chain planner hardware",
+    "d2b::cinematic video editor real estate construction",
+    "d2b::sales development representative uk b2b outbound remote",
+    "itechra inc::outbound sales representative",
+    "thrive market::performance creative coordinator contractor",
+    "kinelo::marketing content intern part time",
+    "northpoint recovery holdings llc::admissions representative",
+    "agent integration inc::remote customer sales specialist",
+    "audienceview::digital marketing manager",
+    "agent integration inc::remote entry level sales representative",
+    "budderfly::customer success manager",
+    "paleovalley wild pastures::customer service agent us remote",
+    "henry meds::patient advocate i",
+    "meya ltd::junior market analyst remote",
+    "ground zero::senior associate policy engagement mumbai",
+    "benifex::global ad new business",
+    "compass uol::qa test automation mid",
+    "wanzek::wireline business development director",
+    "wow remote teams::recruiter",
+    "rippling::global payroll operations specialist uae",
+    "montreal tecnologia e inovacao::cientista de dados senior",
+    "wanzek::estimator ii",
+    "baylor genetics::senior director pipeline strategy heor",
+    "emory healthcare::remote inpatient drg coding auditor",
+    "description ciklum::senior account director",
+    "starian::pessoa product manager pl segmento juridico remoto 2993",
+    "mag aerospace::senior network engineer",
+    "grupo boticario::product manager especialista i tech colaborador",
+    "cifor icraf::consultancy technical writer and editor consultant",
+    "stefanini::analista de processos projetos e documentacao de ti",
+    "leega consultoria::engenheiro de dados e plataforma de agentes senior gcp",
+    "crum forster::customer service representative",
+    "asaas::ai product manager gen ai produtos core",
+    "codilime::senior devops engineer",
+    "canonical::regional bdr team manager",
+    "supabase::finops data engineer",
+    "canonical::partner sales manager ihv alliances",
+    "supabase::product manager auth",
+    "canonical::partner sales director ihv alliances",
+    "supabase::senior accountant",
+    "flex::senior engineering manager consumer new verticals",
+    "canonical::manager of enterprise open source sales team",
+    "supabase::head of ecosystem",
+    "canonical::linux cryptography and security engineer",
+    "canonical::junior ubuntu software engineer",
+    "canonical::graduate software engineer open source and linux canonical ubuntu",
+    "canonical::engineering manager app stores",
+    "canonical::channel partner sales executive",
+    "fever::senior backend engineer",
+    "fever::lead ai engineer",
+    "fever::client director sponsorship sales",
+    "actian::director of platform engineering gn data intelligence platform"
   ],
   "ultimasOfertas": [
     {
-      "idFuente": "tecdata-engineering/ingeniero-de-seguridad-cloud",
-      "fuente": "himalayas",
-      "titulo": "Ingeniero de Seguridad Cloud",
-      "empresa": "TECDATA ENGINEERING",
-      "url": "https://himalayas.app/companies/tecdata-engineering/jobs/ingeniero-de-seguridad-cloud?utm_source=api",
-      "publicadoEn": 1794488566000,
-      "salarioTexto": null,
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Cloud-Security-Engineer",
-        "Security-Engineer",
-        "Cloud-Engineer",
-        "DevSecOps-Engineer",
-        "IAM-Engineer"
-      ]
-    },
-    {
-      "idFuente": "softwareone-deutschland-gmbh/qa-engineer-test-automation-ai",
-      "fuente": "himalayas",
-      "titulo": "QA Engineer – Test Automation & AI",
-      "empresa": "SoftwareONE Deutschland GmbH",
-      "url": "https://himalayas.app/companies/softwareone-deutschland-gmbh/jobs/qa-engineer-test-automation-ai?utm_source=api",
-      "publicadoEn": 1794488513000,
-      "salarioTexto": null,
-      "ubicacion": "Ireland, Poland, Serbia, Spain, United Kingdom",
-      "etiquetas": [
-        "QA-Engineer",
-        "Automation-Testing",
-        "Software-Engineer-in-Test",
-        "Software-Quality-Engineer"
-      ]
-    },
-    {
-      "idFuente": "1137719",
-      "fuente": "remoteok",
-      "titulo": "Patient Care Specialist I",
-      "empresa": "Boston Scientific",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
-      "publicadoEn": 1794384008000,
-      "salarioTexto": null,
-      "ubicacion": null,
-      "etiquetas": [
-        "design",
-        "sys admin",
-        "education",
-        "technical",
-        "customer support",
-        "testing",
-        "telecommuting",
-        "exec",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ]
-    },
-    {
-      "idFuente": "2091171",
-      "fuente": "remotive",
-      "titulo": "Customer Service Representative",
-      "empresa": "ShyftOff",
-      "url": "https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171",
-      "publicadoEn": 1794388318000,
-      "salarioTexto": "$14 - $20/hour",
-      "ubicacion": "USA",
-      "etiquetas": [
-        "video",
-        "healthcare",
-        "retail",
-        "onboarding",
-        "financial services",
-        "insurance"
-      ]
-    },
-    {
-      "idFuente": "m365consult/executive-assistant-ai-business-operations-4429213766",
-      "fuente": "himalayas",
-      "titulo": "Executive Assistant - AI & Business Operations",
-      "empresa": "M365Consult",
-      "url": "https://himalayas.app/companies/m365consult/jobs/executive-assistant-ai-business-operations-4429213766?utm_source=api",
-      "publicadoEn": 1794488828000,
-      "salarioTexto": null,
-      "ubicacion": "Nigeria",
-      "etiquetas": [
-        "Executive-Assistant",
-        "Business-Operations-Coordinator",
-        "Project-Coordinator",
-        "Operations-Assistant"
-      ]
-    },
-    {
-      "idFuente": "onedigital/manager-payroll-consulting-services-remote-pst",
-      "fuente": "himalayas",
-      "titulo": "Manager, Payroll Consulting Services - Remote (PST)",
-      "empresa": "OneDigital",
-      "url": "https://himalayas.app/companies/onedigital/jobs/manager-payroll-consulting-services-remote-pst?utm_source=api",
-      "publicadoEn": 1794488729000,
-      "salarioTexto": "USD 75,000 - 85,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Payroll-Manager",
-        "Payroll-Consulting-Manager",
-        "Payroll-Operations-Manager"
-      ]
-    },
-    {
-      "idFuente": "new-york-life-insurance-co/corporate-vice-president",
-      "fuente": "himalayas",
-      "titulo": "CORPORATE VICE PRESIDENT",
-      "empresa": "New York Life Insurance Co",
-      "url": "https://himalayas.app/companies/new-york-life-insurance-co/jobs/corporate-vice-president?utm_source=api",
-      "publicadoEn": 1794488719000,
-      "salarioTexto": "USD 270,000 - 270,000",
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Vice-President-of-Cloud-Security",
-        "Cloud-Security-Engineer",
-        "Cybersecurity-Executive",
-        "Cloud-Security-Architect",
-        "Chief-Information-Security-Officer"
-      ]
-    },
-    {
-      "idFuente": "mayo-clinic/solution-architect-rev-cycle-remote",
-      "fuente": "himalayas",
-      "titulo": "Solution Architect-Rev Cycle-Remote",
-      "empresa": "Mayo Clinic",
-      "url": "https://himalayas.app/companies/mayo-clinic/jobs/solution-architect-rev-cycle-remote?utm_source=api",
-      "publicadoEn": 1794488691000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Solutions-Architect",
-        "Healthcare-Solutions-Architect",
-        "Enterprise-Architect",
-        "Epic-Solutions-Architect"
-      ]
-    },
-    {
-      "idFuente": "coconut/staff-accountant-job-code-1793829087283-for-pooling",
-      "fuente": "himalayas",
-      "titulo": "🌴 Staff Accountant - Job Code: 1793829087283 - For Pooling",
-      "empresa": "Coconut",
-      "url": "https://himalayas.app/companies/coconut/jobs/staff-accountant-job-code-1793829087283-for-pooling?utm_source=api",
-      "publicadoEn": 1794488689000,
-      "salarioTexto": "USD 1,250 - 1,450",
-      "ubicacion": "Philippines",
-      "etiquetas": [
-        "Staff-Accountant",
-        "Senior-Accountant",
-        "Accountant",
-        "Accounting-Specialist",
-        "Bookkeeper"
-      ]
-    },
-    {
-      "idFuente": "aida-recruitment/senior-lead-salesforce-consultant-solution-architect",
-      "fuente": "himalayas",
-      "titulo": "Senior / Lead Salesforce Consultant & Solution Architect",
-      "empresa": "AIDA Recruitment",
-      "url": "https://himalayas.app/companies/aida-recruitment/jobs/senior-lead-salesforce-consultant-solution-architect?utm_source=api",
-      "publicadoEn": 1794488604000,
-      "salarioTexto": "USD 35 - 60",
-      "ubicacion": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
-      "etiquetas": [
-        "Salesforce-Consultant",
-        "Salesforce-Solution-Architect",
-        "Salesforce-Technical-Architect",
-        "Salesforce-Delivery-Lead"
-      ]
-    },
-    {
-      "idFuente": "philips/advanced-clinical-application-specialist-mr",
-      "fuente": "himalayas",
-      "titulo": "Advanced Clinical Application Specialist MR",
-      "empresa": "Philips",
-      "url": "https://himalayas.app/companies/philips/jobs/advanced-clinical-application-specialist-mr?utm_source=api",
-      "publicadoEn": 1794488566000,
-      "salarioTexto": "USD 75,336 - 85,744.64",
-      "ubicacion": "Germany",
-      "etiquetas": [
-        "Clinical-Application-Specialist",
-        "Medical-Applications-Specialist",
-        "Clinical-Sales-Specialist",
-        "Medical-Device-Specialist",
-        "Field-Applications-Specialist"
-      ]
-    },
-    {
-      "idFuente": "partner-one-capital/business-development-representative-1540610596",
-      "fuente": "himalayas",
-      "titulo": "Business Development Representative",
-      "empresa": "Partner One Capital",
-      "url": "https://himalayas.app/companies/partner-one-capital/jobs/business-development-representative-1540610596?utm_source=api",
-      "publicadoEn": 1794488565000,
-      "salarioTexto": null,
-      "ubicacion": "Belgium",
-      "etiquetas": [
-        "Business-Development-Representative",
-        "Sales-Development-Representative",
-        "Inside-Sales-Representative",
-        "B2B-Sales-Representative",
-        "Account-Executive"
-      ]
-    },
-    {
-      "idFuente": "brightspeed/project-manager-finance",
-      "fuente": "himalayas",
-      "titulo": "Project Manager, Finance",
-      "empresa": "Brightspeed",
-      "url": "https://himalayas.app/companies/brightspeed/jobs/project-manager-finance?utm_source=api",
-      "publicadoEn": 1794488536000,
-      "salarioTexto": null,
-      "ubicacion": "United States",
-      "etiquetas": [
-        "Financial-Project-Manager",
-        "Financial-Systems-Project-Manager",
-        "IT-Project-Manager",
-        "Enterprise-Project-Manager",
-        "Program-Manager"
-      ]
-    },
-    {
-      "idFuente": "epos-now/inside-sales-consultant-6640562592",
-      "fuente": "himalayas",
-      "titulo": "Inside Sales Consultant",
-      "empresa": "Epos Now",
-      "url": "https://himalayas.app/companies/epos-now/jobs/inside-sales-consultant-6640562592?utm_source=api",
-      "publicadoEn": 1794488469000,
-      "salarioTexto": "USD 22,000 - 22,000",
-      "ubicacion": "Spain",
-      "etiquetas": [
-        "Internal-Sales-Consultant",
-        "Sales-Consultant",
-        "Inside-Sales-Representative",
-        "Sales-Development-Representative"
-      ]
-    },
-    {
-      "idFuente": "hr-ways/tooling-engineer-remote-karachi-islamabad-only-pkr-pay",
-      "fuente": "himalayas",
-      "titulo": "Tooling Engineer | Remote Karachi - Islamabad Only - PKR pay",
-      "empresa": "HR Ways",
-      "url": "https://himalayas.app/companies/hr-ways/jobs/tooling-engineer-remote-karachi-islamabad-only-pkr-pay?utm_source=api",
-      "publicadoEn": 1794488441000,
-      "salarioTexto": null,
-      "ubicacion": "Pakistan",
-      "etiquetas": [
-        "Tooling-Engineer",
-        "Manufacturing-Engineer",
-        "Mechanical-Engineer",
-        "Cad-Engineer",
-        "Tool-And-Die-Engineer"
-      ]
-    },
-    {
-      "idFuente": "remote-talent-latam/head-of-web-design-remote-latam-only-88149",
-      "fuente": "himalayas",
-      "titulo": "Head of Web Design | Remote | LATAM Only | 88149",
-      "empresa": "Remote Talent LATAM",
-      "url": "https://himalayas.app/companies/remote-talent-latam/jobs/head-of-web-design-remote-latam-only-88149?utm_source=api",
-      "publicadoEn": 1794488380000,
-      "salarioTexto": "USD 5,000 - 7,000",
-      "ubicacion": "Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
-      "etiquetas": [
-        "Web-Design-Engineer",
-        "Web-Designer",
-        "Design-Engineer",
-        "Frontend-Engineer",
-        "Creative-Director"
-      ]
-    },
-    {
-      "idFuente": "161530",
+      "idFuente": "161693",
       "fuente": "jobicy",
-      "titulo": "Andromeda Delta - Audio Transcription Rater V2 - Spanish (Spain)",
-      "empresa": "Welo Global",
-      "url": "https://jobicy.com/jobs/161530-andromeda-delta-audio-transcription-rater-v2-spanish-spain",
-      "publicadoEn": 1794475963000,
+      "titulo": "FinOps Data Engineer",
+      "empresa": "Supabase",
+      "url": "https://jobicy.com/jobs/161693-finops-data-engineer",
+      "publicadoEn": 1794502871000,
       "salarioTexto": null,
-      "ubicacion": "Spain",
+      "ubicacion": "Anywhere",
       "etiquetas": [
         "Data Science & Analytics",
         "Any"
       ]
     },
     {
-      "idFuente": "161525",
+      "idFuente": "161678",
       "fuente": "jobicy",
-      "titulo": "Staff Backend Engineer - Platform (f/m/d)",
-      "empresa": "Apaleo",
-      "url": "https://jobicy.com/jobs/161525-staff-backend-engineer-platform-f-m-d",
-      "publicadoEn": 1794475938000,
+      "titulo": "Linux Cryptography and Security Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/161678-linux-cryptography-and-security-engineer",
+      "publicadoEn": 1794502333000,
       "salarioTexto": null,
-      "ubicacion": "Europe",
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Cybersecurity",
+        "Any"
+      ]
+    },
+    {
+      "idFuente": "161675",
+      "fuente": "jobicy",
+      "titulo": "Junior Ubuntu Software Engineer",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/161675-junior-ubuntu-software-engineer",
+      "publicadoEn": 1794502298000,
+      "salarioTexto": null,
+      "ubicacion": "EMEA, LATAM, Canada, USA",
       "etiquetas": [
         "Software Engineering",
-        "Senior"
+        "Entry-Level, Junior"
       ]
     },
     {
-      "idFuente": "161509",
+      "idFuente": "161672",
       "fuente": "jobicy",
-      "titulo": "Sales Development Representative - German Speaking (Europe)",
-      "empresa": "Nivoda",
-      "url": "https://jobicy.com/jobs/161509-sales-development-representative-german-speaking-europe",
-      "publicadoEn": 1794475806000,
+      "titulo": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/161672-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-2",
+      "publicadoEn": 1794502293000,
       "salarioTexto": null,
-      "ubicacion": "Europe",
+      "ubicacion": "EMEA, LATAM, Canada, USA",
       "etiquetas": [
-        "Sales",
-        "Senior"
+        "Software Engineering",
+        "Any"
       ]
     },
     {
-      "idFuente": "1137714",
-      "fuente": "remoteok",
-      "titulo": "Data Engineer",
-      "empresa": "Addepto",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-      "publicadoEn": 1794326404000,
-      "salarioTexto": null,
-      "ubicacion": null,
-      "etiquetas": [
-        "design",
-        "saas",
-        "salesforce",
-        "python",
-        "education",
-        "consulting",
-        "customer support",
-        "testing",
-        "marketing",
-        "dev",
-        "finance",
-        "cloud",
-        "git",
-        "stats",
-        "sys admin",
-        "engineer",
-        "apache",
-        "digital nomad"
-      ]
-    },
-    {
-      "idFuente": "sezzle-data-engineer-ii-credit-reporting",
+      "idFuente": "hadley-designs-llc-amazon-brand-manager",
       "fuente": "weworkremotely",
-      "titulo": "Data Engineer II, Credit Reporting",
-      "empresa": "Sezzle",
-      "url": "https://weworkremotely.com/remote-jobs/sezzle-data-engineer-ii-credit-reporting",
-      "publicadoEn": 1794416473000,
+      "titulo": "Amazon Brand Manager",
+      "empresa": "Hadley Designs LLC",
+      "url": "https://weworkremotely.com/remote-jobs/hadley-designs-llc-amazon-brand-manager",
+      "publicadoEn": 1794510559000,
       "salarioTexto": null,
-      "ubicacion": "EMEA Only",
+      "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "Full-Stack Programming"
+        "Sales and Marketing"
       ]
     },
     {
-      "idFuente": "xtel/cybersecurity-engineer",
-      "fuente": "himalayas",
-      "titulo": "Cybersecurity Engineer",
-      "empresa": "XTEL",
-      "url": "https://himalayas.app/companies/xtel/jobs/cybersecurity-engineer?utm_source=api",
-      "publicadoEn": 1794439774000,
-      "salarioTexto": null,
-      "ubicacion": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
-      "etiquetas": [
-        "Cybersecurity-Engineer",
-        "Cybersecurity-Specialist",
-        "Security-Engineer",
-        "DevSecOps-Engineer",
-        "Cloud-Security-Engineer"
-      ]
-    },
-    {
-      "idFuente": "1137717",
-      "fuente": "remoteok",
-      "titulo": "Strategy & Operations Coach APAC",
-      "empresa": "Mento",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
-      "publicadoEn": 1794355215000,
-      "salarioTexto": null,
-      "ubicacion": null,
-      "etiquetas": [
-        "education",
-        "marketing",
-        "exec",
-        "senior",
-        "ops",
-        "part time"
-      ]
-    },
-    {
-      "idFuente": "1137716",
-      "fuente": "remoteok",
-      "titulo": "Bilingual Patient Engagement Specialist I English Spanish",
-      "empresa": "Sprinter Health",
-      "url": "https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716",
-      "publicadoEn": 1794355209000,
-      "salarioTexto": "$21 - $21",
-      "ubicacion": "Menlo Park",
-      "etiquetas": [
-        "customer support",
-        "dev",
-        "speech",
-        "ops",
-        "excel",
-        "medical",
-        "non tech",
-        "digital nomad"
-      ]
-    },
-    {
-      "idFuente": "smart-suites-vehicle-sourcing-import-operations-manager",
+      "idFuente": "veeva-systems-it-consultant-system-analyst-cloud-crm-remote",
       "fuente": "weworkremotely",
-      "titulo": "Vehicle Sourcing & Import Operations Manager",
-      "empresa": "Smart Suites",
-      "url": "https://weworkremotely.com/remote-jobs/smart-suites-vehicle-sourcing-import-operations-manager",
-      "publicadoEn": 1794416486000,
+      "titulo": "IT Consultant - System Analyst - Cloud CRM (Remote)",
+      "empresa": "Veeva Systems",
+      "url": "https://weworkremotely.com/remote-jobs/veeva-systems-it-consultant-system-analyst-cloud-crm-remote",
+      "publicadoEn": 1794505298000,
       "salarioTexto": null,
-      "ubicacion": "Asia Only",
+      "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "Management and Finance"
+        "Customer Support"
       ]
     },
     {
-      "idFuente": "vector-outsourcing-solutions-phils-inc-recruitment-supervisor-work-from-home",
+      "idFuente": "vector-outsourcing-solutions-phils-inc-medical-billing-collections-consultant-work-from-home",
       "fuente": "weworkremotely",
-      "titulo": "Recruitment Supervisor | Work from Home",
+      "titulo": "Medical Billing Collections Consultant | Work from Home",
       "empresa": "Vector Outsourcing Solutions Phils. Inc.",
-      "url": "https://weworkremotely.com/remote-jobs/vector-outsourcing-solutions-phils-inc-recruitment-supervisor-work-from-home",
-      "publicadoEn": 1794416483000,
+      "url": "https://weworkremotely.com/remote-jobs/vector-outsourcing-solutions-phils-inc-medical-billing-collections-consultant-work-from-home",
+      "publicadoEn": 1794502967000,
       "salarioTexto": null,
       "ubicacion": "Asia Only",
       "etiquetas": [
@@ -4804,12 +4521,12 @@
       ]
     },
     {
-      "idFuente": "vector-outsourcing-solutions-phils-inc-senior-accounting-specialist-work-from-home",
+      "idFuente": "praxis-precision-medicines-inc-manager-cmc-materials-management",
       "fuente": "weworkremotely",
-      "titulo": "Senior Accounting Specialist | Work from Home",
-      "empresa": "Vector Outsourcing Solutions Phils. Inc.",
-      "url": "https://weworkremotely.com/remote-jobs/vector-outsourcing-solutions-phils-inc-senior-accounting-specialist-work-from-home",
-      "publicadoEn": 1794416480000,
+      "titulo": "Manager CMC Materials Management",
+      "empresa": "Praxis Precision Medicines, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/praxis-precision-medicines-inc-manager-cmc-materials-management",
+      "publicadoEn": 1794502965000,
       "salarioTexto": null,
       "ubicacion": "Asia Only",
       "etiquetas": [
@@ -4817,142 +4534,38 @@
       ]
     },
     {
-      "idFuente": "northwell-rn-registered-nurse-coding-auditor-hcs-d-cos-c-full-time",
+      "idFuente": "medamerica-practice-administrator-teleneurohospital-medicine",
       "fuente": "weworkremotely",
-      "titulo": "(RN) Registered Nurse Coding Auditor - HCS-D, COS-C - Full Time",
-      "empresa": "Northwell",
-      "url": "https://weworkremotely.com/remote-jobs/northwell-rn-registered-nurse-coding-auditor-hcs-d-cos-c-full-time",
-      "publicadoEn": 1794416478000,
+      "titulo": "Practice Administrator - Teleneurohospital Medicine",
+      "empresa": "MedAmerica",
+      "url": "https://weworkremotely.com/remote-jobs/medamerica-practice-administrator-teleneurohospital-medicine",
+      "publicadoEn": 1794502964000,
       "salarioTexto": null,
       "ubicacion": "USA Only",
       "etiquetas": [
-        "All Other Remote"
+        "Management and Finance"
       ]
     },
     {
-      "idFuente": "northwell-rn-registered-nurse-coding-auditor-hcs-d-cos-c",
+      "idFuente": "stayd-collective-cleaning-operations-coordinator",
       "fuente": "weworkremotely",
-      "titulo": "(RN) Registered Nurse Coding Auditor - HCS-D, COS-C",
-      "empresa": "Northwell",
-      "url": "https://weworkremotely.com/remote-jobs/northwell-rn-registered-nurse-coding-auditor-hcs-d-cos-c",
-      "publicadoEn": 1794416477000,
+      "titulo": "Cleaning Operations Coordinator",
+      "empresa": "Stayd Collective",
+      "url": "https://weworkremotely.com/remote-jobs/stayd-collective-cleaning-operations-coordinator",
+      "publicadoEn": 1794502940000,
       "salarioTexto": null,
-      "ubicacion": "USA Only",
+      "ubicacion": "Latin America Only",
       "etiquetas": [
-        "All Other Remote"
+        "Management and Finance"
       ]
     },
     {
-      "idFuente": "koru-ux-design-llp-sr-ux-researcher-uxr-2-112026",
+      "idFuente": "edgeq-technologies-private-limited-robotics-software-engineer-job-title-robotics-software-engineer",
       "fuente": "weworkremotely",
-      "titulo": "Sr. UX Researcher (UXR-2-112026)",
-      "empresa": "Koru UX Design LLP",
-      "url": "https://weworkremotely.com/remote-jobs/koru-ux-design-llp-sr-ux-researcher-uxr-2-112026",
-      "publicadoEn": 1794416475000,
-      "salarioTexto": null,
-      "ubicacion": "Asia Only",
-      "etiquetas": [
-        "Design"
-      ]
-    },
-    {
-      "idFuente": "sezzle-senior-data-engineer-credit-reporting",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Data Engineer, Credit Reporting",
-      "empresa": "Sezzle",
-      "url": "https://weworkremotely.com/remote-jobs/sezzle-senior-data-engineer-credit-reporting",
-      "publicadoEn": 1794416471000,
-      "salarioTexto": null,
-      "ubicacion": "EMEA Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "university-of-the-people-adjunct-instructor-multiple-disciplines",
-      "fuente": "weworkremotely",
-      "titulo": "Adjunct Instructor - Multiple Disciplines",
-      "empresa": "University of the People",
-      "url": "https://weworkremotely.com/remote-jobs/university-of-the-people-adjunct-instructor-multiple-disciplines",
-      "publicadoEn": 1794416470000,
-      "salarioTexto": null,
-      "ubicacion": "Africa Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "welocalize-audio-transcription-adjudicator",
-      "fuente": "weworkremotely",
-      "titulo": "Audio Transcription Adjudicator",
-      "empresa": "Welocalize",
-      "url": "https://weworkremotely.com/remote-jobs/welocalize-audio-transcription-adjudicator",
-      "publicadoEn": 1794416467000,
-      "salarioTexto": null,
-      "ubicacion": "Asia Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "changing-lives-productions-llc-assistant-editor",
-      "fuente": "weworkremotely",
-      "titulo": "Assistant Editor",
-      "empresa": "Changing Lives Productions LLC",
-      "url": "https://weworkremotely.com/remote-jobs/changing-lives-productions-llc-assistant-editor",
-      "publicadoEn": 1794416466000,
-      "salarioTexto": null,
-      "ubicacion": "Asia Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "apadcode-part-time-data-entry-specialist",
-      "fuente": "weworkremotely",
-      "titulo": "Part-Time Data Entry Specialist",
-      "empresa": "APADCode",
-      "url": "https://weworkremotely.com/remote-jobs/apadcode-part-time-data-entry-specialist",
-      "publicadoEn": 1794416464000,
-      "salarioTexto": null,
-      "ubicacion": "Asia Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "proarch-data-platform-architect",
-      "fuente": "weworkremotely",
-      "titulo": "Data Platform Architect",
-      "empresa": "ProArch",
-      "url": "https://weworkremotely.com/remote-jobs/proarch-data-platform-architect",
-      "publicadoEn": 1794416461000,
-      "salarioTexto": null,
-      "ubicacion": "Asia Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "proarch-business-system-analyst",
-      "fuente": "weworkremotely",
-      "titulo": "Business System Analyst",
-      "empresa": "ProArch",
-      "url": "https://weworkremotely.com/remote-jobs/proarch-business-system-analyst",
-      "publicadoEn": 1794416459000,
-      "salarioTexto": null,
-      "ubicacion": "Asia Only",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "edgeq-technologies-private-limited-blockchain-developer",
-      "fuente": "weworkremotely",
-      "titulo": "Blockchain Developer",
+      "titulo": "Robotics Software Engineer  Job Title: Robotics Software Engineer",
       "empresa": "EdgeQ Technologies Private Limited",
-      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-blockchain-developer",
-      "publicadoEn": 1794416457000,
+      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-robotics-software-engineer-job-title-robotics-software-engineer",
+      "publicadoEn": 1794502938000,
       "salarioTexto": null,
       "ubicacion": "USA Only",
       "etiquetas": [
@@ -4960,12 +4573,12 @@
       ]
     },
     {
-      "idFuente": "edgeq-technologies-private-limited-gis-software-engineer",
+      "idFuente": "edgeq-technologies-private-limited-unity-developer",
       "fuente": "weworkremotely",
-      "titulo": "GIS  Software Engineer",
+      "titulo": "Unity Developer",
       "empresa": "EdgeQ Technologies Private Limited",
-      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-gis-software-engineer",
-      "publicadoEn": 1794416456000,
+      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-unity-developer",
+      "publicadoEn": 1794502936000,
       "salarioTexto": null,
       "ubicacion": "USA Only",
       "etiquetas": [
@@ -4973,12 +4586,38 @@
       ]
     },
     {
-      "idFuente": "showmojo-email-marketing-automation-specialist",
+      "idFuente": "edgeq-technologies-private-limited-game-ui-engineer",
       "fuente": "weworkremotely",
-      "titulo": "Email Marketing Automation Specialist",
-      "empresa": "ShowMojo",
-      "url": "https://weworkremotely.com/remote-jobs/showmojo-email-marketing-automation-specialist",
-      "publicadoEn": 1794416454000,
+      "titulo": "Game UI Engineer",
+      "empresa": "EdgeQ Technologies Private Limited",
+      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-game-ui-engineer",
+      "publicadoEn": 1794502934000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "blueprint-technologies-supply-chain-planner-hardware",
+      "fuente": "weworkremotely",
+      "titulo": "Supply Chain Planner – Hardware",
+      "empresa": "Blueprint Technologies",
+      "url": "https://weworkremotely.com/remote-jobs/blueprint-technologies-supply-chain-planner-hardware",
+      "publicadoEn": 1794502928000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "d2b-cinematic-video-editor-real-estate-construction",
+      "fuente": "weworkremotely",
+      "titulo": "Cinematic Video Editor - Real Estate & Construction",
+      "empresa": "D2B",
+      "url": "https://weworkremotely.com/remote-jobs/d2b-cinematic-video-editor-real-estate-construction",
+      "publicadoEn": 1794502926000,
       "salarioTexto": null,
       "ubicacion": "Asia Only",
       "etiquetas": [
@@ -4986,51 +4625,12 @@
       ]
     },
     {
-      "idFuente": "schneider-electric-deputy-manager-lv-sales-agra-up",
+      "idFuente": "d2b-sales-development-representative-uk-b2b-outbound-remote",
       "fuente": "weworkremotely",
-      "titulo": "Deputy Manager - LV Sales - Agra - UP",
-      "empresa": "Schneider Electric",
-      "url": "https://weworkremotely.com/remote-jobs/schneider-electric-deputy-manager-lv-sales-agra-up",
-      "publicadoEn": 1794416453000,
-      "salarioTexto": null,
-      "ubicacion": "Asia Only",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "huntress-labs-channel-account-manager-i",
-      "fuente": "weworkremotely",
-      "titulo": "Channel Account Manager I",
-      "empresa": "Huntress Labs",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-labs-channel-account-manager-i",
-      "publicadoEn": 1794416451000,
-      "salarioTexto": null,
-      "ubicacion": "Oceania Only",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "huntress-labs-channel-account-manager-ii",
-      "fuente": "weworkremotely",
-      "titulo": "Channel Account Manager II",
-      "empresa": "Huntress Labs",
-      "url": "https://weworkremotely.com/remote-jobs/huntress-labs-channel-account-manager-ii",
-      "publicadoEn": 1794416450000,
-      "salarioTexto": null,
-      "ubicacion": "Oceania Only",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "yalent-sales-specialist",
-      "fuente": "weworkremotely",
-      "titulo": "Sales Specialist",
-      "empresa": "Yalent",
-      "url": "https://weworkremotely.com/remote-jobs/yalent-sales-specialist",
-      "publicadoEn": 1794416449000,
+      "titulo": "Sales Development Representative (UK B2B Outbound) - Remote",
+      "empresa": "D2B",
+      "url": "https://weworkremotely.com/remote-jobs/d2b-sales-development-representative-uk-b2b-outbound-remote",
+      "publicadoEn": 1794502922000,
       "salarioTexto": null,
       "ubicacion": "Africa Only",
       "etiquetas": [
@@ -5038,12 +4638,12 @@
       ]
     },
     {
-      "idFuente": "wisetech-global-e2open-us-area-sales-director-cpg",
+      "idFuente": "itechra-inc-outbound-sales-representative",
       "fuente": "weworkremotely",
-      "titulo": "E2open - US Area Sales Director (CPG)",
-      "empresa": "WiseTech Global",
-      "url": "https://weworkremotely.com/remote-jobs/wisetech-global-e2open-us-area-sales-director-cpg",
-      "publicadoEn": 1794416447000,
+      "titulo": "Outbound Sales Representative",
+      "empresa": "Itechra Inc",
+      "url": "https://weworkremotely.com/remote-jobs/itechra-inc-outbound-sales-representative",
+      "publicadoEn": 1794502889000,
       "salarioTexto": null,
       "ubicacion": "USA Only",
       "etiquetas": [
@@ -5051,12 +4651,12 @@
       ]
     },
     {
-      "idFuente": "wisetech-global-e2open-us-area-sales-director-cpg-illinois",
+      "idFuente": "thrive-market-performance-creative-coordinator-contractor",
       "fuente": "weworkremotely",
-      "titulo": "E2open - US Area Sales Director (CPG) - Illinois",
-      "empresa": "WiseTech Global",
-      "url": "https://weworkremotely.com/remote-jobs/wisetech-global-e2open-us-area-sales-director-cpg-illinois",
-      "publicadoEn": 1794416445000,
+      "titulo": "Performance Creative Coordinator (Contractor)",
+      "empresa": "Thrive Market",
+      "url": "https://weworkremotely.com/remote-jobs/thrive-market-performance-creative-coordinator-contractor",
+      "publicadoEn": 1794502886000,
       "salarioTexto": null,
       "ubicacion": "USA Only",
       "etiquetas": [
@@ -5064,12 +4664,51 @@
       ]
     },
     {
-      "idFuente": "leap-tools-product-marketing-manager",
+      "idFuente": "kinelo-marketing-content-intern-part-time",
       "fuente": "weworkremotely",
-      "titulo": "Product Marketing Manager",
-      "empresa": "Leap Tools",
-      "url": "https://weworkremotely.com/remote-jobs/leap-tools-product-marketing-manager",
-      "publicadoEn": 1794416444000,
+      "titulo": "Marketing & Content Intern (Part-Time)",
+      "empresa": "Kinelo",
+      "url": "https://weworkremotely.com/remote-jobs/kinelo-marketing-content-intern-part-time",
+      "publicadoEn": 1794502884000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "northpoint-recovery-holdings-llc-admissions-representative",
+      "fuente": "weworkremotely",
+      "titulo": "Admissions Representative",
+      "empresa": "Northpoint Recovery Holdings, LLC",
+      "url": "https://weworkremotely.com/remote-jobs/northpoint-recovery-holdings-llc-admissions-representative",
+      "publicadoEn": 1794502880000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "agent-integration-inc-remote-customer-sales-specialist",
+      "fuente": "weworkremotely",
+      "titulo": "Remote Customer Sales Specialist",
+      "empresa": "Agent Integration Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/agent-integration-inc-remote-customer-sales-specialist",
+      "publicadoEn": 1794502846000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "audienceview-digital-marketing-manager",
+      "fuente": "weworkremotely",
+      "titulo": "Digital Marketing Manager",
+      "empresa": "AudienceView",
+      "url": "https://weworkremotely.com/remote-jobs/audienceview-digital-marketing-manager",
+      "publicadoEn": 1794502841000,
       "salarioTexto": null,
       "ubicacion": "Canada Only",
       "etiquetas": [
@@ -5077,12 +4716,12 @@
       ]
     },
     {
-      "idFuente": "intellipet-sales-consultant-uncapped-bonuses",
+      "idFuente": "agent-integration-inc-remote-entry-level-sales-representative",
       "fuente": "weworkremotely",
-      "titulo": "Sales Consultant – (Uncapped Bonuses)",
-      "empresa": "Intellipet",
-      "url": "https://weworkremotely.com/remote-jobs/intellipet-sales-consultant-uncapped-bonuses",
-      "publicadoEn": 1794416442000,
+      "titulo": "Remote Entry-Level Sales Representative",
+      "empresa": "Agent Integration Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/agent-integration-inc-remote-entry-level-sales-representative",
+      "publicadoEn": 1794502839000,
       "salarioTexto": null,
       "ubicacion": "USA Only",
       "etiquetas": [
@@ -5090,29 +4729,425 @@
       ]
     },
     {
-      "idFuente": "virtual-staff-365-csr-admin",
+      "idFuente": "budderfly-customer-success-manager",
       "fuente": "weworkremotely",
-      "titulo": "CSR Admin",
-      "empresa": "Virtual Staff 365",
-      "url": "https://weworkremotely.com/remote-jobs/virtual-staff-365-csr-admin",
-      "publicadoEn": 1794416441000,
+      "titulo": "Customer Success Manager",
+      "empresa": "Budderfly",
+      "url": "https://weworkremotely.com/remote-jobs/budderfly-customer-success-manager",
+      "publicadoEn": 1794502834000,
       "salarioTexto": null,
-      "ubicacion": "Asia Only",
+      "ubicacion": "USA Only",
       "etiquetas": [
         "Customer Support"
       ]
     },
     {
-      "idFuente": "d2b-bookkeeper-admin-support-specialist-dayshift-remote",
+      "idFuente": "paleovalley-wild-pastures-customer-service-agent-us-remote",
       "fuente": "weworkremotely",
-      "titulo": "Bookkeeper & Admin Support Specialist - Dayshift Remote",
-      "empresa": "D2B",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-bookkeeper-admin-support-specialist-dayshift-remote",
-      "publicadoEn": 1794416439000,
+      "titulo": "Customer Service Agent (US, Remote)",
+      "empresa": "Paleovalley & Wild Pastures",
+      "url": "https://weworkremotely.com/remote-jobs/paleovalley-wild-pastures-customer-service-agent-us-remote",
+      "publicadoEn": 1794502832000,
       "salarioTexto": null,
-      "ubicacion": "Asia Only",
+      "ubicacion": "USA Only",
       "etiquetas": [
         "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "henry-meds-patient-advocate-i",
+      "fuente": "weworkremotely",
+      "titulo": "Patient Advocate I",
+      "empresa": "Henry Meds",
+      "url": "https://weworkremotely.com/remote-jobs/henry-meds-patient-advocate-i",
+      "publicadoEn": 1794502830000,
+      "salarioTexto": null,
+      "ubicacion": "USA Only",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "meya-ltd-junior-market-analyst-remote",
+      "fuente": "weworkremotely",
+      "titulo": "Junior Market Analyst (Remote)",
+      "empresa": "MEYA LTD",
+      "url": "https://weworkremotely.com/remote-jobs/meya-ltd-junior-market-analyst-remote",
+      "publicadoEn": 1794500607000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "ground-zero/senior-associate-policy-engagement-mumbai",
+      "fuente": "himalayas",
+      "titulo": "Senior Associate - Policy Engagement, Mumbai",
+      "empresa": "Ground Zero",
+      "url": "https://himalayas.app/companies/ground-zero/jobs/senior-associate-policy-engagement-mumbai?utm_source=api",
+      "publicadoEn": 1794523199000,
+      "salarioTexto": null,
+      "ubicacion": "India",
+      "etiquetas": [
+        "Policy-And-Engagement-Specialist",
+        "Policy-Research-Assistant",
+        "Public-Policy-Analyst",
+        "Development-Research-Analyst",
+        "Research-Analyst"
+      ]
+    },
+    {
+      "idFuente": "benifex/global-ad-new-business",
+      "fuente": "himalayas",
+      "titulo": "Global AD New Business",
+      "empresa": "Benifex",
+      "url": "https://himalayas.app/companies/benifex/jobs/global-ad-new-business?utm_source=api",
+      "publicadoEn": 1794523055000,
+      "salarioTexto": "USD 80,000 - 160,000",
+      "ubicacion": "Ireland, United Kingdom",
+      "etiquetas": [
+        "Account-Director",
+        "Sales-Director",
+        "Enterprise-Account-Executive",
+        "Director-Of-New-Business"
+      ]
+    },
+    {
+      "idFuente": "compass-uol/qa-test-automation-mid-7602271450",
+      "fuente": "himalayas",
+      "titulo": "QA Test Automation | Mid",
+      "empresa": "Compass UOL",
+      "url": "https://himalayas.app/companies/compass-uol/jobs/qa-test-automation-mid-7602271450?utm_source=api",
+      "publicadoEn": 1794523023000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "QA-Automation-Engineer",
+        "Automation-Testing",
+        "Software-QA-Engineer",
+        "QA-Engineer"
+      ]
+    },
+    {
+      "idFuente": "wanzek/wireline-business-development-director",
+      "fuente": "himalayas",
+      "titulo": "Wireline-Business Development Director",
+      "empresa": "Wanzek",
+      "url": "https://himalayas.app/companies/wanzek/jobs/wireline-business-development-director?utm_source=api",
+      "publicadoEn": 1794522903000,
+      "salarioTexto": "USD 130,000 - 130,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Business-Development-Director",
+        "Sales-Director",
+        "Telecom-Sales-Director"
+      ]
+    },
+    {
+      "idFuente": "wow-remote-teams/recruiter-5730166411",
+      "fuente": "himalayas",
+      "titulo": "Recruiter",
+      "empresa": "WOW Remote Teams",
+      "url": "https://himalayas.app/companies/wow-remote-teams/jobs/recruiter-5730166411?utm_source=api",
+      "publicadoEn": 1794522798000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Recruiter",
+        "Technical-Recruiter",
+        "Staffing-Recruiter",
+        "Talent-Acquisition-Specialist"
+      ]
+    },
+    {
+      "idFuente": "rippling/global-payroll-operations-specialist-uae",
+      "fuente": "himalayas",
+      "titulo": "Global Payroll Operations Specialist - UAE",
+      "empresa": "Rippling",
+      "url": "https://himalayas.app/companies/rippling/jobs/global-payroll-operations-specialist-uae?utm_source=api",
+      "publicadoEn": 1794522768000,
+      "salarioTexto": null,
+      "ubicacion": "United Arab Emirates",
+      "etiquetas": [
+        "Payroll-Specialist",
+        "Payroll-Operations-Specialist",
+        "Payroll-Operations-Analyst",
+        "Payroll-Compliance-Specialist",
+        "HR-Payroll-Specialist"
+      ]
+    },
+    {
+      "idFuente": "montreal-tecnologia-e-inovacao/cientista-de-dados-senior",
+      "fuente": "himalayas",
+      "titulo": "Cientista de Dados Sênior",
+      "empresa": "Montreal | Tecnologia e Inovação",
+      "url": "https://himalayas.app/companies/montreal-tecnologia-e-inovacao/jobs/cientista-de-dados-senior?utm_source=api",
+      "publicadoEn": 1794522650000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Data-Scientist",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Generative-AI-Engineer"
+      ]
+    },
+    {
+      "idFuente": "wanzek/estimator-ii",
+      "fuente": "himalayas",
+      "titulo": "Estimator II",
+      "empresa": "Wanzek",
+      "url": "https://himalayas.app/companies/wanzek/jobs/estimator-ii?utm_source=api",
+      "publicadoEn": 1794522591000,
+      "salarioTexto": "USD 80,000 - 120,000",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Estimator",
+        "Construction-Estimator",
+        "Utility-Construction",
+        "Electrical-Estimator",
+        "Bid-Coordinator"
+      ]
+    },
+    {
+      "idFuente": "baylor-genetics/senior-director-pipeline-strategy-heor",
+      "fuente": "himalayas",
+      "titulo": "Senior Director, Pipeline Strategy & HEOR",
+      "empresa": "Baylor Genetics",
+      "url": "https://himalayas.app/companies/baylor-genetics/jobs/senior-director-pipeline-strategy-heor?utm_source=api",
+      "publicadoEn": 1794522551000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Health-Economics-And-Outcomes-Research-Director",
+        "HEOR-Director",
+        "Market-Access-Director",
+        "Payer-Strategy-Director",
+        "Evidence-Strategy-Director"
+      ]
+    },
+    {
+      "idFuente": "emory-healthcare/remote-inpatient-drg-coding-auditor",
+      "fuente": "himalayas",
+      "titulo": "Remote - Inpatient DRG Coding Auditor",
+      "empresa": "Emory Healthcare",
+      "url": "https://himalayas.app/companies/emory-healthcare/jobs/remote-inpatient-drg-coding-auditor?utm_source=api",
+      "publicadoEn": 1794522429000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Inpatient-Coding-Auditor",
+        "Medical-Coder",
+        "Health-Information-Management-Specialist",
+        "Coding-Auditor",
+        "Clinical-Documentation-Specialist",
+        "Remote-Inpatient-Coding-Auditor",
+        "Healthcare-Coding-Auditor",
+        "Clinical-Coding-Auditor"
+      ]
+    },
+    {
+      "idFuente": "description-ciklum/senior-account-director-8168948690",
+      "fuente": "himalayas",
+      "titulo": "Senior Account Director",
+      "empresa": "Description Ciklum",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-account-director-8168948690?utm_source=api",
+      "publicadoEn": 1794522370000,
+      "salarioTexto": null,
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Account-Director",
+        "Sales-Director",
+        "Client-Services-Director",
+        "Account-Executive"
+      ]
+    },
+    {
+      "idFuente": "starian/pessoa-product-manager-pl-segmento-juridico-remoto-2993",
+      "fuente": "himalayas",
+      "titulo": "Pessoa Product Manager PL (segmento jurídico) (Remoto) - 2993",
+      "empresa": "Starian",
+      "url": "https://himalayas.app/companies/starian/jobs/pessoa-product-manager-pl-segmento-juridico-remoto-2993?utm_source=api",
+      "publicadoEn": 1794522369000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Product-Manager",
+        "Legal-Product-Manager",
+        "Product-Owner"
+      ]
+    },
+    {
+      "idFuente": "mag-aerospace/senior-network-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior Network Engineer",
+      "empresa": "MAG Aerospace",
+      "url": "https://himalayas.app/companies/mag-aerospace/jobs/senior-network-engineer?utm_source=api",
+      "publicadoEn": 1794522301000,
+      "salarioTexto": "USD 97,500 - 162,500",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Network-Engineer",
+        "Senior-Network-Engineer",
+        "Cloud-Network-Engineer",
+        "Network-Security-Engineer",
+        "Network-Architect"
+      ]
+    },
+    {
+      "idFuente": "grupo-boticario/product-manager-especialista-i-tech-colaborador",
+      "fuente": "himalayas",
+      "titulo": "Product Manager - Especialista I (Tech Colaborador)",
+      "empresa": "Grupo Boticário",
+      "url": "https://himalayas.app/companies/grupo-boticario/jobs/product-manager-especialista-i-tech-colaborador?utm_source=api",
+      "publicadoEn": 1794522249000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Product-Manager",
+        "Technical-Product-Manager",
+        "Recruitment-Technology-Product-Manager",
+        "HR-Technology-Product-Management"
+      ]
+    },
+    {
+      "idFuente": "cifor-icraf/consultancy-technical-writer-and-editor-consultant",
+      "fuente": "himalayas",
+      "titulo": "Consultancy - Technical Writer and Editor Consultant",
+      "empresa": "CIFOR-ICRAF",
+      "url": "https://himalayas.app/companies/cifor-icraf/jobs/consultancy-technical-writer-and-editor-consultant?utm_source=api",
+      "publicadoEn": 1794522238000,
+      "salarioTexto": null,
+      "ubicacion": "Sri Lanka",
+      "etiquetas": [
+        "Technical-Writer",
+        "Editor",
+        "Consultant"
+      ]
+    },
+    {
+      "idFuente": "stefanini/analista-de-processos-projetos-e-documentacao-de-ti",
+      "fuente": "himalayas",
+      "titulo": "Analista de Processos / Projetos e Documentação de TI",
+      "empresa": "Stefanini",
+      "url": "https://himalayas.app/companies/stefanini/jobs/analista-de-processos-projetos-e-documentacao-de-ti?utm_source=api",
+      "publicadoEn": 1794522215000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Process-Analyst",
+        "Business-Process-Analyst",
+        "IT-Process-Analyst",
+        "IT-Project-Analyst",
+        "Technical-Documentation-Specialist"
+      ]
+    },
+    {
+      "idFuente": "leega-consultoria/engenheiro-de-dados-e-plataforma-de-agentes-senior-gcp",
+      "fuente": "himalayas",
+      "titulo": "Engenheiro de Dados e Plataforma de Agentes Sênior (GCP)",
+      "empresa": "Leega Consultoria",
+      "url": "https://himalayas.app/companies/leega-consultoria/jobs/engenheiro-de-dados-e-plataforma-de-agentes-senior-gcp?utm_source=api",
+      "publicadoEn": 1794522195000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Data-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Platform-Engineer",
+        "Cloud-Data-Engineer"
+      ]
+    },
+    {
+      "idFuente": "crum-forster/customer-service-representative-7349302780",
+      "fuente": "himalayas",
+      "titulo": "Customer Service Representative",
+      "empresa": "Crum & Forster",
+      "url": "https://himalayas.app/companies/crum-forster/jobs/customer-service-representative-7349302780?utm_source=api",
+      "publicadoEn": 1794522193000,
+      "salarioTexto": "USD 31,100 - 58,500",
+      "ubicacion": "United States",
+      "etiquetas": [
+        "Customer-Service",
+        "Customer-Service-Associate",
+        "Call-Center-Representative",
+        "Insurance-Customer-Service-Representative"
+      ]
+    },
+    {
+      "idFuente": "asaas/ai-product-manager-gen-ai-produtos-core",
+      "fuente": "himalayas",
+      "titulo": "AI Product Manager - Gen AI | Produtos Core",
+      "empresa": "Asaas",
+      "url": "https://himalayas.app/companies/asaas/jobs/ai-product-manager-gen-ai-produtos-core?utm_source=api",
+      "publicadoEn": 1794522180000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "Product-Manager",
+        "AI-Product-Manager",
+        "Technical-Product-Manager",
+        "Data-Product-Manager"
+      ]
+    },
+    {
+      "idFuente": "codilime/senior-devops-engineer",
+      "fuente": "himalayas",
+      "titulo": "Senior DevOps Engineer",
+      "empresa": "CodiLime",
+      "url": "https://himalayas.app/companies/codilime/jobs/senior-devops-engineer?utm_source=api",
+      "publicadoEn": 1794522131000,
+      "salarioTexto": null,
+      "ubicacion": "Brazil",
+      "etiquetas": [
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Platform-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Infrastructure-Automation-Engineer"
+      ]
+    },
+    {
+      "idFuente": "161694",
+      "fuente": "jobicy",
+      "titulo": "Regional BDR Team Manager",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/161694-regional-bdr-team-manager",
+      "publicadoEn": 1794502873000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Business Development",
+        "Senior"
+      ]
+    },
+    {
+      "idFuente": "161692",
+      "fuente": "jobicy",
+      "titulo": "Partner Sales Manager - IHV Alliances",
+      "empresa": "Canonical",
+      "url": "https://jobicy.com/jobs/161692-partner-sales-manager-ihv-alliances",
+      "publicadoEn": 1794502842000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Sales",
+        "Director"
+      ]
+    },
+    {
+      "idFuente": "161691",
+      "fuente": "jobicy",
+      "titulo": "Product Manager - Auth",
+      "empresa": "Supabase",
+      "url": "https://jobicy.com/jobs/161691-product-manager-auth",
+      "publicadoEn": 1794502841000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere",
+      "etiquetas": [
+        "Product & Operations",
+        "Any"
       ]
     }
   ],
@@ -5153,13 +5188,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 12769,
-      "remotive": 1709,
-      "weworkremotely": 11828,
-      "himalayas": 2580,
-      "jobicy": 6000
+      "remoteok": 12867,
+      "remotive": 1723,
+      "weworkremotely": 11928,
+      "himalayas": 2600,
+      "jobicy": 6050
     },
-    "duplicadosDescartados": 30524,
-    "ultimaEjecucion": "2026-11-12T15:11:58.045Z"
+    "duplicadosDescartados": 30745,
+    "ultimaEjecucion": "2026-11-12T23:37:30.157Z"
   }
 }
