@@ -1,76 +1,5 @@
 {
   "hashesNotificados": [
-    "speechify::team lead android core product evanston il usa",
-    "supabase::account executive emea",
-    "supabase::support engineer emea weekends",
-    "language services associates::international audio video remote georgian interpreter",
-    "language services associates::international audio video remote burmese and karen interpreter",
-    "canonical::marketing manager",
-    "padsplit::qa engineer anywhere in europe",
-    "veriff::solutions engineer emea",
-    "trm labs::senior staff threat intelligence analyst hacks",
-    "pleo::engineering manager authentication authorisation",
-    "pleo::senior backend engineer data serving",
-    "pleo::staff engineer business spend",
-    "upstart::applied scientist intern",
-    "amwell::lead digital marketing manager",
-    "stripe::account executive product fraud risk",
-    "amwell::content marketing manager",
-    "storyblok::developer relations engineer usa",
-    "upstart::alm manager",
-    "jetbrains::customer success engineer emea w m d",
-    "stripe::account executive hunter central eastern europe",
-    "storyblok::account executive north eastern usa",
-    "jfrog::regional vice president strategic solution engineering central",
-    "affirm::analyst",
-    "zscaler::account executive commercial",
-    "jetbrains::campus ambassador universities in europe",
-    "affirm::administrative assistant iv",
-    "snowflake::director partner development manager",
-    "vail resorts::epic ascent manager remote remote us",
-    "micro1::british english voice expert",
-    "micro1::swiss german transcription expert",
-    "micro1::spanish voice actor mexico",
-    "micro1::danish transcription expert",
-    "micro1::hebrew bilingual expert",
-    "micro1::dutch bilingual expert",
-    "per scholas::technical instructor i cybersecurity career accelerator",
-    "ingenium professional services::senior ii azure cloud devops engineer ns e",
-    "bryan university::pharmacy tech adjunct faculty",
-    "market my market::director client experience director cx",
-    "bright vision technologies::kubernetes openshift engineer",
-    "nvidia::senior account manager financial services",
-    "synthomer::data engineer",
-    "tenstorrent::datacenter agentic ai workload performance optimization engineer",
-    "msq dx::senior qa engineer",
-    "centric software inc::sr accounts payable accountant",
-    "stripe::backend engineer developer end user experience platform",
-    "entrepreneur cooperative::bdr sales operations specialist",
-    "ruby labs::accounting automation engineer",
-    "ashby::manager of implementations high touch emea",
-    "ashby::product support engineer emea",
-    "ashby::mid market account executive emea uki",
-    "retr::customer success manager",
-    "uttr::senior performance marketing manager part time",
-    "thehivecareers::chief data officer cdo insurance investments",
-    "ewor gmbh::b2b co founder cpto 100 remote m f d",
-    "neolymp::listing grafiker m w d",
-    "cushman wakefield::cmms system administrator",
-    "mro corp::senior clinical data specialist infection prevention part time",
-    "svetness personal training::personal trainer recruiting specialist talent sourcer",
-    "abbvie::clinical research associate ii",
-    "thehivecareers::pci internal security assessor isa caribbean",
-    "tidal financial group::tax management associate",
-    "thehivecareers::information security risk manager",
-    "john deere::territory sales manager ce quebec city quebec city qc off site ca g2k 1a",
-    "percepta::talent acquisition specialist ii iii",
-    "afca::sessional ombudsman banking and finance",
-    "bbi::project manager",
-    "bluelight consulting::project manager software development latin america remote",
-    "ascendis pharma::medical science liaison job id 2055",
-    "mary s meals international::director of programme management remote",
-    "jem fix::regionchef till jem fix",
-    "bright vision technologies::cloud solutions architect",
     "next io::event manager",
     "brafton::freelance seo content writer spanish",
     "exfo::regional sales manager data center interconnect dci",
@@ -4999,42 +4928,87 @@
     "welo global::english to belarusian review lead for ui marketing product content",
     "grafana labs::engineering manager grafana infrastructure remote uk",
     "grafana labs::engineering manager grafana infrastructure remote spain",
-    "gitlab::renewals manager italy spain"
+    "gitlab::renewals manager italy spain",
+    "reddit::product manager developer ecosystem",
+    "oura::manager technical accounting and equity reporting",
+    "reddit::senior sre site experience",
+    "reddit::senior staff sre site experience",
+    "clover health::drg inpatient coding validator",
+    "clover health::drg validation auditor",
+    "natera::sr forward deployed data engineer",
+    "oscar health::1099 bilingual np pa virtual urgent care",
+    "oscar health::advanced practice provider virtual urgent care",
+    "natera::senior clinical trials systems manager",
+    "natera::supv prior authorization",
+    "gitlab::business development representative sled west",
+    "affirm::analytics lead full stack",
+    "oportun::senior manager risk strategy r14349",
+    "coinbase::compliance senior associate",
+    "clover health::director enterprise portfolio management",
+    "glean::enterprise account executive japan",
+    "coinbase::compliance investigations associate",
+    "glean::enterprise account executive denver",
+    "upgrade::vice president strategic partnerships",
+    "talkspace::general application for clinical and corporate",
+    "cribl::head of segment enablement revenue enablement",
+    "talkspace::director of consultant relations",
+    "descript::software engineer product",
+    "celonis::lead applied value engineer",
+    "beyondtrust::site reliability engineer",
+    "descript::ai growth specialist bdr",
+    "elation health::senior or staff product designer",
+    "datadog::senior field marketing manager public sector federal defense",
+    "celonis::client value partner",
+    "beyondtrust::senior security technical program manager",
+    "tailscale::community engagement and advocacy manager",
+    "collibra::senior sales compensation analyst",
+    "datadog::regional manager sales engineering key accounts west",
+    "bitwarden::implementation engineer customer support",
+    "okx::head of compliance latam",
+    "launchdarkly::senior accounting manager",
+    "collibra::senior federal enterprise solution architect",
+    "okx::growth manager taiwan",
+    "alloy::senior solutions architect transaction monitoring",
+    "zscaler::account executive majors",
+    "metamask::senior director compensation benefits",
+    "zoominfo technologies llc::senior business intelligence analyst product analytics",
+    "upstart::join our product talent community",
+    "zoominfo technologies llc::senior account manager enterprise",
+    "upstart::frontend software engineer personal loans",
+    "wrike::senior product manager ai platform ecosystem",
+    "grafana labs::director sales talent acquisition united states remote",
+    "pinterest::machine learning engineer ii responsible ai",
+    "grafana labs::director sales talent acquisition united kingdom remote",
+    "pinterest::machine learning engineer core engineering",
+    "initium software::senior pega developer",
+    "luza group::salesforce b2b commerce technical architect",
+    "micro1::video data annotator",
+    "hilton::senior revenue specialist high efficiency support",
+    "reworks solutions::intake coordinator",
+    "gai consultants inc::grid modernization engineering lead",
+    "carrington::supervisor escrow oversight",
+    "convverge inc::fractional senior infrastructure cloud engineer",
+    "carrington::general correspondence specialist",
+    "engiflex::microsoft fabric data engineer freelance kan",
+    "welocalize::robotics teleoperator",
+    "sagan recruitment::graphic designer plggd007",
+    "movilges::agile operations security coordinator",
+    "luza group::solutions architect for api management platforms",
+    "internova travel group::corporate concierge travel specialist",
+    "kinaxis::ai solutions engineer professional services",
+    "abc legal services::data entry specialist remote",
+    "argonne national laboratory::research aide mcs jian zizhe 11 19 26",
+    "mercor::fraud detection expert fully remote upto 70 hr",
+    "engiflex::freelance possible functional business analyst"
   ],
   "ultimasOfertas": [
     {
-      "idFuente": "samsara-ai-engineer-customer-success",
+      "idFuente": "descript-software-engineer-product",
       "fuente": "weworkremotely",
-      "titulo": "AI Engineer, Customer Success",
-      "empresa": "Samsara",
-      "url": "https://weworkremotely.com/remote-jobs/samsara-ai-engineer-customer-success",
-      "publicadoEn": 1795372324000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "smartsheet-sr-software-engineer-i-remote-eligible",
-      "fuente": "weworkremotely",
-      "titulo": "Sr. Software Engineer I (Remote Eligible)",
-      "empresa": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible",
-      "publicadoEn": 1795372324000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Front-End Programming"
-      ]
-    },
-    {
-      "idFuente": "ritual-smart-contract-engineer",
-      "fuente": "weworkremotely",
-      "titulo": "Smart Contract Engineer",
-      "empresa": "Ritual",
-      "url": "https://weworkremotely.com/remote-jobs/ritual-smart-contract-engineer",
-      "publicadoEn": 1795372324000,
+      "titulo": "Software Engineer, Product",
+      "empresa": "Descript",
+      "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-product",
+      "publicadoEn": 1795413726000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5042,66 +5016,90 @@
       ]
     },
     {
-      "idFuente": "keeper-security-bilingual-systems-support-engineer-spanish-wednesday-sunday",
+      "idFuente": "beyondtrust-site-reliability-engineer",
       "fuente": "weworkremotely",
-      "titulo": "Bilingual Systems Support Engineer, Spanish (Wednesday - Sunday)",
-      "empresa": "Keeper Security",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-systems-support-engineer-spanish-wednesday-sunday",
-      "publicadoEn": 1795372299000,
+      "titulo": "Site Reliability Engineer",
+      "empresa": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-site-reliability-engineer",
+      "publicadoEn": 1795413719000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "DevOps and Sysadmin"
+        "Full-Stack Programming"
       ]
     },
     {
-      "idFuente": "idealista/backend-engineer",
-      "fuente": "himalayas",
-      "titulo": "Backend Engineer",
-      "empresa": "idealista",
-      "url": "https://himalayas.app/companies/idealista/jobs/backend-engineer?utm_source=api",
-      "publicadoEn": 1795371729000,
+      "idFuente": "bitwarden-implementation-engineer-customer-support",
+      "fuente": "weworkremotely",
+      "titulo": "Implementation Engineer, Customer Support",
+      "empresa": "Bitwarden",
+      "url": "https://weworkremotely.com/remote-jobs/bitwarden-implementation-engineer-customer-support",
+      "publicadoEn": 1795413711000,
       "salarioTexto": null,
-      "ubicacion": "Spain",
+      "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "Backend-Engineer",
-        "Java-Developer",
-        "Software-Engineer"
+        "Customer Support"
       ]
     },
     {
-      "idFuente": "1137962",
-      "fuente": "remoteok",
-      "titulo": "Sr Analyst, Analytics & Insights",
-      "empresa": "BeyondTrust",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962",
-      "publicadoEn": 1795258805000,
+      "idFuente": "upstart-frontend-software-engineer-personal-loans",
+      "fuente": "weworkremotely",
+      "titulo": "Frontend Software Engineer, Personal Loans",
+      "empresa": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-frontend-software-engineer-personal-loans",
+      "publicadoEn": 1795413657000,
       "salarioTexto": null,
-      "ubicacion": "North America",
+      "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "devops"
+        "Front-End Programming"
       ]
     },
     {
-      "idFuente": "1137961",
+      "idFuente": "pinterest-machine-learning-engineer-ii-responsible-ai",
+      "fuente": "weworkremotely",
+      "titulo": "Machine Learning Engineer II, Responsible AI",
+      "empresa": "Pinterest",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-machine-learning-engineer-ii-responsible-ai",
+      "publicadoEn": 1795413654000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Design"
+      ]
+    },
+    {
+      "idFuente": "pinterest-machine-learning-engineer-core-engineering",
+      "fuente": "weworkremotely",
+      "titulo": "Machine Learning Engineer, Core Engineering",
+      "empresa": "Pinterest",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-machine-learning-engineer-core-engineering",
+      "publicadoEn": 1795413654000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "1137977",
       "fuente": "remoteok",
-      "titulo": "Deal Desk Analyst (Eastern Time Zone Preferred)",
-      "empresa": "Mixpanel",
-      "url": "https://remoteOK.com/remote-jobs/remote-deal-desk-analyst-eastern-time-zone-preferred-mixpanel-1137961",
-      "publicadoEn": 1795257607000,
+      "titulo": "Product Manager, Developer Ecosystem",
+      "empresa": "Reddit",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977",
+      "publicadoEn": 1795312805000,
       "salarioTexto": null,
       "ubicacion": "US Only",
       "etiquetas": [
-        "other"
+        "product"
       ]
     },
     {
-      "idFuente": "1137960",
+      "idFuente": "1137976",
       "fuente": "remoteok",
-      "titulo": "Director, Revenue Accounting",
-      "empresa": "6sense",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-revenue-accounting-6sense-1137960",
-      "publicadoEn": 1795257605000,
+      "titulo": "Manager, Technical Accounting and Equity Reporting",
+      "empresa": "ŌURA",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-technical-accounting-and-equity-reporting-oura-1137976",
+      "publicadoEn": 1795312804000,
       "salarioTexto": null,
       "ubicacion": "US Only",
       "etiquetas": [
@@ -5109,103 +5107,181 @@
       ]
     },
     {
-      "idFuente": "1137957",
+      "idFuente": "1137975",
       "fuente": "remoteok",
-      "titulo": "Senior Database Engineer",
-      "empresa": "Bitwarden",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-engineer-bitwarden-1137957",
-      "publicadoEn": 1795255207000,
+      "titulo": "Senior SRE, Site Experience",
+      "empresa": "Reddit",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975",
+      "publicadoEn": 1795311606000,
       "salarioTexto": null,
       "ubicacion": "US Only",
       "etiquetas": [
-        "programming"
+        "devops"
       ]
     },
     {
-      "idFuente": "1137956",
+      "idFuente": "1137974",
       "fuente": "remoteok",
-      "titulo": "Staff Data Scientist - Martech Platform (ML/Algos)",
-      "empresa": "Airbnb",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
-      "publicadoEn": 1795255205000,
+      "titulo": "Senior Staff SRE, Site Experience",
+      "empresa": "Reddit",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974",
+      "publicadoEn": 1795311605000,
       "salarioTexto": null,
       "ubicacion": "US Only",
       "etiquetas": [
-        "programming"
+        "devops"
       ]
     },
     {
-      "idFuente": "1137955",
+      "idFuente": "1137973",
       "fuente": "remoteok",
-      "titulo": "Staff Software Engineer, Agentic Tools",
-      "empresa": "Cribl",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
-      "publicadoEn": 1795254006000,
+      "titulo": "DRG Inpatient Coding Validator",
+      "empresa": "Clover Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-drg-inpatient-coding-validator-clover-health-1137973",
+      "publicadoEn": 1795310406000,
       "salarioTexto": null,
       "ubicacion": "US Only",
       "etiquetas": [
-        "programming"
+        "other"
       ]
     },
     {
-      "idFuente": "1137954",
+      "idFuente": "1137972",
       "fuente": "remoteok",
-      "titulo": "Senior Software Engineer, Partner Integrations",
-      "empresa": "Airbnb",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
-      "publicadoEn": 1795254004000,
+      "titulo": "DRG Validation Auditor",
+      "empresa": "Clover Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-drg-validation-auditor-clover-health-1137972",
+      "publicadoEn": 1795310405000,
       "salarioTexto": null,
       "ubicacion": "US Only",
       "etiquetas": [
-        "programming"
+        "other"
       ]
     },
     {
-      "idFuente": "1137953",
+      "idFuente": "1137970",
       "fuente": "remoteok",
-      "titulo": "Vice President, Storytelling & Communications",
-      "empresa": "6sense",
-      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-storytelling-communications-6sense-1137953",
-      "publicadoEn": 1795252809000,
+      "titulo": "Sr. Forward Deployed Data Engineer",
+      "empresa": "Natera",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
+      "publicadoEn": 1795309207000,
       "salarioTexto": null,
       "ubicacion": "US Only",
       "etiquetas": [
-        "marketing"
+        "devops"
       ]
     },
     {
-      "idFuente": "1137952",
+      "idFuente": "1137969",
       "fuente": "remoteok",
-      "titulo": "Private Practice Enablement Specialist (PST)",
-      "empresa": "Healthie",
-      "url": "https://remoteOK.com/remote-jobs/remote-private-practice-enablement-specialist-pst-healthie-1137952",
-      "publicadoEn": 1795252807000,
+      "titulo": "1099 Bilingual NP/PA - Virtual Urgent Care",
+      "empresa": "Oscar Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-1099-bilingual-np-pa-virtual-urgent-care-oscar-health-1137969",
+      "publicadoEn": 1795309205000,
       "salarioTexto": null,
       "ubicacion": "Worldwide",
       "etiquetas": [
-        "customer support"
+        "other"
       ]
     },
     {
-      "idFuente": "collibra-senior-enterprise-ai-account-executive-deasy-labs",
+      "idFuente": "1137968",
+      "fuente": "remoteok",
+      "titulo": "Advanced Practice Provider - Virtual Urgent Care",
+      "empresa": "Oscar Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-advanced-practice-provider-virtual-urgent-care-oscar-health-1137968",
+      "publicadoEn": 1795308008000,
+      "salarioTexto": null,
+      "ubicacion": "Worldwide",
+      "etiquetas": [
+        "other"
+      ]
+    },
+    {
+      "idFuente": "1137967",
+      "fuente": "remoteok",
+      "titulo": "Senior Clinical Trials Systems Manager",
+      "empresa": "Natera",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-clinical-trials-systems-manager-natera-1137967",
+      "publicadoEn": 1795308005000,
+      "salarioTexto": null,
+      "ubicacion": "US Only",
+      "etiquetas": [
+        "product"
+      ]
+    },
+    {
+      "idFuente": "1137966",
+      "fuente": "remoteok",
+      "titulo": "Supv, Prior Authorization",
+      "empresa": "Natera",
+      "url": "https://remoteOK.com/remote-jobs/remote-supv-prior-authorization-natera-1137966",
+      "publicadoEn": 1795306807000,
+      "salarioTexto": null,
+      "ubicacion": "US Only",
+      "etiquetas": [
+        "other"
+      ]
+    },
+    {
+      "idFuente": "1137965",
+      "fuente": "remoteok",
+      "titulo": "Business Development Representative, SLED - West",
+      "empresa": "GitLab",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-sled-west-gitlab-1137965",
+      "publicadoEn": 1795306805000,
+      "salarioTexto": null,
+      "ubicacion": "US Only",
+      "etiquetas": [
+        "sales"
+      ]
+    },
+    {
+      "idFuente": "affirm-analytics-lead-full-stack-1",
       "fuente": "weworkremotely",
-      "titulo": "Senior Enterprise AI Account Executive — Deasy Labs",
-      "empresa": "Collibra",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-enterprise-ai-account-executive-deasy-labs",
-      "publicadoEn": 1795372367000,
+      "titulo": "Analytics Lead, Full Stack",
+      "empresa": "Affirm",
+      "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-lead-full-stack-1",
+      "publicadoEn": 1795413750000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "Sales and Marketing"
+        "Full-Stack Programming"
       ]
     },
     {
-      "idFuente": "discord-technical-sourcer",
+      "idFuente": "oportun-senior-manager-risk-strategy-r14349",
       "fuente": "weworkremotely",
-      "titulo": "Technical Sourcer",
-      "empresa": "Discord",
-      "url": "https://weworkremotely.com/remote-jobs/discord-technical-sourcer",
-      "publicadoEn": 1795372358000,
+      "titulo": "Senior Manager, Risk Strategy (R14349)",
+      "empresa": "Oportun",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-manager-risk-strategy-r14349",
+      "publicadoEn": 1795413750000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "coinbase-compliance-senior-associate",
+      "fuente": "weworkremotely",
+      "titulo": "Compliance, Senior Associate",
+      "empresa": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-compliance-senior-associate",
+      "publicadoEn": 1795413750000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "clover-health-director-enterprise-portfolio-management",
+      "fuente": "weworkremotely",
+      "titulo": "Director, Enterprise Portfolio Management",
+      "empresa": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-director-enterprise-portfolio-management",
+      "publicadoEn": 1795413750000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5213,12 +5289,168 @@
       ]
     },
     {
-      "idFuente": "ping-identity-director-sales-nordics-eastern-europe-1",
+      "idFuente": "glean-enterprise-account-executive-japan",
       "fuente": "weworkremotely",
-      "titulo": "Director, Sales (Nordics & Eastern Europe)",
-      "empresa": "Ping Identity",
-      "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-sales-nordics-eastern-europe-1",
-      "publicadoEn": 1795372355000,
+      "titulo": "Enterprise Account Executive, Japan",
+      "empresa": "Glean",
+      "url": "https://weworkremotely.com/remote-jobs/glean-enterprise-account-executive-japan",
+      "publicadoEn": 1795413750000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "coinbase-compliance-investigations-associate",
+      "fuente": "weworkremotely",
+      "titulo": "Compliance Investigations Associate",
+      "empresa": "Coinbase",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-compliance-investigations-associate",
+      "publicadoEn": 1795413740000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "glean-enterprise-account-executive-denver",
+      "fuente": "weworkremotely",
+      "titulo": "Enterprise Account Executive, Denver",
+      "empresa": "Glean",
+      "url": "https://weworkremotely.com/remote-jobs/glean-enterprise-account-executive-denver",
+      "publicadoEn": 1795413737000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "upgrade-vice-president-strategic-partnerships",
+      "fuente": "weworkremotely",
+      "titulo": "Vice President, Strategic Partnerships",
+      "empresa": "Upgrade",
+      "url": "https://weworkremotely.com/remote-jobs/upgrade-vice-president-strategic-partnerships",
+      "publicadoEn": 1795413732000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "talkspace-general-application-for-clinical-and-corporate",
+      "fuente": "weworkremotely",
+      "titulo": "General Application for Clinical and Corporate",
+      "empresa": "Talkspace",
+      "url": "https://weworkremotely.com/remote-jobs/talkspace-general-application-for-clinical-and-corporate",
+      "publicadoEn": 1795413726000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "cribl-head-of-segment-enablement-revenue-enablement",
+      "fuente": "weworkremotely",
+      "titulo": "Head of Segment Enablement, Revenue Enablement",
+      "empresa": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-head-of-segment-enablement-revenue-enablement",
+      "publicadoEn": 1795413726000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "talkspace-director-of-consultant-relations",
+      "fuente": "weworkremotely",
+      "titulo": "Director of Consultant Relations",
+      "empresa": "Talkspace",
+      "url": "https://weworkremotely.com/remote-jobs/talkspace-director-of-consultant-relations",
+      "publicadoEn": 1795413726000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "celonis-lead-applied-value-engineer",
+      "fuente": "weworkremotely",
+      "titulo": "Lead Applied Value Engineer",
+      "empresa": "Celonis",
+      "url": "https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer",
+      "publicadoEn": 1795413726000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "descript-ai-growth-specialist-bdr",
+      "fuente": "weworkremotely",
+      "titulo": "AI Growth Specialist (BDR)",
+      "empresa": "Descript",
+      "url": "https://weworkremotely.com/remote-jobs/descript-ai-growth-specialist-bdr",
+      "publicadoEn": 1795413719000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "elation-health-senior-or-staff-product-designer",
+      "fuente": "weworkremotely",
+      "titulo": "Senior OR Staff Product Designer",
+      "empresa": "Elation Health",
+      "url": "https://weworkremotely.com/remote-jobs/elation-health-senior-or-staff-product-designer",
+      "publicadoEn": 1795413716000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Design"
+      ]
+    },
+    {
+      "idFuente": "datadog-senior-field-marketing-manager-public-sector-federal-defense",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Field Marketing Manager - Public Sector, Federal & Defense",
+      "empresa": "Datadog",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-senior-field-marketing-manager-public-sector-federal-defense",
+      "publicadoEn": 1795413716000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "celonis-client-value-partner",
+      "fuente": "weworkremotely",
+      "titulo": "Client Value Partner",
+      "empresa": "Celonis",
+      "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner",
+      "publicadoEn": 1795413716000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Customer Support"
+      ]
+    },
+    {
+      "idFuente": "beyondtrust-senior-security-technical-program-manager",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Security Technical Program Manager",
+      "empresa": "BeyondTrust",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-senior-security-technical-program-manager",
+      "publicadoEn": 1795413716000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5226,64 +5458,12 @@
       ]
     },
     {
-      "idFuente": "discord-staff-software-engineer-safety-processing",
+      "idFuente": "tailscale-community-engagement-and-advocacy-manager-1",
       "fuente": "weworkremotely",
-      "titulo": "Staff Software Engineer, Safety Processing",
-      "empresa": "Discord",
-      "url": "https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-safety-processing",
-      "publicadoEn": 1795372355000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Back-End Programming"
-      ]
-    },
-    {
-      "idFuente": "maven-clinic-executive-assistant",
-      "fuente": "weworkremotely",
-      "titulo": "Executive Assistant",
-      "empresa": "Maven Clinic",
-      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant",
-      "publicadoEn": 1795372350000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "maven-clinic-director-gtm-operations-architecture",
-      "fuente": "weworkremotely",
-      "titulo": "Director, GTM Operations & Architecture",
-      "empresa": "Maven Clinic",
-      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-director-gtm-operations-architecture",
-      "publicadoEn": 1795372350000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "stripe-amer-data-analyst-sales-strategy-and-operations",
-      "fuente": "weworkremotely",
-      "titulo": "AMER Data Analyst - Sales Strategy and Operations",
-      "empresa": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-amer-data-analyst-sales-strategy-and-operations",
-      "publicadoEn": 1795372339000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "pagerduty-territory-executive-us",
-      "fuente": "weworkremotely",
-      "titulo": "Territory Executive (US)",
-      "empresa": "PagerDuty",
-      "url": "https://weworkremotely.com/remote-jobs/pagerduty-territory-executive-us",
-      "publicadoEn": 1795372337000,
+      "titulo": "Community Engagement and Advocacy Manager",
+      "empresa": "Tailscale",
+      "url": "https://weworkremotely.com/remote-jobs/tailscale-community-engagement-and-advocacy-manager-1",
+      "publicadoEn": 1795413711000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5291,12 +5471,25 @@
       ]
     },
     {
-      "idFuente": "stripe-ai-transformation-lead-marketing",
+      "idFuente": "collibra-senior-sales-compensation-analyst",
       "fuente": "weworkremotely",
-      "titulo": "AI Transformation Lead, Marketing",
-      "empresa": "Stripe",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-ai-transformation-lead-marketing",
-      "publicadoEn": 1795372336000,
+      "titulo": "Senior Sales Compensation Analyst",
+      "empresa": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-sales-compensation-analyst",
+      "publicadoEn": 1795413711000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Management and Finance"
+      ]
+    },
+    {
+      "idFuente": "datadog-regional-manager-sales-engineering-key-accounts-west",
+      "fuente": "weworkremotely",
+      "titulo": "Regional Manager, Sales Engineering - Key Accounts (West)",
+      "empresa": "Datadog",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-regional-manager-sales-engineering-key-accounts-west",
+      "publicadoEn": 1795413711000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5304,12 +5497,51 @@
       ]
     },
     {
-      "idFuente": "everpure-account-executive-commercial-westchester-county-new-york",
+      "idFuente": "okx-head-of-compliance-latam",
       "fuente": "weworkremotely",
-      "titulo": "Account Executive, Commercial (Westchester County, New York)",
-      "empresa": "Everpure",
-      "url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-commercial-westchester-county-new-york",
-      "publicadoEn": 1795372332000,
+      "titulo": "Head of Compliance, LATAM",
+      "empresa": "OKX",
+      "url": "https://weworkremotely.com/remote-jobs/okx-head-of-compliance-latam",
+      "publicadoEn": 1795413703000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Front-End Programming"
+      ]
+    },
+    {
+      "idFuente": "launchdarkly-senior-accounting-manager",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Accounting Manager",
+      "empresa": "LaunchDarkly",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-senior-accounting-manager",
+      "publicadoEn": 1795413702000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Management and Finance"
+      ]
+    },
+    {
+      "idFuente": "collibra-senior-federal-enterprise-solution-architect",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Federal Enterprise Solution Architect",
+      "empresa": "Collibra",
+      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-federal-enterprise-solution-architect",
+      "publicadoEn": 1795413702000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "DevOps and Sysadmin"
+      ]
+    },
+    {
+      "idFuente": "okx-growth-manager-taiwan",
+      "fuente": "weworkremotely",
+      "titulo": "Growth Manager (Taiwan)",
+      "empresa": "OKX",
+      "url": "https://weworkremotely.com/remote-jobs/okx-growth-manager-taiwan",
+      "publicadoEn": 1795413702000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5317,12 +5549,51 @@
       ]
     },
     {
-      "idFuente": "smartsheet-sr-technical-program-manager-remote-eligible-in-bulgaria",
+      "idFuente": "alloy-senior-solutions-architect-transaction-monitoring",
       "fuente": "weworkremotely",
-      "titulo": "Sr. Technical Program Manager (Remote Eligible in Bulgaria)",
-      "empresa": "Smartsheet",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-technical-program-manager-remote-eligible-in-bulgaria",
-      "publicadoEn": 1795372332000,
+      "titulo": "Senior Solutions Architect - Transaction Monitoring",
+      "empresa": "Alloy",
+      "url": "https://weworkremotely.com/remote-jobs/alloy-senior-solutions-architect-transaction-monitoring",
+      "publicadoEn": 1795413688000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Full-Stack Programming"
+      ]
+    },
+    {
+      "idFuente": "zscaler-account-executive-majors-2",
+      "fuente": "weworkremotely",
+      "titulo": "Account Executive - Majors",
+      "empresa": "Zscaler",
+      "url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-majors-2",
+      "publicadoEn": 1795413683000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "idFuente": "metamask-senior-director-compensation-benefits",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Director, Compensation & Benefits",
+      "empresa": "MetaMask",
+      "url": "https://weworkremotely.com/remote-jobs/metamask-senior-director-compensation-benefits",
+      "publicadoEn": 1795413681000,
+      "salarioTexto": null,
+      "ubicacion": "Anywhere in the World",
+      "etiquetas": [
+        "All Other Remote"
+      ]
+    },
+    {
+      "idFuente": "zoominfo-technologies-llc-senior-business-intelligence-analyst-product-analytics",
+      "fuente": "weworkremotely",
+      "titulo": "Senior Business Intelligence Analyst – Product Analytics",
+      "empresa": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-business-intelligence-analyst-product-analytics",
+      "publicadoEn": 1795413666000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5330,51 +5601,25 @@
       ]
     },
     {
-      "idFuente": "everpure-account-executive-commercial-richmond-virginia",
+      "idFuente": "upstart-join-our-product-talent-community",
       "fuente": "weworkremotely",
-      "titulo": "Account Executive, Commercial (Richmond, Virginia)",
-      "empresa": "Everpure",
-      "url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-commercial-richmond-virginia",
-      "publicadoEn": 1795372332000,
+      "titulo": "Join our Product Talent Community!",
+      "empresa": "Upstart",
+      "url": "https://weworkremotely.com/remote-jobs/upstart-join-our-product-talent-community",
+      "publicadoEn": 1795413665000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "Sales and Marketing"
+        "Product"
       ]
     },
     {
-      "idFuente": "affirm-analytics-lead-deposit-fraud-risk",
+      "idFuente": "zoominfo-technologies-llc-senior-account-manager-enterprise",
       "fuente": "weworkremotely",
-      "titulo": "Analytics Lead, Deposit Fraud Risk",
-      "empresa": "Affirm",
-      "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-lead-deposit-fraud-risk",
-      "publicadoEn": 1795372324000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "doximity-senior-software-engineer-data-platform",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Software Engineer, Data Platform",
-      "empresa": "Doximity",
-      "url": "https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data-platform",
-      "publicadoEn": 1795372324000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "doximity-regional-vice-president-med-affairs",
-      "fuente": "weworkremotely",
-      "titulo": "Regional Vice President, Med Affairs",
-      "empresa": "Doximity",
-      "url": "https://weworkremotely.com/remote-jobs/doximity-regional-vice-president-med-affairs",
-      "publicadoEn": 1795372324000,
+      "titulo": "Senior Account Manager (Enterprise)",
+      "empresa": "ZoomInfo Technologies LLC",
+      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-account-manager-enterprise",
+      "publicadoEn": 1795413665000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
@@ -5382,276 +5627,29 @@
       ]
     },
     {
-      "idFuente": "samsara-accounts-payable-specialist",
+      "idFuente": "wrike-senior-product-manager-ai-platform-ecosystem-1",
       "fuente": "weworkremotely",
-      "titulo": "Accounts Payable Specialist",
-      "empresa": "Samsara",
-      "url": "https://weworkremotely.com/remote-jobs/samsara-accounts-payable-specialist",
-      "publicadoEn": 1795372317000,
+      "titulo": "Senior Product Manager, AI Platform & Ecosystem",
+      "empresa": "Wrike",
+      "url": "https://weworkremotely.com/remote-jobs/wrike-senior-product-manager-ai-platform-ecosystem-1",
+      "publicadoEn": 1795413654000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
-        "All Other Remote"
+        "Product"
       ]
     },
     {
-      "idFuente": "affirm-affirm-bank-treasury-manager",
+      "idFuente": "grafana-labs-director-sales-talent-acquisition-united-states-remote",
       "fuente": "weworkremotely",
-      "titulo": "Affirm Bank Treasury Manager",
-      "empresa": "Affirm",
-      "url": "https://weworkremotely.com/remote-jobs/affirm-affirm-bank-treasury-manager",
-      "publicadoEn": 1795372317000,
+      "titulo": "Director, Sales Talent Acquisition | United States | Remote",
+      "empresa": "Grafana Labs",
+      "url": "https://weworkremotely.com/remote-jobs/grafana-labs-director-sales-talent-acquisition-united-states-remote",
+      "publicadoEn": 1795413654000,
       "salarioTexto": null,
       "ubicacion": "Anywhere in the World",
       "etiquetas": [
         "Management and Finance"
-      ]
-    },
-    {
-      "idFuente": "gemini-senior-software-engineer-predictions-mobile",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Software Engineer, Predictions (Mobile)",
-      "empresa": "Gemini",
-      "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile",
-      "publicadoEn": 1795372317000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Front-End Programming"
-      ]
-    },
-    {
-      "idFuente": "ritual-research-intern",
-      "fuente": "weworkremotely",
-      "titulo": "Research Intern",
-      "empresa": "Ritual",
-      "url": "https://weworkremotely.com/remote-jobs/ritual-research-intern",
-      "publicadoEn": 1795372314000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "justworks-account-executive-in-territory-chicago",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive - In-Territory (Chicago)",
-      "empresa": "Justworks",
-      "url": "https://weworkremotely.com/remote-jobs/justworks-account-executive-in-territory-chicago",
-      "publicadoEn": 1795372314000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "gemini-senior-software-engineer-money",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Software Engineer, Money",
-      "empresa": "Gemini",
-      "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-money",
-      "publicadoEn": 1795372314000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Back-End Programming"
-      ]
-    },
-    {
-      "idFuente": "justworks-account-executive-in-territory-austin-tx",
-      "fuente": "weworkremotely",
-      "titulo": "Account Executive - In-Territory  (Austin, TX)",
-      "empresa": "Justworks",
-      "url": "https://weworkremotely.com/remote-jobs/justworks-account-executive-in-territory-austin-tx",
-      "publicadoEn": 1795372306000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "keeper-security-customer-success-manager",
-      "fuente": "weworkremotely",
-      "titulo": "Customer Success Manager",
-      "empresa": "Keeper Security",
-      "url": "https://weworkremotely.com/remote-jobs/keeper-security-customer-success-manager",
-      "publicadoEn": 1795372306000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "mixpanel-digital-adoption-lifecycle-manager-customer-success",
-      "fuente": "weworkremotely",
-      "titulo": "Digital Adoption & Lifecycle Manager (Customer Success)",
-      "empresa": "Mixpanel",
-      "url": "https://weworkremotely.com/remote-jobs/mixpanel-digital-adoption-lifecycle-manager-customer-success",
-      "publicadoEn": 1795372306000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Customer Support"
-      ]
-    },
-    {
-      "idFuente": "pinterest-equity-administrator-ii",
-      "fuente": "weworkremotely",
-      "titulo": "Equity Administrator II",
-      "empresa": "Pinterest",
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-equity-administrator-ii",
-      "publicadoEn": 1795372296000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "pinterest-designer-ppm",
-      "fuente": "weworkremotely",
-      "titulo": "Designer, PPM",
-      "empresa": "Pinterest",
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-designer-ppm",
-      "publicadoEn": 1795372287000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "cadence-health-outbound-patient-enrollment-specialist",
-      "fuente": "weworkremotely",
-      "titulo": "Outbound Patient Enrollment Specialist",
-      "empresa": "Cadence Health",
-      "url": "https://weworkremotely.com/remote-jobs/cadence-health-outbound-patient-enrollment-specialist",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "reddit-engineering-manager-ads-product-catalogs",
-      "fuente": "weworkremotely",
-      "titulo": "Engineering Manager, Ads Product Catalogs",
-      "empresa": "Reddit",
-      "url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Back-End Programming"
-      ]
-    },
-    {
-      "idFuente": "okx-compliance-manager-mlro-el-salvador",
-      "fuente": "weworkremotely",
-      "titulo": "Compliance Manager (MLRO), El Salvador",
-      "empresa": "OKX",
-      "url": "https://weworkremotely.com/remote-jobs/okx-compliance-manager-mlro-el-salvador",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Front-End Programming"
-      ]
-    },
-    {
-      "idFuente": "legion-senior-solutions-consultant",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Solutions Consultant",
-      "empresa": "Legion",
-      "url": "https://weworkremotely.com/remote-jobs/legion-senior-solutions-consultant",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "fivetran-lead-technical-instructor",
-      "fuente": "weworkremotely",
-      "titulo": "Lead Technical Instructor",
-      "empresa": "Fivetran",
-      "url": "https://weworkremotely.com/remote-jobs/fivetran-lead-technical-instructor",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "All Other Remote"
-      ]
-    },
-    {
-      "idFuente": "datadog-regional-manager-sales-engineering-key-accounts-east",
-      "fuente": "weworkremotely",
-      "titulo": "Regional Manager, Sales Engineering - Key Accounts (East)",
-      "empresa": "Datadog",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-regional-manager-sales-engineering-key-accounts-east",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "DevOps and Sysadmin"
-      ]
-    },
-    {
-      "idFuente": "legion-senior-manager-sales-development",
-      "fuente": "weworkremotely",
-      "titulo": "Senior Manager, Sales Development",
-      "empresa": "Legion",
-      "url": "https://weworkremotely.com/remote-jobs/legion-senior-manager-sales-development",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "fivetran-business-development-rep-enterprise-dach",
-      "fuente": "weworkremotely",
-      "titulo": "Business Development Rep, Enterprise, DACH",
-      "empresa": "Fivetran",
-      "url": "https://weworkremotely.com/remote-jobs/fivetran-business-development-rep-enterprise-dach",
-      "publicadoEn": 1795372285000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Sales and Marketing"
-      ]
-    },
-    {
-      "idFuente": "coinbase-compliance-international-investigations-associate",
-      "fuente": "weworkremotely",
-      "titulo": "Compliance, International Investigations Associate",
-      "empresa": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-compliance-international-investigations-associate",
-      "publicadoEn": 1795372271000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
-      ]
-    },
-    {
-      "idFuente": "coinbase-complaints-analyst-iii",
-      "fuente": "weworkremotely",
-      "titulo": "Complaints Analyst III",
-      "empresa": "Coinbase",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-complaints-analyst-iii",
-      "publicadoEn": 1795372271000,
-      "salarioTexto": null,
-      "ubicacion": "Anywhere in the World",
-      "etiquetas": [
-        "Full-Stack Programming"
       ]
     }
   ],
@@ -5692,13 +5690,13 @@
   "ultimoUpdateIdProcesado": 148864702,
   "estadisticas": {
     "porFuente": {
-      "remoteok": 14820,
-      "remotive": 2041,
-      "weworkremotely": 13903,
-      "himalayas": 3000,
-      "jobicy": 7050
+      "remoteok": 14920,
+      "remotive": 2057,
+      "weworkremotely": 14003,
+      "himalayas": 3020,
+      "jobicy": 7100
     },
-    "duplicadosDescartados": 35197,
-    "ultimaEjecucion": "2026-11-22T19:36:41.081Z"
+    "duplicadosDescartados": 35412,
+    "ultimaEjecucion": "2026-11-23T07:34:27.727Z"
   }
 }
